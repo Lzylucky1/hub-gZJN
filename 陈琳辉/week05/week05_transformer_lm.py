@@ -238,7 +238,7 @@ def train():
     device = 'cuda' if torch.cuda.is_available() else 'cpu'
     print(f"使用设备: {device}")
     
-    # 示例文本数据（你可以替换为你自己的文本）
+    # 文本数据
     sample_text = """
     深度学习是机器学习的一个分支，它基于表示学习。
     深度学习的概念源于人工神经网络的研究。
@@ -310,7 +310,7 @@ def train():
         
         if (epoch + 1) % 20 == 0:
             print(f"Epoch [{epoch+1}/{num_epochs}], Loss: {avg_loss:.4f}")
-            # 生成示例文本
+            # 生成文本
             generated = generate_text(
                 model, 
                 start_text="深度", 
@@ -320,7 +320,7 @@ def train():
                 temperature=0.8, 
                 device=device
             )
-            print(f"生成示例: {generated}\n")
+            print(f"生成: {generated}\n")
     
     # --- 保存训练结果 ---
     output_dir = "output"
