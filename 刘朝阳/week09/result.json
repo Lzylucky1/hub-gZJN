@@ -1,0 +1,25 @@
+{
+  "n_prompts": 50,
+  "max_new_tokens": 100,
+  "batch_size": 8,
+  "results": {
+    "serial": {
+      "time": 5.53,
+      "gen_tokens": 4502,
+      "qps": 9.0416,
+      "tps": 815.73
+    },
+    "batch": {
+      "time": 1.38,
+      "gen_tokens": 4398,
+      "qps": 36.2319,
+      "tps": 3185.51
+    },
+    "vllm": {
+      "time": 0.42,
+      "gen_tokens": 4215,
+      "qps": 119.0476,
+      "tps": 10035.71
+    }
+  }
+}
