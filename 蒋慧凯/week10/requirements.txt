@@ -1,0 +1,19 @@
+# Week 10 离线 RAG 问答系统依赖
+# 安装：pip install -r requirements.txt
+
+# 深度学习框架
+torch>=2.0.0
+
+# 大语言模型与 Embedding 模型
+transformers>=4.40.0
+sentence-transformers>=2.6.0
+
+# LangChain 生态（用于加载 FAISS 索引）
+langchain>=0.2.0
+langchain-community>=0.2.0
+
+# 向量检索
+faiss-cpu>=1.8.0
+
+# 数据与文件处理
+numpy>=1.24.0
