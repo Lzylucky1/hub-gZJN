@@ -1,0 +1,3159 @@
+{
+  "meta": {
+    "filename": "05【正点原子】I.MX6U 出厂系统Qt交叉编译环境搭建V1.7.pdf",
+    "stock_code": "",
+    "year": ""
+  },
+  "source": "d:\\BaiduNetdiskDownload\\week10检索增强生成\\week10 检索增强生成RAG\\week10 检索增强生成RAG\\rag_annual_report\\data\\raw_pdf\\05【正点原子】I.MX6U 出厂系统Qt交叉编译环境搭建V1.7.pdf",
+  "blocks": [
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 1,
+      "section_path": [],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 1,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 1,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "出厂系统Qt 交叉编译环境搭建",
+      "page_num": 1,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "【正点原子】I.MX6U",
+      "page_num": 1,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "【正点原子】I.MX6U"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "出厂系统Qt 交叉编译环境搭建 V1.7",
+      "page_num": 1,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "出厂系统Qt 交叉编译环境搭建 V1.7"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "出厂系统Qt 交叉编译环境搭建 V1.7"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "出厂系统Qt 交叉编译环境搭建",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "广州市星翼电子科技有限公司",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "广州市星翼电子科技有限公司"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "淘宝店铺1：http://eboard.taobao.com",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "淘宝店铺1：http://eboard.taobao.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "淘宝店铺2：http://openedv.taobao.com",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "淘宝店铺2：http://openedv.taobao.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "技术支持论坛 (开源电子网) ：www.openedv.com",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "技术支持论坛 (开源电子网) ：www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学：www.yuanzige.com",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "原子哥在线教学：www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "官方网站：www.alientek.com\n最新资料下载链接：http://www.openedv.com/posts/list/13912.htm",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "原子哥在线教学：www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "E-mail: 1252699831@qq.com    QQ: 1252699831",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "E-mail: 1252699831@qq.com    QQ: 1252699831"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "咨询电话：020-38271790",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "E-mail: 1252699831@qq.com    QQ: 1252699831"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "传真号码：020-36773971",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "传真号码：020-36773971"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "团队：正点原子团队",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "团队：正点原子团队"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "正点原子，做最全面、最优秀的嵌入式开发平台软硬件供应商。",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "正点原子，做最全面、最优秀的嵌入式开发平台软硬件供应商。"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "友 情 提 示",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "友 情 提 示"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "如果您想及时免费获取“正点原子”最新资料，敬请关注正点原子",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "如果您想及时免费获取“正点原子”最新资料，敬请关注正点原子"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "微信公众平台，我们将及时给您发布最新消息和重要资料。",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "如果您想及时免费获取“正点原子”最新资料，敬请关注正点原子"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "关注方法：",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "关注方法："
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "(1)微信“扫一扫”，扫描右侧二维码，添加关注",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "(1)微信“扫一扫”，扫描右侧二维码，添加关注"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "(2)微信添加朋友公众号输入“正点原子”关注",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "(2)微信添加朋友公众号输入“正点原子”关注"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "(3)微信添加朋友输入“alientek_stm32” 关注",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "(3)微信添加朋友输入“alientek_stm32” 关注"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 3,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "(3)微信添加朋友输入“alientek_stm32” 关注"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| 版本 | 版本更新说明 | 负责人 | 校审 | 发布日期 |\n| --- | --- | --- | --- | --- |\n| V1.0 | 初稿： | 正点原 子linux 团队 | 正点原 子linux 团队 | 2019.10.26 |\n| V1.1 | 1.补充了文档需要注意的问题，已经使用红色 标注。 2.增加了附录 常见问题汇总，以方便用户查找 搭建环境所遇到的问题。 | 正点原 子linux 团队 | 正点原 子linux 团队 | 2019.12.30 |\n| V1.2 | 1.更新官方下载Qt的链接 | 正点原 子linux 团队 | 正点原 子linux 团队 | 2020.4.28 |\n| V1.3 | 1. 更改文档名称由Qt交叉编译环境搭建改 为出厂系统Qt交叉编译环境搭建。 2. 出厂系统Qt版本由Qt5.6.2版本升级到 Qt5.12.9 LTS(Qt官方长期支持)版本 3. 重写Qt Creator的交叉编译环境配置 | 正点原 子linux 团队 | 正点原 子linux 团队 | 2020.11.22 |\n| V1.4 | 1、添加2.5.1小节 rsync方式Qt远程调试 | 正点原 子linux 团队 | 正点原 子linux 团队 | 2021.2.1 |\n| V1.5 | 1、在 2.3 小节 配置 Qt Creator Kits 的脚 本中添加使能环境变量的指令 | 正点原 子linux 团队 | 正点原 子linux 团队 | 2021.3.8 |\n| V1.6 | 1、在 2.4 小节添加 Qt Creator 使用出厂系 统交叉编译工具链识别类错误的解决方法 | 正点原 子linux 团队 | 正点原 子linux 团队 | 2021.3.25 |\n| V1.7 | 更新第一章，第二章，第三章，新增常见问题。 重点是Qt下载链接已经访问失效，使用网盘 | 正点原 子linux | 正点原 子linux | 2024.12.6 |",
+      "page_num": 3,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "(3)微信添加朋友输入“alientek_stm32” 关注"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "版本",
+          "版本更新说明",
+          "负责人",
+          "校审",
+          "发布日期"
+        ],
+        [
+          "V1.0",
+          "初稿：",
+          "正点原\n子linux\n团队",
+          "正点原\n子linux\n团队",
+          "2019.10.26"
+        ],
+        [
+          "V1.1",
+          "1.补充了文档需要注意的问题，已经使用红色\n标注。\n2.增加了附录 常见问题汇总，以方便用户查找\n搭建环境所遇到的问题。",
+          "正点原\n子linux\n团队",
+          "正点原\n子linux\n团队",
+          "2019.12.30"
+        ],
+        [
+          "V1.2",
+          "1.更新官方下载Qt的链接",
+          "正点原\n子linux\n团队",
+          "正点原\n子linux\n团队",
+          "2020.4.28"
+        ],
+        [
+          "V1.3",
+          "1. 更改文档名称由Qt交叉编译环境搭建改\n为出厂系统Qt交叉编译环境搭建。\n2. 出厂系统Qt版本由Qt5.6.2版本升级到\nQt5.12.9 LTS(Qt官方长期支持)版本\n3. 重写Qt Creator的交叉编译环境配置",
+          "正点原\n子linux\n团队",
+          "正点原\n子linux\n团队",
+          "2020.11.22"
+        ],
+        [
+          "V1.4",
+          "1、添加2.5.1小节 rsync方式Qt远程调试",
+          "正点原\n子linux\n团队",
+          "正点原\n子linux\n团队",
+          "2021.2.1"
+        ],
+        [
+          "V1.5",
+          "1、在 2.3 小节 配置 Qt Creator Kits 的脚\n本中添加使能环境变量的指令",
+          "正点原\n子linux\n团队",
+          "正点原\n子linux\n团队",
+          "2021.3.8"
+        ],
+        [
+          "V1.6",
+          "1、在 2.4 小节添加 Qt Creator 使用出厂系\n统交叉编译工具链识别类错误的解决方法",
+          "正点原\n子linux\n团队",
+          "正点原\n子linux\n团队",
+          "2021.3.25"
+        ],
+        [
+          "V1.7",
+          "更新第一章，第二章，第三章，新增常见问题。\n重点是Qt下载链接已经访问失效，使用网盘",
+          "正点原\n子linux",
+          "正点原\n子linux",
+          "2024.12.6"
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 3,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 3,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "出厂系统Qt 交叉编译环境搭建",
+      "page_num": 3,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "文档更新说明",
+      "page_num": 3,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "文档更新说明"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "版本\n版本更新说明\n负责人\n校审\n发布日期\nV1.0\n初稿：\n正点原\n子linux\n团队\n正点原\n子linux\n团队\n2019.10.26\nV1.1\n1.补充了文档需要注意的问题，已经使用红色\n标注。\n2.增加了附录 常见问题汇总，以方便用户查找\n搭建环境所遇到的问题。\n正点原\n子linux\n团队\n正点原\n子linux\n团队\n2019.12.30\nV1.2\n1.更新官方下载Qt 的链接\n正点原\n子linux\n团队\n正点原\n子linux\n团队\n2020.4.28\nV1.3",
+      "page_num": 3,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "文档更新说明"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "1. 更改文档名称由Qt 交叉编译环境搭建改",
+      "page_num": 3,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "1. 更改文档名称由Qt 交叉编译环境搭建改"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "为出厂系统Qt 交叉编译环境搭建。",
+      "page_num": 3,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "1. 更改文档名称由Qt 交叉编译环境搭建改"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "2. 出厂系统Qt 版本由Qt5.6.2 版本升级到",
+      "page_num": 3,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "2. 出厂系统Qt 版本由Qt5.6.2 版本升级到"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "Qt5.12.9 LTS(Qt 官方长期支持)版本",
+      "page_num": 3,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "2. 出厂系统Qt 版本由Qt5.6.2 版本升级到"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "3. 重写Qt Creator 的交叉编译环境配置",
+      "page_num": 3,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "3. 重写Qt Creator 的交叉编译环境配置"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "正点原\n子linux\n团队\n正点原\n子linux\n团队\n2020.11.22\nV1.4\n1、添加2.5.1 小节 rsync 方式Qt 远程调试\n正点原\n子linux\n团队\n正点原\n子linux\n团队\n2021.2.1\nV1.5\n1、在 2.3 小节 配置 Qt Creator Kits 的脚\n本中添加使能环境变量的指令\n正点原\n子linux\n团队\n正点原\n子linux\n团队\n2021.3.8\nV1.6\n1、在 2.4 小节添加 Qt Creator 使用出厂系\n统交叉编译工具链识别类错误的解决方法\n正点原\n子linux\n团队\n正点原\n子linux\n团队\n2021.3.25\nV1.7\n更新第一章，第二章，第三章，新增常见问题。\n重点是Qt 下载链接已经访问失效，使用网盘\n正点原\n子linux\n正点原\n子linux\n2024.12.6",
+      "page_num": 3,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "3. 重写Qt Creator 的交叉编译环境配置"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 4,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "3. 重写Qt Creator 的交叉编译环境配置"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "|  | 提供的安装包 | 团队 | 团队 |  |\n| --- | --- | --- | --- | --- |",
+      "page_num": 4,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "3. 重写Qt Creator 的交叉编译环境配置"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          "提供的安装包",
+          "团队",
+          "团队",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 4,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 4,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "出厂系统Qt 交叉编译环境搭建",
+      "page_num": 4,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "提供的安装包\n团队\n团队",
+      "page_num": 4,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 5,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 5,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 5,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "出厂系统Qt 交叉编译环境搭建",
+      "page_num": 5,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "目录",
+      "page_num": 5,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "目录"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "前言 ..................................................................................................................................................... 6",
+      "page_num": 5,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建",
+        "目录"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "第一章",
+      "page_num": 5,
+      "section_path": [
+        "第一章"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "安装出厂交叉编译器 .............................................................................................................. 7\n1.1 安装出厂系统QT 交叉编译器 ....................................................................................................... 8\n2.2 卸载出厂交叉编译器 .................................................................................................................... 8",
+      "page_num": 5,
+      "section_path": [
+        "第一章"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "第二章 搭建QT CREATOR 交叉编译环境 .............................................................................................. 9",
+      "page_num": 5,
+      "section_path": [
+        "第二章 搭建QT CREATOR 交叉编译环境 .............................................................................................. 9"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "2.1 下载QT CREATOR .......................................................................................................................... 10\n2.2 安装QT CREATOR .......................................................................................................................... 10\n2.3 配置QT CREATOR KITS ................................................................................................................... 13\n2.3.1 配置Qt Versions .................................................................................................................. 15\n2.3.2 配置C 和C++编译器 ........................................................................................................... 15\n2.3.3 配置Kit ................................................................................................................................ 16\n2.4 验证搭建的交叉编译KITS ........................................................................................................... 17\n2.5 远程部署QT 程序 ........................................................................................................................ 23",
+      "page_num": 5,
+      "section_path": [
+        "第二章 搭建QT CREATOR 交叉编译环境 .............................................................................................. 9"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "第三章 UBUNTU 本机KITS 编译QT 应用程序 ..................................................................................... 28",
+      "page_num": 5,
+      "section_path": [
+        "第三章 UBUNTU 本机KITS 编译QT 应用程序 ..................................................................................... 28"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "3.1 UBUNTU 编译QT 应用程序 ........................................................................................................... 29\n附录-A 常见问题 .................................................................................................................................. 30\n部署失败问题 .................................................................................................................................... 30",
+      "page_num": 5,
+      "section_path": [
+        "第三章 UBUNTU 本机KITS 编译QT 应用程序 ..................................................................................... 28"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 6,
+      "section_path": [
+        "第三章 UBUNTU 本机KITS 编译QT 应用程序 ..................................................................................... 28"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 6,
+      "section_path": [
+        "第三章 UBUNTU 本机KITS 编译QT 应用程序 ..................................................................................... 28",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 6,
+      "section_path": [
+        "第三章 UBUNTU 本机KITS 编译QT 应用程序 ..................................................................................... 28",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "出厂系统Qt 交叉编译环境搭建",
+      "page_num": 6,
+      "section_path": [
+        "第三章 UBUNTU 本机KITS 编译QT 应用程序 ..................................................................................... 28",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "前言",
+      "page_num": 6,
+      "section_path": [
+        "第三章 UBUNTU 本机KITS 编译QT 应用程序 ..................................................................................... 28",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "前言"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "本文档针对IMX6ULL出厂系统搭建Qt交叉编译环境。请不要使用其他系统或者其他编译器！\n本文档所使用的环境：\nUbuntu16.04 或者Ubuntu 18，Ubuntu 建议使用推荐版本，太新的版本有可能装不上Q\ntCreator！\n要求读者会使用FileZilla、WinSCP 及Windows Git 进行Ubuntu 与Windows 间互传文\n件的方法。",
+      "page_num": 6,
+      "section_path": [
+        "第三章 UBUNTU 本机KITS 编译QT 应用程序 ..................................................................................... 28",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "前言"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 7,
+      "section_path": [
+        "第三章 UBUNTU 本机KITS 编译QT 应用程序 ..................................................................................... 28",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "前言"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 7,
+      "section_path": [
+        "第三章 UBUNTU 本机KITS 编译QT 应用程序 ..................................................................................... 28",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 7,
+      "section_path": [
+        "第三章 UBUNTU 本机KITS 编译QT 应用程序 ..................................................................................... 28",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "出厂系统Qt 交叉编译环境搭建",
+      "page_num": 7,
+      "section_path": [
+        "第三章 UBUNTU 本机KITS 编译QT 应用程序 ..................................................................................... 28",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "第一章 安装出厂交叉编译器",
+      "page_num": 7,
+      "section_path": [
+        "第一章 安装出厂交叉编译器"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "本章安装出厂交叉编译器。",
+      "page_num": 7,
+      "section_path": [
+        "第一章 安装出厂交叉编译器"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 8,
+      "section_path": [
+        "第一章 安装出厂交叉编译器"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| chmod u+x fsl-imx-x11-glibc-x86_64-meta-toolchain-qt5-cortexa7hf-neon-toolchain-4.1.15-2.1.0.sh |  |\n| --- | --- |",
+      "page_num": 8,
+      "section_path": [
+        "第一章 安装出厂交叉编译器"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "chmod u+x fsl-imx-x11-glibc-x86_64-meta-toolchain-qt5-cortexa7hf-neon-toolchain-4.1.15-2.1.0.sh",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "|  | source /opt/fsl-imx-x11/4.1.15-2.1.0/environment-setup-cortexa7hf-neon-poky-linux-gnueabi |  |\n| --- | --- | --- |",
+      "page_num": 8,
+      "section_path": [
+        "第一章 安装出厂交叉编译器"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          "source /opt/fsl-imx-x11/4.1.15-2.1.0/environment-setup-cortexa7hf-neon-poky-linux-gnueabi",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "|  | env |  |\n| --- | --- | --- |",
+      "page_num": 8,
+      "section_path": [
+        "第一章 安装出厂交叉编译器"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          "env",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "|  | arm-poky-linux-gnueabi-gcc --version |  |\n| --- | --- | --- |",
+      "page_num": 8,
+      "section_path": [
+        "第一章 安装出厂交叉编译器"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          "arm-poky-linux-gnueabi-gcc --version",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 8,
+      "section_path": [
+        "第一章 安装出厂交叉编译器",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 8,
+      "section_path": [
+        "第一章 安装出厂交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "出厂系统Qt 交叉编译环境搭建",
+      "page_num": 8,
+      "section_path": [
+        "第一章 安装出厂交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "1.1 安装出厂系统Qt 交叉编译器",
+      "page_num": 8,
+      "section_path": [
+        "第一章 安装出厂交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "1.1 安装出厂系统Qt 交叉编译器"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "注：若用户在6U快速体验文档4.2小节已经安装过出厂系统交叉编译器可跳过此1.1小节。\n把开发板光盘A-基础资料->5、开发工具->1、交叉编译器->fsl-imx-x11-glibc-x86_64-meta-\ntoolchain-qt5-cortexa7hf-neon-toolchain-4.1.15-2.1.0.sh 拷贝到Ubuntu 虚拟机。\n如下图本文已经把交叉编译工具拷贝到了Ubuntu 虚拟机。\n执行下面的指令修改脚本的权限，修改权限后可以看到此脚本颜色显示改变，说明修改成\n功。\nchmod u+x fsl-imx-x11-glibc-x86_64-meta-toolchain-qt5-cortexa7hf-neon-toolchain-4.1.15-2.1.0.sh\n直接执行脚本安装交叉编译工具，连续敲下两次回车键确认，再输入用户密码即可。本次\n安装的目录为脚本所指定的默认安装的目录，后面的内核编译环境的交叉编译都是按这个安装\n目录去操作，所以建议用户也是默认安装到/opt/fsl-imx-x11/4.1.15-2.1.0 这个默认目录。\n使用方法也十分简单，根据上面打印出来的提示，直接使能环境变量就可以了。但是在不\n同终端或者切换用户时需要重新使能环境变量方可使用。\nsource /opt/fsl-imx-x11/4.1.15-2.1.0/environment-setup-cortexa7hf-neon-poky-linux-gnueabi\n使能环境变量后可以使用env 指令查看生效的环境变量，下图为部分截图，可以看出使能\n了这个环境变量后gcc 已经配置好编译时所用的参数，如硬浮点参数-mfpu=neon -mfloat-abi=h\nard。使用硬浮点交叉编译，可以使用CPU 自带FPU。下图为环境变量部分截图。\nenv\n使用arm-poky-linux-gnueabi-gcc -v 指令可以查看gcc 版本，表明环境变量已经生效。\narm-poky-linux-gnueabi-gcc --version",
+      "page_num": 8,
+      "section_path": [
+        "第一章 安装出厂交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "1.1 安装出厂系统Qt 交叉编译器"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "2.2 卸载出厂交叉编译器",
+      "page_num": 8,
+      "section_path": [
+        "第一章 安装出厂交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.2 卸载出厂交叉编译器"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "在终端里直接执行下面指令，删除安装的文件夹即可！\nsudo rm -rf /opt/fsl-imx-x11",
+      "page_num": 8,
+      "section_path": [
+        "第一章 安装出厂交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.2 卸载出厂交叉编译器"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 9,
+      "section_path": [
+        "第一章 安装出厂交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.2 卸载出厂交叉编译器"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 9,
+      "section_path": [
+        "第一章 安装出厂交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 9,
+      "section_path": [
+        "第一章 安装出厂交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "出厂系统Qt 交叉编译环境搭建",
+      "page_num": 9,
+      "section_path": [
+        "第一章 安装出厂交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "第二章 搭建Qt Creator 交叉编译环境",
+      "page_num": 9,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "我们要想编译Qt 应用程序在开发板上运行起来，那么需要搭建交叉编译环境，将Qt 项目\n交叉编译到出厂系统上执行。请注意，由出厂交叉编译器编译的Qt 项目的可执行程序只能在出\n厂系统上执行，编译器是配套根文件系统的。强行放到其他系统上执行容易报缺少依赖库错误！",
+      "page_num": 9,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 10,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| chmod u+x qt-opensource-linux-x64-5.12.9.run |\n| --- |\n| sudo ./qt-opensource-linux-x64-5.12.9.run // 建议加sudo，否则安装在当前目录下。 |",
+      "page_num": 10,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "chmod u+x qt-opensource-linux-x64-5.12.9.run"
+        ],
+        [
+          "sudo ./qt-opensource-linux-x64-5.12.9.run // 建议加sudo，否则安装在当前目录下。"
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 10,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 10,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "出厂系统Qt 交叉编译环境搭建",
+      "page_num": 10,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "2.1 下载Qt Creator",
+      "page_num": 10,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.1 下载Qt Creator"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "（请注意，在2024 年，国内已经下载不到Qt 离线安装包了，若你有能力搭梯子，才访问\nQt 官网下载。或者以后Qt 官方又开放了，下面的方法可能又正常使用了。如果访问不了，请\n使用网盘资料中的03、软件/Qt5.12.9 文件夹下的安装包！笔者已经将离线安装包上传至网盘。）\n我们想要在Ubuntu 平台开发Qt，那么必须要有相应的IDE 环境，那么Qt Creator 就是Qt 的I\nDE(集成环境)，我们就可以使用Qt Creator 快速编程了。进入网址http://download.qt.io/archive/\nqt/5.12/5.12.9/下载Qt 5.12.9。Qt 官方已经把Qt Creator 封装在下面这个qt-opensource-linux-x6\n4-5.12.9.run。我们需要下载这个qt-opensource-linux-x64-5.12.9.run 直接在Ubuntu 安装即可。\n编者喜欢用指令下载，编者复制上面的下载地址，直接在Ubuntu 终端使用wget 指令下载。\n如下。\nwget http://download.qt.io/archive/qt/5.12/5.12.9/qt-opensource-linux-x64-5.12.9.run",
+      "page_num": 10,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.1 下载Qt Creator"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "2.2 安装Qt Creator",
+      "page_num": 10,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.2 安装Qt Creator"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "下载完成得到qt-opensource-linux-x64-5.12.9.run 这个文件，或者在网盘资料中的03、软件\n文件夹下找到对应的安装包。\n赋予该文件可执行权限，再执行安装。\nchmod u+x qt-opensource-linux-x64-5.12.9.run\nsudo ./qt-opensource-linux-x64-5.12.9.run // 建议加sudo，否则安装在当前目录下。\n如无意外，则弹出Qt 5.12.9 欢迎安装界面。",
+      "page_num": 10,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.2 安装Qt Creator"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 11,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.2 安装Qt Creator"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 11,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 11,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "出厂系统Qt 交叉编译环境搭建",
+      "page_num": 11,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "这里需要填写Qt 帐号，去Qt 官网https://www.qt.io/注册一个账号（若不想注册，请将Ub\nuntu 断网，再重新打开安装程序）。填写后再点击Next。\n同意使用条款。按如下步骤操作。\n欢迎安装界面，直接点击下一步。",
+      "page_num": 11,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 12,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 12,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 12,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "出厂系统Qt 交叉编译环境搭建",
+      "page_num": 12,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "选择安装目录，建议默认即可。会安装在/opt 目录下。点击下一步。\n按需要安装，除了安卓选项我们都选择安装。点击下一步。\n同意许可协议，点击下一步。",
+      "page_num": 12,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 13,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 13,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 13,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "出厂系统Qt 交叉编译环境搭建",
+      "page_num": 13,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "准备安装，点击安装\n安装完成，点击完成",
+      "page_num": 13,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "2.3 配置Qt Creator Kits",
+      "page_num": 13,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.3 配置Qt Creator Kits"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "Kit 译作套件，也就是开发编译环境套件，我们可以搭建不同平台的套件，以不同的套件\n编译出不同平台的应用程序，可以在一个QtCreator 搭建IMX6ULL，RK3588，RV1126 等多个\n平台不同Qt 版本的编译套件，也属于了Qt 跨平台的特性！\n若安装时和笔者安装的目录一样则可以使用如下指令打开Qt Creator。“&”的作用是后台\n运行。注：在某些Ubuntu 版本中，使用sudo 安装在/opt/文件夹下可能会丢失启动图标，没关",
+      "page_num": 13,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.3 配置Qt Creator Kits"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 14,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.3 配置Qt Creator Kits"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 14,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 14,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "出厂系统Qt 交叉编译环境搭建",
+      "page_num": 14,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "系，找不到就用脚本启动吧！或者你想重新安装在家目录下也行，就不要加sudo 了。文档还是\n以安装在/opt 路径下的QtCreator 作讲解。\n在Qt 启动脚本/opt/Qt5.12.9/Tools/QtCreator/bin/qtcreator.sh 首行加入source /opt/fsl-imx-x11\n/4.1.15-2.1.0/environment-setup-cortexa7hf-neon-poky-linux-gnueabi 环境变量。这样在以后的开发\n中，比如要找到opencv 库，若没加这个环境变量可能就找不到编译器中的opencv 库。\nsudo vi /opt/Qt5.12.9/Tools/QtCreator/bin/qtcreator.sh\n日后编译时尽量用脚本启动，要带环境变量启动。\n/opt/Qt5.12.9/Tools/QtCreator/bin/qtcreator.sh &\n也可以在左上角的软件中心栏输入搜索出“Qt Creator”图标后再单击打开。（不推荐，这\n样启动不会带环境变量）\n打开Tools(工具)，打开Options(选项)。",
+      "page_num": 14,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 15,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 15,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 15,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "出厂系统Qt 交叉编译环境搭建",
+      "page_num": 15,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "2.3.1 配置Qt Versions",
+      "page_num": 15,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.3.1 配置Qt Versions"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "配置Qt Versions，点击添加，选择我们1.1 小节安装的交叉编译器路径下的qmake，路径\n为/opt/fsl-imx-x11/4.1.15-2.1.0/sysroots/x86_64-pokysdk-linux/usr/bin/qmake，用于生成Makefile，\n以编译程序。同时改版本名称为ATK-I.MX6U Qt %{Qt:Version}。",
+      "page_num": 15,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.3.1 配置Qt Versions"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "2.3.2 配置C 和C++编译器",
+      "page_num": 15,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.3.2 配置C 和C++编译器"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "在Qt 中一般源文件都是CPP 文件，用的是C++编译器，为了完整流程，也配置C 编译器。\n配置C 编译器，编译器的路径为我们1.1 小节安装的交叉编译器。路径为/opt/fsl-imx-x11/\n4.1.15-2.1.0/sysroots/x86_64-pokysdk-linux/usr/bin/arm-poky-linux-gnueabi/arm-poky-linux-gnueabi\n-gcc。将“名称”改为ATK-I.MX6U-GCC。特别注意，如果看不到第13 步按钮，请将窗口拉\n大一点。",
+      "page_num": 15,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.3.2 配置C 和C++编译器"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 16,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.3.2 配置C 和C++编译器"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 16,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 16,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "出厂系统Qt 交叉编译环境搭建",
+      "page_num": 16,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "同理，配置C++编译器。编译器的路径为我们1.1 小节安装的交叉编译器。路径为/opt/fsl-\nimx-x11/4.1.15-2.1.0/sysroots/x86_64-pokysdk-linux/usr/bin/arm-poky-linux-gnueabi/arm-poky-linu\nx-gnueabi-g++。将“名称”改为ATK-I.MX6U-G++。",
+      "page_num": 16,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "2.3.3 配置Kit",
+      "page_num": 16,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.3.3 配置Kit"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "按如下图配置，将编译套件名称起名为ATK-I.MX6U，其他按图中默认即可。点击29 步O\nk 确认。",
+      "page_num": 16,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.3.3 配置Kit"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 17,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.3.3 配置Kit"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 17,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 17,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "出厂系统Qt 交叉编译环境搭建",
+      "page_num": 17,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "2.4 验证搭建的交叉编译Kits",
+      "page_num": 17,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.4 验证搭建的交叉编译Kits"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "新建项目。\n选择Application 项目和Qt Widgets Application 模板。",
+      "page_num": 17,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.4 验证搭建的交叉编译Kits"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 18,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.4 验证搭建的交叉编译Kits"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 18,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 18,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "出厂系统Qt 交叉编译环境搭建",
+      "page_num": 18,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "项目命名为test，选择工程的位置，这里位置不要随便选择，建议放在家目录下（/home/\n用户名）。\n默认使用qmake，点击下一步。",
+      "page_num": 18,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 19,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 19,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 19,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "出厂系统Qt 交叉编译环境搭建",
+      "page_num": 19,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "图2.4 1 默认构建系统\n选择类模板，默认QMainWindow 类即可。\n是否选择文件翻译，默认无，点击下一步。",
+      "page_num": 19,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 20,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 20,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 20,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "出厂系统Qt 交叉编译环境搭建",
+      "page_num": 20,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "选择套件，这里可以两个套件一起选，编译时切换选择I.MX6U ARM 平台的套件，如下。\n默认，点击Finish，完成。",
+      "page_num": 20,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 21,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 21,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 21,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "出厂系统Qt 交叉编译环境搭建",
+      "page_num": 21,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "如下图选择ATK-I.MX6U Kit 编译，其中可以看到Qt Creator 把程序中的类当作未识别的\n类。\n经过笔者研究，原来是QtCreator 的插件问题。\n在C++项处取消ClangCodeModel，然后点击关闭。关闭后QtCreator 会询问你是否重启Qt\nCreator，选择是。",
+      "page_num": 21,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 22,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| cd build-test-ATK_I_MX6U-Debug/ |\n| --- |\n| ls |",
+      "page_num": 22,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "cd build-test-ATK_I_MX6U-Debug/"
+        ],
+        [
+          "ls"
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 22,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 22,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "出厂系统Qt 交叉编译环境搭建",
+      "page_num": 22,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "开始编译，点击构建（左下角的小锤子），不要点击运行！在Ubuntu 平台上是运行不了用\nARM 编译器编译出来的程序的！编译完成如下图。\n在test 工程的同级目录下找到build-test-ATK_I_MX6U-Debug 文件夹，查看编译出来的可\n执行程序test。我们拷贝到出厂文件根系统目录下，在串口终端直接执行./test 就可以了。\ncd build-test-ATK_I_MX6U-Debug/\nls\n小提示：使用file 指令可以查看test 的格式。ARM 代表ARM 平台上运行的程序，如果是\nX86，那么就是Ubuntu 上运行的程序。",
+      "page_num": 22,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 23,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 23,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 23,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "出厂系统Qt 交叉编译环境搭建",
+      "page_num": 23,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "2.5 远程部署Qt 程序",
+      "page_num": 23,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.5 远程部署Qt 程序"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "在上一小节，我们编译的test 可执行程序拷贝到开发板上再执行，这样太麻烦了。有没有\n一种方法，可以直接编译然后在开发板上执行了呢。答案是有的！\n注意远程部署需要用到网络，尽量使用到路由器！电脑与开发板接上同一个路由器上。由\n路由器给开发板分配IP。笔者知道，如果是大学生，用的是校园网，校园网就无法给开发板分\n配IP 了（大多数都要帐号登录）！当然直连电脑手动分配IP 给开发板也是可以的。但是初学者\n不太懂网络这块，导致举步维艰！很难进行下去的！所以笔者建议用户使用路由器，即使没有\n外网，先把Qt 部署吃透先！若确实需要折腾网络，请看【正点原子】I.MX6U 网络环境TFTP\n&NFS 搭建手册文档和B 站上的视频https://www.bilibili.com/video/BV1n541197rk?t=2.4。手把\n手配置网络环境。\n现在开始配置运行设备，点击设备处，新建一个设备。这个设备就是远程设备，通过网络\n方式将程序部署到开发板上。\n填写自己开发板IP（在开发板上插上网线，连接路由，在串口终端使用ifconfig 指令查看），\n设备命名为ATK-I.MX6U-device。开发板的用户是root 用户。配置完成后点击下一步。",
+      "page_num": 23,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.5 远程部署Qt 程序"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 24,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.5 远程部署Qt 程序"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 24,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 24,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "出厂系统Qt 交叉编译环境搭建",
+      "page_num": 24,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "创建密钥，点击第9 步会创建一个密钥（公钥），如果以前已经创建过，那么点击第9 步创\n建的时候可能会创建不成功，可以直接点击浏览，一般密钥存在家目录/.ssh/qtc_id 这个文件里。\n使用部署公钥可以免去每次操作都需要输入密码的麻烦，正点原子的IMX6ULL 出厂系统root\n用户是没有密码的，实际上无需部署公钥也可以。但是日后你遇到其他开发平台，root 用户有",
+      "page_num": 24,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "密码的时候就需要按这个步骤来做！",
+      "page_num": 24,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "密码的时候就需要按这个步骤来做！"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "设备已经被创建，点击完成。",
+      "page_num": 24,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "密码的时候就需要按这个步骤来做！"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 25,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "密码的时候就需要按这个步骤来做！"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 25,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 25,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "出厂系统Qt 交叉编译环境搭建",
+      "page_num": 25,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "在上一步中创建完成后，会自动进行设备测试。可以看到如下信息。检查到主机平台的内\n核版本和armv7l 等相关信息。（请注意，有些QtCreator 版本不会进入设备测试选项，若前面已\n经部署公钥成功了，可以点击下图中的Test 处进行设备测试，测试过程中会检查主机相应的软\n件包有没有安装，比如rsync/sftp 有没有安装等）。\n完成后点击应用。",
+      "page_num": 25,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 26,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 26,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 26,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "出厂系统Qt 交叉编译环境搭建",
+      "page_num": 26,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "回到编译套件中，按如下操作，指定编译套件运行设备为我们上面配置的设备。配置完成\n可以看到ATK-I.MX6U 没有感叹号了。\n回到项目，因为配置已经发生改变，我们需要重新构建项目，再点击25 步运行，就会部署\n到开发板上了。",
+      "page_num": 26,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 27,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 27,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 27,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "出厂系统Qt 交叉编译环境搭建",
+      "page_num": 27,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "此时你会看到开发板已经运行了Qt 程序，是空白一片，因为这个test 项目就是一个空白的\n项目。",
+      "page_num": 27,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 28,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 28,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 28,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "出厂系统Qt 交叉编译环境搭建",
+      "page_num": 28,
+      "section_path": [
+        "第二章 搭建Qt Creator 交叉编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "第三章Ubuntu 本机Kits 编译Qt 应用程序",
+      "page_num": 28,
+      "section_path": [
+        "第三章Ubuntu 本机Kits 编译Qt 应用程序"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "本章我们在Ubuntu 上编译X86 的Qt 程序，可以在Ubuntu 上直接运行。",
+      "page_num": 28,
+      "section_path": [
+        "第三章Ubuntu 本机Kits 编译Qt 应用程序"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 29,
+      "section_path": [
+        "第三章Ubuntu 本机Kits 编译Qt 应用程序"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 29,
+      "section_path": [
+        "第三章Ubuntu 本机Kits 编译Qt 应用程序",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 29,
+      "section_path": [
+        "第三章Ubuntu 本机Kits 编译Qt 应用程序",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "出厂系统Qt 交叉编译环境搭建",
+      "page_num": 29,
+      "section_path": [
+        "第三章Ubuntu 本机Kits 编译Qt 应用程序",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "3.1 Ubuntu 编译Qt 应用程序",
+      "page_num": 29,
+      "section_path": [
+        "第三章Ubuntu 本机Kits 编译Qt 应用程序",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "3.1 Ubuntu 编译Qt 应用程序"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "在2.4 小节里我们在test 工程里已经选择使用ATK-I.MX6U Kit。那么别外一个就是Qt Cr\neator 安装时自带的Kit，名字叫Desktop Qt5.12.9 GCC 64bit。我们要在Ubuntu 上运行，那么\n我们就选择此项，编译出的程序就可以在Ubuntu 上运行啦！\n点击运行，可以看到程序执行时是显示一个空白的窗口。\n至此正点原子I.MX6U出厂系统Qt的交叉编译环境，已经搭建完成，希望对大家有所帮助！",
+      "page_num": 29,
+      "section_path": [
+        "第三章Ubuntu 本机Kits 编译Qt 应用程序",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "3.1 Ubuntu 编译Qt 应用程序"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 30,
+      "section_path": [
+        "第三章Ubuntu 本机Kits 编译Qt 应用程序",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "3.1 Ubuntu 编译Qt 应用程序"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 30,
+      "section_path": [
+        "第三章Ubuntu 本机Kits 编译Qt 应用程序",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 30,
+      "section_path": [
+        "第三章Ubuntu 本机Kits 编译Qt 应用程序",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "出厂系统Qt 交叉编译环境搭建",
+      "page_num": 30,
+      "section_path": [
+        "第三章Ubuntu 本机Kits 编译Qt 应用程序",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "附录-A 常见问题",
+      "page_num": 30,
+      "section_path": [
+        "第三章Ubuntu 本机Kits 编译Qt 应用程序",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "附录-A 常见问题"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "部署失败问题",
+      "page_num": 30,
+      "section_path": [
+        "第三章Ubuntu 本机Kits 编译Qt 应用程序",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "部署失败问题"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "场景一:因为用户之前部署过公钥或者使用过SCP 传输文件到开发板，然后用户又重新烧",
+      "page_num": 30,
+      "section_path": [
+        "第三章Ubuntu 本机Kits 编译Qt 应用程序",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "场景一:因为用户之前部署过公钥或者使用过SCP 传输文件到开发板，然后用户又重新烧"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "写了系统固件，新烧写的系统里，IP 还是原来的那个IP。Ubuntu 的ssh 的known_hosts，know\nn_hosts 文件通常包含了你已经连接过的 SSH 服务器的公钥。通常在你确定该 IP 地址的 SS\nH 服务器公钥已经改变（例如，服务器被重新安装了）或者你可能连接到了一个冒充的服务器\n时使用就会出现这个情况。",
+      "page_num": 30,
+      "section_path": [
+        "第三章Ubuntu 本机Kits 编译Qt 应用程序",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "场景一:因为用户之前部署过公钥或者使用过SCP 传输文件到开发板，然后用户又重新烧"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "场景二:注意部署失败也可能是你的IP 改变了！请确认部署的IP 是否为开发板的IP。",
+      "page_num": 30,
+      "section_path": [
+        "第三章Ubuntu 本机Kits 编译Qt 应用程序",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "场景二:注意部署失败也可能是你的IP 改变了！请确认部署的IP 是否为开发板的IP。"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "场景三:IP 冲突，在某些情况下在同一局域网内因为IP 不够用，可能发生IP 冲突。那么我",
+      "page_num": 30,
+      "section_path": [
+        "第三章Ubuntu 本机Kits 编译Qt 应用程序",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "场景三:IP 冲突，在某些情况下在同一局域网内因为IP 不够用，可能发生IP 冲突。那么我"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "们需要检查我们的开发板在拔掉网线的情况下，是否在Ubuntu 用ping 指令去ping 这个主机地\n址，如果还有回复，那就是这ip 地址已经被其他主机使用了，IP 已经冲突了！",
+      "page_num": 30,
+      "section_path": [
+        "第三章Ubuntu 本机Kits 编译Qt 应用程序",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "场景三:IP 冲突，在某些情况下在同一局域网内因为IP 不够用，可能发生IP 冲突。那么我"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "场景四:如果你想快速解决，可试试换个网口，因为另一个网口你可能没用过就不会产生部",
+      "page_num": 30,
+      "section_path": [
+        "第三章Ubuntu 本机Kits 编译Qt 应用程序",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "场景四:如果你想快速解决，可试试换个网口，因为另一个网口你可能没用过就不会产生部"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "署不成功的问题。\n场景五：部署超时，所以以上四种场景没解决的话，我们就要考虑是不是部署超时失败导\n致的了。有些用户网络环境问题可能有较差导致部署公钥超时。默认超时为10s。如果10s 内\n板子没有响应则也会部署失败。那么我们将部署超时增加30s 或者更大试试，详细解决看文档",
+      "page_num": 30,
+      "section_path": [
+        "第三章Ubuntu 本机Kits 编译Qt 应用程序",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "场景四:如果你想快速解决，可试试换个网口，因为另一个网口你可能没用过就不会产生部"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "后面的解决方法。",
+      "page_num": 30,
+      "section_path": [
+        "第三章Ubuntu 本机Kits 编译Qt 应用程序",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "后面的解决方法。"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "同时我们使用SCP 也会出现这个问题。\n那么根据上面的提示，我们需要移除连接过的SSH 服务器，执行下面指令。",
+      "page_num": 30,
+      "section_path": [
+        "第三章Ubuntu 本机Kits 编译Qt 应用程序",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "后面的解决方法。"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 31,
+      "section_path": [
+        "第三章Ubuntu 本机Kits 编译Qt 应用程序",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "后面的解决方法。"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| ssh-keygen -f \"/home/alientek/.ssh/known_hosts\" -R \"192.168.6.213\" #红色部分请填写自 |\n| --- |\n| 己的IP |",
+      "page_num": 31,
+      "section_path": [
+        "第三章Ubuntu 本机Kits 编译Qt 应用程序",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "后面的解决方法。"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "ssh-keygen -f \"/home/alientek/.ssh/known_hosts\" -R \"192.168.6.213\" #红色部分请填写自"
+        ],
+        [
+          "己的IP"
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 31,
+      "section_path": [
+        "第三章Ubuntu 本机Kits 编译Qt 应用程序",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 31,
+      "section_path": [
+        "第三章Ubuntu 本机Kits 编译Qt 应用程序",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "出厂系统Qt 交叉编译环境搭建",
+      "page_num": 31,
+      "section_path": [
+        "第三章Ubuntu 本机Kits 编译Qt 应用程序",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "ssh-keygen -f \"/home/alientek/.ssh/known_hosts\" -R \"192.168.6.213\"  #红色部分请填写自\n己的IP\n然后我们可以愉快去部署公钥了。\n超时失败问题解决：",
+      "page_num": 31,
+      "section_path": [
+        "第三章Ubuntu 本机Kits 编译Qt 应用程序",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "出厂系统Qt 交叉编译环境搭建"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    }
+  ]
+}

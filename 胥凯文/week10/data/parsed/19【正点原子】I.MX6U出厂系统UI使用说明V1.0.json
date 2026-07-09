@@ -1,0 +1,1108 @@
+{
+  "meta": {
+    "filename": "19【正点原子】I.MX6U出厂系统UI使用说明V1.0.pdf",
+    "stock_code": "",
+    "year": ""
+  },
+  "source": "d:\\BaiduNetdiskDownload\\week10检索增强生成\\week10 检索增强生成RAG\\week10 检索增强生成RAG\\rag_annual_report\\data\\raw_pdf\\19【正点原子】I.MX6U出厂系统UI使用说明V1.0.pdf",
+  "blocks": [
+    {
+      "block_type": "text",
+      "content": "[扫描页，OCR 不可用（未安装 pytesseract/tesseract），内容跳过]",
+      "page_num": 1,
+      "section_path": [],
+      "is_ocr": true,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 2,
+      "section_path": [],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "正点原子公司名称 ：广州市星翼电子科技有限公司",
+      "page_num": 2,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学平台 ：www.yuanzige.com",
+      "page_num": 2,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+      "page_num": 2,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "正点原子淘宝店铺 ：https://openedv.taobao.com",
+      "page_num": 2,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "正点原子淘宝店铺 ：https://openedv.taobao.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "正点原子官方网站 ：www.alientek.com",
+      "page_num": 2,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "正点原子官方网站 ：www.alientek.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "正点原子B 站视频 ：",
+      "page_num": 2,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "正点原子B 站视频 ："
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "https://space.bilibili.com/394620890",
+      "page_num": 2,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "https://space.bilibili.com/394620890"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "电话：020-38271790   传真：020-36773971",
+      "page_num": 2,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "电话：020-38271790   传真：020-36773971"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "请关注正点原子公众号，资料发布更新我们会通知。",
+      "page_num": 2,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "请关注正点原子公众号，资料发布更新我们会通知。"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "请下载原子哥APP，数千讲视频免费学习，更快更流畅。",
+      "page_num": 2,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "请下载原子哥APP，数千讲视频免费学习，更快更流畅。"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 3,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "请下载原子哥APP，数千讲视频免费学习，更快更流畅。"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| 版本 | 版本更新说明 | 负责人 | 校审 | 发布日期 |\n| --- | --- | --- | --- | --- |\n| V1.0 | 初稿： | 正点原子 linux团队 | 正点原子 linux团队 | 2024.12.05 |",
+      "page_num": 3,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "请下载原子哥APP，数千讲视频免费学习，更快更流畅。"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "版本",
+          "版本更新说明",
+          "负责人",
+          "校审",
+          "发布日期"
+        ],
+        [
+          "V1.0",
+          "初稿：",
+          "正点原子\nlinux团队",
+          "正点原子\nlinux团队",
+          "2024.12.05"
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "文档更新说明",
+      "page_num": 3,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "文档更新说明"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "版本\n版本更新说明\n负责人\n校审\n发布日期\nV1.0\n初稿：\n正点原子\nlinux 团队\n正点原子\nlinux 团队\n2024.12.05",
+      "page_num": 3,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "文档更新说明"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 4,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "文档更新说明"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "目录",
+      "page_num": 4,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "目录"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "前言 ................................................................................................................................................ 5\nQt UI ................................................................................................................................. 7\n1.1 Qt UI 简介 ........................................................................................................................ 8\n1.2 Qt UI 源码简介 ................................................................................................................ 8\n1.3 Qt UI 源码编译 ................................................................................................................ 9\n1.4 ui 文件夹介绍................................................................................................................. 10\n1.5 用户自定义App ............................................................................................................ 10\n1.6 用户如何添加App ........................................................................................................ 11\n1.7 Qt UI 是如何启动的 ...................................................................................................... 12\n1.8 移除出厂UI .................................................................................................................. 12\nApp 添加资源文件 ......................................................................................................... 13\n2.1 music App 添加歌曲 ...................................................................................................... 14\n2.2 player App 添加视频文件 .............................................................................................. 14\n2.3 photoview App 添加图片 ............................................................................................... 14\nAPP 说明 ........................................................................................................................ 15\n3.1 主界面............................................................................................................................ 16\n3.2 相机App ........................................................................................................................ 16\n3.3 位置App ........................................................................................................................ 16\n3.4 测试App ........................................................................................................................ 16\n3.5 设置App ........................................................................................................................ 17\n3.6 更多App ........................................................................................................................ 17\n3.7 App 后台管理与内存管理 ............................................................................................. 17",
+      "page_num": 4,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "目录"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 5,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "目录"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "前言",
+      "page_num": 5,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "前言"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "正点原子基于I.MX6U 开发板开发了一套Qt UI，笔者开发的UI 是演示开发板的功能、测\n试UI 能实现的效果、其中也会验证开发板的是否缺失某些库，可以验证某些UI 库是否存在\nBUG 等等。一套好的UI 就可以体现系统是否好用！\n正点原子开发的Qt UI，用户可以参考来做毕业设计（如数码相册，音乐播放器设计等），\n工业控制，屏幕演示，性能演示，广告机，医疗显示交互，自动售卖机交互等等用到屏幕的场\n景。",
+      "page_num": 5,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "前言"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 6,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "前言"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "免责声明",
+      "page_num": 6,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "免责声明"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "本文档所提及的产品规格和使用说明仅供参考，如有内容更新，恕不另行通知；除非有特\n殊约定，本文档仅作为产品指导，所作陈述均不构成任何形式的担保。本文档版权归广州市星\n翼电子科技有限公司所有，未经公司的书面许可，任何单位和个人不得以营利为目的进行任何\n方式的传播。\n为了得到最新版本的产品信息，请用户定时访问正点原子资料下载中心或者与淘宝正点原\n子旗舰店客服联系索取。感谢您的包容与支持。",
+      "page_num": 6,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "免责声明"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "[扫描页，OCR 不可用（未安装 pytesseract/tesseract），内容跳过]",
+      "page_num": 7,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "免责声明"
+      ],
+      "is_ocr": true,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 8,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "免责声明"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "1.1 Qt UI 简介",
+      "page_num": 8,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "1.1 Qt UI 简介"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "正点原子开发板默认的界面是使用QML 与C++编程开发的，由正点原子Linux 团队开发，\n其界面开源。使用的 Qt 版本为Qt5.12.9，同时不适用于Qt6。Qt6 和Qt5 差别很大，目前Qt5\n在市场上资料多，建议大家还是以Qt5 来学习。\n注意由于源码比较庞大，本文档不作源码解释，涉及的知识非常多。设计的界面如下。",
+      "page_num": 8,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "1.1 Qt UI 简介"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "1.2 Qt UI 源码简介",
+      "page_num": 8,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "1.2 Qt UI 源码简介"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "在开发板光盘网盘-基础资料/01、程序源码/05、Qt 综合例程/ systemui.tar.gz。请注意，早期\n板子开发的UI 的名称叫QDesktop，现在的UI 界面名称叫systemui。因为笔者想让它更系统\n化。好了现在让我们拷贝这个systemui.tar.gz 到Ubuntu 虚拟机上进行编译吧。请注意，某些App\n必须使用正点原子提供的交叉编译器才可以编译过并且不适配Windows/Ubuntu，只针对嵌入式\nQt 设计，在Ubuntu 或者Windows 是无法体验某些功能的。\n请参考用户手册下的【正点原子】I.MX6U 开发板文件拷贝及固件更新参考手册，将\nsystemui.tar.gz 拷贝到Ubuntu 下。如下图，笔者已经将它拷贝到Ubuntu 下了。\n将systemui.tar.bz2 源码解压，使用下面指令。\ntar xf systemui.tar.bz2",
+      "page_num": 8,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "1.2 Qt UI 源码简介"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 9,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "1.2 Qt UI 源码简介"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| ./build.sh all # 编译全部项目 |\n| --- |\n| ./build.sh cleanall # 如果你需要清除，执行此指令 |",
+      "page_num": 9,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "1.2 Qt UI 源码简介"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "./build.sh all # 编译全部项目"
+        ],
+        [
+          "./build.sh cleanall # 如果你需要清除，执行此指令"
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "1.3 Qt UI 源码编译",
+      "page_num": 9,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "1.3 Qt UI 源码编译"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "请根据01【正点原子】I.MX6U 用户快速体验4.2 小节先安装交叉编译器。\n直接执行脚本build.sh all 即可编译全部项目。\n./build.sh all\n# 编译全部项目\n./build.sh cleanall\n# 如果你需要清除，执行此指令\n如果不需要全部编译，那么下面教大家命令行单独编译一个项目。\n进入systemui 文件夹下，如下图。Qt 的项目都是xx.pro，Qt 就是通过xx.pro 来管理它的项\n目的，所以我们编译的项目里必须有xx.pro。\n使能交叉编译器。\nsource /opt/fsl-imx-x11/4.1.15-2.1.0/environment-setup-cortexa7hf-neon-poky-linux-gnueabi\n用qmake 生成Makefile 用于编译Qt 项目。\nqmake .\n#“.”表示当前路径\n开始编译，我们直接输入make 或者make -j 16，j 后面的数字加快编译速度。\nmake\n编译成功会生成systemui 可执行文件。如下图。(请注意，不要使用除了出厂系统之外的\n编译器来编译此项目，正点原子的出厂系统Qt 库是很完善的了，自己移植的Qt 库可能只是部\n分，不完整，编译时可能会缺少部分库。)",
+      "page_num": 9,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "1.3 Qt UI 源码编译"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 10,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "1.3 Qt UI 源码编译"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "当然你可以按【正点原子】I.MX6U 出厂系统Qt 交叉编译环境搭建文档，使用搭建的Kit\n（编译套件）在QtCreator 上编译，也是可以的。\n接下来就是拷贝这个可执行文件到开发板的根文件系统上，参考【正点原子】I.MX6U 开\n发板文件拷贝及固件更新参考手册的第一章，笔者已经将往开发板发送文件的文档写的很详细\n了。这些都是很基础的知识，用户需要自己操作。\n发送systemui 可执行文件，替换开发板根文件系统路径下的/opt/ui/systemui 即可。这个就\n是系统的主界面。\n同理，其他App 也是进入到相应的目录下去编译。然后App 就是替换到下面的这个路\n径。（子App 都是放/opt/ui/src/apps 路径下！）",
+      "page_num": 10,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "1.3 Qt UI 源码编译"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "1.4 ui 文件夹介绍",
+      "page_num": 10,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "1.4 ui 文件夹介绍"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "在根文件系统里/opt 路径下有一个ui 文件夹，同时systemui.tar.bz2 解压之后在顶层目录下\n也有一个ui 文件夹。没错，它们是一样的，意思就是UI（用户界面）。\n我们在一小节知道systemui 就是我们的主界面，src 就是source 的简写，通常用于指定图\n片、脚本、资源文件等。所以我们的App 就放到这个下面。\nsrc 文件夹: App 及资源文件存放路径\nsystemui: 系统Qt 主界面\n再进入src 文件夹，有如下内容。\nappicons: App 图标\napps: App 应用程序存放路径\nATK-IMX6U: 6U 开发板配置的App，用户可以自定义显示什么App。\nipad: 界面用的背景图片，用户可以自行替换\n我们再进入apps 文件夹，有如下内容。\n上面的都是Qt App，用户可以在上一步的ATK-IMX6U 里面的xxx.cfg 配置文件中配置要\n显示的App。\n其中resource 就是上面的Qt App 用的资源文件，里面包括歌曲，歌词，mp4，文本等。",
+      "page_num": 10,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "1.4 ui 文件夹介绍"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "1.5 用户自定义App",
+      "page_num": 10,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "1.5 用户自定义App"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "如果用户直接使用我们开发的UI 界面，是可以自定义显示哪些App 的。",
+      "page_num": 10,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "1.5 用户自定义App"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 11,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "1.5 用户自定义App"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "可以看到有三个cfg 配置文件。systemui 主界面就是读取这三个文件来显示哪些App 的，\n笔者参考Ubuntu/Weston 的设计，就是读取对应的配置文件。其中apk1.cfg 是页面一中间的App\n显示的App。apk2.cfg 是页面二显示的App。apk3.cfg 是页面一底部显示的App。目前设计两\n页，如需要更多App 页面，请自行修改systemui 源码！\n查看apk1.cfg 的内容如下。\n必须按如上的格式写需要显示的App。并且用一个空格隔开，第一列是app 的图标，同时\n用户要查看appicons 下面有什么图标，用户可以自己放置自己的图标。第二列是App 名称，第\n三列是应用程序名字，也就是src/apps/下的应用程序名称。用户可以尝试删除最后一行pcba 的\n显示，然后保存文件，重启之后就不显示pcba App 了。",
+      "page_num": 11,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "1.5 用户自定义App"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "1.6 用户如何添加App",
+      "page_num": 11,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "1.6 用户如何添加App"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "用户拷贝template 模板开发新的App。\n现在我们来拷贝一个模板来开发新的App。拷贝整个template 命名为qttest\ncp -r template qttest\n进入qttest 文件夹，将template.pro 命名为qttest.pro\nmv template.pro qttest.pro\n然后打开main.qml 文件，将main.qml 里的template 替换为qttest，如下图。",
+      "page_num": 11,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "1.6 用户如何添加App"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 12,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "1.6 用户如何添加App"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "之后我们就可以按上面的方法编译App 了。将编译的程序拷贝到src/apps/下。\n然后再找一个120x120（其他正方形规格的图标都行）的png 图标，命名为qttest.png，放\n于appicons 下。或者你在appicons 复制一个图标命名为qttest.png 也行。\n然后按1.5 小节添加自定义App，如下图，笔者将qttest 添加到第一页，显示App 的名称\n为“app 测试”。\n保存后，重重启开发板，我们就可以看到一个名为“app 测试”的App 在主界面上了。\n请注意，不要修改main.qml 的界面交互内容，用户可以在AppMainBody.qml 中添加自已\n的App 内容。也就是所有显示都需要基于AppMainBody.qml 上去开发。这样才不会影响App\n与主界面的交互效果，如果你不基于我们的UI 去开发/学习，那么用户自行写程序即可。",
+      "page_num": 12,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "1.6 用户如何添加App"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "1.7 Qt UI 是如何启动的",
+      "page_num": 12,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "1.7 Qt UI 是如何启动的"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "在根文件系统路径下有一个/etc/rc.local 文件，开机最后执行的一个文件就是这个文件，如\n果你想重启系统UI 界面，关闭系统UI 界面，请点击界面上的。设置App》通用》退出。",
+      "page_num": 12,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "1.7 Qt UI 是如何启动的"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "1.8 移除出厂UI",
+      "page_num": 12,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "1.8 移除出厂UI"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "删除出厂UI，请你删除/opt/ui 这个文件夹。同时修改/etc/rc.local 文件。",
+      "page_num": 12,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "1.8 移除出厂UI"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "[扫描页，OCR 不可用（未安装 pytesseract/tesseract），内容跳过]",
+      "page_num": 13,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "1.8 移除出厂UI"
+      ],
+      "is_ocr": true,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 14,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "1.8 移除出厂UI"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "2.1 music App 添加歌曲",
+      "page_num": 14,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "2.1 music App 添加歌曲"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "请使用mp3tag 软件为一首mp3 注入一张jpg 格式的专辑图片（详细教程请自行百度）。\nmusic App 开机会读取mp3 然后会在artist 目录中生成专辑封面图片。如果你不会为mp3 添加\n专辑封面，那么你可以直接放一张与歌曲同名后缀为jpg 图片放到artist 中，这样music 在启动\n后将不会从mp3 里读取这个专辑图片了，如果你不放这个jpg 图片，也是可以的。将使用默认\n的图片！有兴趣自行研究。\n同理lrc 歌词是提前放进去的，编码格式必须为UTF-8。歌词与歌曲同名后缀为lrc，详细\n请参考里面自带的歌词。\naudio 文件夹就是歌曲的存放目录，请你将自己喜欢的mp3 添加到此文件夹中，重启音乐\n播放器即可！",
+      "page_num": 14,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "2.1 music App 添加歌曲"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "2.2 player App 添加视频文件",
+      "page_num": 14,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "2.2 player App 添加视频文件"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "如下图coverplan 是视频封面，由程序自动根据视频生成，movies 下就是视频播放器的素\n材。参考里面的文件放对应的文件进去即可！特别注意，由于IMX6ULL 没有硬件解码，只有\n软件解码，视频分辨率和帧率有要求，请参考movies 里的视频分辨率与编码格式，使用格式工\n厂转换出你喜欢的视频。不要放太高分辨率和帧率的的视频，否则会卡成PPT！",
+      "page_num": 14,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "2.2 player App 添加视频文件"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "2.3 photoview App 添加图片",
+      "page_num": 14,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "2.3 photoview App 添加图片"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "相机拍照的文件会存放于/opt/ui/src/apps/resource/images 文件夹下，同时如果你需要显示你\n的图片请放于此文件夹下。（同理，由于IMX6ULL 性能限制，图片分辨率不要太高）。",
+      "page_num": 14,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "2.3 photoview App 添加图片"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "[扫描页，OCR 不可用（未安装 pytesseract/tesseract），内容跳过]",
+      "page_num": 15,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "2.3 photoview App 添加图片"
+      ],
+      "is_ocr": true,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 16,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "2.3 photoview App 添加图片"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "3.1 主界面",
+      "page_num": 16,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "3.1 主界面"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "主界面如下，由于Qt 使用的是Linuxfb 显示插件。容易产生画面撕裂。同时Linuxfb 是基\n于FB 设备显示，无窗口管理。好比显示屏就是一张白纸，多个QtAPP 就是不同的颜料，若同\n时开启多个App，会出现App 抢占屏幕现象！而出厂界面很巧妙的实现了不同APP 切换。也就\n是当要显示另外一个App，当前的App 先隐藏，这样来回切换！\n对于IMX6ULL 这种平台，使用LinuxFB 显示插件也是很常用的，也许你见过XCB/wayland\n显示插件显示，但是由于6ULL 内存较小，XCB 插件需要X11 窗口管理系统，wayland 需要\nweston 显示服务器。虽然都是轻量级的，但是对于6ULL 来说还是需要耗相对多的资源！所以\nLinuxFB 还是比较适合IMX6ULL 的。",
+      "page_num": 16,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "3.1 主界面"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "3.2 相机App",
+      "page_num": 16,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "3.2 相机App"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "只适配OV5640。请注意内存使用，若App 里拍照过多，加载的照片就会很多，容易将内存\n用完，尤其是NAND FLASH 类型的IMX6ULL 核心板，只有256MB DDR！注意频繁切换摄像\n头分辨率可能造成界面卡死。",
+      "page_num": 16,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "3.2 相机App"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "3.3 位置App",
+      "page_num": 16,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "3.3 位置App"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "需要插上网线，并且网线能上网。若一直获取不了位置，可能是源码里访问位置的网站发生\n改变。",
+      "page_num": 16,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "3.3 位置App"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "3.4 测试App",
+      "page_num": 16,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "3.4 测试App"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "这个App 是正点原子出厂时测试部分硬件所用的App，需要接上相应的模块来验证硬件功能。\n用户无需使用此App！若自行点击了App 出现失败也不需要理会，这个要由我们专业的人员测\n试，出厂时验证正确了才出货的。",
+      "page_num": 16,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "3.4 测试App"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 17,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "3.4 测试App"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "3.5 设置App",
+      "page_num": 17,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "3.5 设置App"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "主要功能是连接WIFI 支持SDIO WIFI 和USB WIFI。注意USB WIFI 无法获取信号等级，可\n能是驱动兼容性产生的，笔者推荐使用SDIO WIFI。",
+      "page_num": 17,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "3.5 设置App"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "3.6 更多App",
+      "page_num": 17,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "3.6 更多App"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "其他App 无需多介绍，请源码源码。这里因为源码庞大，不做任何代码解读。仅供用户参\n考！",
+      "page_num": 17,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "3.6 更多App"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "3.7 App 后台管理与内存管理",
+      "page_num": 17,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "3.7 App 后台管理与内存管理"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "由于NAND FLASH 类型核心板只有256MB DDR，内存较小，运行多个Qt APP 容易将内\n存耗完。所以笔者设计NAND FLASH 类型核心板不可将APP 放于后台运行，点击返回，App\n就关闭！具体源码可参考Qt 综合例程源码里的client/systemuicommonapiclient.cpp。\neMMC 则可以指定多个App 放后台。修改出厂系统/opt/ui/src/apps/resource/systemui.conf 文\n件配置App 放后台。\n请修改/opt/ui/src/apps/resource/systemui.conf。\n如上图，配置了music，player 放后台，若你还需要指定App 放后台，那么用英文逗号隔\n开，继续在后面添加就可以了，例如添加camera，那么改为background-task=music,player,camera。\n若全部放后台。background-task=all（推荐使用EMMC 核心板，内存有512MB）。若全部不放\n后台。background-task=不写任何参数即可！",
+      "page_num": 17,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "3.7 App 后台管理与内存管理"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "DDR 内存小的机器建议用户设计UI 时以单进程为主。保证系统流畅运行系统需要预留一",
+      "page_num": 17,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "DDR 内存小的机器建议用户设计UI 时以单进程为主。保证系统流畅运行系统需要预留一"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "定的内存。在设计App 时，尤其是加载图片数据时，建议使用小分辨率图片，图标等。过大的",
+      "page_num": 17,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "定的内存。在设计App 时，尤其是加载图片数据时，建议使用小分辨率图片，图标等。过大的"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "图片会占用过多的内存！",
+      "page_num": 17,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "图片会占用过多的内存！"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    }
+  ]
+}

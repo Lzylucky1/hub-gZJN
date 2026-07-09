@@ -1,0 +1,1942 @@
+{
+  "meta": {
+    "filename": "11【正点原子】I.MX6U移植OpenCV_V1.3.pdf",
+    "stock_code": "",
+    "year": ""
+  },
+  "source": "d:\\BaiduNetdiskDownload\\week10检索增强生成\\week10 检索增强生成RAG\\week10 检索增强生成RAG\\rag_annual_report\\data\\raw_pdf\\11【正点原子】I.MX6U移植OpenCV_V1.3.pdf",
+  "blocks": [
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 1,
+      "section_path": [],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 1,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 1,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植OpenCV",
+      "page_num": 1,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "【正点原子】I.MX6U",
+      "page_num": 1,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV",
+        "【正点原子】I.MX6U"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "移植OpenCV V1.3",
+      "page_num": 1,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV",
+        "移植OpenCV V1.3"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV",
+        "移植OpenCV V1.3"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植OpenCV",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV",
+        "I.MX6U 移植OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "正点原子公司名称",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV",
+        "正点原子公司名称"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "：广州市星翼电子科技有限公司",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV",
+        "：广州市星翼电子科技有限公司"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学平台 ：www.yuanzige.com",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV",
+        "原子哥在线教学平台 ：www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "正点原子淘宝店铺",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV",
+        "正点原子淘宝店铺"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "：https://openedv.taobao.com",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV",
+        "：https://openedv.taobao.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "正点原子官方网站",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV",
+        "正点原子官方网站"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "：www.alientek.com",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV",
+        "：www.alientek.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "正点原子B 站视频 ：https://space.bilibili.com/394620890",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV",
+        "正点原子B 站视频 ：https://space.bilibili.com/394620890"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "电话：020-38271790   传真：020-36773971",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV",
+        "电话：020-38271790   传真：020-36773971"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "请关注正点原子公众号，资料发布更新我们会通知。",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV",
+        "请关注正点原子公众号，资料发布更新我们会通知。"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "请下载原子哥APP，数千讲视频免费学习，更快更流畅。",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV",
+        "请下载原子哥APP，数千讲视频免费学习，更快更流畅。"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 3,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV",
+        "请下载原子哥APP，数千讲视频免费学习，更快更流畅。"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| 版本 | 版本更新说明 | 负责人 | 校审 | 发布日期 |\n| --- | --- | --- | --- | --- |\n| V1.0 | 初稿： | 正点原子 linux团队 | 正点原子 linux团队 | 2020.2.21 |\n| V1.1 | 更新：1. 更新Qt OpenCV工程的百度云链接，避 免用户下载漏了QOpenCV这级目录。导致 后面编译不过去。 修改：1. 在第3、小节添加红色字体的话语，减少 用户出错的概率！ | 正点原子 linux团队 | 正点原子 linux团队 | 2020.7.30 |\n| V1.2 | 修改：1.重写移植OpenCV，删除QOpenCV工程的 编译。 | 正点原子 linux团队 | 正点原子 linux团队 | 2020.11.23 |\n| V1.3 | 修改：1.修改文档格式，其他小修改。 2.添加第三章在Qt项目导入Qt库。 | 正点原子 linux团队 | 正点原子 linux团队 | 2021.06.19 |",
+      "page_num": 3,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV",
+        "请下载原子哥APP，数千讲视频免费学习，更快更流畅。"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "版本",
+          "版本更新说明",
+          "负责人",
+          "校审",
+          "发布日期"
+        ],
+        [
+          "V1.0",
+          "初稿：",
+          "正点原子\nlinux团队",
+          "正点原子\nlinux团队",
+          "2020.2.21"
+        ],
+        [
+          "V1.1",
+          "更新：1. 更新Qt OpenCV工程的百度云链接，避\n免用户下载漏了QOpenCV这级目录。导致\n后面编译不过去。\n修改：1. 在第3、小节添加红色字体的话语，减少\n用户出错的概率！",
+          "正点原子\nlinux团队",
+          "正点原子\nlinux团队",
+          "2020.7.30"
+        ],
+        [
+          "V1.2",
+          "修改：1.重写移植OpenCV，删除QOpenCV工程的\n编译。",
+          "正点原子\nlinux团队",
+          "正点原子\nlinux团队",
+          "2020.11.23"
+        ],
+        [
+          "V1.3",
+          "修改：1.修改文档格式，其他小修改。\n2.添加第三章在Qt项目导入Qt库。",
+          "正点原子\nlinux团队",
+          "正点原子\nlinux团队",
+          "2021.06.19"
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 3,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 3,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植OpenCV",
+      "page_num": 3,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV",
+        "I.MX6U 移植OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "文档更新说明",
+      "page_num": 3,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV",
+        "文档更新说明"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "版本\n版本更新说明\n负责人\n校审\n发布日期\nV1.0\n初稿：\n正点原子\nlinux 团队\n正点原子\nlinux 团队\n2020.2.21\nV1.1\n更新：1. 更新Qt OpenCV 工程的百度云链接，避\n免用户下载漏了QOpenCV 这级目录。导致\n后面编译不过去。\n修改：1. 在第3、小节添加红色字体的话语，减少\n用户出错的概率！\n正点原子\nlinux 团队\n正点原子\nlinux 团队\n2020.7.30\nV1.2\n修改：1.重写移植OpenCV，删除QOpenCV 工程的\n编译。\n正点原子\nlinux 团队\n正点原子\nlinux 团队\n2020.11.23\nV1.3\n修改：1.修改文档格式，其他小修改。\n2.添加第三章在Qt 项目导入Qt 库。\n正点原子\nlinux 团队\n正点原子\nlinux 团队\n2021.06.19",
+      "page_num": 3,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV",
+        "文档更新说明"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 4,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV",
+        "文档更新说明"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 4,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 4,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植OpenCV",
+      "page_num": 4,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV",
+        "I.MX6U 移植OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "目录",
+      "page_num": 4,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV",
+        "目录"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "前言 ............................................................................................................................................................ 5",
+      "page_num": 4,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV",
+        "目录"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "第一章",
+      "page_num": 4,
+      "section_path": [
+        "第一章"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "下载安装通用交叉编译器 ....................................................................................................... 6\n1.1 下载通用交叉编译器 ......................................................................................................................... 7\n1.2 安装通用交叉编译器 ......................................................................................................................... 7\n1.3 验证通用交叉编译器 ......................................................................................................................... 8",
+      "page_num": 4,
+      "section_path": [
+        "第一章"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "第二章 搭建OPENCV 3.4.1 的编译环境 .............................................................................................. 10",
+      "page_num": 4,
+      "section_path": [
+        "第二章 搭建OPENCV 3.4.1 的编译环境 .............................................................................................. 10"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "2.1 下载OPENCV 3.4.1 源码 ................................................................................................................... 11\n2.2 配置OPENCV 环境 ............................................................................................................................. 11\n2.3 编译OPENCV 源码 ............................................................................................................................. 16",
+      "page_num": 4,
+      "section_path": [
+        "第二章 搭建OPENCV 3.4.1 的编译环境 .............................................................................................. 10"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "第三章 QT 项目中加入OPENCV........................................................................................................... 18",
+      "page_num": 4,
+      "section_path": [
+        "第三章 QT 项目中加入OPENCV........................................................................................................... 18"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "3.1 在QT 项目中加入OPENCV ................................................................................................................ 19\n附录-A ................................................................................................................................................... 19",
+      "page_num": 4,
+      "section_path": [
+        "第三章 QT 项目中加入OPENCV........................................................................................................... 18"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 5,
+      "section_path": [
+        "第三章 QT 项目中加入OPENCV........................................................................................................... 18"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 5,
+      "section_path": [
+        "第三章 QT 项目中加入OPENCV........................................................................................................... 18",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 5,
+      "section_path": [
+        "第三章 QT 项目中加入OPENCV........................................................................................................... 18",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植OpenCV",
+      "page_num": 5,
+      "section_path": [
+        "第三章 QT 项目中加入OPENCV........................................................................................................... 18",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "前言",
+      "page_num": 5,
+      "section_path": [
+        "第三章 QT 项目中加入OPENCV........................................................................................................... 18",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "前言"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "在2020.11.21 日后正点原子的I.MX6U 出厂文件系统里已经添加了OpenCV 3.1 的库，也就是说\n可以直接跑OpenCV 而不需要再移植。写这个文档是为了学习如何移植OpenCV。读者应要有Op\nenCV 基础，否则移植这个OpenCV 是没有多大用处的。如有错漏，请到正点原子论坛指正，\n或者联系本文档编写作者QQ1252699831 指正错误。\n本文档所使用的环境：\nWindows 7 64bits，也适用于Windows 8-10。不建议用Windows 32 位来开发，Windows 3\n2 位支持的内存大小有限，系统性能有限。\nUbuntu16.04，Ubuntu 建议使用16.04 否则安装及编译环境不一样导致出错的，请自行解\n决！\n要求读者会使用FileZilla、WinSCP 及Windows Git 进行Ubuntu 与Windows 间互传文件的\n方法。\nOpenCV 版本，选择为OpenCV 3.4.1（与出厂系统版本的OpenCV 3.1 版本库不一样，不过\n都是3.x 版本，在使用上没多大区别）。",
+      "page_num": 5,
+      "section_path": [
+        "第三章 QT 项目中加入OPENCV........................................................................................................... 18",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "前言"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 6,
+      "section_path": [
+        "第三章 QT 项目中加入OPENCV........................................................................................................... 18",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "前言"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 6,
+      "section_path": [
+        "第三章 QT 项目中加入OPENCV........................................................................................................... 18",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 6,
+      "section_path": [
+        "第三章 QT 项目中加入OPENCV........................................................................................................... 18",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植OpenCV",
+      "page_num": 6,
+      "section_path": [
+        "第三章 QT 项目中加入OPENCV........................................................................................................... 18",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "第一章 下载安装通用交叉编译器",
+      "page_num": 6,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "编译ARM 平台的OpenCV，那么我们需要安装交叉编译器。注不要使用出厂系统的交叉\n编译器arm-poky-linux-gnueabi-gcc 编译器来编译Opencv 源码。因为出厂系统的编译器是经\n过NXP 封装过的，不适用于出厂系统外的源码编译。",
+      "page_num": 6,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 7,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 7,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 7,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植OpenCV",
+      "page_num": 7,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "1.1 下载通用交叉编译器",
+      "page_num": 7,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "1.1 下载通用交叉编译器"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "我们要为I.MX6U 移植OpenCV，需要使用的ARM 平台交叉编译器，这里下载Linaro 出品的\n交叉编译器，也就是正点原子I.MX6U 嵌入式Linux 驱动开发指南第4.3 小节里推荐的4.9 版\n本的编译器，这里重复写下载的方法。如果已经知道怎么安装或者已经安装可跳过第一章。下\n面是下载地址。https://releases.linaro.org/components/toolchain/binaries/4.9-2017.0\n1/arm-linux-gnueabihf/。\n图1.1 1 选择对应系统版本的交叉编译器下载\n请根据个人Ubuntu 系统的位数，选择对应版本下载即可。也可以在我们正点原子I.MX6U\n开发板光盘A-基础资料->5、开发工具->1、交叉编译器下找到下载好的交叉编译器。如下图。\n图1.1 2 资料盘处的交叉编译器",
+      "page_num": 7,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "1.1 下载通用交叉编译器"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "1.2 安装通用交叉编译器",
+      "page_num": 7,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "1.2 安装通用交叉编译器"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "将上面1.1 小节下载好的通用交叉编译器压缩包拷贝到Ubuntu 虚拟机，解压进行安装。编\n者是64 位的Ubuntu。所以通用FileZilla 或者WinSCP 拷贝gcc-linaro-4.9.4-2017.01-x86_64_ar\nm-linux-gnueabihf.tar.xz 到Ubuntu 虚拟机。如下图，编者已经拷贝到“家”目录下。\n图1.2 1 拷贝交叉编译器到家目录\n在Ubuntu 目录下创建/usr/local/arm 文件夹，为下面安装到/usr/local/arm 这个文件夹做准备。\nsudo mkdir /usr/local/arm",
+      "page_num": 7,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "1.2 安装通用交叉编译器"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 8,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "1.2 安装通用交叉编译器"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 8,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 8,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植OpenCV",
+      "page_num": 8,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "解压交叉编译器压缩包至/usr/local/arm 目录下，稍等片刻，解压完成如下。\nsudo tar xf gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf.tar.xz -C /usr/local/arm/\n图1.2 2 解压交叉编译器\n使用vi 指令编辑/etc/profile 这个文件。\nsudo vi /etc/profile\n打开/etc/profile 以后，在末尾添加如下所示内容。\nexport PATH=$PATH:/usr/local/arm/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/bin\n添加完成如下图，保存退出，重启系统。\n图1.2 3 在/etc/profile 下添加全局环境变量",
+      "page_num": 8,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "1.3 验证通用交叉编译器",
+      "page_num": 8,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "1.3 验证通用交叉编译器"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "要使用此编译器，还要在Ubuntu 上安装一些库。\nsudo apt-get install lsb-core lib32stdc++6\n在1.2 小节修改环境变量重启系统后，在终端输入arm-linux-gnueabihf-gcc -v 来查看安装\n的交叉编译器版本号。看到如下结果，表明成功！\narm-linux-gnueabihf-gcc -v",
+      "page_num": 8,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "1.3 验证通用交叉编译器"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 9,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "1.3 验证通用交叉编译器"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 9,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 9,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植OpenCV",
+      "page_num": 9,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "图1.3 1 验证交叉编译器",
+      "page_num": 9,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 10,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 10,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 10,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植OpenCV",
+      "page_num": 10,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "第二章 搭建OpenCV 3.4.1 的编译环境",
+      "page_num": 10,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "安装完成交叉编译器后，才能开始搭建OpenCV 的编译环境。",
+      "page_num": 10,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 11,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| tar xf opencv-3.4.1.tar.gz |\n| --- |\n| cd opencv-3.4.1/ |\n| ls |",
+      "page_num": 11,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "tar xf opencv-3.4.1.tar.gz"
+        ],
+        [
+          "cd opencv-3.4.1/"
+        ],
+        [
+          "ls"
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| mkdir build install |\n| --- |\n| ls |",
+      "page_num": 11,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "mkdir build install"
+        ],
+        [
+          "ls"
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| cd build |\n| --- |\n| cmake-gui |",
+      "page_num": 11,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "cd build"
+        ],
+        [
+          "cmake-gui"
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 11,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 11,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植OpenCV",
+      "page_num": 11,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "2.1 下载OpenCV 3.4.1 源码",
+      "page_num": 11,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.1 下载OpenCV 3.4.1 源码"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "OpenCV 官方源码下载链接为https://opencv.org/releases/ 可以看到有很多版本的OpenCV\n源码下载。本次选择的是opencv-3.4.1 版本源码，其他版本请自行选择编译，但是不确保其他\n源码编译不出现错误。请自行点击下载，国外网站，下载常失败。所以我们把下载好源码放在\n我们开发板光盘A-基础资料->1、例程源码->7、第三方库源码->opencv-3.4.1.tar.gz。\n拷贝opencv-3.4.1.tar.gz 到Ubuntu 虚拟机，使用下面的指令直接解压。然后进入解压后的\n目录查看。\ntar xf opencv-3.4.1.tar.gz\ncd opencv-3.4.1/\nls\n图2.1 1 解压OpenCV 源码",
+      "page_num": 11,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.1 下载OpenCV 3.4.1 源码"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "2.2 配置OpenCV 环境",
+      "page_num": 11,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.2 配置OpenCV 环境"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "创建build、install 文件夹。build 为构建文件夹，install 为安装文件夹。\nmkdir build install\nls\n图2.2 1 新建build 和install 目录\n安装cmake 和cmake-gui 工具\nsudo apt-get install cmake cmake-qt-gui  cmake-curses-gui\n进入build 目录下，执行指令cmake-gui，开始配置OpenCV 的环境。\ncd build\ncmake-gui\n图2.2 2 进入build 目录，执行cmake-gui\n执行完成后会出现图形化工具cmake-gui。如下图",
+      "page_num": 11,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.2 配置OpenCV 环境"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 12,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.2 配置OpenCV 环境"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 12,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 12,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植OpenCV",
+      "page_num": 12,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "图2.2 3 CMake 图形界面\n指定我们源码的所在路径和构目录。按如下图设置，记得修改成个人的路径。再点击Gen\nerate。\n图2.2 4 配置源码路径\n选择Unix Makefiles，然后选择Specify options for cross-compiling，再点击Next。",
+      "page_num": 12,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 13,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 13,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 13,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植OpenCV",
+      "page_num": 13,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "图2.2 5 选择Unix Makefiles\n填写交叉编译器的路径，填写第一章安装的交叉编译器路径。\n图2.2 6 填写交叉编译器路径\n下面就是您配置的信息，可以配置很多项，比如要编译哪些库等都可以在此选择编译或者\n不编译。比如常见的V4L2 都需要自己打开（V4L2 是处理摄像头类用的）。",
+      "page_num": 13,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 14,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 14,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 14,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植OpenCV",
+      "page_num": 14,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "图2.2 7 进入配置信息页面\n点击CMAKE，在CMAKE_EXE_LINKER_FLAGS 处添加上“-lpthread -lrt -ldl”添加这些\n是指定依赖库的链接参数。上面的“-lxx”其中“-l”是大写字母“L”的小写字母“l”，不是\n数字“1”。\n图2.2 8 指定依赖库的链接参数",
+      "page_num": 14,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 15,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 15,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 15,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植OpenCV",
+      "page_num": 15,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "再在CMAKE_INSTALL_PREFIX 处指定安装目录，我们在上面已经新建了install 安装目\n录。如果不指定，它会默认安装到Ubuntu 系统目录/usr/local 下。再点击关闭。到这里我们已经\n完成配置\n图2.2 9 指定安装目录路径\n至此我们配置完，现在我们需要生成Makefile 等文件，我们先点击Configure，再点击Ge\nnerate 就可以生成了。\n图2.2 10 点击生成配置",
+      "page_num": 15,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 16,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| cd .. // 返回opencv源码顶层目录 |\n| --- |\n| vi 3rdparty/protobuf/src/google/protobuf/stubs/common.cc |",
+      "page_num": 16,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "cd .. // 返回opencv源码顶层目录"
+        ],
+        [
+          "vi 3rdparty/protobuf/src/google/protobuf/stubs/common.cc"
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| cd build/ |\n| --- |\n| make -j 16 |",
+      "page_num": 16,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "cd build/"
+        ],
+        [
+          "make -j 16"
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 16,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 16,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植OpenCV",
+      "page_num": 16,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "2.3 编译OpenCV 源码",
+      "page_num": 16,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.3 编译OpenCV 源码"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "先不要急着输入make。首先在源码目录3rdparty/protobuf/src/google/protobuf/stubs/common.\ncc 这个文件下第33 行添加#define HAVE_PTHREAD 宏定义才可以编译的过。具体原因是HA\nVE_PTHREAD 宏定义了pthread 库。在如下位置添加即可。\ncd ..\n// 返回opencv 源码顶层目录\nvi 3rdparty/protobuf/src/google/protobuf/stubs/common.cc\n图2.3 1 添加宏定义\n修改完成后，返回于是build 目录下，可以看到bulid 目录下已经准备了构建文件。我们直\n接输入make 构建即可。\ncd build/\nmake -j 16\n图2.3 2 执行make 编译",
+      "page_num": 16,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.3 编译OpenCV 源码"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 17,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.3 编译OpenCV 源码"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| make install |\n| --- |\n| ls ../install |\n|  |",
+      "page_num": 17,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.3 编译OpenCV 源码"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "make install"
+        ],
+        [
+          "ls ../install"
+        ],
+        [
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 17,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 17,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植OpenCV",
+      "page_num": 17,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "编译完成如下图。如果有出错，先删除build 目录下的所有文件，按第2.2 小节重新再来一\n次！cmake-gui 尽量一次配置成功。\n图2.3 3 编译完成截图\n输入make install，把库安装在2.2 小节我们创建的install 目录下。然后使用ls 指令查看安\n装目录install。看到有如下图一样的文件，表明安装成功。\nmake install\nls ../install\n图2.3 4 安装成功和查看安装\n至此我们已经编译完成OpenCV 了。将当前目录下的lib 文件夹下的内容拷贝到正点原子I.\nMX6U 驱动指南里的busybox 文件系统/usr/lib 下即可。切记不要拷贝到开发板出厂系统里，因\n为出厂系统已经有OpenCV 库，再拷贝过去就会与本地的冲突。",
+      "page_num": 17,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 18,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 18,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 18,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植OpenCV",
+      "page_num": 18,
+      "section_path": [
+        "第二章 搭建OpenCV 3.4.1 的编译环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "第三章 Qt 项目中加入OpenCV",
+      "page_num": 18,
+      "section_path": [
+        "第三章 Qt 项目中加入OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "本章将介绍如何在Qt 项目中加入OpenCV。",
+      "page_num": 18,
+      "section_path": [
+        "第三章 Qt 项目中加入OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 19,
+      "section_path": [
+        "第三章 Qt 项目中加入OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| INCLUDEPATH += /home/alientek/opencv/install/include |\n| --- |\n| LIBS += ../../lib/libopencv_core.so \\ |\n| ../../lib/libopencv_highgui.so \\ |\n| ../../lib/libopencv_imgproc.so \\ |\n| ../../lib/libopencv_videoio.so \\ |\n| ../../lib/libopencv_imgcodecs.so |",
+      "page_num": 19,
+      "section_path": [
+        "第三章 Qt 项目中加入OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "INCLUDEPATH += /home/alientek/opencv/install/include"
+        ],
+        [
+          "LIBS += ../../lib/libopencv_core.so \\"
+        ],
+        [
+          "../../lib/libopencv_highgui.so \\"
+        ],
+        [
+          "../../lib/libopencv_imgproc.so \\"
+        ],
+        [
+          "../../lib/libopencv_videoio.so \\"
+        ],
+        [
+          "../../lib/libopencv_imgcodecs.so"
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| #include <opencv2/imgproc/imgproc_c.h> |\n| --- |\n| #include <opencv2/highgui/highgui.hpp> |\n| #include <opencv2/imgproc.hpp> |\n| #include <opencv/cv.h> |",
+      "page_num": 19,
+      "section_path": [
+        "第三章 Qt 项目中加入OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "#include <opencv2/imgproc/imgproc_c.h>"
+        ],
+        [
+          "#include <opencv2/highgui/highgui.hpp>"
+        ],
+        [
+          "#include <opencv2/imgproc.hpp>"
+        ],
+        [
+          "#include <opencv/cv.h>"
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 19,
+      "section_path": [
+        "第三章 Qt 项目中加入OpenCV",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 19,
+      "section_path": [
+        "第三章 Qt 项目中加入OpenCV",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植OpenCV",
+      "page_num": 19,
+      "section_path": [
+        "第三章 Qt 项目中加入OpenCV",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "3.1 在Qt 项目中加入OpenCV",
+      "page_num": 19,
+      "section_path": [
+        "第三章 Qt 项目中加入OpenCV",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "3.1 在Qt 项目中加入OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "打开Qt 项目的pro 文件，在里面添加如下内容。\nINCLUDEPATH += /home/alientek/opencv/install/include\nLIBS += ../../lib/libopencv_core.so \\\n../../lib/libopencv_highgui.so \\\n../../lib/libopencv_imgproc.so \\\n../../lib/libopencv_videoio.so \\\n../../lib/libopencv_imgcodecs.so\nh 头文件加入以下内容。注根据所需要添加相应的头文件。\n#include <opencv2/imgproc/imgproc_c.h>\n#include <opencv2/highgui/highgui.hpp>\n#include <opencv2/imgproc.hpp>\n#include <opencv/cv.h>\n其中/home/alientek/opencv/install/include 需要改为自己的OpenCV 路径。Qt 的pro 文件需要\n在上一章节OpenCV 安装目录下的lib 的前两级目录下才能正常使用！Qt + OpenCV 相关应用\n程序由读者自由开发。",
+      "page_num": 19,
+      "section_path": [
+        "第三章 Qt 项目中加入OpenCV",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "3.1 在Qt 项目中加入OpenCV"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "附录-A",
+      "page_num": 19,
+      "section_path": [
+        "第三章 Qt 项目中加入OpenCV",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "附录-A"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    }
+  ]
+}

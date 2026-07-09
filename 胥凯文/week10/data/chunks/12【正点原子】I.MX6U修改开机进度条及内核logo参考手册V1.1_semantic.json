@@ -1,0 +1,983 @@
+[
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 1,
+      "section": "",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00000"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 2,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00001"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 3,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > 请下载原子哥APP，数千讲视频免费学习，更快更流畅。",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00002"
+  },
+  {
+    "content": "| 版本 | 版本更新说明 | 负责人 | 校审 | 发布日期 |\n| --- | --- | --- | --- | --- |\n| V1.0 | 初稿：添加修改内核logo和进度条 的内容，提供修改好的psplash源码 | 正点原子 linux团队 | 正点原子 linux团队 | 2021.01.04 |\n| V1.1 | 添加第三章 设置内核logo全屏显 示。 添加1.4小节删除出厂系统进度条 | 正点原子 linux团队 | 正点原子 linux团队 | 2022.6.15 |",
+    "metadata": {
+      "page_num": 3,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > 请下载原子哥APP，数千讲视频免费学习，更快更流畅。",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00003"
+  },
+  {
+    "content": "文档更新说明\n\n版本\n版本更新说明\n负责人\n校审\n发布日期\nV1.0\n初稿：添加修改内核logo 和进度条\n的内容，提供修改好的psplash 源码\n正点原子\nlinux 团队\n正点原子\nlinux 团队\n2021.01.04\nV1.1\n添加第三章 设置内核logo 全屏显\n示。\n添加1.4 小节删除出厂系统进度条\n正点原子\nlinux 团队\n正点原子\nlinux 团队\n2022.6.15",
+    "metadata": {
+      "page_num": 3,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > 文档更新说明",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00004"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 4,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > 文档更新说明",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00005"
+  },
+  {
+    "content": "修改进度条及其logo ...................................................................................................... 5\n1.1 下载psplash 源码 ............................................................................................................ 5\n1.2 制作进度条和logo ......................................................................................................... 7\n1.3 替换出厂系统进度条和logo ........................................................................................ 11\n1.4 删除出厂系统进度条 .................................................................................................... 12\n修改内核logo ................................................................................................................ 16\n2.1 图片准备........................................................................................................................ 16\n2.2 源码准备........................................................................................................................ 16\n2.3 图片格式转换 ................................................................................................................ 17\n2.4 配置内核logo 显示 ...................................................................................................... 19\n2.5 编译内核........................................................................................................................ 21\n设置内核logo 全屏 ....................................................................................................... 22\n3.1 图片准备........................................................................................................................ 22\n3.2 修改内核logo 全屏 ...................................................................................................... 23\n3.3 验证测试........................................................................................................................ 24",
+    "metadata": {
+      "page_num": 4,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > 目录",
+      "block_types": [
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00006"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 5,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > 目录",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00007"
+  },
+  {
+    "content": "1.1 下载psplash 源码\n\n可以在网上下载psplash 源码，正点原子也提供了修改好的psplash 源码在光盘中。\n光盘路径：开发板光盘A-基础资料\\1、例程源码\\7、第三方库源码\\psplash\\psplash.tar.gz\n在Ubuntu 中创建一个psplash 文件夹用于存放本文档的源码，将psplash.tar.gz 源码放到此\n目录下解压。\ntar -vxf psplash.tar.gz\n图 1.1-1 解压psplash.tar\n解压完后会看到一个make-image-header.sh 的脚本，等下会使用这个脚本来将图片变转化\n成头文件。\n图 1.1-2 查看psplash 里的文件\n在使用脚本之前，需要安装库，否则会报错。\nsudo apt-get install libgdk-pixbuf2.0-dev",
+    "metadata": {
+      "page_num": 5,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > 1.1 下载psplash 源码",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00008"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 6,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > 1.1 下载psplash 源码",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00009"
+  },
+  {
+    "content": "I.MX6U 修改内核logo 及开机进度条参考手册\n\n图 1.1-3 安装库\n将光盘提供的如下图片复制到psplash 源码中。\n光盘路径：开发板光盘A-基础资料\\1、例程源码\\7、第三方库源码\\psplash \\logo-alientek.png\n主图片logo-alientek.png，即正点原子的logo。\n图 1.1-4 logo-alientek.png\n进度条的外框logo-psplash-bar.png。\n光盘路径：开发板光盘A-基础资料\\1、例程源码\\7、第三方库源码\\psplash\\logo-psplash-\nbar.png\n图 1.1-5 logo-psplash-bar.png\n将这两张图片拷贝到psplash 源码目录中，如下图所示。\n图 1.1-6 将图片放入psplash 源码",
+    "metadata": {
+      "page_num": 6,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > I.MX6U 修改内核logo 及开机进度条参考手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00010"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 7,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > I.MX6U 修改内核logo 及开机进度条参考手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00011"
+  },
+  {
+    "content": "| ./make-image-header.sh logo-alientek.png POKY |\n| --- |\n| ls |",
+    "metadata": {
+      "page_num": 7,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > I.MX6U 修改内核logo 及开机进度条参考手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00012"
+  },
+  {
+    "content": "| ./make-image-header.sh logo-psplash-bar.png BAR |\n| --- |\n| ls |",
+    "metadata": {
+      "page_num": 7,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > I.MX6U 修改内核logo 及开机进度条参考手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00013"
+  },
+  {
+    "content": "1.2 制作进度条和logo\n\n在psplash 源码中执行以下指令来生成logo-alientek-img.h\n./make-image-header.sh logo-alientek.png POKY\nls\n图 1.2-1 生成logo-alientek-img.h\nPOKY 参数只是一个变量，它会传入到logo-alientek-img.h 文件里面，可以打开查看。\nvi logo-alientek-img.h\n图 1.2-2 打开logo-alientek-img.h\n可以看到它必须是要加POKY 参数的，因为其他地方要用到这样的宏定义。\n返回到psplash 源码下，执行以下指令生成psplash-bar-img.h\n./make-image-header.sh logo-psplash-bar.png BAR\nls\n图 1.2-3 生成psplash-bar-img.h\n同样我们打开logo-psplash-bar-img.h 这个文件。它必须是加BAR 参数的，因为其他地方会\n用到这样的宏定义。\nvi logo-psplash-bar-img.h",
+    "metadata": {
+      "page_num": 7,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > 1.2 制作进度条和logo",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00014"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 8,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > 1.2 制作进度条和logo",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00015"
+  },
+  {
+    "content": "| vi psplash.c |\n| --- |\n|  |",
+    "metadata": {
+      "page_num": 8,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > 1.2 制作进度条和logo",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00016"
+  },
+  {
+    "content": "| #!/bin/bash |\n| --- |\n| aclocal |\n| autoheader |\n| automake --add-missing |",
+    "metadata": {
+      "page_num": 8,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > 1.2 制作进度条和logo",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00017"
+  },
+  {
+    "content": "I.MX6U 修改内核logo 及开机进度条参考手册\n\n图 1.2-4 查看logo-psplash-bar-img.h\n打开psplash.c，将里面的 #include \"psplash-poky-img.h\" 修改成 #include \"logo-alientek-\nimg.h\"。将里面的 #include \" psplash-bar-img.h\" 修改成 #include \" logo-psplash-bar-img.h\"。修改\n完后如下图所示。\nvi psplash.c\n图 1.2-5 修改psplash.c\n修改完成后保存退出psplash.c，返回到源码目录下。\n制作autogen.sh 脚本，用于生成Makefile。\nvi autogen.sh\n脚本内容如下。\n#!/bin/bash\naclocal\nautoheader\nautomake --add-missing",
+    "metadata": {
+      "page_num": 8,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > I.MX6U 修改内核logo 及开机进度条参考手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00018"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 9,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > I.MX6U 修改内核logo 及开机进度条参考手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00019"
+  },
+  {
+    "content": "| autoconf |\n| --- |\n|  |",
+    "metadata": {
+      "page_num": 9,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > I.MX6U 修改内核logo 及开机进度条参考手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00020"
+  },
+  {
+    "content": "| chmod +x autogen.sh |\n| --- |\n| ./autogen.sh |",
+    "metadata": {
+      "page_num": 9,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > I.MX6U 修改内核logo 及开机进度条参考手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00021"
+  },
+  {
+    "content": "I.MX6U 修改内核logo 及开机进度条参考手册\n\nautoconf\n图 1.2-6 autogen.sh 脚本内容\n制作完脚本后，赋予它可执行权限，再执行这个脚本。\nchmod +x autogen.sh\n./autogen.sh\n图 1.2-7 赋予脚本可执行权限并执行脚本\n修改Makefile.am，将psplash-poky-img.h 修改成logo-alientek-img.h，将psplash-bar-img.h 修\n改成logo- psplash-bar-img.h\nvi Makefile.am\n修改完后的Makefile.am 如下图所示。\n图 1.2-8 修改Makefile.am\n修改完Makefile.am 后保存退出，回到源码目录下。\n执行以下指令，使能环境变量。\nsource /opt/fsl-imx-x11/4.1.15-2.1.0/environment-setup-cortexa7hf-neon-poky-linux-gnueabi",
+    "metadata": {
+      "page_num": 9,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > I.MX6U 修改内核logo 及开机进度条参考手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00022"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 10,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > I.MX6U 修改内核logo 及开机进度条参考手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00023"
+  },
+  {
+    "content": "| make |\n| --- |\n|  |",
+    "metadata": {
+      "page_num": 10,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > I.MX6U 修改内核logo 及开机进度条参考手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00024"
+  },
+  {
+    "content": "I.MX6U 修改内核logo 及开机进度条参考手册\n\n图 1.2-9 使能环境变量\n环境变量使能后，就可以执行以下指令配置交叉编译工具链。\n./configure --host=arm-linux\n图 1.2-10 配置交叉编译工具链\n执行make 指令进行编译。\nmake\n图 1.2-11 编译源码\n编译完成后会在源码目录下生成psplash 和psplash-write 文件。\n图 1.2-12 生成的psplash 和psplash-write 文件",
+    "metadata": {
+      "page_num": 10,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > I.MX6U 修改内核logo 及开机进度条参考手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00025"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 11,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > I.MX6U 修改内核logo 及开机进度条参考手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00026"
+  },
+  {
+    "content": "1.3 替换出厂系统进度条和logo\n\n将编译生成的psplash 和psplash-write 文件拷贝到开发板出厂文件系统/usr/bin 目录下。\n图 1.3-1 拷贝psplash 文件到开发板/usr/bin\n在开发板/etc/init.d 中已存在psplash.sh 脚本。\n图 1.3-2 开发板/etc/init.d 中的psplash.sh 脚本\n在开发板/etc/rcS.d 目录下已存在psplash.sh 的链接，用于开机启动。\n图 1.3-3 开发板/etc/rcS.d 下的psplash.sh 链接\n完成后启动开发板，可以看到如下界面。（注：作者这里使用手机拍照，所以拍下来会有\n一些阴影。）",
+    "metadata": {
+      "page_num": 11,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > 1.3 替换出厂系统进度条和logo",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00027"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 12,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > 1.3 替换出厂系统进度条和logo",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00028"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 13,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > 1.4 删除出厂系统进度条",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00029"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 14,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > I.MX6U 修改内核logo 及开机进度条参考手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00030"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 15,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > I.MX6U 修改内核logo 及开机进度条参考手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00031"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 16,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > I.MX6U 修改内核logo 及开机进度条参考手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00032"
+  },
+  {
+    "content": "| tar vxf 内核源码包 |\n| --- |\n| ls |",
+    "metadata": {
+      "page_num": 16,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > I.MX6U 修改内核logo 及开机进度条参考手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00033"
+  },
+  {
+    "content": "修改内核logo\n\n修改完出厂系统的进度条后，我们发现开机后仍后正点原子的出厂logo 存在，这并不是刚\n刚的修改失败，因为这个是内核的logo，我们刚刚修改的是进度条界面的logo。接下来我们就\n来修改内核的logo。",
+    "metadata": {
+      "page_num": 16,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > 修改内核logo",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00034"
+  },
+  {
+    "content": "2.1 图片准备\n\n图片要求：\n格式：BMP 或者PNG 格式。如果是别的格式的图片，可以通过Windows 自带的画图软件\n来另存为BMP 或者PNG 格式。\n分辨率：不能高于屏幕LCD 的分辨率。可以用画图软件，可以对图片右键选择属性，在详\n细信息中可以看到图片的分辨率。\n这里以光盘源码中的logo-linux.png 为例。\n光盘路径：开发板光盘A-基础资料\\1、例程源码\\7、第三方库源码\\psplash",
+    "metadata": {
+      "page_num": 16,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > 2.1 图片准备",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00035"
+  },
+  {
+    "content": "2.2 源码准备\n\n本文档以出厂系统为例。在Ubuntu 中新建一个linux-alientek 的文件夹用于存放出厂的内\n核源码。示例：将光盘中的出厂内核源码linux-imx-4.1.15-2.1.0-gb78e551-v1.4.tar.xz 拷贝到linux-\nalientek 目录中。请用网盘上最新的出厂内核源码编译。\n光盘路径：开发板光盘A-基础资料\\1、例程源码\\3、正点原子Uboot 和Linux 出厂源码\n解压内核源码。\ntar vxf 内核源码包\nls\n图 2.2-1 解压完的内核源码\n在文件管理器中进入内核源码的drivers/video/logo 目录下，可以看到启动内核时的logo。\n这里可以看到正点原子出厂系统内核启动的logo。",
+    "metadata": {
+      "page_num": 16,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > 2.2 源码准备",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00036"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 17,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > 2.2 源码准备",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00037"
+  },
+  {
+    "content": "I.MX6U 修改内核logo 及开机进度条参考手册\n\n图 2.2-2 内核源码里的logo\n将我们准备好的logo-linux.png 图片拷贝到这个目录中。拷贝完后的目录如下所示。\n图 2.2-3 已将准备的logo 拷贝到内核目录中\n将正点原子出厂系统logo 重命名为logo_linux_clut224_V1.ppm。因为我们等下要替换掉\nlogo_linux_clut224.ppm。\nmv logo_linux_clut224.ppm logo_linux_clut224_V1.ppm\n图 2.2-4 重命名原来的logo",
+    "metadata": {
+      "page_num": 17,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > I.MX6U 修改内核logo 及开机进度条参考手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00038"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 18,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > 2.3 图片格式转换",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00039"
+  },
+  {
+    "content": "| pngtopnm logo-linux.png > logo-linux.pnm |\n| --- |\n| pnmquant 224 logo-linux.pnm > logo-linux224.pnm |\n| pnmtoplainpnm logo-linux224.pnm > logo_linux_clut224.ppm |\n|  |",
+    "metadata": {
+      "page_num": 18,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > 2.3 图片格式转换",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00040"
+  },
+  {
+    "content": "图 2.3-1 安装netpbm 工具\n使用netpbm 工具转换图片，执行以下命令。\npngtopnm logo-linux.png > logo-linux.pnm\npnmquant 224 logo-linux.pnm > logo-linux224.pnm\npnmtoplainpnm logo-linux224.pnm > logo_linux_clut224.ppm\n图 2.3-2 转换图片格式\n分析：\npngtopnm logo-linux.png > logo-linux.pnm\n这步是将准备好的logo-linux.png 转换成logo-linux.pnm，即转换成pnm 格式。\npnmquant 224 logo-linux.pnm > logo-linux224.pnm\n这步是将logo-linux.pnm 图片的最大颜色数量改为224。\n注意，这里前后名字不能一样，可以理解为要另存为。否则会报错，如下图所示。\n图 2.3-3 报错信息\npnmtoplainpnm logo-linux224.pnm > logo_linux_clut224.ppm\n这步是将pnm 格式图片转换成ppm 格式，顺便将其重命名为logo_linux_clut224.ppm，我\n们是在内核源码的drivers/video/logo 目录下直接进行的，所以此步就直接替换内核原来的logo\n（之前的logo_linux_clut224.ppm 我们已经重命名了logo_linux_clut224_V1.ppm）\n如果不是在drivers/video/logo 目录下进行的转换，需要将转换好的logo_linux_clut224.ppm\n拷贝到drivers/video/logo 目录下替换掉原先的logo_linux_clut224.ppm。",
+    "metadata": {
+      "page_num": 18,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > I.MX6U 修改内核logo 及开机进度条参考手册",
+      "block_types": [
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00041"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 19,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > I.MX6U 修改内核logo 及开机进度条参考手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00042"
+  },
+  {
+    "content": "| sudo apt-get install lzop |\n| --- |\n| sudo apt-get install libncurses* |",
+    "metadata": {
+      "page_num": 19,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > I.MX6U 修改内核logo 及开机进度条参考手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00043"
+  },
+  {
+    "content": "| source /opt/fsl-imx-x11/4.1.15-2.1.0/environment-setup-cortexa7hf-neon-poky-linux-gnueabi |\n| --- |\n| make distclean |\n| make imx_v7_defconfig -j 16 |",
+    "metadata": {
+      "page_num": 19,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > I.MX6U 修改内核logo 及开机进度条参考手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00044"
+  },
+  {
+    "content": "2.4 配置内核logo 显示\n\n出厂系统的内核已经配置好logo 显示了，可以跳过此步。但为了文档的完整性，这里还是\n要说明一下。（注：这里使用的还是出厂的内核源码）\n执行以下命令安装编译内核要用到的库和显示menucofig 菜单时要用到的库。\nsudo apt-get install lzop\nsudo apt-get install libncurses*\n图 2.4-1 安装所需要用到的库\n返回到内核源码的顶层目录下，执行以下指令使能交叉编译器，清理并配置内核。（注\n意：如果没有安装文档对应的交叉编译器，请按照《I.MX6U用户快速体验》4.2小节搭建交叉\n编译环境来安装）\nsource /opt/fsl-imx-x11/4.1.15-2.1.0/environment-setup-cortexa7hf-neon-poky-linux-gnueabi\nmake distclean\nmake imx_v7_defconfig -j 16\n图 2.4-2 使能交叉编译器\n图 2.4-3 清理并配置内核\n执行以下命令打开配置菜单。\nmake menuconfig",
+    "metadata": {
+      "page_num": 19,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > 2.4 配置内核logo 显示",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00045"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 20,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > 2.4 配置内核logo 显示",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00046"
+  },
+  {
+    "content": "I.MX6U 修改内核logo 及开机进度条参考手册\n\n图 2.4-4 打开配置菜单\n打开后的界面如下所示。\n图 2.4-5 Kernel Configuration 界面\n注意，为了菜单显示完整，Ubuntu 终端要足够宽，如果终端宽度不够，就会报如下错误。\n图 2.4-6 因终端过小而引起的报错\n配置内核logo 显示。\nKernel Configuration 的基本用法：方向键上下选中目录/配置项，按回车键进入选中目录，\n按y 键设置配置项，按n 将取消配置项。按Esc 键返回上一级目录，在顶层目录按两下Esc 则\n退出。",
+    "metadata": {
+      "page_num": 20,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > I.MX6U 修改内核logo 及开机进度条参考手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00047"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 21,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > I.MX6U 修改内核logo 及开机进度条参考手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00048"
+  },
+  {
+    "content": "| ➔ Device Drivers |  |  |  |\n| --- | --- | --- | --- |\n|  | ➔ Graphics support |  |  |\n|  |  | ➔ Bootup logo |  |\n|  |  |  | [*] Standard 224-color Linux logo |",
+    "metadata": {
+      "page_num": 21,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > I.MX6U 修改内核logo 及开机进度条参考手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00049"
+  },
+  {
+    "content": "I.MX6U 修改内核logo 及开机进度条参考手册\n\n要进入的目录：\n➔ Device Drivers\n➔ Graphics support\n➔ Bootup logo\n[*]   Standard 224-color Linux logo\n将Standard 224-color Linux logo 选项选中，也可以直接将Bootup logo 整个选中。这样就配\n置了224 色彩的logo。连续按Esc 键直至退出Kernel Configuration，如果修改过配置，则会提\n示是否保存，选中yes 选项即可保存并退出。 如果Bootup logo 下还有别的logo 选项，要屏蔽\n掉（按N 键），只保留Standard 224-color Linux logo 这一项。",
+    "metadata": {
+      "page_num": 21,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > I.MX6U 修改内核logo 及开机进度条参考手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00050"
+  },
+  {
+    "content": "2.5 编译内核\n\n执行以下指令编译内核zImage 文件。\nmake zImage -j8\n编译成功就会提示zImage is ready。\n图 2.5-1 编译成功\n将arch/arm/boot 目录下的zImage 烧录到开发板或者使用TFTP 挂载到开发板上，启动开发\n板即可显示logo。\n图 2.5-2 显示效果",
+    "metadata": {
+      "page_num": 21,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > 2.5 编译内核",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00051"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 22,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > 2.5 编译内核",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00052"
+  },
+  {
+    "content": "设置内核logo 全屏\n\nV2.3版本的出厂内核上修复了logo不能全屏的问题，如果是使用V2.2及更老版本的内核，\n可以根据本章进行内核修改。\n正点原子出厂内核logo使用了一张428*214的图片，背景也是黑色的，如果使\n用样大小的图片就不需要进行居中操作。如果想要使用全屏的图片。那么可以修\n改以下文件。删除428*214的居中代码，后面用户想要全屏，经过研究代码发现：\n内核里有个代码判断logo的大小与屏的大小对比可能欠妥。对比logo的高度用了\nDIV_ROUND_UP取整操作。这样会导致误差，所以1024*600的屏幕没法全屏。\n要设置内核logo全屏的话，需要删除掉源码中对图片居中的设置判断。\n注意图片的尺寸大小要符合屏幕分辨率大小。",
+    "metadata": {
+      "page_num": 22,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > 设置内核logo 全屏",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00053"
+  },
+  {
+    "content": "3.1 图片准备\n\n这里笔者使用的是7寸1024*600的屏幕，准备了一张1024*600尺寸的图片。图\n片的背景色最好不要渐变色，效果不好。建议背景色使用纯色的。\n图 3.1-1 准备图片\n参考第二章的方法，生成图片的ppm 文件。将ppm 文件重命名为logo_linux_clut224.ppm\n并替换到内核源码drivers/video/logo 目录里。",
+    "metadata": {
+      "page_num": 22,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > 3.1 图片准备",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00054"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 23,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > 3.1 图片准备",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00055"
+  },
+  {
+    "content": "3.2 修改内核logo 全屏\n\n打开出厂内核源码drivers/video/console/fbcon.c 文件。\n搜索fbcon_prepare_logo 函数，注释掉logo 居中设置。\n添加logo_lines = logo_height / vc->vc_font.height;\n如下图所示：\n图 3.2-1 修改fbcon.c\n打开出厂内核源码drivers/video/fbdev/core/fbmem.c。",
+    "metadata": {
+      "page_num": 23,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > 3.2 修改内核logo 全屏",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00056"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 24,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > 3.2 修改内核logo 全屏",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00057"
+  },
+  {
+    "content": "I.MX6U 修改内核logo 及开机进度条参考手册\n\n搜索static int fb_show_logo_line 函数，注释掉logo 居中设置。\n如下图所示。\n图 3.2-2 修改fbmem.c",
+    "metadata": {
+      "page_num": 24,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > I.MX6U 修改内核logo 及开机进度条参考手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00058"
+  },
+  {
+    "content": "3.3 验证测试\n\n修改完这些文件后，编译出厂内核和设备树，替换到开发板上启动。进度条psplash 里也有\nlogo 图片，参考1.4 小节删除出厂系统进度条的方法，就可以实现开机显示全屏logo 直到进入\nQt 界面。\n图 3.3-1 内核logo 全屏",
+    "metadata": {
+      "page_num": 24,
+      "section": "I.MX6U 修改内核logo 及开机进度条参考手册 > I.MX6U 修改开机进度条及 > 内核logo 参考手册V1.1 > 3.3 验证测试",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "12【正点原子】I.MX6U修改开机进度条及内核logo参考手册V1.1.json"
+    },
+    "chunk_id": "__00059"
+  }
+]

@@ -1,0 +1,642 @@
+[
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 1,
+      "section": "",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00000"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 2,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00001"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 3,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1 > 请下载原子哥APP，数千讲视频免费学习，更快更流畅。",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00002"
+  },
+  {
+    "content": "| 版本 | 版本更新说明 | 负责人 | 校审 | 发布日期 |\n| --- | --- | --- | --- | --- |\n| V1.0 | 初稿： | 正点原子 linux团队 | 正点原子 linux团队 | 2020.2.25 |\n| V1.1 | 优化布局，订正部分内容 | 正点原子 linux团队 | 正点原子 linux团队 | 2020.11.24 |",
+    "metadata": {
+      "page_num": 3,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1 > 请下载原子哥APP，数千讲视频免费学习，更快更流畅。",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00003"
+  },
+  {
+    "content": "文档更新说明\n\n版本\n版本更新说明\n负责人\n校审\n发布日期\nV1.0\n初稿：\n正点原子\nlinux 团队\n正点原子\nlinux 团队\n2020.2.25\nV1.1\n优化布局，订正部分内容\n正点原子\nlinux 团队\n正点原子\nlinux 团队\n2020.11.24",
+    "metadata": {
+      "page_num": 3,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1 > 文档更新说明",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00004"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 4,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1 > 文档更新说明",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00005"
+  },
+  {
+    "content": "前言 ................................................................................................................................................ 5\n1.1 获取Debian 文件系统 .................................................................................................... 6\n1.2 拷贝Debian 文件系统到SD 卡 ................................................................................... 7\n1.3 启动Debian 文件系统 ................................................................................................... 9\n1.4 移植Debian 系统后需要做的几件事 ......................................................................... 11\n更新Debian 系统的软件源 .............................................................................. 11\n安装常用的软件 ................................................................................................. 12\n配置音频 ............................................................................................................. 14\n配置mplayer....................................................................................................... 15\n测试视频播放和音频播放 ................................................................................. 15",
+    "metadata": {
+      "page_num": 4,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1 > 目录",
+      "block_types": [
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00006"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 5,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1 > 目录",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00007"
+  },
+  {
+    "content": "前言\n\n文档介绍如何把Linaro 公司（一间非营利性质的开放源代码软件工程公司）的Debian 文\n件系统移植到正点原子IMX6ULL ALPHA 开发板上运行起来的。过程十分简单。IMX6ULL 跑\n这种轻量级的系统还是比较流畅的。文档没有什么技术性的操作，主要是带大家一起如何Debian\n文件系统在我们正点原子的ALPHA 开发板上运行起来！网上也有一些教程是教大家制作\nDebian 文件系统的教程，毕竟我们自己制作的可能没有Linaro 公司制作的优秀，请自行参考，\n不在我们讨论范围内。我们这篇文档的主要目的是介绍怎么快速去让Debian 文件系统在\nALPHA 板子上跑起来，及配置一些常用的软件。\n系统：Linaro 公司制作好的Debian 文件系统\n硬件平台：正点原子imx6ull ALPHA 开发板、MINI 开发板\n技能要求：",
+    "metadata": {
+      "page_num": 5,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1 > 前言",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00008"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 6,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1 > 2. 烧写系统：能够使用Mfgtool 烧写系统或者脚本烧写系统",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00009"
+  },
+  {
+    "content": "1.1 获取Debian 文件系统\n\n我们直接从Linaro 公司官方网站去获取Debian 文件系统（Linaro 公司制作的文件系统比\n较优秀）。我们直接在他们的官方网站下载最新的Debian 文件系统镜像即可。下面贴出下载地\n址。\nhttps://releases.linaro.org/debian/images/alip-armhf/\n复制到浏览器再打开，然后选择最近的镜像来下来即可。\n如下图，点击latest。\n图 1.1-1 从Linaro 公司官网选择最近的Debian 系统下载\n右击后缀名为tar.gz 的文件，选择为使用迅雷下载。未装迅雷软件的用户，请自行安装。\n因为用迅雷软件下载会稍快一些，这是作者体验过的。因为是国外开源网站，下载速度比较慢，\n使用迅雷下载大概有100kb~200kb 每秒。等待下载完成即可。（笔者也将下载好的Debian 文\n件系统压缩包放在了正点原子提供的资料盘A 盘中，具体路径如下：开发板光盘A-基础资料\n\\8、系统镜像\\3、其他系统镜像\\1、Debian 根文件系统镜像）\n以下介绍用迅雷下载官网文件的方法。\n找到最新的tar.gz 的文件压缩包，右键复制链接地址。\n图 1.1-2 复制下载链接\n在官网复制下载链接后，打开迅雷即可自动识别下载，也可以自己手动添加下载链接。",
+    "metadata": {
+      "page_num": 6,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1 > 1.1 获取Debian 文件系统",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00010"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 7,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1 > 1.1 获取Debian 文件系统",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00011"
+  },
+  {
+    "content": "I.MX6U 移植Debian 文件系统参考手册\n\n图 1.1-3 添加下载链接\n可以看到下载速度比官网的快很多。如果突然下载变得很慢，可以点击暂停再点击继续下\n载。\n图 1.1-4 下载Debian 文件系统包\n可以从上面的信息看到这个Debian 文件系统压缩包已经有500 兆那么大，解压之后会更\n大！所以我们不建议用mfgtool 来烧写这个超大文件系统，因为烧写十分的慢，且不能烧写到\nALPHA 核心板类型为Nandflash 的设备里，因为NandFlash 设备只有512 兆大。不建议使用\n网络NFS 挂载这个Debian 文件系统。NFS 挂载适用于简单调试之类的系统。跑Debian 文件\n系统还是烧写到实际的设备，这样性能比NFS 挂载的文件系统的方法强多了！",
+    "metadata": {
+      "page_num": 7,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1 > I.MX6U 移植Debian 文件系统参考手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00012"
+  },
+  {
+    "content": "1.2 拷贝Debian 文件系统到SD 卡\n\n这里SD 卡指的是Micro SD 卡，即TF 卡。\n为了统一，请先根据【正点原子】I.MX6U 用户快速体验V1.x.pdf 第2.2 小节，使用mfgtool\n烧写SD 卡或者用脚本烧写SD 卡的方法，先烧写出厂的系统到一张SD 卡上，SD 容量至少\n2GB 以上。（烧写出厂的固件，这样可以确保您的触摸、音频正常使用，不要使用您自己移植\n的内核和设备树、uboot，以防音频和触摸不能正常使用）。\n将下载好的压缩包传到Ubuntu 目录下。如下图，笔者上传到个人目录/home/alientek/debian\n下。",
+    "metadata": {
+      "page_num": 7,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1 > 1.2 拷贝Debian 文件系统到SD 卡",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00013"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 8,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1 > 1.2 拷贝Debian 文件系统到SD 卡",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00014"
+  },
+  {
+    "content": "I.MX6U 移植Debian 文件系统参考手册\n\n图 1.2-1 将Debian 文件系统压缩包拷贝到Ubuntu\n使用tar 指令将其解压，记住非root 用户请加sudo 权限。等待一会，就解压好了。\nsudo tar zxf linaro-jessie-alip-20161117-32.tar.gz\n图 1.2-2 解压后得到的文件夹\n使用读卡器，将制作好的SD 卡系统启动卡插到Ubuntu 中。可以看到SD 卡有两个分区\n如下。\n图 1.2-3 使用读卡器将启动卡接入Ubuntu 可看到两个分区图标\n使用df 指令查看这两个分区挂载的目录，请根据个人的具体确认，一般都自动挂载动\n/media/ +用户名+/boot 或者rootfs 路径下。\ndf\n/media/alientek/boot （启动分区，存放zImage 及设备树）\n/media/alientek/rootfs （文件系统分区，存放根文件系统）\n图 1.2-4 使用df 目录查看两个分区挂载的目录\n首先我们使用指令先删除出厂的根文件系统。红色部分请修改为个人的具体路径。\nsudo rm -rf /media/alientek/rootfs/*\n*符号表示通配符所有，这里表示删除该路径下所有文件。\n图 1.2-5 删除出厂的根文件系统",
+    "metadata": {
+      "page_num": 8,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1 > I.MX6U 移植Debian 文件系统参考手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00015"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 9,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1 > I.MX6U 移植Debian 文件系统参考手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00016"
+  },
+  {
+    "content": "| cd binary |\n| --- |\n| sudo mv * /media/alientek/rootfs/ |\n| sync |\n| ls /media/alientek/rootfs/ |",
+    "metadata": {
+      "page_num": 9,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1 > I.MX6U 移植Debian 文件系统参考手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00017"
+  },
+  {
+    "content": "I.MX6U 移植Debian 文件系统参考手册\n\n我们使用cd 指令进入binary 这个目录下，然后把binary 下面的所有内容使用mv 指令移\n动到/media/alientek/rootfs/目录下即可！红色部分请根据个人具体路径确认！移动文件系统需要\n时间，需要等待下。移动过去后需要执行sync 指令，这样可以防止数据未完全写入到设备里！\n最后再执行ls 指令即可查看文件系统内容。\ncd binary\nsudo mv * /media/alientek/rootfs/\nsync\nls /media/alientek/rootfs/\n图 1.2-6 移动Debian 文件系统到启动卡文件系统分区\n按如下图方法退出您的SD 卡后，直接拔出读卡器即可！\n图 1.2-7 卸载SD 卡系统启动卡\n（注：如需要直接替换到eMMC 下的根文件系统，也是一样的道理，请先删除eMMC 下\n的文件系统，把binary 下的所有内容拷贝过去即可）",
+    "metadata": {
+      "page_num": 9,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1 > I.MX6U 移植Debian 文件系统参考手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00018"
+  },
+  {
+    "content": "1.3 启动Debian 文件系统\n\n在第2 节里，已经拷贝Debian 文件系统到SD 卡系统卡，我们将SD 卡插到ALPHA 开\n发板底板SD 卡卡槽处（在底板背面，Mini 板在正面）。拨码开关设置为1000 0010，然后上\n电启动从SD 卡启动系统即可！\n在串口终端也可以查看到系统启动的信息，如下图。",
+    "metadata": {
+      "page_num": 9,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1 > 1.3 启动Debian 文件系统",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00019"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 10,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1 > 1.3 启动Debian 文件系统",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00020"
+  },
+  {
+    "content": "I.MX6U 移植Debian 文件系统参考手册\n\n图 1.3-1 Debian 系统启动过程部分截图\n在等待几十秒后，启动比较慢，已经成功加载Debian 系统桌面，出现这个设置网络失败的\n提示，点击“ok”即可。\n图 1.3-2 桌面启动成功\n串口终端打印的登录信息如下，如需要ssh 传输密码是linaro，用户名为linaro。\n图 1.3-3 串口登陆成功",
+    "metadata": {
+      "page_num": 10,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1 > I.MX6U 移植Debian 文件系统参考手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00021"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 11,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1 > I.MX6U 移植Debian 文件系统参考手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00022"
+  },
+  {
+    "content": "| deb http://mirrors.tuna.tsinghua.edu.cn/debian jessie main contrib non-free |\n| --- |\n| deb-src http://mirrors.tuna.tsinghua.edu.cn/debian jessie main contrib non-free |\n| deb http://mirrors.tuna.tsinghua.edu.cn/debian jessie-updates main contrib non-free |\n| deb-src http://mirrors.tuna.tsinghua.edu.cn/debian jessie-updates main contrib non-free |\n| deb http://mirrors.tuna.tsinghua.edu.cn/debian-security jessie/updates main contrib non-free |\n| deb-src http://mirrors.tuna.tsinghua.edu.cn/debian-security jessie/updates main contrib non-free |",
+    "metadata": {
+      "page_num": 11,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1 > I.MX6U 移植Debian 文件系统参考手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00023"
+  },
+  {
+    "content": "更新软件源的目的是从网络上获取可用的软件，从而应用到系统上。\n我们设置软件源为清华大学开源镜像站的debian 镜像源，因为默认的是国外的软件源，下\n载速度非常慢，所以更新为国内的软件源。\n在串口终端编辑/etc/apt/sources.list 这个文件。\nvi /etc/apt/sources.list\n先删除原来的内容，再添加以下内容。\ndeb http://mirrors.tuna.tsinghua.edu.cn/debian jessie main contrib non-free\ndeb-src http://mirrors.tuna.tsinghua.edu.cn/debian jessie main contrib non-free\ndeb http://mirrors.tuna.tsinghua.edu.cn/debian jessie-updates main contrib non-free\ndeb-src http://mirrors.tuna.tsinghua.edu.cn/debian jessie-updates main contrib non-free\ndeb http://mirrors.tuna.tsinghua.edu.cn/debian-security jessie/updates main contrib non-free\ndeb-src http://mirrors.tuna.tsinghua.edu.cn/debian-security jessie/updates main contrib non-free\n添加完成如下。\n图 1.4-1 修改源地址\n修改完后保存退出。\n在串口终端下输入apt-get update 来更新软件源列表，等待几十秒时间更新完成即可。\n注意：需要插上网线，确保能上网！\napt-get update",
+    "metadata": {
+      "page_num": 11,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1 > 更新Debian 系统的软件源",
+      "block_types": [
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00024"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 12,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1 > 更新Debian 系统的软件源",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00025"
+  },
+  {
+    "content": "安装常用的软件\n\n安装常用的软件smplayer（视频播放器）、viewnior（图片浏览器）、audacious（音频播\n放器）。下载这些软件来体验Debian 系统在ALPHA 板子上运行的情况。\n在串口终端下输入如下指令。\napt-get install smplayer viewnior audacious",
+    "metadata": {
+      "page_num": 12,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1 > 安装常用的软件",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00026"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 13,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1 > 安装常用的软件",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00027"
+  },
+  {
+    "content": "I.MX6U 移植Debian 文件系统参考手册\n\n图 1.4-3 安装常用的软件\n安装完成后，可以在桌面点击最左下角的图标查看安装的软件。如下两图.\n图 1.4-4 查看安装的音频、视频软件\n图 1.4-5 安装的图片浏览软件",
+    "metadata": {
+      "page_num": 13,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1 > I.MX6U 移植Debian 文件系统参考手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00028"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 14,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1 > I.MX6U 移植Debian 文件系统参考手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00029"
+  },
+  {
+    "content": "| cd audio-Settings/ |\n| --- |\n| cp asound.conf /etc/ |\n| cp asound.state /var/lib/alsa/ |\n| sync |",
+    "metadata": {
+      "page_num": 14,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1 > I.MX6U 移植Debian 文件系统参考手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00030"
+  },
+  {
+    "content": "配置音频\n\n从正点原子出厂的文件系统（路径为开发板光盘A-基础资料\\8、系统镜像\\1、出厂系统镜\n像\\3、文件系统\\ rootfs.tar.bz2）解压后找asound.conf 和asound.state 这两个文件，路径为\n/etc/asound.conf 和/var/lib/alsa/asound.state。\n为了方便，作者已经将这两个文件上传到github 了。\n我们可以在文件系统里使用git clone 指令把这两个文件克隆下来。使用如下指令。下载完\n成后有个audio-Settings 文件夹。\ngit clone https://github.com/dzm2018/audio-Settings.git\n图 1.4-6 从网上克隆音频配置文件\n进入audio-Settings 文件夹，将asound.state 和asound.conf 拷贝到对应的目录下即可！\ncd audio-Settings/\ncp asound.conf /etc/\ncp asound.state /var/lib/alsa/\nsync\n图 1.4-7 拷贝音频配置文件到指定目录\n然后断电重启或者输入reboot 重启即可！\n重启系统后，在桌面最左边查看Soun & Video 已安装软件列表，找到PulseAudio Volume\nControl（PulseAudio 音量控制），单击进入。\n图 1.4-8 打开音频管理器",
+    "metadata": {
+      "page_num": 14,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1 > 配置音频",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00031"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 15,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1 > 配置音频",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00032"
+  },
+  {
+    "content": "| mkdir /home/linaro/.mplayer/ |\n| --- |\n| vi /home/linaro/.mplayer/config |",
+    "metadata": {
+      "page_num": 15,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1 > 配置音频",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00033"
+  },
+  {
+    "content": "I.MX6U 移植Debian 文件系统参考手册\n\n可以看到音频默认输出设备为Speakers（扬声器），可切换成Headphones（耳机）。这里\n就不设置了，默认让它是Speakers，这样开发板底板的扬声器（喇叭就可以输出音频了）。还\n可以看到这里可以设置系统音量，左右声道的音量等。这些我们默认就可以了，按右上角的x\n关闭这个窗口。\n图 1.4-9 音频管理器界面",
+    "metadata": {
+      "page_num": 15,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1 > I.MX6U 移植Debian 文件系统参考手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00034"
+  },
+  {
+    "content": "配置mplayer\n\n经笔者实验测试，使smplyaer 在播放视频时拖动窗口，会出现声音与画面不同步的问题。\n解决方法：我们需要修改mplayer 的config 文件。config 文件在视频播放过之后才生成。\n我们可以先创建这个config 文件。输入以下指令创建。\nmkdir /home/linaro/.mplayer/\nvi /home/linaro/.mplayer/config\n在/home/linaro/.mplayer/config 添加以下内容。\nframedrop=yes\n保存退出后就可以了，执行cat 指令可以查看已添加了内容。\n图 1.4-10 已添加指定内容到/home/linaro/.mplayer/config",
+    "metadata": {
+      "page_num": 15,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1 > 配置mplayer",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00035"
+  },
+  {
+    "content": "测试视频播放和音频播放\n\n注意事项：使用smplayer 播放视频时，根据个人的屏幕大小，使用格式工厂将视频转化成\n相近的分辨率且码率比较低的视频。比如您手上的屏幕是800*480 的分辨率，建议您转化成\n480p 的视频。这样smplayer 播放会更流畅。不能播放1080p 视频，因为I.MX6ULL 芯片性能\n有限。视频质量尽可能低，请自行测试。",
+    "metadata": {
+      "page_num": 15,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1 > 测试视频播放和音频播放",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00036"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 16,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1 > 测试视频播放和音频播放",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00037"
+  },
+  {
+    "content": "I.MX6U 移植Debian 文件系统参考手册\n\n在ALPHA 板子上跑Debian 系统播放音频视频效果视频已经上传B 站，敬请观看。\n手机拍摄，清晰度不高，实际效果不错。B 站地址如下：\nhttps://www.bilibili.com/video/BV1b7411T7TZ?from=search&seid=16757728170032007004",
+    "metadata": {
+      "page_num": 16,
+      "section": "I.MX6U 移植Debian 文件系统参考手册 > I.MX6U 移植Debian 文件 > 系统参考手册V1.1 > I.MX6U 移植Debian 文件系统参考手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "13【正点原子】I.MX6U移植Debian文件系统参考手册V1.1.json"
+    },
+    "chunk_id": "__00038"
+  }
+]

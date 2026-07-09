@@ -1,0 +1,468 @@
+{
+  "meta": {
+    "filename": "14【正点原子】I.MX6U设计UI注意事项V1.0.pdf",
+    "stock_code": "",
+    "year": ""
+  },
+  "source": "d:\\BaiduNetdiskDownload\\week10检索增强生成\\week10 检索增强生成RAG\\week10 检索增强生成RAG\\rag_annual_report\\data\\raw_pdf\\14【正点原子】I.MX6U设计UI注意事项V1.0.pdf",
+  "blocks": [
+    {
+      "block_type": "text",
+      "content": "[扫描页，OCR 不可用（未安装 pytesseract/tesseract），内容跳过]",
+      "page_num": 1,
+      "section_path": [],
+      "is_ocr": true,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 2,
+      "section_path": [],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "正点原子公司名称 ：广州市星翼电子科技有限公司",
+      "page_num": 2,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学平台 ：www.yuanzige.com",
+      "page_num": 2,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+      "page_num": 2,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "正点原子淘宝店铺 ：https://openedv.taobao.com",
+      "page_num": 2,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "正点原子淘宝店铺 ：https://openedv.taobao.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "正点原子官方网站 ：www.alientek.com",
+      "page_num": 2,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "正点原子官方网站 ：www.alientek.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "正点原子B 站视频 ：",
+      "page_num": 2,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "正点原子B 站视频 ："
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "https://space.bilibili.com/394620890",
+      "page_num": 2,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "https://space.bilibili.com/394620890"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "电话：020-38271790   传真：020-36773971",
+      "page_num": 2,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "电话：020-38271790   传真：020-36773971"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "请关注正点原子公众号，资料发布更新我们会通知。",
+      "page_num": 2,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "请关注正点原子公众号，资料发布更新我们会通知。"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "请下载原子哥APP，数千讲视频免费学习，更快更流畅。",
+      "page_num": 2,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "请下载原子哥APP，数千讲视频免费学习，更快更流畅。"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 3,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "请下载原子哥APP，数千讲视频免费学习，更快更流畅。"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| 版本 | 版本更新说明 | 负责人 | 校审 | 发布日期 |\n| --- | --- | --- | --- | --- |\n| V1.0 | 初稿： | 正点原子 linux团队 | 正点原子 linux团队 | 2024.12.13 |",
+      "page_num": 3,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "请下载原子哥APP，数千讲视频免费学习，更快更流畅。"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "版本",
+          "版本更新说明",
+          "负责人",
+          "校审",
+          "发布日期"
+        ],
+        [
+          "V1.0",
+          "初稿：",
+          "正点原子\nlinux团队",
+          "正点原子\nlinux团队",
+          "2024.12.13"
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "文档更新说明",
+      "page_num": 3,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "文档更新说明"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "版本\n版本更新说明\n负责人\n校审\n发布日期\nV1.0\n初稿：\n正点原子\nlinux 团队\n正点原子\nlinux 团队\n2024.12.13",
+      "page_num": 3,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "文档更新说明"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 4,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "文档更新说明"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "目录",
+      "page_num": 4,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "目录"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "前言 ................................................................................................................................................ 5\n设计UI 注意事项 ............................................................................................................ 7\n1.1 关于屏幕.......................................................................................................................... 7\n1.2 设计UI 时注意事项 ....................................................................................................... 7\n1.3 关于UI 应用程序抢占屏幕............................................................................................ 7",
+      "page_num": 4,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "目录"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "[扫描页，OCR 不可用（未安装 pytesseract/tesseract），内容跳过]",
+      "page_num": 5,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "目录"
+      ],
+      "is_ocr": true,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 6,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "目录"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "免责声明",
+      "page_num": 6,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "免责声明"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "本文档所提及的产品规格和使用说明仅供参考，如有内容更新，恕不另行通知；除非有特\n殊约定，本文档仅作为产品指导，所作陈述均不构成任何形式的担保。本文档版权归广州市星\n翼电子科技有限公司所有，未经公司的书面许可，任何单位和个人不得以营利为目的进行任何\n方式的传播。\n为了得到最新版本的产品信息，请用户定时访问正点原子资料下载中心或者与淘宝正点原\n子旗舰店客服联系索取。感谢您的包容与支持。",
+      "page_num": 6,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "免责声明"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 7,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "免责声明"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "设计UI 注意事项",
+      "page_num": 7,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "设计UI 注意事项"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "1.1 关于屏幕",
+      "page_num": 7,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "1.1 关于屏幕"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "区分IPS 屏幕与非IPS 屏幕，背面有个贴纸，如下图，有IPS 字样的就是IPS 屏幕。没有\nIPS 即非IPS 屏幕。\nIPS 屏幕具有色彩还原准确，宽视角，透光效率高的特点。\n在Linux 下，若IPS 配置屏幕时序错误，长期没有数据，背光亮起的情况下容易产生屏幕\n极液化，屏幕（局部）发白（烧屏现象），这种情况可以断电将屏幕放置一晚上的时间就会恢\n复。如不处理，直接启动UI 会看到白屏，影响体验。",
+      "page_num": 7,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "1.1 关于屏幕"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "1.2 设计UI 时注意事项",
+      "page_num": 7,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "1.2 设计UI 时注意事项"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "使用IPS 屏幕尽量使用不透明度为1 背景，针对6ULL 少用大范围不透明度不为1 的设计，\n这样可以避免图像残留，用户体验会更好。产生图像残留的原因是6ULL 没有桌面窗口管理，\n使用Qt 或者LVGL 都是刷fb，没有图层管理，容易产生图像残留或者屏幕极液化。\n如下图，设置不透明度为0.5 的时候，可以看到图像残留。这个可能是屏幕极液化或图像\n残留，是两个图标，因为笔者设置这个不透明背景的不透明度不为1，能“看穿”背景。一段时\n间后（几分钟后）这个残留会消失！\n所以根据I.MX6ULL 性能，设置这个灰色背景的不透明度为1（默认不设置，不透明度就\n是为1 的）。在UI 设计尽量使用深色或者对比度比较明显的颜色来规避这种问题。让用户有更\n好的体验。",
+      "page_num": 7,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "1.2 设计UI 时注意事项"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "1.3 关于UI 应用程序抢占屏幕",
+      "page_num": 7,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "1.3 关于UI 应用程序抢占屏幕"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "由于出厂系统使用的是Linuxfb（fb 设备），没有像xserver，weston 这种常用的嵌入式桌\n面显示服务器，屏幕在Qt GUI 或者LVGL GUI 面前尤如一张白纸。比如现在有两个Qt 程序，",
+      "page_num": 7,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "1.3 关于UI 应用程序抢占屏幕"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 8,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "1.3 关于UI 应用程序抢占屏幕"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "这两个Qt 程序都想在这张白纸在绘制，那么同时绘制就会出现抢占这张白纸的情况，导致只绘\n制这个程序部分，出现“打架”现象。如果有窗口管理系统（像电脑一样），一个应用程序给\n它发一张白纸（一个窗口），这样就不会“打架”了。当一个程序要显示时，另一个程序通知\n它隐藏，这样的方式来优化，这样就不会出现打架现象了。",
+      "page_num": 8,
+      "section_path": [
+        "正点原子公司名称 ：广州市星翼电子科技有限公司",
+        "原子哥在线教学平台 ：www.yuanzige.com",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+        "1.3 关于UI 应用程序抢占屏幕"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    }
+  ]
+}
