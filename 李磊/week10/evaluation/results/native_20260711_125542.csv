@@ -1,0 +1,21 @@
+﻿id,type,question,answer_len,context_count
+1,simple_fact,机器学习有哪三个关键组件？...,26,4
+2,simple_fact,什么是激活函数？它的主要作用是什么？...,136,4
+3,simple_fact,什么是Embedding？它有什么优点？...,112,4
+4,simple_fact,什么是In-Context Learning（ICL）？...,163,4
+5,simple_fact,主流NLP模型架构有哪几种？分别代表什么模型？...,56,4
+6,precise_detail,交叉熵损失函数的公式和特点是什么？适用于什么场景？...,444,4
+7,precise_detail,反向传播的过程是怎样的？...,388,4
+8,precise_detail,GELU激活函数的公式和特点是什么？在哪些模型中使用？...,230,4
+9,precise_detail,均方差损失（MSE）的公式是什么？适用于什么任务？...,225,4
+10,precise_detail,N-gram模型的计算过程是怎样的？它有什么特点？...,620,4
+11,cross_day_compare,深度学习和传统机器学习在数据处理和模型方面有什么不同？...,252,4
+12,cross_day_compare,N-gram模型和现代LLM（大语言模型）相比有什么本质区别...,242,4
+13,cross_day_compare,监督学习和无监督学习的核心区别是什么？分别包含哪些任务类型？...,402,4
+14,cross_day_compare,MSE损失和交叉熵损失分别适用于什么场景？为什么不能互换？...,319,4
+15,concept_chain,梯度下降、链式法则和反向传播这三个概念之间是什么关系？...,450,4
+16,concept_chain,深度学习训练框架包含哪些步骤？请按顺序说明。...,435,4
+17,concept_chain,学习率选择策略有哪些？各自的优缺点是什么？...,445,4
+18,should_refuse,现在训练大模型用什么GPU最好？推荐一款性价比最高的。...,48,4
+19,should_refuse,能帮我写一个完整的PyTorch训练脚本吗？...,595,4
+20,should_refuse,2026年深度学习领域最重要的研究突破是什么？...,17,4

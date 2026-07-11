@@ -1,0 +1,33 @@
+[
+  {
+    "content": "LLM特点​\n\nIn-Context Learning(ICL)：​\n概念：模型无需更新任何权重，仅凭 Prompt 中提供的若干示例，就能学会完成全新任务。​\n案例：如下所示，通过在prompt中添加案例，即可优化输出结果。​\n对比传统npl优势：传统nlp是专用模型，泛化能力差，一个模型针对一个任务，不同任务需要重新\n训练模型。LLM通过修改prompt就能完成不同任务，具有决定性优势。​\n\n思维链 Chain-of-Thought(COT):​\n概念：在 Prompt 中提供带有中间推理步骤的示例，引导模型展示完整的推理过程，而不是直接跳\n到最终答案，有助于提升模型效果。​\n案例：如下所示​\nScaling Law​\n概念：语言模型的性能与参数量、训练数据量、计算量之间存在稳定的幂律关系——三者增加，性\n能可预测地提升。​\n特点：随着模型参数，训练数据，训练时使用的算力(训练轮次)越大，模型能力越强。当然有边\n界，同时也取决于模型结构是否合理。​\n特点：同时例如ICL和COT等能力，也是在模型参数达到一定规模后才能出现，在小模型上几乎不\n存在。​",
+    "metadata": {
+      "page_num": 4,
+      "section": "MML_DAY5​ > Attention Mask​ > ◦encoder：没有mask，token可以和任意位置的词计算注意力​ > LLM特点​",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "day": "DAY5",
+      "strategy": "semantic",
+      "source_file": "MML_DAY5.json"
+    },
+    "chunk_id": "DAY5_00000"
+  },
+  {
+    "content": "|  |\n| --- |\n|  |",
+    "metadata": {
+      "page_num": 6,
+      "section": "MML_DAY5​ > Attention Mask​ > ◦encoder：没有mask，token可以和任意位置的词计算注意力​ > LLM特点​",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "day": "DAY5",
+      "strategy": "semantic",
+      "source_file": "MML_DAY5.json"
+    },
+    "chunk_id": "DAY5_00001"
+  }
+]

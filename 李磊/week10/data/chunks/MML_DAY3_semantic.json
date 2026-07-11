@@ -1,0 +1,49 @@
+[
+  {
+    "content": "Embedding​\n\n概念：一种将文字映射为向量的组件，一般是固定映射的维度(列数)，根据字数确定行数。优点：\n有无限组合，解决维度灾难；可以表达字之间的距离关系。​\nEmbedding关键参数：​",
+    "metadata": {
+      "page_num": 1,
+      "section": "MML_DAY3​ > 深度学习常用组件​ > ADAM优化器​ > Embedding​",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "day": "DAY3",
+      "strategy": "semantic",
+      "source_file": "MML_DAY3.json"
+    },
+    "chunk_id": "DAY3_00000"
+  },
+  {
+    "content": "◦输出：(batch, seq_len, hidden_size），(1, batch, hidden_size）​\n\n双向传播：训练两个RNN/LSTM，分别以不同的顺序输入，得到双分的输出：(batch, seq_len,\nhidden_size*2），(2, batch, hidden_size）​",
+    "metadata": {
+      "page_num": 5,
+      "section": "MML_DAY3​ > 深度学习常用组件​ > ADAM优化器​ > ◦输出：(batch, seq_len, hidden_size），(1, batch, hidden_size）​",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "day": "DAY3",
+      "strategy": "semantic",
+      "source_file": "MML_DAY3.json"
+    },
+    "chunk_id": "DAY3_00001"
+  },
+  {
+    "content": "|  |\n| --- |\n|  |",
+    "metadata": {
+      "page_num": 7,
+      "section": "MML_DAY3​ > 深度学习常用组件​ > ADAM优化器​ > Dropout​",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "day": "DAY3",
+      "strategy": "semantic",
+      "source_file": "MML_DAY3.json"
+    },
+    "chunk_id": "DAY3_00002"
+  }
+]
