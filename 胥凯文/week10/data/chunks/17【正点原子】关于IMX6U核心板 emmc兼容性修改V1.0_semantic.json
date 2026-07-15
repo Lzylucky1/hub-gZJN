@@ -1,0 +1,67 @@
+[
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 1,
+      "section": "",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "17【正点原子】关于IMX6U核心板 emmc兼容性修改V1.0.json"
+    },
+    "chunk_id": "__00000"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 2,
+      "section": "论坛：www.openedv.com > 广州市星翼电子科技有限公司 > 关于IMX6U 核心板说明报告单 > 二〇二三年六月",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "17【正点原子】关于IMX6U核心板 emmc兼容性修改V1.0.json"
+    },
+    "chunk_id": "__00001"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 3,
+      "section": "论坛：www.openedv.com > 广州市星翼电子科技有限公司 > 二、问题分析",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "17【正点原子】关于IMX6U核心板 emmc兼容性修改V1.0.json"
+    },
+    "chunk_id": "__00002"
+  },
+  {
+    "content": "三、解决措施\n\n需要在设备树上添加一个属性字段，让emmc 驱动可以正常初始化。\n操作步骤如下：\n打开内核源码，找到产品对应的设备树。下面基于我们正点原子的出厂内核源码为例，客\n户有自己定义的设备树请在自己的设备树上添加，原理一样。\n正点原子IMX6U 开发板使用的设备树位于内核源码目录下的：arch\\arm\\boot\\dts\\imx6ull-\n14x14-evk.dts\n打开设备树找到 “usdhc2”节点，没有的话可以在自己设备树末尾追加新节点\n在“usdhc2”节点里面添加“no-1-8-v;”属性字段。\n具体如下图：\n给“usdhc2”节点添加“no-1-8-v;”属性字段，即可解决这个问题\n添加好之后，将文件保存，重新编译内核设备树。将新生成的设备树dtb 文件替换到自己\n固件里面，重新烧写进去。",
+    "metadata": {
+      "page_num": 3,
+      "section": "论坛：www.openedv.com > 广州市星翼电子科技有限公司 > 三、解决措施",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "17【正点原子】关于IMX6U核心板 emmc兼容性修改V1.0.json"
+    },
+    "chunk_id": "__00003"
+  }
+]

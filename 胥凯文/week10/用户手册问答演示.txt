@@ -1,0 +1,142 @@
+Microsoft Windows [版本 10.0.26100.4652]
+(c) Microsoft Corporation。保留所有权利。
+
+C:\Users\admin\Desktop\rag_annual_report\src>conda activate py312
+
+(py312) C:\Users\admin\Desktop\rag_annual_report\src>python rag_pipeline.py
+2026-07-09 23:36:52,440 [INFO] Loading faiss with AVX2 support.
+2026-07-09 23:36:52,440 [INFO] Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+2026-07-09 23:36:52,440 [INFO] Loading faiss.
+2026-07-09 23:36:52,453 [INFO] Successfully loaded faiss.
+2026-07-09 23:36:52,590 [INFO] FAISS 索引加载完成，共 12896 条向量
+2026-07-09 23:36:52,783 [INFO] 构建 BM25 索引（分词中，请稍候）...
+Building prefix dict from the default dictionary ...
+2026-07-09 23:36:52,783 [DEBUG] Building prefix dict from the default dictionary ...
+Loading model from cache C:\Users\admin\AppData\Local\Temp\jieba.cache
+2026-07-09 23:36:52,786 [DEBUG] Loading model from cache C:\Users\admin\AppData\Local\Temp\jieba.cache
+Loading model cost 0.457 seconds.
+2026-07-09 23:36:53,239 [DEBUG] Loading model cost 0.457 seconds.
+Prefix dict has been built successfully.
+2026-07-09 23:36:53,239 [DEBUG] Prefix dict has been built successfully.
+2026-07-09 23:37:01,931 [INFO] BM25 索引完成
+MX6U用户 RAG 问答系统（原生版）
+模型：qwen-plus  |  向量库：C:\Users\admin\Desktop\rag_annual_report\vectorstore\faiss_index.bin
+输入 'exit' 退出，'mode' 查看当前配置
+
+问题：RGB7寸屏极化现象是什么原因
+2026-07-09 23:37:04,571 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/embeddings "HTTP/1.1 200 OK"
+2026-07-09 23:37:04,579 [INFO] 向量召回: 10 条，最高分=0.782
+2026-07-09 23:37:04,606 [INFO] BM25 召回: 10 条，RRF 后: 17 条
+2026-07-09 23:37:09,226 [INFO] NumExpr defaulting to 12 threads.
+2026-07-09 23:37:09,836 [INFO] No device provided, using cpu
+2026-07-09 23:37:09,836 [INFO] No modules.json found for C:\Users\admin\Desktop\rag_annual_report\models\bge-reranker-base, initializing a new CrossEncoder model.
+Batches: 100%|███████████████████████████████████████████████████████████████████████| 1/1 [00:03<00:00,  3.10s/it]
+2026-07-09 23:37:13,579 [INFO] 最终使用 4 条上下文
+2026-07-09 23:37:17,654 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+
+============================================================
+问题：RGB7寸屏极化现象是什么原因
+============================================================
+
+RGB 7寸屏极化现象的根本原因在于 **I.MX6ULL 平台缺乏桌面窗口管理能力**，导致使用 Qt 或 LVGL 等框架时直接刷帧缓冲（fb ），没有图层管理和画面合成机制，从而在显示不透明度（opacity）不为 1 的 UI 元素时，产生图像残留或“屏幕极液化”（即资料中所称的“极化现象”）[4]。
+
+具体表现为：当 UI 中设置半透明（如不透明度为 0.5）背景时，因底层无法正确覆盖或清除旧像素，造成视觉残留；该残留虽可能在几分钟后消失，但已影响用户体验，并被归类为极化/极液化现象[4]。
+
+此外，硬件层面的屏幕背光持续供电及 LCD 驱动长期静态显示也可能加剧该现象，因此解决方案包括软件上关闭背光（设 `default-brightness-level = 0`）和禁用 LCD 显示节点（`&lcdif status = "disabled"`），以从源头避免极化发生[1]。
+
+── 来源 ──
+  [1]  用户手册 · 原子哥在线教学：https://www.yuanzige.com   论坛： > http://www.openedv.com/forum.php > RGB 七寸屏 极化解决 > 1.3 解决措施 · 第8页
+  [2]  用户手册 · 原子哥在线教学：https://www.yuanzige.com   论坛： > http://www.openedv.com/forum.php > RGB 七寸屏 极化解决 > RGB 七寸屏极化解决 · 第9页
+  [3]  用户手册 · 原子哥在线教学：https://www.yuanzige.com   论坛： > http://www.openedv.com/forum.php > RGB 七寸屏 极化解决 > 文档更新说明 · 第3页
+  [4]  用户手册 · 正点原子公司名称 ：广州市星翼电子科技有限公司 > 原子哥在线教学平台 ：www.yuanzige.com > 开源电子网 /  论坛 ：http://www.openedv.com/forum.php > 1.2 设计UI 时注意事项 · 第7页
+问题：使用旧版本固件不能识别emmc，如何解决
+2026-07-09 23:37:48,027 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/embeddings "HTTP/1.1 200 OK"
+2026-07-09 23:37:48,035 [INFO] 向量召回: 10 条，最高分=0.775
+2026-07-09 23:37:48,068 [INFO] BM25 召回: 10 条，RRF 后: 17 条
+2026-07-09 23:37:48,072 [INFO] No device provided, using cpu
+2026-07-09 23:37:48,072 [INFO] No modules.json found for C:\Users\admin\Desktop\rag_annual_report\models\bge-reranker-base, initializing a new CrossEncoder model.
+Batches: 100%|███████████████████████████████████████████████████████████████████████| 1/1 [00:04<00:00,  4.52s/it]
+2026-07-09 23:37:53,307 [INFO] 最终使用 4 条上下文
+2026-07-09 23:37:57,560 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+
+============================================================
+问题：使用旧版本固件不能识别emmc，如何解决
+============================================================
+
+使用旧版本固件不能识别eMMC的问题，可通过在设备树中为`usdhc2`节点添加`no-1-8-v;`属性字段来解决，该属性可使eMMC驱动正 常初始化[1]。具体操作包括：
+
+- 找到对应设备树文件（如正点原子IMX6U开发板为`arch/arm/boot/dts/imx6ull-14x14-evk.dts`）；
+- 在`usdhc2`节点下添加`no-1-8-v;`属性；
+- 保存后重新编译设备树，生成新的`.dtb`文件；
+- 将新编译的设备树文件拷贝至eMMC的boot分区（挂载路径为`/run/media/mmcblk1p1`），替换原有设备树文件[3]。
+
+此外，还需确保内核镜像（`zImage`）和文件系统（`rootfs.tar.bz2`）已正确更新并写入eMMC对应分区，并执行`sync`命令同步数据，防止写入不完整[2][4]。
+
+── 来源 ──
+  [1]  用户手册 · 论坛：www.openedv.com > 广州市星翼电子科技有限公司 > 三、解决措施 · 第3页
+  [2]  用户手册 · I.MX6U 开发板文件拷贝&固件分步更新手册 > I.MX6U 开发板文件拷贝& > 固件分步更新手册V1.2 > I.MX6U 开发板文件拷贝&固件分步更新手册 · 第31页
+  [3]  用户手册 · I.MX6U 开发板文件拷贝&固件分步更新手册 > I.MX6U 开发板文件拷贝& > 固件分步更新手册V1.2 > 更新设备 树到eMMC · 第28页
+  [4]  用户手册 · I.MX6U 开发板文件拷贝&固件分步更新手册 > I.MX6U 开发板文件拷贝& > 固件分步更新手册V1.2 > 更新内核 到eMMC · 第29页
+问题：MX6U的SPI总线的基地址是多少
+2026-07-09 23:38:03,036 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/embeddings "HTTP/1.1 200 OK"
+2026-07-09 23:38:03,046 [INFO] 向量召回: 10 条，最高分=0.716
+2026-07-09 23:38:03,080 [INFO] BM25 召回: 10 条，RRF 后: 18 条
+2026-07-09 23:38:03,082 [INFO] No device provided, using cpu
+2026-07-09 23:38:03,085 [INFO] No modules.json found for C:\Users\admin\Desktop\rag_annual_report\models\bge-reranker-base, initializing a new CrossEncoder model.
+Batches: 100%|███████████████████████████████████████████████████████████████████████| 1/1 [00:04<00:00,  4.25s/it]
+2026-07-09 23:38:08,016 [INFO] 最终使用 4 条上下文
+2026-07-09 23:38:10,964 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+
+============================================================
+问题：MX6U的SPI总线的基地址是多少
+============================================================
+
+根据提供的参考资料，其中未提及 MX6U 的 SPI 总线基地址（如寄存器映射地址、物理地址或内存映射地址等信息）。
+
+参考资料中仅涉及 SPI 相关的 **IO 口复用问题**（如 SPI 与 UART2 IO 复用，需注释 UART2 相关配置以解决传感器值为 0 的问题）[3]，但未给出任何关于 SPI 控制器寄存器基地址的具体数值或地址范围。
+
+因此，**根据提供的资料无法回答此问题**。
+
+── 来源 ──
+  [1]  用户手册 · I.MX6U 常见问题汇总 > I.MX6U 常见问题汇总V1.3 > I.MX6U 常见问题汇总 > I.MX6U 常见问题汇总 · 第88页  [2]  用户手册 · I.MX6U 常见问题汇总 > I.MX6U 常见问题汇总V1.3 > I.MX6U 常见问题汇总 > I.MX6U 常见问题汇总 · 第89页  [3]   用户手册 · I.MX6U 常见问题汇总 > I.MX6U 常见问题汇总V1.3 > I.MX6U 常见问题汇总 > I.MX6U 常见问题汇总 · 第104 页
+  [4]  用户手册 · I.MX6U 常见问题汇总 > I.MX6U 常见问题汇总V1.3 > I.MX6U 常见问题汇总 > I.MX6U 常见问题汇总 · 第114 页
+问题：如何移植QT5
+2026-07-09 23:38:15,294 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/embeddings "HTTP/1.1 200 OK"
+2026-07-09 23:38:15,311 [INFO] 向量召回: 10 条，最高分=0.753
+2026-07-09 23:38:15,325 [INFO] BM25 召回: 10 条，RRF 后: 17 条
+2026-07-09 23:38:15,328 [INFO] No device provided, using cpu
+2026-07-09 23:38:15,328 [INFO] No modules.json found for C:\Users\admin\Desktop\rag_annual_report\models\bge-reranker-base, initializing a new CrossEncoder model.
+Batches: 100%|███████████████████████████████████████████████████████████████████████| 1/1 [00:04<00:00,  4.30s/it]
+2026-07-09 23:38:20,830 [INFO] 最终使用 4 条上下文
+2026-07-09 23:38:32,088 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+
+============================================================
+问题：如何移植QT5
+============================================================
+
+根据参考资料，移植 Qt5（具体为 Qt5.12.9）到 I.MX6U 平台主要有两种方法，推荐使用 **Buildroot 构建 Qt 根文件系统**，因其更省事、支持库更完整，无需手动逐个移植第三方库[1]。具体步骤如下：
+
+1. **选择构建方式**：
+   - 推荐使用 Buildroot 构建包含 Qt 的完整根文件系统，它可自动处理依赖和第三方库，避免 Busybox 方式下需手动编译各库的繁 琐与不确定性[1]。
+   - 注意：Buildroot 不用于编译 U-Boot 和内核（正点原子已提供独立编译教程），仅聚焦 Qt 编译与集成[1]。
+
+2. **配置 Qt 构建环境**：
+   - 修改 Qt 源码中的 `qmake.conf` 文件（路径：`qtbase/mkspecs/linux-arm-gnueabi-g++/qmake.conf`），适配 ARM 交叉编译工 具链，关键配置如 `MAKEFILE_GENERATOR = UNIX` 和 `CONFIG += incremental` 等[4]。
+
+3. **部署与测试**：
+   - 将编译好的 Qt 库及示例程序（如 `/usr/lib/arm-qt/examples/widgets/animation/animatedtiles/animatedtiles`）部署到目标板文件系统；
+   - 在目标板上通过 `source /etc/profile` 加载 Qt 环境变量，确保开机自动生效；
+   - 运行示例验证 UI 显示与触摸功能（如在 7 寸 800×480 屏幕上流畅运行官方动画示例）[2]。
+
+4. **开发环境搭建（可选）**：
+   - 在 PC 端使用 Qt Creator 进行跨平台开发，需配置 ARM 专用 Kit，包括指定交叉编译器（GCC）和 Qt Version（即编译好的 Arm-Qt5.12.9）[3]。
+
+综上，核心流程为：**选用 Buildroot → 配置 Qt 交叉编译 → 编译并部署 → 验证运行 → （可选）配置 Qt Creator 开发环境**[1][2][3][4]。
+
+── 来源 ──
+  [1]  用户手册 · 第三章 编译QT 项目 ........................................................................................................................... 21 > Buildroot 构建Qt 根文件系统 > 前言 · 第6页
+  [2]  用户手册 · 第四章 移植Qt 到文件系统 > 原子哥在线教学:www.yuanzige.com > 论坛:www.openedv.com > I.MX6U 移植Qt5.12.9 · 第24页
+  [3]  用户手册 · 第五章 搭建ARM 平台的Qt Creator 环境 > 原子哥在线教学:www.yuanzige.com > 论坛:www.openedv.com > I.MX6U 移植Qt5.12.9 · 第31页
+  [4]  用户手册 · 第三章 编译ARM 平台Qt5.12.9 源码 > 原子哥在线教学:www.yuanzige.com > 论坛:www.openedv.com > I.MX6U 移 植Qt5.12.9 · 第15页
+问题：

@@ -1,0 +1,506 @@
+[
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 1,
+      "section": "",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "07【正点原子】I.MX6U出厂系统OpenCV使用说明V1.1.json"
+    },
+    "chunk_id": "__00000"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 2,
+      "section": "原子哥在线教学:www.yuanzige.com > 论坛:www.openedv.com > I.MX6U 出厂系统OpenCV 使用说明 > 出厂系统OpenCV 使用说明 V1.1",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "07【正点原子】I.MX6U出厂系统OpenCV使用说明V1.1.json"
+    },
+    "chunk_id": "__00001"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 3,
+      "section": "原子哥在线教学:www.yuanzige.com > 论坛:www.openedv.com > I.MX6U 出厂系统OpenCV 使用说明 > 请下载原子哥APP，数千讲视频免费学习，更快更流畅。",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "07【正点原子】I.MX6U出厂系统OpenCV使用说明V1.1.json"
+    },
+    "chunk_id": "__00002"
+  },
+  {
+    "content": "| 版本 | 版本更新说明 | 负责人 | 校审 | 发布日期 |\n| --- | --- | --- | --- | --- |\n| V1.0 | 初稿： | 正点原 子Linux 团队 | 正点原 子Linux 团队 | 2021.03.09 |\n| V1.1 | 1.修改文档格式及第二页联系方式。 | 正点原 子Linux 团队 | 正点原 子Linux 团队 | 2021.06.19 |",
+    "metadata": {
+      "page_num": 3,
+      "section": "原子哥在线教学:www.yuanzige.com > 论坛:www.openedv.com > I.MX6U 出厂系统OpenCV 使用说明 > 请下载原子哥APP，数千讲视频免费学习，更快更流畅。",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "07【正点原子】I.MX6U出厂系统OpenCV使用说明V1.1.json"
+    },
+    "chunk_id": "__00003"
+  },
+  {
+    "content": "文档更新说明\n\n版本\n版本更新说明\n负责人\n校审\n发布日期\nV1.0\n初稿：\n正点原\n子Linux\n团队\n正点原\n子Linux\n团队\n2021.03.09\nV1.1\n1.修改文档格式及第二页联系方式。\n正点原\n子Linux\n团队\n正点原\n子Linux\n团队\n2021.06.19",
+    "metadata": {
+      "page_num": 3,
+      "section": "原子哥在线教学:www.yuanzige.com > 论坛:www.openedv.com > I.MX6U 出厂系统OpenCV 使用说明 > 文档更新说明",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "07【正点原子】I.MX6U出厂系统OpenCV使用说明V1.1.json"
+    },
+    "chunk_id": "__00004"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 4,
+      "section": "原子哥在线教学:www.yuanzige.com > 论坛:www.openedv.com > I.MX6U 出厂系统OpenCV 使用说明 > 文档更新说明",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "07【正点原子】I.MX6U出厂系统OpenCV使用说明V1.1.json"
+    },
+    "chunk_id": "__00005"
+  },
+  {
+    "content": "目录\n\n前言 ............................................................................................................................................................ 5",
+    "metadata": {
+      "page_num": 4,
+      "section": "原子哥在线教学:www.yuanzige.com > 论坛:www.openedv.com > I.MX6U 出厂系统OpenCV 使用说明 > 目录",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "07【正点原子】I.MX6U出厂系统OpenCV使用说明V1.1.json"
+    },
+    "chunk_id": "__00006"
+  },
+  {
+    "content": "第一章\n\n交叉编译环境搭建 .................................................................................................................. 6\n1.1 安装出厂系统所使用的交叉编译器 ................................................................................................. 7",
+    "metadata": {
+      "page_num": 4,
+      "section": "第一章",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "07【正点原子】I.MX6U出厂系统OpenCV使用说明V1.1.json"
+    },
+    "chunk_id": "__00007"
+  },
+  {
+    "content": "第二章 编译OPENCV 程序 ..................................................................................................................... 9\n\n2.1 编译简单的OPENCV 程序 ................................................................................................................. 10\n2.2 如何在QT 项目中加入OPENCV ........................................................................................................ 12\n附录-A ................................................................................................................................................... 12",
+    "metadata": {
+      "page_num": 4,
+      "section": "第二章 编译OPENCV 程序 ..................................................................................................................... 9",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "07【正点原子】I.MX6U出厂系统OpenCV使用说明V1.1.json"
+    },
+    "chunk_id": "__00008"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 5,
+      "section": "第二章 编译OPENCV 程序 ..................................................................................................................... 9",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "07【正点原子】I.MX6U出厂系统OpenCV使用说明V1.1.json"
+    },
+    "chunk_id": "__00009"
+  },
+  {
+    "content": "前言\n\n正点原子I.MX6U出厂系统自带的OpenCV版本是3.1版本，如果您使用的系统没有带OpenCV，\n请到正点原子论坛www.openedv.com,找到正点原子资料下载总链接，然后找到Linux，在I.MX6U\n资料网盘上下载最新的出厂系统即可！\n如果您觉得OpenCV 版本低，不适用，可以参考光盘资料里的【正点原子】I.MX6U 移植OpenCV\nV1.x.pdf 文档自行进行移植高版本的OpenCV 即可！但是相对于学习和基本的使用OpenCV 3.1\n版本已经足够了。\n本文档需要用户有RGB LCD 屏显示的，因为OpenCV 是做图像处理的，如果没有屏的用户请\n不要进行操作，因为下面的例子都是要显示在屏上面的。\n注意：本文档并不介绍如何学习OpenCV，不属于我们讨论范围内。同时本文档是适用于正\n点原子的出厂文件系统，不适用于教程所定制的buildroot 或者busybox 文件系统，因为上面\n两个文件系统是不含OpenCV 与Qt 的。\n本文档所使用的环境：\nUbuntu 16.04 64 bits。\n要求读者会使用FileZilla、WinSCP 及Windows Git 进行Ubuntu 与Windows 间互传文件的\n方法。\n要求读者会开发板与ubuntu 传输文件，请参考【正点原子】I.MX6U 开发板文件拷贝及固\n件更新参考手册V1.x.pdf。",
+    "metadata": {
+      "page_num": 5,
+      "section": "第二章 编译OPENCV 程序 ..................................................................................................................... 9 > 原子哥在线教学:www.yuanzige.com > 论坛:www.openedv.com > 前言",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "07【正点原子】I.MX6U出厂系统OpenCV使用说明V1.1.json"
+    },
+    "chunk_id": "__00010"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 6,
+      "section": "第二章 编译OPENCV 程序 ..................................................................................................................... 9 > 原子哥在线教学:www.yuanzige.com > 论坛:www.openedv.com > 前言",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "07【正点原子】I.MX6U出厂系统OpenCV使用说明V1.1.json"
+    },
+    "chunk_id": "__00011"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 7,
+      "section": "第一章 交叉编译环境搭建",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "07【正点原子】I.MX6U出厂系统OpenCV使用说明V1.1.json"
+    },
+    "chunk_id": "__00012"
+  },
+  {
+    "content": "| chmod u+x fsl-imx-x11-glibc-x86_64-meta-toolchain-qt5-cortexa7hf-neon-toolchain-4.1.15-2.1.0.sh |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 7,
+      "section": "第一章 交叉编译环境搭建",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "07【正点原子】I.MX6U出厂系统OpenCV使用说明V1.1.json"
+    },
+    "chunk_id": "__00013"
+  },
+  {
+    "content": "|  | source /opt/fsl-imx-x11/4.1.15-2.1.0/environment-setup-cortexa7hf-neon-poky-linux-gnueabi |  |\n| --- | --- | --- |",
+    "metadata": {
+      "page_num": 7,
+      "section": "第一章 交叉编译环境搭建",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "07【正点原子】I.MX6U出厂系统OpenCV使用说明V1.1.json"
+    },
+    "chunk_id": "__00014"
+  },
+  {
+    "content": "|  | env |  |\n| --- | --- | --- |",
+    "metadata": {
+      "page_num": 7,
+      "section": "第一章 交叉编译环境搭建",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "07【正点原子】I.MX6U出厂系统OpenCV使用说明V1.1.json"
+    },
+    "chunk_id": "__00015"
+  },
+  {
+    "content": "如果已经在【正点原子】I.MX6U 用户快速体验V1.x.x.pdf 第四章4.2 小节安装出厂系统所\n用的Poky 交叉编译，那么就可以直接到下一章节直接开始使用出厂系统的OpenCV 吧。如果\n还没有安装出厂系统所使用的交叉编译器请按如下步骤进行安装。\n把开发板光盘A-基础资料->5、开发工具->1、交叉编译器->fsl-imx-x11-glibc-x86_64-meta-\ntoolchain-qt5-cortexa7hf-neon-toolchain-4.1.15-2.1.0.sh 拷贝到Ubuntu 虚拟机\n如下图本文已经把交叉编译工具拷贝到了Ubuntu 虚拟机。\n图1.1 1 拷贝sdk 工具包到ubuntu 系统里\n执行下面的指令修改脚本的权限，修改权限后可以看到此脚本颜色显示改变，说明修改成\n功。\nchmod u+x fsl-imx-x11-glibc-x86_64-meta-toolchain-qt5-cortexa7hf-neon-toolchain-4.1.15-2.1.0.sh\n直接执行脚本安装交叉编译工具，连续敲下两次回车键确认，再输入用户密码即可。本次\n安装的目录为脚本所指定的默认安装的目录，后面的内核编译环境的交叉编译都是按这个安装\n目录去操作，所以建议用户也是默认安装到/opt/fsl-imx-x11/4.1.15-2.1.0 这个默认目录。\n图1.1 2 安装sdk 工具到默认的目录\n使用方法也十分简单，根据上面打印出来的提示，直接使能环境变量就可以了。但是在不\n同终端或者切换用户时需要重新使能环境变量方可使用。\nsource /opt/fsl-imx-x11/4.1.15-2.1.0/environment-setup-cortexa7hf-neon-poky-linux-gnueabi\n图1.1 3 使能环境变量\n使能环境变量后可以使用env 指令查看生效的环境变量，下图为部分截图，可以看出使能\n了这个环境变量后gcc 已经配置好编译时所用的参数，如硬浮点参数-mfpu=neon -mfloat-abi=h\nard。使用硬浮点交叉编译，可以使用CPU 自带FPU。下图为环境变量部分截图。\nenv\n图1.1 4 查看使能后的环境变量",
+    "metadata": {
+      "page_num": 7,
+      "section": "第一章 交叉编译环境搭建 > 原子哥在线教学:www.yuanzige.com > 论坛:www.openedv.com > 1.1 安装出厂系统所使用的交叉编译器",
+      "block_types": [
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "07【正点原子】I.MX6U出厂系统OpenCV使用说明V1.1.json"
+    },
+    "chunk_id": "__00016"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 8,
+      "section": "第一章 交叉编译环境搭建 > 原子哥在线教学:www.yuanzige.com > 论坛:www.openedv.com > 1.1 安装出厂系统所使用的交叉编译器",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "07【正点原子】I.MX6U出厂系统OpenCV使用说明V1.1.json"
+    },
+    "chunk_id": "__00017"
+  },
+  {
+    "content": "|  | arm-poky-linux-gnueabi-gcc --version |  |\n| --- | --- | --- |\n|  |  |  |",
+    "metadata": {
+      "page_num": 8,
+      "section": "第一章 交叉编译环境搭建 > 原子哥在线教学:www.yuanzige.com > 论坛:www.openedv.com > 1.1 安装出厂系统所使用的交叉编译器",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "07【正点原子】I.MX6U出厂系统OpenCV使用说明V1.1.json"
+    },
+    "chunk_id": "__00018"
+  },
+  {
+    "content": "I.MX6U 出厂系统OpenCV 使用说明\n\n使用arm-poky-linux-gnueabi-gcc -v 指令可以查看gcc 版本，表明环境变量已经生效。\narm-poky-linux-gnueabi-gcc --version\n图1.1 5 查看gcc 版本信息",
+    "metadata": {
+      "page_num": 8,
+      "section": "第一章 交叉编译环境搭建 > 原子哥在线教学:www.yuanzige.com > 论坛:www.openedv.com > I.MX6U 出厂系统OpenCV 使用说明",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "07【正点原子】I.MX6U出厂系统OpenCV使用说明V1.1.json"
+    },
+    "chunk_id": "__00019"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 9,
+      "section": "第一章 交叉编译环境搭建 > 原子哥在线教学:www.yuanzige.com > 论坛:www.openedv.com > I.MX6U 出厂系统OpenCV 使用说明",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "07【正点原子】I.MX6U出厂系统OpenCV使用说明V1.1.json"
+    },
+    "chunk_id": "__00020"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 10,
+      "section": "第二章 编译OpenCV 程序",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "07【正点原子】I.MX6U出厂系统OpenCV使用说明V1.1.json"
+    },
+    "chunk_id": "__00021"
+  },
+  {
+    "content": "| #include <opencv2/opencv.hpp> |\n| --- |\n| #include <iostream> |\n|  |\n| using namespace std; |\n| using namespace cv; |\n|  |\n| int main(int argc, char **argv) |\n| { |\n| Mat img = imread(\"/opt/src/images/美女.jpg\"); |\n| if (img.empty()) { |\n| cout << \"打开图像失败！\" << endl; |\n| return -1; |\n| } |\n| namedWindow(\"image\", CV_WINDOW_AUTOSIZE); |\n| imshow(\"image\", img); |\n| waitKey(); |\n|  |\n| return 0; |\n| } |",
+    "metadata": {
+      "page_num": 10,
+      "section": "第二章 编译OpenCV 程序",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "07【正点原子】I.MX6U出厂系统OpenCV使用说明V1.1.json"
+    },
+    "chunk_id": "__00022"
+  },
+  {
+    "content": "| $CXX opencv_test.cpp -o opencv_test -lopencv_core -lopencv_highgui -lopencv_imgproc |\n| --- |\n| -lopencv_videoio -lopencv_imgcodecs |",
+    "metadata": {
+      "page_num": 10,
+      "section": "第二章 编译OpenCV 程序",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "07【正点原子】I.MX6U出厂系统OpenCV使用说明V1.1.json"
+    },
+    "chunk_id": "__00023"
+  },
+  {
+    "content": "下面开始编写一个简单的OpenCV 例子，然后使用第一章里安装的交叉编译器进行编译这\n个简单的例子，拷贝编译出来的可执行文件到开发板上执行即可！\nOpenCV 是使用C++编程语言，可以说C++语言是C 语言的超集。所以我们编程需要使用\nC++语言。C++语法这里我们不分析，这些都是很基本的，现在我们开始写一个简单的OpenCV\n程序吧。\n编辑一个opencv_test.cpp 文件。注意C++程序一般后缀是使用cpp。\nvi opencv_test.cpp\n在终端下插入下面的代码。\n#include <opencv2/opencv.hpp>\n#include <iostream>\nusing namespace std;\nusing namespace cv;\nint main(int argc, char **argv)\nMat img = imread(\"/opt/src/images/美女.jpg\");\nif (img.empty()) {\ncout << \"打开图像失败！\" << endl;\nreturn -1;\nnamedWindow(\"image\", CV_WINDOW_AUTOSIZE);\nimshow(\"image\", img);\nwaitKey();\nreturn 0;\n使能环境变量，执行下面的指令会使能编译器，目的是为了告诉系统我们的编译器的位置\n在哪里。\nsource /opt/fsl-imx-x11/4.1.15-2.1.0/environment-setup-cortexa7hf-neon-poky-linux-gnueabi\n使用下面的指令开始编译。\n$CXX opencv_test.cpp -o opencv_test -lopencv_core -lopencv_highgui -lopencv_imgproc\n-lopencv_videoio -lopencv_imgcodecs\n指令解释：\n$CXX：指的是取终端里CXX 的值，出厂系统提供的交叉编译工具链编译C++就使用$CX\nX，如果编译C，请使用$CC。\nopencv_test.cpp：程序源文件。\n-o：指定编译输出的文件名。\nopencv_test：编译后的目标文件名称。",
+    "metadata": {
+      "page_num": 10,
+      "section": "第二章 编译OpenCV 程序 > 原子哥在线教学:www.yuanzige.com > 论坛:www.openedv.com > 2.1 编译简单的OpenCV 程序",
+      "block_types": [
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "07【正点原子】I.MX6U出厂系统OpenCV使用说明V1.1.json"
+    },
+    "chunk_id": "__00024"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 11,
+      "section": "第二章 编译OpenCV 程序 > 原子哥在线教学:www.yuanzige.com > 论坛:www.openedv.com > 2.1 编译简单的OpenCV 程序",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "07【正点原子】I.MX6U出厂系统OpenCV使用说明V1.1.json"
+    },
+    "chunk_id": "__00025"
+  },
+  {
+    "content": "-l：这个是-l，不是一，是L 的小写l。指定链接库。上面指定了许多链接库。但是实际上\n可能不用那么多。请根据自己的项目自行添加或者裁减！写多了不会错，写少了到编译时\n可能会报错！具体需要看自己用到的API 在哪个库里。\n编译完成后，使用ls 指令查看编译完成的目标文件opencv_test。\nls opencv_test\n图2.1 1 编译opencv 应用程序\n拷贝到开发板上执行。注意需要看出厂系统的文件系统版本。正点原子只有2.0 版本以上\n的出厂文件系统才支持OpenCV 程序显示。\n查看出厂文件系统版本，使用下面的指令查看。看到是v2.0 版本以上才支持opencv 程序\n直接显示。如果不是，请到正点原子论坛找资料下载，更新到最新的出厂系统即可。\ncat /etc/version\n图2.1 2 查看文件系统版本\n拷贝opencv_test 到开发板文件系统目录，如下。\n图2.1 3 拷贝opencv_test 到开发板\n在执行opencv_test 之前，首先我们需要使用xinit 指令初始化。Xinit 是作用是对X-Windo\nw 系统的初始化程序，主要完成X 服务器的初始化设置。在高版本的文件系统使用wayland 的\n方式。使用Xinit 初始化，包括服务端，可以接收鼠标键盘的输入等。简单的来说要想直接使\n用OpenCV 显示在屏幕上，是依赖X 服务的，需要开启桌面窗口，然后OpenCV 程序在桌面窗\n口里运行。\n出厂系统默认使用的Qt 是不依赖X 服务器。默认出厂系统已经把X 服务器相关关掉，所\n以我们需要执行下面的执行进行开启。\n执行下面指令时请先退出出厂系统默认的Qt 界面。在Qt 界面“设置”里点击退出即可。\nxinit /etc/X11/Xsession >/var/log/Xsession.log 2>&1 &\n屏幕立刻变黑，看不到任何东西。实际上X 服务已经运行了。\n执行下面的指令运行我们编译出来的OpenCV 程序。",
+    "metadata": {
+      "page_num": 11,
+      "section": "第二章 编译OpenCV 程序 > 原子哥在线教学:www.yuanzige.com > 论坛:www.openedv.com > I.MX6U 出厂系统OpenCV 使用说明",
+      "block_types": [
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "07【正点原子】I.MX6U出厂系统OpenCV使用说明V1.1.json"
+    },
+    "chunk_id": "__00026"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 12,
+      "section": "第二章 编译OpenCV 程序 > 原子哥在线教学:www.yuanzige.com > 论坛:www.openedv.com > I.MX6U 出厂系统OpenCV 使用说明",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "07【正点原子】I.MX6U出厂系统OpenCV使用说明V1.1.json"
+    },
+    "chunk_id": "__00027"
+  },
+  {
+    "content": "| unix{ |\n| --- |\n| CONFIG += link_pkgconfig |\n| PKGCONFIG += opencv |\n| } |",
+    "metadata": {
+      "page_num": 12,
+      "section": "第二章 编译OpenCV 程序 > 原子哥在线教学:www.yuanzige.com > 论坛:www.openedv.com > I.MX6U 出厂系统OpenCV 使用说明",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "07【正点原子】I.MX6U出厂系统OpenCV使用说明V1.1.json"
+    },
+    "chunk_id": "__00028"
+  },
+  {
+    "content": "I.MX6U 出厂系统OpenCV 使用说明\n\n图2.1 4 开启X 服务\n上面的opencv_test 程序会读取我们文件系统下的/opt/src/images/美女.jpg 图片，并显示在屏\n幕上，如下图。\n图2.1 5 程序运行在LCD 屏上的现象\n如果用户有摄像头，编写相关的opencv 应用程序一样可以按上面这种方法，直接显示于屏\n幕上。",
+    "metadata": {
+      "page_num": 12,
+      "section": "第二章 编译OpenCV 程序 > 原子哥在线教学:www.yuanzige.com > 论坛:www.openedv.com > I.MX6U 出厂系统OpenCV 使用说明",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "07【正点原子】I.MX6U出厂系统OpenCV使用说明V1.1.json"
+    },
+    "chunk_id": "__00029"
+  },
+  {
+    "content": "2.2 如何在Qt 项目中加入OpenCV\n\n与上一小节编译OpenCV 程序相似，我们只需要在Qt 的pro 项目添加相关的opencv 相关\n设置。在项目文件*.pro 添加以下语句即可！\nunix{\nCONFIG += link_pkgconfig\nPKGCONFIG += opencv\n然后参考【正点原子】I.MX6U 出厂系统Qt 交叉编译环境搭建V1.x.pdf，x >= 5 的文档\n配置好Qt Creator 的交叉编译环境，添加opencv 相关头文件，然后编写项目，编译项目即可！",
+    "metadata": {
+      "page_num": 12,
+      "section": "第二章 编译OpenCV 程序 > 原子哥在线教学:www.yuanzige.com > 论坛:www.openedv.com > 2.2 如何在Qt 项目中加入OpenCV",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "07【正点原子】I.MX6U出厂系统OpenCV使用说明V1.1.json"
+    },
+    "chunk_id": "__00030"
+  }
+]

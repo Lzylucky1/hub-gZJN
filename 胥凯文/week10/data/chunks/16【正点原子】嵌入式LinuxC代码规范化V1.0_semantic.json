@@ -1,0 +1,1427 @@
+[
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 2,
+      "section": "",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00000"
+  },
+  {
+    "content": "声明\n\n本文档为作者在嵌入式和嵌入式linux C 语言的学习和工作中所总结的代码规\n范，是作者从STM32 单片机开发向Linux C 开发的时候为了摆脱遗留的编码规范\n陋习而编写的。因此，本文档主要面向Linux C，会根据实际情况兼容单片机的开\n发。文档主要以Linux 源码下的CodingStyle 文档为蓝本而编写，本文档主要是为\n了解决作者的实际需求，并不能照顾到所有的开发人员，因此编码规范可能不适\n合某些程序员朋友，因此，不喜勿喷！！右上角点“X”关闭文档即可。本文档仅\n作为参考资料，不应该作为强制性要求！文档参考资料如下：",
+    "metadata": {
+      "page_num": 2,
+      "section": "正点原子嵌入式Linux C 代码规范和风格 > 声明",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00001"
+  },
+  {
+    "content": "4、《华为技术有限公司c 语言编程规范》。\n\n套用CodingStyle 下的一句话：\n“代码风格是因人而异的，而且我不愿意把自己的观点强加给任何人，但这就\n像我去做任何事情都必须遵循的原则那样，我也希望在绝大多数事上保持这种的",
+    "metadata": {
+      "page_num": 2,
+      "section": "正点原子嵌入式Linux C 代码规范和风格 > 声明 > 1、Linux 源码下的《CodingStyle》文档。 > 4、《华为技术有限公司c 语言编程规范》。",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00002"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 3,
+      "section": "正点原子嵌入式Linux C 代码规范和风格 > 声明 > 1、Linux 源码下的《CodingStyle》文档。 > 态度。”",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00003"
+  },
+  {
+    "content": "正点原子嵌入式Linux C 代码规范和风格\n\n声明 ................................................................................................................................ I",
+    "metadata": {
+      "page_num": 3,
+      "section": "正点原子嵌入式Linux C 代码规范和风格 > 声明 > 1、Linux 源码下的《CodingStyle》文档。 > 正点原子嵌入式Linux C 代码规范和风格",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00004"
+  },
+  {
+    "content": "第一章 规范说明 .......................................................................................................... 3",
+    "metadata": {
+      "page_num": 3,
+      "section": "第一章 规范说明 .......................................................................................................... 3",
+      "block_types": [
+        "title"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00005"
+  },
+  {
+    "content": "第二章 排版格式和注释 .............................................................................................. 4",
+    "metadata": {
+      "page_num": 3,
+      "section": "第二章 排版格式和注释 .............................................................................................. 4",
+      "block_types": [
+        "title"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00006"
+  },
+  {
+    "content": "2.1 排版格式 .............................................................................................................. 5\n2.1.1 代码缩进 ........................................................................................................... 5\n2.1.3 代码行相关规范 ............................................................................................... 5\n2.1.2 括号与空格 ....................................................................................................... 6\n2.2 注释 ...................................................................................................................... 8\n2.2.1 注释风格 ........................................................................................................... 8\n2.2.2 文件信息注释 ................................................................................................... 8\n2.2.3 函数的注释 ....................................................................................................... 8",
+    "metadata": {
+      "page_num": 3,
+      "section": "第二章 排版格式和注释 .............................................................................................. 4",
+      "block_types": [
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00007"
+  },
+  {
+    "content": "第三章 标识符命名 .................................................................................................... 10\n\n3.1 命名规则 ............................................................................................................ 10\n3.2 文件命名 ............................................................................................................ 10\n3.3 变量命名 ............................................................................................................ 10\n3.4 函数命名 ............................................................................................................ 10\n3.5 宏命名 ................................................................................................................ 10",
+    "metadata": {
+      "page_num": 3,
+      "section": "第三章 标识符命名 .................................................................................................... 10",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00008"
+  },
+  {
+    "content": "第四章 函数 ................................................................................................................ 11",
+    "metadata": {
+      "page_num": 3,
+      "section": "第四章 函数 ................................................................................................................ 11",
+      "block_types": [
+        "title"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00009"
+  },
+  {
+    "content": "第五章 变量 ................................................................................................................ 13",
+    "metadata": {
+      "page_num": 3,
+      "section": "第五章 变量 ................................................................................................................ 13",
+      "block_types": [
+        "title"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00010"
+  },
+  {
+    "content": "第六章 宏和常量 ........................................................................................................ 15",
+    "metadata": {
+      "page_num": 3,
+      "section": "第六章 宏和常量 ........................................................................................................ 15",
+      "block_types": [
+        "title"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00011"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 4,
+      "section": "第六章 宏和常量 ........................................................................................................ 15",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00012"
+  },
+  {
+    "content": "第一章 规范说明\n\n之所以会写这份文档是要下定决心修改自己那写的跟一坨屎一样的垃圾代码规范！相信正\n在阅读本文档的读者出发点也是如此（可能你的代码规范还没有像一坨屎那么严重）。因为作者\n工作内容的原因(做单片机开发板的)，此前没有代码规范化的思维，变量，函数的命名随心所\n欲，大小写混用；代码注释“//”和“/* */”混用等等很多陋习，这样的陋习写出的例程供阅读\n者学习也会带坏人家哒，所以痛定思痛，一定要改掉这些陋习。在这个看脸的时代，优美的代\n码风格让人看着都赏心悦目。\n当然，代码规范和风格不是用来赏心悦目的，要不然就是花瓶了，代码规范和风格的目的\n是要编写出简洁明了、可维护、可测试、可靠、可移植、高效的代码。",
+    "metadata": {
+      "page_num": 4,
+      "section": "第一章 规范说明",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00013"
+  },
+  {
+    "content": "1、简单、明了、清晰：\n\n代码写出来重点是给人看的，因此简单、明了、清晰是第一要务！代码的可阅读性要高于\n代码的性能(除非你的代码以后不需要维护，那你写成啥样都无所谓)。简单、明了、清晰的代码\n也利于后期维护，尤其是当你写的代码交给他人去维护的时候，请不要祸害别人！",
+    "metadata": {
+      "page_num": 4,
+      "section": "第一章 规范说明 > 1、简单、明了、清晰：",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00014"
+  },
+  {
+    "content": "2、精简\n\n代码越长越难看懂，这个大家应该都深有体会，一个1000 多行的函数和一个最多100 行的\n函数哪个好看？所以尽量将把函数写的精简。而且代码越长越容易出错，没有用的代码，变量\n等一定要及时的清理掉！功能类似或者重复的代码应尽可能提炼成一个函数。",
+    "metadata": {
+      "page_num": 4,
+      "section": "第一章 规范说明 > 1、简单、明了、清晰： > 2、精简",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00015"
+  },
+  {
+    "content": "3、尽量与原有代码风格保持一致\n\n一个公司内部的代码风格一般都是统一的，但是如果你跳槽到其他公司去，或者有时候因\n为业务原因需要维护别的公司的代码，此时代码风格出现冲突的话尽可能使用现在维护的代码\n风格。",
+    "metadata": {
+      "page_num": 4,
+      "section": "第一章 规范说明 > 1、简单、明了、清晰： > 2、精简 > 3、尽量与原有代码风格保持一致",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00016"
+  },
+  {
+    "content": "4、减少封装\n\n此规则仅适用于作者所在公司，作者公司是做开发板的，所写的所有例程代码都需要开源\n给客户阅读学习。在编写的过程中会遇到使用很多第三方库，比如ST 的HAL 库、NXP 的FSL\n库，LWIP 协议栈、UCOS 操作系统、FreeRTOS 操作系统等等，这些第三方库的编码规范和风\n格各不相同。有人为了统一自己的编码风格会对这些第三方库的API 函数做封装，如果是做产\n品的话这样做无可厚非，毕竟为了代码风格的统一，但是作为做开发板的，尽量不要对第三方\n库做封装！因为每一次封装都会将原有API 函数的本意遮蔽，读者第一眼看懂这个API 函数的\n具体函数，比如ST 官方的Cube 库里面就为了兼容自己的代码风格，对FreeRTOS 的API 函数\n做了封装，结果很多客户就问我们为何ST 官方所调用的任务创建函数和我们的FreeRTOS 教程\n不同！他们之间有什么区别？他们之间没有任何区别，只是ST 对其做了一个简单的封装，结\n果给学习者带来了困惑！如果不做这个封装的话虽然影响到了代码风格的统一，但是却给学习\n者减少了困惑，提高了学习效率，而提高客户的学习效率是我们公司的第一宗旨！",
+    "metadata": {
+      "page_num": 4,
+      "section": "第一章 规范说明 > 1、简单、明了、清晰： > 2、精简 > 4、减少封装",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00017"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 5,
+      "section": "第一章 规范说明 > 1、简单、明了、清晰： > 2、精简 > 4、减少封装",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00018"
+  },
+  {
+    "content": "第二章 排版格式和注释\n\n排版是为了在编写代码的时候按照“一定的规矩”来编写，主要目的是为了是代码清晰、\n易于阅读。注释顾名思义就为注释自己的代码，以方便他人阅读，尤其是尤其维护人员。优美\n的排版和言简意赅的注释可以提高阅读者的阅读效率，所以在编写代码之前一定要确定好自己\n打算采用的排版方式和注释方式。",
+    "metadata": {
+      "page_num": 5,
+      "section": "第二章 排版格式和注释",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00019"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 6,
+      "section": "第二章 排版格式和注释",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00020"
+  },
+  {
+    "content": "| switch (suffix) { |\n| --- |\n| case 'G': |\n| case 'g': |\n| mem <<= 30; |\n| break; |\n| case 'M': |\n| case 'm': |\n| mem <<= 20; |\n| break; |\n| case 'K': |\n| case 'k': |\n| mem <<= 10; |\n| /* fall through */ |\n| default: |\n| break; |\n| } |",
+    "metadata": {
+      "page_num": 6,
+      "section": "第二章 排版格式和注释",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00021"
+  },
+  {
+    "content": "| perm_count_msg.head.len = NO7_TO_STAT_PERM_COUNT_LEN |\n| --- |\n| + STAT_SIZE_PER_FRAM * sizeof( _UL ); |\n|  |\n| act_task_table[frame_id * STAT_TASK_CHECK_NUMBER + index].occupied |\n| = stat_poi[index].occupied; |\n|  |\n| if ((taskno < max_act_task_number) |\n| && (n7stat_stat_item_valid (stat_item))) |\n| { |",
+    "metadata": {
+      "page_num": 6,
+      "section": "第二章 排版格式和注释",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00022"
+  },
+  {
+    "content": "2.1.1 代码缩进\n\n代码缩进要使用制表符，也就是TAB 键，不要使用空格键缩进！一般情况下一个TAB 为\n4 个字符，但是Linux 建议TAB 键为8 个字符，因为8 个字符缩进比较多，因为有利于长时间\n阅读代码，可以很清晰的分辨出多级嵌套，但是8 个字符太多，代码向右移动的太远了，这样\n的话如果屏幕横向分辨率小的话每行编写的代码就会少，尤其是当一个代码块有多级缩进的时\n候，Linux 建议你应该修改你的代码。这里我设置的TAB 键为4 个字符，因为在我阅读Linux\n内核源码的时候发现大部分都是4 个字符。\n在switch 语句中，“swich”和“case”标签应该对齐处于同一列，不需要缩进case 标签，\n如下所示：\nswitch (suffix) {\ncase 'G':\ncase 'g':\nmem <<= 30;\nbreak;\ncase 'M':\ncase 'm':\nmem <<= 20;\nbreak;\ncase 'K':\ncase 'k':\nmem <<= 10;\n/* fall through */\ndefault:\nbreak;",
+    "metadata": {
+      "page_num": 6,
+      "section": "第二章 排版格式和注释 > 正点原子嵌入式Linux C 代码规范和风格 > 2.1 排版格式 > 2.1.1 代码缩进",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00023"
+  },
+  {
+    "content": "2.1.3 代码行相关规范\n\n1、 每一行的代码长度限制在80 列。如果大于80 列的话就要分成多行编写(其实当前高分\n辨屏幕已经很常见了，基本都是1080P 起，甚至4K，所以可以设置更大值)，并且在低优先级\n操作符处划分新行，操作符放在新行之首，划分出的新行要适当进行缩进，一般进行一级缩进\n即可，如下所示：\nperm_count_msg.head.len = NO7_TO_STAT_PERM_COUNT_LEN\n+ STAT_SIZE_PER_FRAM * sizeof( _UL );\nact_task_table[frame_id * STAT_TASK_CHECK_NUMBER + index].occupied\n= stat_poi[index].occupied;\nif  ((taskno < max_act_task_number)\n&& (n7stat_stat_item_valid (stat_item)))",
+    "metadata": {
+      "page_num": 6,
+      "section": "第二章 排版格式和注释 > 正点原子嵌入式Linux C 代码规范和风格 > 2.1 排版格式 > 2.1.3 代码行相关规范",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00024"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 7,
+      "section": "第二章 排版格式和注释 > 正点原子嵌入式Linux C 代码规范和风格 > 2.1 排版格式 > 2.1.3 代码行相关规范",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00025"
+  },
+  {
+    "content": "| ... // program code |\n| --- |\n| } |",
+    "metadata": {
+      "page_num": 7,
+      "section": "第二章 排版格式和注释 > 正点原子嵌入式Linux C 代码规范和风格 > 2.1 排版格式 > 2.1.3 代码行相关规范",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00026"
+  },
+  {
+    "content": "| 不规范的写法： |\n| --- |\n| a = x+y; b = x-y; |\n|  |\n| 应该为： |\n| a=x+y; |\n| b=x-y; |",
+    "metadata": {
+      "page_num": 7,
+      "section": "第二章 排版格式和注释 > 正点原子嵌入式Linux C 代码规范和风格 > 2.1 排版格式 > 2.1.3 代码行相关规范",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00027"
+  },
+  {
+    "content": "| if (x is true) { |\n| --- |\n| we do y |\n| } |",
+    "metadata": {
+      "page_num": 7,
+      "section": "第二章 排版格式和注释 > 正点原子嵌入式Linux C 代码规范和风格 > 2.1 排版格式 > 2.1.3 代码行相关规范",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00028"
+  },
+  {
+    "content": "| switch (action) { |\n| --- |\n| case KOBJ_ADD: |\n| return \"add\"; |\n| case KOBJ_REMOVE: |\n| return \"remove\"; |\n| case KOBJ_CHANGE: |\n| return \"change\"; |\n| default: |\n| return NULL; |\n| } |",
+    "metadata": {
+      "page_num": 7,
+      "section": "第二章 排版格式和注释 > 正点原子嵌入式Linux C 代码规范和风格 > 2.1 排版格式 > 2.1.3 代码行相关规范",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00029"
+  },
+  {
+    "content": "| int function(int x) |\n| --- |\n| { |\n| body of function |\n| } |",
+    "metadata": {
+      "page_num": 7,
+      "section": "第二章 排版格式和注释 > 正点原子嵌入式Linux C 代码规范和风格 > 2.1 排版格式 > 2.1.3 代码行相关规范",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00030"
+  },
+  {
+    "content": "| do { |\n| --- |\n| body of do-loop |\n| } while (condition); |\n|  |",
+    "metadata": {
+      "page_num": 7,
+      "section": "第二章 排版格式和注释 > 正点原子嵌入式Linux C 代码规范和风格 > 2.1 排版格式 > 2.1.3 代码行相关规范",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00031"
+  },
+  {
+    "content": "正点原子嵌入式Linux C 代码规范和风格\n\n... // program code\n2、不要把多个语句放到一行里面，一行只写一条语句，如下所示：\n不规范的写法：\na = x+y; b = x-y;\n应该为：\na=x+y;\nb=x-y;\n3、 不要在一行里面防止多个赋值语句。\n4、if、for、do、while、case、swich、default 等语句单独占用一行。",
+    "metadata": {
+      "page_num": 7,
+      "section": "第二章 排版格式和注释 > 正点原子嵌入式Linux C 代码规范和风格 > 2.1 排版格式 > 正点原子嵌入式Linux C 代码规范和风格",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00032"
+  },
+  {
+    "content": "1、括号\n\n代码中用到大括号“{”和“}”的地方，应该把起始大括号“{”放到行尾，把结束大括号\n“}”放到行首，如下所示：\nif (x is true) {\nwe do y\n上面大括号“{”和“}”的用法适用于所有的非函数程序块，如if、switch、for、do、while\n等，比如：\nswitch (action) {\ncase KOBJ_ADD:\nreturn \"add\";\ncase KOBJ_REMOVE:\nreturn \"remove\";\ncase KOBJ_CHANGE:\nreturn \"change\";\ndefault:\nreturn NULL;\n这里要注意！！！函数的起始大括号要放置到下一行的开头！！如下所示：\nint function(int x)\nbody of function\n结束的大括号“}”要独自占用一行，除非后面跟着同一个语句的其它剩余部分，比如do\n语句中的“while”或者if 语句中的“else”，如下代码所示：\ndo {\nbody of do-loop\n} while (condition);",
+    "metadata": {
+      "page_num": 7,
+      "section": "第二章 排版格式和注释 > 正点原子嵌入式Linux C 代码规范和风格 > 2.1 排版格式 > 1、括号",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00033"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 8,
+      "section": "第二章 排版格式和注释 > 正点原子嵌入式Linux C 代码规范和风格 > 2.1 排版格式 > 1、括号",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00034"
+  },
+  {
+    "content": "| if (x == y) { |\n| --- |\n| .. |\n| } else if (x > y) { |\n| ... |\n| } else { |\n| .... |\n| } |",
+    "metadata": {
+      "page_num": 8,
+      "section": "第二章 排版格式和注释 > 正点原子嵌入式Linux C 代码规范和风格 > 2.1 排版格式 > 1、括号",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00035"
+  },
+  {
+    "content": "| if (condition) |\n| --- |\n| action(); |",
+    "metadata": {
+      "page_num": 8,
+      "section": "第二章 排版格式和注释 > 正点原子嵌入式Linux C 代码规范和风格 > 2.1 排版格式 > 1、括号",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00036"
+  },
+  {
+    "content": "| if (condition) |\n| --- |\n| do_this(); |\n| else |\n| do_that(); |",
+    "metadata": {
+      "page_num": 8,
+      "section": "第二章 排版格式和注释 > 正点原子嵌入式Linux C 代码规范和风格 > 2.1 排版格式 > 1、括号",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00037"
+  },
+  {
+    "content": "| if (condition) { |\n| --- |\n| do_this(); |\n| do_that(); |\n| } else { |\n| otherwise(); |\n| } |",
+    "metadata": {
+      "page_num": 8,
+      "section": "第二章 排版格式和注释 > 正点原子嵌入式Linux C 代码规范和风格 > 2.1 排版格式 > 1、括号",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00038"
+  },
+  {
+    "content": "| char *linux_banner; |\n| --- |\n| unsigned long long memparse(char *ptr, char **retptr); |\n| char *match_strdup(substring_t *s); |",
+    "metadata": {
+      "page_num": 8,
+      "section": "第二章 排版格式和注释 > 正点原子嵌入式Linux C 代码规范和风格 > 2.1 排版格式 > 1、括号",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00039"
+  },
+  {
+    "content": "正点原子嵌入式Linux C 代码规范和风格\n\nif (x == y) {\n..\n} else if (x > y) {\n...\n} else {\n....\n当只有一个单独的语句的时候就可以不必要加大括号了，比如：\nif (condition)\naction();\nif (condition)\ndo_this();\nelse\ndo_that();\n在上面的if else 条件语句中，所有的分支都只有一行语句，所以可以都不加大括号。但是\n如果在条件语句中任何一个分支有大于一行语句的时候都必须加上大括号，如下所示代码：\nif (condition) {\ndo_this();\ndo_that();\n} else {\notherwise();",
+    "metadata": {
+      "page_num": 8,
+      "section": "第二章 排版格式和注释 > 正点原子嵌入式Linux C 代码规范和风格 > 2.1 排版格式 > 正点原子嵌入式Linux C 代码规范和风格",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00040"
+  },
+  {
+    "content": "2、空格\n\n(1)、在一些关键字后面要添加空格，如：\nif、swich、case、for、do、while\n但是不要在sizeof、typedof、alignof 或者__attribute__这些关键字后面添加空格，因为这些\n大多数后面都会跟着小括号，因此看起来像个函数，如：\ns = sizeof(struct file);\n(2)、如果要定义指针类型，或者函数返回指针类型时，“*”应该放到靠近变量名或者函数\n名的一侧，而不是类型名，如：\nchar *linux_banner;\nunsigned long long memparse(char *ptr, char **retptr);\nchar *match_strdup(substring_t *s);\n(3)、二元或者三元操作符两侧都要加一个空格，例如下面所示操作符：\n=  +  -  <  >  *  /  %  |  &  ^  <=  >=  ==  !=  ?  :\n(4)、一元操作符后不要加空格，如：\n&  *  +  -  ~  !  sizeof  typeof  alignof  __attribute__  defined\n(5)、后缀自加或者自减的一元操作符前后都不加空格，如：\n++  --\n(6)、“.”和“->”这两个结构体成员操作符前后不加空格。\n(7)、逗号、分号只在后面添加空格，如：\nint a, b, c;",
+    "metadata": {
+      "page_num": 8,
+      "section": "第二章 排版格式和注释 > 正点原子嵌入式Linux C 代码规范和风格 > 2.1 排版格式 > 2、空格",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00041"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 9,
+      "section": "第二章 排版格式和注释 > 正点原子嵌入式Linux C 代码规范和风格 > 2.1 排版格式 > 2、空格",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00042"
+  },
+  {
+    "content": "| /* |\n| --- |\n| * This is the preferred style for multi-line |\n| * comments in the Linux kernel source code. |\n| * Please use it consistently. |\n| * |\n| * Description: A column of asterisks on the left side, |\n| * with beginning and ending almost-blank lines. |\n| */ |",
+    "metadata": {
+      "page_num": 9,
+      "section": "第二章 排版格式和注释 > 正点原子嵌入式Linux C 代码规范和风格 > 2.1 排版格式 > 2、空格",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00043"
+  },
+  {
+    "content": "| /************************************************* |\n| --- |\n| Copyright © zuozhongkai Co., Ltd. 1998-2018. All rights reserved. |\n| File name: // 文件名 |\n| Author： //作者 |\n| Version: //版本号 |\n| Description: // 用于详细说明此程序文件完成的主要功能，与其他模块 |\n| // 或函数的接口，输出值、取值范围、含义及参数间的控 |\n| // 制、顺序、独立或依赖等关系 |\n| Others: // 其它内容的说明 |\n| Log: // 修改日志，包括修改内容，日期，修改人等 |\n| *************************************************/ |",
+    "metadata": {
+      "page_num": 9,
+      "section": "第二章 排版格式和注释 > 正点原子嵌入式Linux C 代码规范和风格 > 2.1 排版格式 > 2、空格",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00044"
+  },
+  {
+    "content": "| /* |\n| --- |\n| *@ Description: 函数描述，描述本函数的基本功能 |",
+    "metadata": {
+      "page_num": 9,
+      "section": "第二章 排版格式和注释 > 正点原子嵌入式Linux C 代码规范和风格 > 2.1 排版格式 > 2、空格",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00045"
+  },
+  {
+    "content": "2.2.1 注释风格\n\n注释可以让别人一看你的代码就明白其中的含义和用法，但是不要过度注释，不要在注释\n里解释代码是任何运行的，一般你的注释应该告诉别人代码做了什么，而不是怎么做的，即结\n果，而非过程！注释要放到函数的头部，尽量不要在函数体里面放置注释，注释的风格应该选\n择：\n/*  ………  */\n而非：\n//…………\n对于多行注释，应该选择如下风格：\n/*\n* This is the preferred style for multi-line\n* comments in the Linux kernel source code.\n* Please use it consistently.\n* Description:  A column of asterisks on the left side,\n* with beginning and ending almost-blank lines.\n*/\n每一行的开始处都应该放置符号“*”，并且所有的行的“*”要对齐在一列上。",
+    "metadata": {
+      "page_num": 9,
+      "section": "第二章 排版格式和注释 > 正点原子嵌入式Linux C 代码规范和风格 > 2.1 排版格式 > 2.2.1 注释风格",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00046"
+  },
+  {
+    "content": "2.2.2 文件信息注释\n\n在文件开始的地方应该对本文件做一个总体的、概括性的注释，比如：版权声明、版本号、\n作者、文件简介、修改日志等，如下所示的注释：\n/*************************************************\nCopyright © zuozhongkai Co., Ltd. 1998-2018. All rights reserved.\nFile name:\n// 文件名\nAuthor：\n//作者\nVersion:\n//版本号\nDescription: // 用于详细说明此程序文件完成的主要功能，与其他模块\n// 或函数的接口，输出值、取值范围、含义及参数间的控\n// 制、顺序、独立或依赖等关系\nOthers:\n// 其它内容的说明\nLog:\n// 修改日志，包括修改内容，日期，修改人等\n*************************************************/",
+    "metadata": {
+      "page_num": 9,
+      "section": "第二章 排版格式和注释 > 正点原子嵌入式Linux C 代码规范和风格 > 2.1 排版格式 > 2.2.2 文件信息注释",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00047"
+  },
+  {
+    "content": "2.2.3 函数的注释\n\n函数需要注释其作用，参数的含义以及返回值的含义，注释可以放在函数\n声明的地方，也可以放在函数头，如下：\n/*\n*@ Description:  函数描述，描述本函数的基本功能",
+    "metadata": {
+      "page_num": 9,
+      "section": "第二章 排版格式和注释 > 正点原子嵌入式Linux C 代码规范和风格 > 2.1 排版格式 > 2.2.3 函数的注释",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00048"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 10,
+      "section": "第二章 排版格式和注释 > 正点原子嵌入式Linux C 代码规范和风格 > 2.1 排版格式 > 2.2.3 函数的注释",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00049"
+  },
+  {
+    "content": "| * @param 1 – 参数1. |\n| --- |\n| * @param 2 – 参数2 |\n| * @return – 返回值 |\n| */ |",
+    "metadata": {
+      "page_num": 10,
+      "section": "第二章 排版格式和注释 > 正点原子嵌入式Linux C 代码规范和风格 > 2.1 排版格式 > 2.2.3 函数的注释",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00050"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 11,
+      "section": "第二章 排版格式和注释 > 正点原子嵌入式Linux C 代码规范和风格 > 2.1 排版格式 > 正点原子嵌入式Linux C 代码规范和风格",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00051"
+  },
+  {
+    "content": "| int book_number; |\n| --- |\n| int number_of_beautiful_gril; |",
+    "metadata": {
+      "page_num": 11,
+      "section": "第二章 排版格式和注释 > 正点原子嵌入式Linux C 代码规范和风格 > 2.1 排版格式 > 正点原子嵌入式Linux C 代码规范和风格",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00052"
+  },
+  {
+    "content": "| add/remove begin/end create/destroy insert/delete |\n| --- |\n| first/last get/release increment/decrement put/get add/delete |\n| lock/unlock open/close min/max old/new |\n| start/stop next/previous source/target show/hide |\n| send/receive source/destination copy/paste up/down |",
+    "metadata": {
+      "page_num": 11,
+      "section": "第二章 排版格式和注释 > 正点原子嵌入式Linux C 代码规范和风格 > 2.1 排版格式 > 正点原子嵌入式Linux C 代码规范和风格",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00053"
+  },
+  {
+    "content": "3.1 命名规则\n\nC 语言中的命名有多种风格，有unix 风格的、有windows 风格的、还有匈牙利命名法的等\n等。因为我们是编写Linux 代码的，所以要使用unix 风格，而Linux 属于类unix 系统。unix 命\n名风格是单词用小写，然后每个单词用下划线“_”连接在一起，比如:read_adc1_value()，因此\n在函数和变量的命名上就要使用此种方法，这也是Linux 内核里面所使用的命名方法。\n注意事项：\n1、命名一定要清晰！清晰是首位，要使用完整的单词或者大家都知道的缩写，让别人一读\n就懂，避免不必要的误会，比如：\nint book_number;\nint number_of_beautiful_gril;\n2、除了常用的缩写以外，不要使用单词缩写，更不要用汉语拼音！！！\n3、具有互斥意义的变量或者动作相反的函数应该是用互斥词组命名，如：\nadd/remove\nbegin/end\ncreate/destroy\ninsert/delete\nfirst/last\nget/release\nincrement/decrement\nput/get add/delete\nlock/unlock\nopen/close\nmin/max\nold/new\nstart/stop\nnext/previous\nsource/target\nshow/hide\nsend/receive\nsource/destination  copy/paste\nup/down\n4、如果是移植的其它的代码，比如驱动，命名风格应该和原风格一致。\n5、不要使用单字节命名变量，但是允许使用i，j，k 这样的作为局部循环变量。",
+    "metadata": {
+      "page_num": 11,
+      "section": "第三章 标识符命名 > 3.1 命名规则",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00054"
+  },
+  {
+    "content": "3.3 变量命名\n\n变量名一定要有意义，并且意义准确，单词都采用小写，用下划线“_”连接。比如表示图\n书的数量的变量，就可以使用如下命名：\nint number_of_book;\n不要采用匈牙利命名法，尽量避免使用全局变量。",
+    "metadata": {
+      "page_num": 11,
+      "section": "第三章 标识符命名 > 3.1 命名规则 > 3.2 文件命名 > 3.3 变量命名",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00055"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 12,
+      "section": "第三章 标识符命名 > 3.1 命名规则 > 3.2 文件命名 > 3.5 宏命名",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00056"
+  },
+  {
+    "content": "| int system_is_up(void) |\n| --- |\n| { |\n| return system_state == SYSTEM_RUNNING; |\n| } |\n| EXPORT_SYMBOL(system_is_up); |",
+    "metadata": {
+      "page_num": 12,
+      "section": "第三章 标识符命名 > 3.1 命名规则 > 3.2 文件命名 > 3.5 宏命名",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00057"
+  },
+  {
+    "content": "| int fun(int a) |\n| --- |\n| { |\n| int result = 0; |\n| char *buffer; |\n|  |\n| buffer = kmalloc(SIZE, GFP_KERNEL); |\n| if (!buffer) |\n| return -ENOMEM; |\n|  |\n| if (condition1) { |\n| while (loop1) { |\n| ... |\n| } |\n| result = 1; |\n| goto out_buffer; |\n| } |",
+    "metadata": {
+      "page_num": 12,
+      "section": "第三章 标识符命名 > 3.1 命名规则 > 3.2 文件命名 > 3.5 宏命名",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00058"
+  },
+  {
+    "content": "1、一个函数只能完成一个功能\n\n如果一个函数实现多个功能的话将会给开发、使用和维护带来很大的困难。因此，在跟函\n数无关或者关联很弱的代码不要放到函数里面，否则的话会导致函数职责不明确，难以理解和\n修改。",
+    "metadata": {
+      "page_num": 12,
+      "section": "第四章 函数 > 1、一个函数只能完成一个功能",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00059"
+  },
+  {
+    "content": "3、不同函数用空行隔开\n\n不同的函数使用空行隔开，如果函数需要导出的话，它的EXPORT*宏应该紧贴在他的结束\n大括号下，比如：\nint system_is_up(void)\nreturn system_state == SYSTEM_RUNNING;\nEXPORT_SYMBOL(system_is_up);",
+    "metadata": {
+      "page_num": 12,
+      "section": "第四章 函数 > 1、一个函数只能完成一个功能 > 2、重复代码提炼成函数 > 3、不同函数用空行隔开",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00060"
+  },
+  {
+    "content": "4、函数集中退出方法\n\n我们在学习C 语言的时候都会听到或者看到这种说法：少用、最好不要用goto 语句，但是\nlinux 源码中确大量的使用到了goto 语句，linux 源码使用goto 语句来实现函数退出。当一个函\n数从多个位置推出，并且需要做一些清理的常见操作的时候，goto 语句就很方便，如果不需要\n清理操作的话就直接使用return 即可，如下所示：\nint fun(int a)\nint result = 0;\nchar *buffer;\nbuffer = kmalloc(SIZE, GFP_KERNEL);\nif (!buffer)\nreturn -ENOMEM;\nif (condition1) {\nwhile (loop1) {\n...\nresult = 1;\ngoto out_buffer;",
+    "metadata": {
+      "page_num": 12,
+      "section": "第四章 函数 > 1、一个函数只能完成一个功能 > 2、重复代码提炼成函数 > 4、函数集中退出方法",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00061"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 13,
+      "section": "第四章 函数 > 1、一个函数只能完成一个功能 > 2、重复代码提炼成函数 > 4、函数集中退出方法",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00062"
+  },
+  {
+    "content": "| ... |\n| --- |\n| out_buffer: |\n| kfree(buffer); |\n| return result; |\n| } |",
+    "metadata": {
+      "page_num": 13,
+      "section": "第四章 函数 > 1、一个函数只能完成一个功能 > 2、重复代码提炼成函数 > 4、函数集中退出方法",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00063"
+  },
+  {
+    "content": "5、函数嵌套不能过深，新增函数最好不超过4 层\n\n函数嵌套深度指的是函数中的代码控制块(例如：if、for、while、switch 等)之间互相包含的\n深度，嵌套会增加阅读代码时候的脑力，嵌套太深非常不利于阅读！",
+    "metadata": {
+      "page_num": 13,
+      "section": "第四章 函数 > 1、一个函数只能完成一个功能 > 2、重复代码提炼成函数 > 5、函数嵌套不能过深，新增函数最好不超过4 层",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00064"
+  },
+  {
+    "content": "6、对函数的参数做合法性检查\n\n函数要对其参数做合法性的检查，比如参数如果有指针类型数据的话如果不做检查，当传\n入野指针的话就会出错。比如参数的范围不做检查的话可能会传递进来一个超出范围的参数值，\n导致函数计算溢出等。因此函数必须对参数做合法性检查，比如STM32 的官方库函数就会对函\n数的参数做合法性的检查。",
+    "metadata": {
+      "page_num": 13,
+      "section": "第四章 函数 > 1、一个函数只能完成一个功能 > 2、重复代码提炼成函数 > 6、对函数的参数做合法性检查",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00065"
+  },
+  {
+    "content": "8、源文件范围内定义和声明的函数，除非外部可见，否则都应该用static 函数\n\n如果一个函数只在同一个文件的其它地方调用，那么就应该用static，static 确保这个函数\n只在声明它的文件是可见的，这样可以避免和其它库中相同标识符的函数或变量发生混淆。",
+    "metadata": {
+      "page_num": 13,
+      "section": "第四章 函数 > 1、一个函数只能完成一个功能 > 2、重复代码提炼成函数 > 8、源文件范围内定义和声明的函数，除非外部可见，否则都应该用static 函数",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00066"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 14,
+      "section": "第四章 函数 > 1、一个函数只能完成一个功能 > 2、重复代码提炼成函数 > 8、源文件范围内定义和声明的函数，除非外部可见，否则都应该用static 函数",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00067"
+  },
+  {
+    "content": "| int time; |\n| --- |\n| time = 200; //表示时间 |\n| time = getvalue(); //ret用作返回值 |",
+    "metadata": {
+      "page_num": 14,
+      "section": "第四章 函数 > 1、一个函数只能完成一个功能 > 2、重复代码提炼成函数 > 8、源文件范围内定义和声明的函数，除非外部可见，否则都应该用static 函数",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00068"
+  },
+  {
+    "content": "| int time,ret; |\n| --- |\n| time = 200; |\n| ret = getvalue(); |",
+    "metadata": {
+      "page_num": 14,
+      "section": "第四章 函数 > 1、一个函数只能完成一个功能 > 2、重复代码提炼成函数 > 8、源文件范围内定义和声明的函数，除非外部可见，否则都应该用static 函数",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00069"
+  },
+  {
+    "content": "| /* 不可取的初始化：无意义* / |\n| --- |\n| int num = 2; |\n| if(a) |\n| num = 3; |\n| else |\n| num=4 |\n|  |\n| /* 不可取的初始化：初始化和声明分离 */ |\n| int num; |\n| if(a) |\n| num = 3; |\n| else |\n| num=4 |\n|  |\n| /* 较好的初始化：使用默认有意义的初始化 */ |\n| int num = 3; |\n| if(a) |\n| num = 4; |\n|  |",
+    "metadata": {
+      "page_num": 14,
+      "section": "第四章 函数 > 1、一个函数只能完成一个功能 > 2、重复代码提炼成函数 > 8、源文件范围内定义和声明的函数，除非外部可见，否则都应该用static 函数",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00070"
+  },
+  {
+    "content": "1、一个变量只能有一个功能，不能把一个变量当作多用途\n\n一个变量只能有一个特定功能，不能把一个变量作为多用途使用，即一个变量取值不同的\n时候其代表的含义也不同，如：\nint time;\ntime = 200;\n//表示时间\ntime = getvalue(); //ret 用作返回值\n上述代码中变量time 用作时间，但是也用作了函数getvalue 的返回值。应该改为如下：\nint time,ret;\ntime = 200;\nret = getvalue();",
+    "metadata": {
+      "page_num": 14,
+      "section": "第五章 变量 > 1、一个变量只能有一个功能，不能把一个变量当作多用途",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00071"
+  },
+  {
+    "content": "2、不用或者少用全局变量\n\n单个文件内可以使用static 修饰的全局变量，这可以为文件的私有变量，全局变量应该是\n模块的私有数据，不能作用对外的接口，使用static 类型的定义，可以防止外部文件对本文件的\n全局变量的非正常访问。直接访问其它模块的私有数据，会增强模块之间的耦合关系。",
+    "metadata": {
+      "page_num": 14,
+      "section": "第五章 变量 > 1、一个变量只能有一个功能，不能把一个变量当作多用途 > 2、不用或者少用全局变量",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00072"
+  },
+  {
+    "content": "4、严禁使用未经初始化的变量作为右值\n\n如果使用变量作为右值的话，在使用前一定要初始化变量，禁止使用未经初始化的变量作\n为右值，而且在首次使用前初始化变量的地方离使用的地方越近越好！未初始化变量是C 和\nC++最常见的错误源，因此在变量首次使用前一定要确保正确初始化，如：\n/*  不可取的初始化：无意义* /\nint num = 2;\nif(a)\nnum = 3;\nelse\nnum=4\n/* 不可取的初始化：初始化和声明分离 */\nint num;\nif(a)\nnum = 3;\nelse\nnum=4\n/* 较好的初始化：使用默认有意义的初始化 */\nint num = 3;\nif(a)\nnum = 4;",
+    "metadata": {
+      "page_num": 14,
+      "section": "第五章 变量 > 1、一个变量只能有一个功能，不能把一个变量当作多用途 > 2、不用或者少用全局变量 > 4、严禁使用未经初始化的变量作为右值",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00073"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 15,
+      "section": "第五章 变量 > 1、一个变量只能有一个功能，不能把一个变量当作多用途 > 2、不用或者少用全局变量 > 4、严禁使用未经初始化的变量作为右值",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00074"
+  },
+  {
+    "content": "| /* 较好的初始化：?:减少数据流和控制流的混合 */ |\n| --- |\n| int num=a?4:3; |",
+    "metadata": {
+      "page_num": 15,
+      "section": "第五章 变量 > 1、一个变量只能有一个功能，不能把一个变量当作多用途 > 2、不用或者少用全局变量 > 4、严禁使用未经初始化的变量作为右值",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00075"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 16,
+      "section": "第五章 变量 > 1、一个变量只能有一个功能，不能把一个变量当作多用途 > 2、不用或者少用全局变量 > 6、尽量减少不必要的数据类型转换",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00076"
+  },
+  {
+    "content": "| #define macrofun(a, b, c) \\ |\n| --- |\n| do { \\ |\n| if (a == 5) \\ |\n| do_this(b, c); \\ |\n| } while (0) |",
+    "metadata": {
+      "page_num": 16,
+      "section": "第五章 变量 > 1、一个变量只能有一个功能，不能把一个变量当作多用途 > 2、不用或者少用全局变量 > 6、尽量减少不必要的数据类型转换",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00077"
+  },
+  {
+    "content": "| #define FOO(x) \\ |\n| --- |\n| do { \\ |\n| if (blah(x) < 0) \\ |\n| return -EBUGGERED; \\ |\n| } while (0) |",
+    "metadata": {
+      "page_num": 16,
+      "section": "第五章 变量 > 1、一个变量只能有一个功能，不能把一个变量当作多用途 > 2、不用或者少用全局变量 > 6、尽量减少不必要的数据类型转换",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00078"
+  },
+  {
+    "content": "| #define CONSTANT 0x4000 |\n| --- |\n| #define CONSTEXP (CONSTANT | 3) |",
+    "metadata": {
+      "page_num": 16,
+      "section": "第五章 变量 > 1、一个变量只能有一个功能，不能把一个变量当作多用途 > 2、不用或者少用全局变量 > 6、尽量减少不必要的数据类型转换",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00079"
+  },
+  {
+    "content": "| #define FOO(x) \\ |\n| --- |\n| printf(\"arg is %d\\n\", x) \\ |\n| do_something_useful(x); |",
+    "metadata": {
+      "page_num": 16,
+      "section": "第五章 变量 > 1、一个变量只能有一个功能，不能把一个变量当作多用途 > 2、不用或者少用全局变量 > 6、尽量减少不必要的数据类型转换",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00080"
+  },
+  {
+    "content": "| for (blah = 1; blah < 10; blah++) |\n| --- |\n| FOO(blah) |",
+    "metadata": {
+      "page_num": 16,
+      "section": "第五章 变量 > 1、一个变量只能有一个功能，不能把一个变量当作多用途 > 2、不用或者少用全局变量 > 6、尽量减少不必要的数据类型转换",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00081"
+  },
+  {
+    "content": "| #define FOO(x) { \\ |\n| --- |\n| printf(\"arg is %s\\n\", x); \\ |\n| do_something_useful(x); \\ |\n| } |",
+    "metadata": {
+      "page_num": 16,
+      "section": "第五章 变量 > 1、一个变量只能有一个功能，不能把一个变量当作多用途 > 2、不用或者少用全局变量 > 6、尽量减少不必要的数据类型转换",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00082"
+  },
+  {
+    "content": "2、函数宏的命名\n\n宏的名字一般用大写，但是形如函数的宏，其名字可以用小写，如果能写成内联函数的就\n不要写成像函数的宏。如下所示：\n#define macrofun(a, b, c)\ndo {\nif (a == 5)\ndo_this(b, c);\n} while (0)",
+    "metadata": {
+      "page_num": 16,
+      "section": "第六章 宏和常量 > 1、宏命名 > 2、函数宏的命名",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00083"
+  },
+  {
+    "content": "3、使用宏的注意事项\n\n1）避免影响控制流程的宏，如下：\n#define FOO(x)\ndo {\nif (blah(x) < 0)\nreturn -EBUGGERED; \\\n} while (0)\n上述代码中就很不好，它看起来像个函数，但是却能导致“调用”它的函数退出。\n2）作为左值的带参数的宏：FOO(x) = y，如果有人把FOO 变成一个内联函数的话，这种\n用法就会出错了。\n3）忘记优先级：使用表达式定义常量的宏必须将表达式置于一对小括号之内，如：\n#define CONSTANT 0x4000\n#define CONSTEXP (CONSTANT | 3)",
+    "metadata": {
+      "page_num": 16,
+      "section": "第六章 宏和常量 > 1、宏命名 > 2、函数宏的命名 > 3、使用宏的注意事项",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00084"
+  },
+  {
+    "content": "4、将宏所定义的多条表达式放在大括号中。\n\n如果有多条语句的话，最好的写法就是写成do while(0)的方式，如下所示示例：\n#define FOO(x)\nprintf(\"arg is %d\\n\", x) \\\ndo_something_useful(x);\n为了说明这个问题，下面以for 语句为例：\nfor (blah = 1; blah < 10; blah++)\nFOO(blah)\n为了修改上面的for 循环的错误，可以通过大括号来解决，如下：\n#define FOO(x) {\nprintf(\"arg is %s\\n\", x);\ndo_something_useful(x);",
+    "metadata": {
+      "page_num": 16,
+      "section": "第六章 宏和常量 > 1、宏命名 > 2、函数宏的命名 > 4、将宏所定义的多条表达式放在大括号中。",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00085"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 17,
+      "section": "第六章 宏和常量 > 1、宏命名 > 2、函数宏的命名 > 5、常量建议使用const 定义来代替宏",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "16【正点原子】嵌入式LinuxC代码规范化V1.0.json"
+    },
+    "chunk_id": "__00086"
+  }
+]

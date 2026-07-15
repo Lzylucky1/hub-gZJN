@@ -1,0 +1,198 @@
+[
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 2,
+      "section": "",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "20【正点原子】I.MX6U修改RGB屏幕RGB888显示V1.0.json"
+    },
+    "chunk_id": "__00000"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 3,
+      "section": "正点原子公司名称 ：广州市星翼电子科技有限公司 > 原子哥在线教学平台 ：www.yuanzige.com > 开源电子网 / 论坛 ：http://www.openedv.com/forum.php > 请下载原子哥APP，数千讲视频免费学习，更快更流畅。",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "20【正点原子】I.MX6U修改RGB屏幕RGB888显示V1.0.json"
+    },
+    "chunk_id": "__00001"
+  },
+  {
+    "content": "| 版本 | 版本更新说明 | 负责人 | 校审 | 发布日期 |\n| --- | --- | --- | --- | --- |\n| V1.0 | 初稿： | 正点原子 linux团队 | 正点原子 linux团队 | 2024.12.07 |",
+    "metadata": {
+      "page_num": 3,
+      "section": "正点原子公司名称 ：广州市星翼电子科技有限公司 > 原子哥在线教学平台 ：www.yuanzige.com > 开源电子网 / 论坛 ：http://www.openedv.com/forum.php > 请下载原子哥APP，数千讲视频免费学习，更快更流畅。",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "20【正点原子】I.MX6U修改RGB屏幕RGB888显示V1.0.json"
+    },
+    "chunk_id": "__00002"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 4,
+      "section": "正点原子公司名称 ：广州市星翼电子科技有限公司 > 原子哥在线教学平台 ：www.yuanzige.com > 开源电子网 / 论坛 ：http://www.openedv.com/forum.php > 文档更新说明",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "20【正点原子】I.MX6U修改RGB屏幕RGB888显示V1.0.json"
+    },
+    "chunk_id": "__00003"
+  },
+  {
+    "content": "前言 ................................................................................................................................................ 5\n修改出厂设备树 ............................................................................................................... 7\n1.1 修改设备树 ...................................................................................................................... 8\n1.2 检验设置的格式 .............................................................................................................. 8\n附录 ................................................................................................................................................ 9",
+    "metadata": {
+      "page_num": 4,
+      "section": "正点原子公司名称 ：广州市星翼电子科技有限公司 > 原子哥在线教学平台 ：www.yuanzige.com > 开源电子网 / 论坛 ：http://www.openedv.com/forum.php > 文档更新说明",
+      "block_types": [
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "20【正点原子】I.MX6U修改RGB屏幕RGB888显示V1.0.json"
+    },
+    "chunk_id": "__00004"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 5,
+      "section": "正点原子公司名称 ：广州市星翼电子科技有限公司 > 原子哥在线教学平台 ：www.yuanzige.com > 开源电子网 / 论坛 ：http://www.openedv.com/forum.php > 文档更新说明",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "20【正点原子】I.MX6U修改RGB屏幕RGB888显示V1.0.json"
+    },
+    "chunk_id": "__00005"
+  },
+  {
+    "content": "前言\n\n正点原子I.MX6U 开发板出厂系统默认设置屏幕格式为RGB565，屏幕支持RGB888，底板\n上硬件也支持。由于C 应用文档教程，需要直接将OV5640 图像数据直接绘制到屏幕上，OV5640\n设置为RGB565 格式的时候，屏幕格式需要设置为RGB565，这样对应才能绘制上去。\n一般情况下RGB 屏幕对渐变显示较差，所以容易在屏幕上看到渐变突然“断层”现象。所\n以若你对屏幕显示效果有强烈要求时，可以通过配置设备树来显示RGB888，若配置为RGB888\n显示效果还不达到你的需求时，这时要考虑开发板的性能了。毕竟是没有GPU 的板子，性能往\n往与功耗、价格相匹配。注意，配置了RGB888 显示，那么C 应用教程中ov5640 Camera 显示\n的例程就会显示不了！同时快速体验中的测试ov5640_camera、ov2640_camera、ov772x_camera\n指令也会显示不了。",
+    "metadata": {
+      "page_num": 5,
+      "section": "正点原子公司名称 ：广州市星翼电子科技有限公司 > 原子哥在线教学平台 ：www.yuanzige.com > 开源电子网 / 论坛 ：http://www.openedv.com/forum.php > 前言",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "20【正点原子】I.MX6U修改RGB屏幕RGB888显示V1.0.json"
+    },
+    "chunk_id": "__00006"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 6,
+      "section": "正点原子公司名称 ：广州市星翼电子科技有限公司 > 原子哥在线教学平台 ：www.yuanzige.com > 开源电子网 / 论坛 ：http://www.openedv.com/forum.php > 前言",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "20【正点原子】I.MX6U修改RGB屏幕RGB888显示V1.0.json"
+    },
+    "chunk_id": "__00007"
+  },
+  {
+    "content": "免责声明\n\n本文档所提及的产品规格和使用说明仅供参考，如有内容更新，恕不另行通知；除非有特\n殊约定，本文档仅作为产品指导，所作陈述均不构成任何形式的担保。本文档版权归广州市星\n翼电子科技有限公司所有，未经公司的书面许可，任何单位和个人不得以营利为目的进行任何\n方式的传播。\n为了得到最新版本的产品信息，请用户定时访问正点原子资料下载中心或者与淘宝正点原\n子旗舰店客服联系索取。感谢您的包容与支持。\n\n[扫描页，OCR 不可用（未安装 pytesseract/tesseract），内容跳过]",
+    "metadata": {
+      "page_num": 6,
+      "section": "正点原子公司名称 ：广州市星翼电子科技有限公司 > 原子哥在线教学平台 ：www.yuanzige.com > 开源电子网 / 论坛 ：http://www.openedv.com/forum.php > 免责声明",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": true,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "20【正点原子】I.MX6U修改RGB屏幕RGB888显示V1.0.json"
+    },
+    "chunk_id": "__00008"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 8,
+      "section": "正点原子公司名称 ：广州市星翼电子科技有限公司 > 原子哥在线教学平台 ：www.yuanzige.com > 开源电子网 / 论坛 ：http://www.openedv.com/forum.php > 免责声明",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "20【正点原子】I.MX6U修改RGB屏幕RGB888显示V1.0.json"
+    },
+    "chunk_id": "__00009"
+  },
+  {
+    "content": "1.1 修改设备树\n\n必须使用出厂内核源码，若你没有编译过出厂内核源码，请看用户手册下的【正点原子】\nI.MX6U 用户快速体验第四章，先编译出厂内核源码。\n打开出厂内核源码打开arch/arm/boot/dts/ imx6ull-14x14-emmc-7-1024x600-c.dts 这个文件。\n找到如下配置。上面那个配置是修改eMMC 类型核心板，用户使用7 寸RGB 屏幕1024x600 分\n辨率。\n若用户使用的是eMMC 类型核心板4.3 寸RGB 屏，那么就编辑这个arch/arm/boot/dts/\nimx6ull-14x14-emmc-4.3-800x480-c.dts 文件。\n同理你的核心板若eMMC 类型的，使用的屏幕是其他分辨率的，那么就修改\narch/arm/boot/dts/的对应的设备树文件即可。\n同理你的核心板若是NandFlash 类型的，那么就修改arch/arm/boot/dts/下的对应的设备树文\n件即可。\n这里我们以arch/arm/boot/dts/ imx6ull-14x14-emmc-7-1024x600-c.dts 为例，找到如下位置代\n码。\n将上面标记的那行改为bits-per-pixel = <24>;。这样的意思是设置为每像素位数为24。那么\n就是RGB888。",
+    "metadata": {
+      "page_num": 8,
+      "section": "正点原子公司名称 ：广州市星翼电子科技有限公司 > 原子哥在线教学平台 ：www.yuanzige.com > 开源电子网 / 论坛 ：http://www.openedv.com/forum.php > 1.1 修改设备树",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "20【正点原子】I.MX6U修改RGB屏幕RGB888显示V1.0.json"
+    },
+    "chunk_id": "__00010"
+  },
+  {
+    "content": "1.2 检验设置的格式\n\n修改完成后，直接执行build.sh 脚本重新编译内核。将编译出来的arch/arm/boot/dts/对应屏\n幕分辨率的dtb 文件（如arch/arm/boot/dts/ imx6ull-14x14-emmc-7-1024x600-c.dtb）全部替换到\n05 、开发工具\\04 、正点原子MFG_TOOL 出厂固件烧录工具\\mfgtool\\Profiles\\Linux\\OS\nFirmware\\files\\boot 目录下，然后使用mfgtool 工具按快速体验手册第2.2.1 小节重新烧录系统即\n可。\n未修改之前的显示，看到下图就是RGB565 显示。\n\n[扫描页，OCR 不可用（未安装 pytesseract/tesseract），内容跳过]",
+    "metadata": {
+      "page_num": 8,
+      "section": "正点原子公司名称 ：广州市星翼电子科技有限公司 > 原子哥在线教学平台 ：www.yuanzige.com > 开源电子网 / 论坛 ：http://www.openedv.com/forum.php > 1.2 检验设置的格式",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": true,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "20【正点原子】I.MX6U修改RGB屏幕RGB888显示V1.0.json"
+    },
+    "chunk_id": "__00011"
+  }
+]

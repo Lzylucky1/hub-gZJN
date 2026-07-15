@@ -1,0 +1,3032 @@
+[
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 1,
+      "section": "",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00000"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 2,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00001"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 3,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 请下载原子哥APP，数千讲视频免费学习，更快更流畅。",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00002"
+  },
+  {
+    "content": "| 版本 | 版本更新说明 | 负责人 | 校审 | 发布日期 |\n| --- | --- | --- | --- | --- |\n| V1.0 | 初稿： | 正点原子 linux团队 | 正点原子 linux团队 | 2020.11.23 |\n| V1.1 | 1、 添加ping失败示例。 2、 添加1.2~1.4章节的小节汇总。 3、 修改了一些笔误。 | 正点原子 linux团队 | 正点原子 linux团队 | 2020.12.01 |\n| V1.2 | 1、 在前言中添加笔误联系方式。 2、 在第二章、第三章的开头添加用户 使用基础。 3、 修改4.2小节bootz地址错误。 | 正点原子 linux团队 | 正点原子 linux团队 | 2020.12.28 |\n| V1.3 | 1、 修改2.2.3小节的/etc/xinetd.d/tftp文 件表述 2、 文档4.3小节最后添加NFS常见问 题的解决思路。 3、 添加第五章中虚拟网卡不存在的参 考解决思路。 4、 优化TFTP、NFS挂载指令排版 | 正点原子 linux团队 | 正点原子 linux团队 | 2021.3.31 |\n| V1.3.1 | 1、 修复1.4.3小节DNS问题 2、 修改/etc/xinetd.d/tftp 与驱动开发指 南同步。 3、 添加双网卡虚拟机无法上网问题。 | 正点原子 linux团队 | 正点原子 linux团队 | 2021.6.21 |\n| V1.3.2 | 1、 删除掉网络拓扑图中WIFI和NAT 设备相关IP信息，减少用户困扰。 2、 添加1.4小节中对双网卡的处理。 3、 更新文档图片，适配Alientek虚拟 机英文界面。 4、 优化文档内容。 | 正点原子 linux团队 | 正点原子 linux团队 | 2022.05.06 |",
+    "metadata": {
+      "page_num": 3,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 请下载原子哥APP，数千讲视频免费学习，更快更流畅。",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00003"
+  },
+  {
+    "content": "文档更新说明\n\n版本\n版本更新说明\n负责人\n校审\n发布日期\nV1.0\n初稿：\n正点原子\nlinux 团队\n正点原子\nlinux 团队\n2020.11.23\nV1.1\n1、 添加ping 失败示例。\n2、 添加1.2~1.4 章节的小节汇总。\n3、 修改了一些笔误。\n正点原子\nlinux 团队\n正点原子\nlinux 团队\n2020.12.01\nV1.2\n1、 在前言中添加笔误联系方式。\n2、 在第二章、第三章的开头添加用户\n使用基础。\n3、 修改4.2 小节bootz 地址错误。\n正点原子\nlinux 团队\n正点原子\nlinux 团队\n2020.12.28\nV1.3\n1、 修改2.2.3 小节的/etc/xinetd.d/tftp 文\n件表述\n2、 文档4.3 小节最后添加NFS 常见问\n题的解决思路。\n3、 添加第五章中虚拟网卡不存在的参\n考解决思路。\n4、 优化TFTP、NFS 挂载指令排版\n正点原子\nlinux 团队\n正点原子\nlinux 团队\n2021.3.31\nV1.3.1\n1、 修复1.4.3 小节DNS 问题\n2、 修改/etc/xinetd.d/tftp 与驱动开发指\n南同步。\n3、 添加双网卡虚拟机无法上网问题。\n正点原子\nlinux 团队\n正点原子\nlinux 团队\n2021.6.21\nV1.3.2\n1、 删除掉网络拓扑图中WIFI 和NAT\n设备相关IP 信息，减少用户困扰。\n2、 添加1.4 小节中对双网卡的处理。\n3、 更新文档图片，适配Alientek 虚拟\n机英文界面。\n4、 优化文档内容。\n正点原子\nlinux 团队\n正点原子\nlinux 团队\n2022.05.06",
+    "metadata": {
+      "page_num": 3,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 文档更新说明",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00004"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 4,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 文档更新说明",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00005"
+  },
+  {
+    "content": "前言 ................................................................................................................................................ 6\nI.MX6U 开发板网络环境搭建 ........................................................................................ 7\n1.1 环境分析.......................................................................................................................... 7\n开发工具 ............................................................................................................... 7\n网络拓扑结构 ....................................................................................................... 7\n同一网段 ............................................................................................................... 7\nping 测试概念........................................................................................................ 7\n关闭Ubuntu 和Windows 防火墙 ....................................................................... 9\n1.2 电脑和开发板直连同个路由器 .................................................................................... 11\n准备工作 ............................................................................................................. 11\nVMware 设置 ...................................................................................................... 11\nUbuntu 设置 ......................................................................................................... 12\nWindows 设置 ..................................................................................................... 14\n开发板设置 ......................................................................................................... 15\nping 测试 ............................................................................................................. 15\n小结..................................................................................................................... 18\n1.3 电脑和开发板直连同个交换机 .................................................................................... 18\n准备工作 ............................................................................................................. 18\nVMware 设置 ...................................................................................................... 19\nUbuntu 设置 ......................................................................................................... 20\nWindows 设置 ..................................................................................................... 22\n开发板设置 ......................................................................................................... 23\nping 测试 ............................................................................................................. 23\n小结..................................................................................................................... 25\n1.4 电脑WiFi 上网，开发板和电脑直连 .......................................................................... 26\n准备工作 ............................................................................................................. 26\nVMware 设置 ...................................................................................................... 26\nUbuntu 设置 ......................................................................................................... 32\nWindows 设置 ..................................................................................................... 39\n开发板设置 ......................................................................................................... 41\nping 测试 ............................................................................................................. 42\n小结..................................................................................................................... 43\n1.5 电脑只有无线网卡 ........................................................................................................ 44\n准备工作 ............................................................................................................. 44\nVMware 设置 ...................................................................................................... 45\n搭建TFTP 环境 ............................................................................................................. 53\n2.1 TFTP 简介 ...................................................................................................................... 53\n2.2 搭建TFTP ..................................................................................................................... 53",
+    "metadata": {
+      "page_num": 4,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 目录",
+      "block_types": [
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00006"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 5,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 目录",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00007"
+  },
+  {
+    "content": "安装和配置xinetd .............................................................................................. 53\nTFTP 目录 ........................................................................................................... 54\ntftp-hpa 和tftpd-hpa 服务程序 ........................................................................... 54\n网络环境 ............................................................................................................. 56\nTFTP 测试 ........................................................................................................... 56\n搭建NFS 环境 ............................................................................................................... 58\n3.1 NFS 简介 ........................................................................................................................ 58\n3.2 安装NFS 服务 .............................................................................................................. 58\n3.3 NFS 共享目录 ................................................................................................................ 58\n3.4 配置NFS 服务 .............................................................................................................. 59\n3.5 网络环境........................................................................................................................ 60\n3.6 NFS 测试 ........................................................................................................................ 60\n挂载教程系统 ................................................................................................................. 62\n4.1 准备工作........................................................................................................................ 62\n网络环境 ............................................................................................................. 62\n内核文件准备 ..................................................................................................... 62\n文件系统准备 ..................................................................................................... 62\n4.2 TFTP 挂载内核、设备树 .............................................................................................. 63\n4.3 NFS 挂载文件系统 ........................................................................................................ 64\n附录 ................................................................................................................................ 67\n5.1 VMware 虚拟网卡问题 ................................................................................................. 67\n不存在虚拟网卡VMnet1 和VMnet8 ............................................................... 67\n5.2 双网卡虚拟机无法上网 ................................................................................................ 67\n只保留NAT 网卡就可以上网 ........................................................................... 67\n只保留NAT 网卡也无法上网 ........................................................................... 68",
+    "metadata": {
+      "page_num": 5,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00008"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 6,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00009"
+  },
+  {
+    "content": "前言\n\n本文档使用的环境是VMware Workstation Pro 15.5 虚拟机软件和Ubuntu16.04，主机系统是\nWindows10 系统。开发板所使用的的是正点原子阿尔法开发板和MINI 开发板。若环境不一样\n可能会有所差别，请酌情参考。\n同理，每个人的网络拓扑情况也是不一样，这份文档列举了大部分用户的网络拓扑，请通\n读一遍1.1 小节后，再根据自身环境情况选择对应的小节进行搭建：\n开发板和电脑直连同个路由器的请看1.2 小节；\n开发板和电脑直连同个交换机的请看1.3 小节；\n电脑WiFi 上网、开发板直连电脑的请看1.4 小节；\n电脑没有网口的请看1.5 小节。\n编者水平有限，如果发现文档中有笔误或者歧义的地方，请QQ 联系编者2765961790 进行\n更正。",
+    "metadata": {
+      "page_num": 6,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 前言",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00010"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 7,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 前言",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00011"
+  },
+  {
+    "content": "|  | 网络拓扑(Network Topology)结构是指用传输介质互连各种设备的 |\n| --- | --- |\n| 物理布局。指构成网络的成员间特定的物理的即真实的、或者逻辑的即虚拟的排列方式。本文 |  |\n| 档的理解就是开发板与电脑的局域网组合形式。 |  |",
+    "metadata": {
+      "page_num": 7,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 前言",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00012"
+  },
+  {
+    "content": "| 各种设备指的是电脑主机、虚拟机、开发板、路由器/交换机等。 |\n| --- |\n| 传输介质指的是直通网线、WIFI等。 |",
+    "metadata": {
+      "page_num": 7,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 前言",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00013"
+  },
+  {
+    "content": "1.1 环境分析\n\n正点原子粉丝众多，每个人所用的开发工具和网络环境都不太一样，这里列举一些常见的\n网络环境供大家参考。\n注意，一些保密性较好的学校、机构、公司的网络环境因不可抗力因素是可能无法按照文\n档搭建完成的。",
+    "metadata": {
+      "page_num": 7,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 1.1 环境分析",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00014"
+  },
+  {
+    "content": "开发工具\n\n首先看下我们所用到基础设备及工具：电脑、开发板、直通网线。\n这三个是本文档最基本的工具，这里的电脑指的是我们用的Windows 系统的电脑主机和\nUbuntu 系统的虚拟机、Ubuntu 系统的电脑主机，苹果电脑这里不做说明。\n除了这三个基础设备外，有些用户可能还会用到路由器、交换机、USB 转网口拓展线、USB\n转WIFI 接口等工具，遇到具体的情况具体分析。\n路由器和交换机还是有所区别的。如果是使用交换机，则接入网线生成的IP 是和原宽带的\nIP 是在同一网段的。如果使用的是路由器，宽带接入WLAN 口，开发板网线和电脑网线接在\nLAN 口，则开发板网段和电脑网段处于同一网段，但和宽带不在同一网段。也就是路由器会生\n成一个新的网段供开发板和电脑使用。\n具体工具的使用在以下对应的网络拓扑中。",
+    "metadata": {
+      "page_num": 7,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 开发工具",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00015"
+  },
+  {
+    "content": "网络拓扑结构\n\n根据百度百科的记录，网络拓扑(Network Topology)结构是指用传输介质互连各种设备的\n物理布局。指构成网络的成员间特定的物理的即真实的、或者逻辑的即虚拟的排列方式。本文\n档的理解就是开发板与电脑的局域网组合形式。\n各种设备指的是电脑主机、虚拟机、开发板、路由器/交换机等。\n传输介质指的是直通网线、WIFI 等。",
+    "metadata": {
+      "page_num": 7,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 网络拓扑结构",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00016"
+  },
+  {
+    "content": "VMware 网络模式\n\nVMware 里网络模式有桥接模式、NAT 模式、仅主机模式三种。我们常用的是桥接模式，\n用于开发板和虚拟机组成局域网。具体说明可以参考下linux 公社这篇帖子：\nhttps://www.linuxidc.com/Linux/2016-09/135521.htm",
+    "metadata": {
+      "page_num": 7,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > VMware 网络模式",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00017"
+  },
+  {
+    "content": "同一网段\n\n同一网段：本文档所用的是C 类的IP，IP 地址范围为192.0.0.0-223.255.255.255。C 类IP\n前三个数表示不同的网络，最后一个数表示同个网段中的不同主机。例如192.168.10.0 和\n192.168.18.0 是不同的网络（例如局域网和无线网络），192.168.10.50 和192.168.10.100 是在同\n一网段（都在局域网）。只有在同一网段中的主机才能ping 通。",
+    "metadata": {
+      "page_num": 7,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 同一网段",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00018"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 8,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > ping 测试概念",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00019"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\nping IP 地址\n以下是本文档常用的三种ping 测试成功示例，具体使用要结合后面的网络环境搭建。\n图 1.1.5-1 Windows 命令终端ping 示例\n图 1.1.5-2 Ubuntu 终端ping 示例\n图 1.1.5-3 ping 网站示例\n以下是常见的ping 失败示例。\n图 1.1.5-4 Destination Host Unreachable\n这种一般是没有设置IP 在同一网段。其他的ping 失败可以结合反馈信息，参考下面的博\n客链接分析原因。\nping 失败的结果分析博客地址：https://www.cnblogs.com/pinganzi/p/6812281.html\n执行ctrl + Z 即可停止测试。如果不是以上示例的反馈信息，则ping 测试失败，需要检查\n网络或防火墙。",
+    "metadata": {
+      "page_num": 8,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00020"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 9,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00021"
+  },
+  {
+    "content": "关闭Ubuntu 和Windows 防火墙\n\n在Ubuntu 和Windows 互相通信之前，需要关闭防火墙。在Windows 主机的控制面板\\系统\n和安全\\Windows Defender 防火墙中选择关闭防火墙。\n图 1.1.6-1 打开防火墙设置\n图 1.1.6-2 关掉Windows 防火墙\n打开Ubuntu 终端，使用以下指令关闭Ubuntu 防火墙。\nsudo ufw disable\n图 1.1.6-3 关闭Ubuntu 防火墙\n关于火绒软件拦截：有部分用户在做网络测试的时候经常被火绒软件或者其他杀毒软件的",
+    "metadata": {
+      "page_num": 9,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 关闭Ubuntu 和Windows 防火墙",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00022"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 10,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 防火墙拦截，需要自行修改软件的防火墙拦截规则，或者直接卸载这些软件。",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00023"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\n至此，我们对网络的一些概念和操作有了一点了解，现在就请根据自身网络拓扑情况，选\n择对应的章节进行操作。\n开发板和电脑直连同个路由器的请看1.2 小节；\n开发板和电脑直连同个交换机的请看1.3 小节；\n电脑WiFi 上网、开发板直连电脑的请看1.4 小节；\n电脑没有网口的请看1.5 小节。",
+    "metadata": {
+      "page_num": 10,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00024"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 11,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00025"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |\n|  |  |",
+    "metadata": {
+      "page_num": 11,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00026"
+  },
+  {
+    "content": "| 开发板和电脑直连在同个路由 |  |  |  |\n| --- | --- | --- | --- |\n| 符号 |  | 计数 | 说明 |\n|  |  | 1 1 | 正点原子阿尔法 开发板 路由器 |\n|  |  | 1 1 | 笔记本电脑 虚拟 PC |",
+    "metadata": {
+      "page_num": 11,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00027"
+  },
+  {
+    "content": "准备工作\n\n使用场景：电脑和路由器/交换机比较近，有两条网线。这种容易搭建。\n设备：电脑（Windows）、正点原子Linux 开发板（出厂系统）、路由器、直通网线（2 条）。\n网络拓扑结构：电脑网口通过直通网线连接到路由器/交换机的LAN 口，开发板网口通过\n直通网线连接到路由器/交换机的LAN 口，路由器/交换机的LAN 口接到外部宽带，虚拟机桥\n接网卡接到电脑以太网网卡上，从而实现上网。\n下面网络拓扑图中的IP 地址仅为示例，请以实际自身网络信息为准。\n符号\n计数\n说明\n正点原子阿尔法\n开发板\n路由器\n笔记本电脑\n开发板和电脑直连在同个路由\n图例\n虚拟 PC\n宽带\n192.168.3.1\n192.168.3.7\n192.168.3.6\n192.168.3.9\n图 1.2.1-1 笔记本和开发板接在同个路由器",
+    "metadata": {
+      "page_num": 11,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 准备工作",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00028"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 12,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > VMware 设置",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00029"
+  },
+  {
+    "content": "Ubuntu 设置\n\n打开Ubuntu16 系统，点击任务栏的设置 -> Network 网络。\n图 1.2.3-1 打开Ubuntu 网络设置\n在Ubuntu 的网络设置这里可以看到Ubuntu 系统的IP 和网关、DNS 等信息。如果没有的",
+    "metadata": {
+      "page_num": 12,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > Ubuntu 设置",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00030"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 13,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 话就打开右下角的 Options（选项） 按键。",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00031"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\n图 1.2.3-2 网络信息\n打开 Options 选项 按键后，就打开了编译网络设置的界面，在这里可以选择 IPv4 Settings\n（IPv4 设置），选择使用Automatic 自动（DHCP）的方式来获取路由器分配的IP，设置完成",
+    "metadata": {
+      "page_num": 13,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00032"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 14,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 设置完成后，并不会更新网络信息，会返回到刚刚的 Network 网络 界面，点击下图中的",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00033"
+  },
+  {
+    "content": "Windows 设置\n\n查看Windows 主机的IP：在Windows 端按下 win + R 快捷键打开运行栏，输入cmd 指令\n后按下回车。\n图 1.2.4-1 执行cmd 指令\n在打开的终端中输入ipconfig 指令，查看电脑的IP。\nipconfig",
+    "metadata": {
+      "page_num": 14,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > Windows 设置",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00034"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 15,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > Windows 设置",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00035"
+  },
+  {
+    "content": "| Windows主机IP：192.168.3.6 |\n| --- |\n| Ubuntu虚拟机IP：192.168.3.7 |\n| 开发板IP：192.168.3.9 |",
+    "metadata": {
+      "page_num": 15,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > Windows 设置",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00036"
+  },
+  {
+    "content": "开发板设置\n\n开发板设置：直通网线的一端接正点原子Linux 开发板的网口，如果是阿尔法开发板就接\nENET2，另一端接路由器的LAN 网口。在串口终端输入ifconfig 指令来查询开发板是否获取到\n路由器分配到的IP。\nifconfig\n图 1.2.5-1 开发板获取到IP",
+    "metadata": {
+      "page_num": 15,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 开发板设置",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00037"
+  },
+  {
+    "content": "ping 测试\n\n在ping 测试之前要关闭Windows 和Ubuntu 的防火墙。\n综合前面的设置，这里笔者的IP 如下。\nWindows 主机IP：192.168.3.6\nUbuntu 虚拟机IP：192.168.3.7\n开发板IP：192.168.3.9\n测试开发板和Ubuntu、Windows 互ping。\n开发板ping 虚拟机Ubuntu 的IP：\nping 192.168.3.7",
+    "metadata": {
+      "page_num": 15,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > ping 测试",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00038"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 16,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > ping 测试",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00039"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\n图 1.2.6-1 开发板ping 虚拟机\n验证ping 通后，按下 ctrl + Z 快捷键即可停止ping。以下停止ping 测试的方法同理。\nUbuntu 虚拟机ping 开发板IP\nping 192.168.3.9\n图 1.2.6-2 虚拟机ping 开发板\nUbuntu 虚拟机ping 外网。\nping www.baidu.com\n图 1.2.6-3 虚拟机ping 外网\n开发板ping 外网。\nping www.baidu.com\n图 1.2.6-4 开发板ping 外网\nWindows 和Ubuntu 虚拟机互ping。\nWindows 主机ping 虚拟机Ubuntu。\nping 192.168.3.7",
+    "metadata": {
+      "page_num": 16,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00040"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 17,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00041"
+  },
+  {
+    "content": "| setenv ipaddr 192.168.3.9 |\n| --- |\n| setenv ethaddr 00:04:9f:04:d2:35 |\n| setenv gatewayip 192.168.3.1 |\n| setenv netmask 255.255.255.0 |\n| setenv serverip 192.168.3.7 |\n| saveenv |\n| ping 192.168.3.7 |",
+    "metadata": {
+      "page_num": 17,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00042"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\n图 1.2.6-5 Windows 主机ping 虚拟机ubuntu\nUbuntu 虚拟机ping 主机Windows。\n在Ubuntu 终端执行以下指令ping 主机Windows 的IP。\n图 1.2.6-6 Ubuntu 虚拟机ping 主机Windows\n以上就是开发板、Ubuntu 和Windows 三者互ping 测试，在开发板uboot 命令行设置完开\n发板IP 相关的信息后，也能ping 虚拟机Ubuntu。如果不了解uboot 命令行和网络操作指令，\n请先看《【正点原子】I.MX6U 嵌入式Linux 驱动开发指南》的30.3 小节和30.4.4 小节。\nsetenv ipaddr 192.168.3.9\nsetenv ethaddr 00:04:9f:04:d2:35\nsetenv gatewayip 192.168.3.1\nsetenv netmask 255.255.255.0\nsetenv serverip 192.168.3.7\nsaveenv\nping 192.168.3.7",
+    "metadata": {
+      "page_num": 17,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00043"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 18,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00044"
+  },
+  {
+    "content": "| ifconfig eth0 up |\n| --- |\n| udhcpc -i eth0 |",
+    "metadata": {
+      "page_num": 18,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00045"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\n图 1.2.6-7 开发板uboot 阶段ping 虚拟机\nuboot 阶段时，Ubuntu 虚拟机ping 开发板是没有反馈的，所以不用进行这一步。按照上述\n完成测试后，就可以使用TFTP 和NFS 来挂载内核、设备树和文件系统。搭建TFTP 请看第二\n章的内容，搭建NFS 请看第三章的内容。",
+    "metadata": {
+      "page_num": 18,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00046"
+  },
+  {
+    "content": "小结\n\n防火墙设置：关闭电脑和虚拟机的防火墙。\n网络连接：开发板网口和电脑网口都通过网线直接连到同个路由器。\nVMware 设置：设置网络适配器桥接模式，虚拟网络编辑器还原默认设置。\nUbuntu 设置：设置网络连接模式为自动（DHCP）。\nWindows 设置：设置以太网TCP/IPv4 属性为自动获取IP 地址。\n开发板设置：出厂系统默认会自动获取IP，没有这个功能的话可以执行以下指令获取IP。\nifconfig eth0 up\nudhcpc -i eth0",
+    "metadata": {
+      "page_num": 18,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 小结",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00047"
+  },
+  {
+    "content": "准备工作\n\n使用场景：宽带可以直连交换机，有两条网线，没有路由器，没有WiFi 或者无线网卡。\n设备：电脑（Windows）、正点原子Linux 开发板（出厂系统）、交换机、直通网线（2 条）。\n下面网络拓扑图中的IP 地址仅为示例，请以实际自身网络信息为准。\n网络拓扑结构：",
+    "metadata": {
+      "page_num": 18,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 准备工作",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00048"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 19,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 准备工作",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00049"
+  },
+  {
+    "content": "| 开发板和电脑直连在同个交换机 |  |  |  |\n| --- | --- | --- | --- |\n| 符号 |  | 计数 | 说明 |\n|  |  | 1 | 正点原子阿尔法 开发板 |\n|  |  | 1 1 | 笔记本电脑 虚拟 PC |",
+    "metadata": {
+      "page_num": 19,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 准备工作",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00050"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\n符号\n计数\n说明\n正点原子阿尔法\n开发板\n笔记本电脑\n虚拟 PC\n开发板和电脑直连在同个交换机\n图例\n交换机\n宽带\n192.168.1.1\n192.168.1.194\n192.168.1.158\n192.168.1.192\n图 1.3.1-1 开发板和电脑直连同个交换机\n直连路由器和直连交换机的效果是差不多的，只不过路由器会一个单独的网段，而交换机\n的网段和宽带分配的网段是一样的。也就是一个是以路由器为中心的局域网，一个是以宽带为\n中心的局域网。",
+    "metadata": {
+      "page_num": 19,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00051"
+  },
+  {
+    "content": "VMware 设置\n\n打开VMware Workstation Pro 的 虚拟机 -> 设置。\n图 1.3.2-1 打开虚拟机设置\n在虚拟机设置中，将 网络适配器 修改为 桥接模式 ，点击确定。这里不要勾选“复制物\n理网络连接状态”。",
+    "metadata": {
+      "page_num": 19,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > VMware 设置",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00052"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 20,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > VMware 设置",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00053"
+  },
+  {
+    "content": "Ubuntu 设置\n\n打开Ubuntu16 系统，点击任务栏的设置 -> Network 网络。\n图 1.3.3-1 打开Ubuntu 网络设置\n在Ubuntu 的网络设置这里可以看到Ubuntu 系统的IP 和网关、DNS 等信息。如果没有的",
+    "metadata": {
+      "page_num": 20,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > Ubuntu 设置",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00054"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 21,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 话就打开右下角的 Options 选项 按键。",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00055"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\n图 1.3.3-2 网络信息\n打开 Options 选项 按键后，就打开了编译网络设置的界面，在这里可以选择 IPv4 Settings\n（IPv4 设置），选择使用Automatic 自动（DHCP）的方式来获取局域网分配的IP，设置完成",
+    "metadata": {
+      "page_num": 21,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00056"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 22,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 设置完成后，并不会更新网络信息，会返回到刚刚的 Network 网络 界面，点击下图中的",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00057"
+  },
+  {
+    "content": "Windows 设置\n\n查看Windows 主机的IP：在Windows 端按下 win + R 快捷键打开运行栏，输入cmd 指令\n后按下回车。\n图 1.3.4-1 执行cmd 指令\n在打开的终端中输入ipconfig 指令，查看电脑的IP。\nipconfig",
+    "metadata": {
+      "page_num": 22,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > Windows 设置",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00058"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 23,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > Windows 设置",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00059"
+  },
+  {
+    "content": "开发板设置\n\n开发板设置：直通网线的一端接正点原子Linux 开发板的网口，如果是阿尔法开发板就接\nENET2，另一端接电脑的以太网网口。在串口终端输入ifconfig 指令来查询开发板是否获取到\n路由器分配到的IP。\nifconfig\n图 1.3.5-1 查看开发板获取到的IP",
+    "metadata": {
+      "page_num": 23,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 开发板设置",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00060"
+  },
+  {
+    "content": "ping 测试\n\n在ping 测试之前，要关闭Windows 和Ubuntu 的防火墙。\n综合上述，这里笔者的IP 如下。\nWindows 主机IP：192.168.1.158\nUbuntu 虚拟机IP：192.168.1.194\n开发板IP：192.168.1.192\n测试开发板和Ubuntu、Windows 互ping。\n开发板ping 虚拟机Ubuntu 的IP：\nping 192.168.1.194\n图 1.3.6-1 开发板ping 虚拟机Ubuntu",
+    "metadata": {
+      "page_num": 23,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > ping 测试",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00061"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 24,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > ping 测试",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00062"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\nping 测试成功后，按下 ctrl + Z 组合键即可停止。\nUbuntu 虚拟机ping 开发板。\nping 192.168.1.192\n图 1.3.6-2 Ubuntu 虚拟机ping 开发板\n开发板ping 主机Windows。\nping 192.168.1.158\n图 1.3.6-3 开发板ping 主机Windows\nWindows 主机ping 开发板。\nping 192.168.1.192\n图 1.3.6-4 Windows 主机ping 开发板\nUbuntu 虚拟机ping 主机Windows。\nping 192.168.1.158\n图 1.3.6-5 Ubuntu 虚拟机ping 主机Windows",
+    "metadata": {
+      "page_num": 24,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00063"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 25,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00064"
+  },
+  {
+    "content": "| setenv ipaddr 192.168.1.192 |\n| --- |\n| setenv ethaddr 00:04:9f:04:d2:35 |\n| setenv gatewayip 192.168.1.1 |\n| setenv netmask 255.255.255.0 |\n| setenv serverip 192.168.1.194 |\n| saveenv |\n| ping 192.168.1.194 |",
+    "metadata": {
+      "page_num": 25,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00065"
+  },
+  {
+    "content": "| ifconfig eth0 up |\n| --- |\n| udhcpc -i eth0 |",
+    "metadata": {
+      "page_num": 25,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00066"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\n以上就是开发板、Ubuntu 和Windows 三者互ping 测试，在开发板uboot 命令行设置完开\n发板IP 相关的信息后，也能ping 虚拟机Ubuntu。如果不了解uboot 命令行和网络操作指令，\n请先看《【正点原子】I.MX6U 嵌入式Linux 驱动开发指南》的30.3 小节和30.4.4 小节。\nsetenv ipaddr 192.168.1.192\nsetenv ethaddr 00:04:9f:04:d2:35\nsetenv gatewayip 192.168.1.1\nsetenv netmask 255.255.255.0\nsetenv serverip 192.168.1.194\nsaveenv\nping 192.168.1.194\n图 1.3.6-6 开发板uboot 阶段ping 虚拟机\nuboot 阶段时，Ubuntu 虚拟机ping 开发板是没有反馈的，所以不用进行这一步。按照上述\n完成测试后，就可以使用TFTP 和NFS 来挂载内核、设备树和文件系统。搭建TFTP 请看第二\n章的内容，搭建NFS 请看第三章的内容。",
+    "metadata": {
+      "page_num": 25,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00067"
+  },
+  {
+    "content": "小结\n\n防火墙设置：关闭电脑和虚拟机的防火墙。\n网络连接：开发板网口和电脑网口都通过网线直接连到同个路由器。\nVMware 设置：设置网络适配器桥接模式，虚拟网络编辑器还原默认设置。\nUbuntu 设置：设置网络连接模式为自动（DHCP）。\nWindows 设置：设置以太网TCP/IPv4 属性为自动获取IP 地址。\n开发板设置：出厂系统默认会自动获取IP，没有这个功能的话可以执行以下指令获取IP。\nifconfig eth0 up\nudhcpc -i eth0",
+    "metadata": {
+      "page_num": 25,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 小结",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00068"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 26,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 小结",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00069"
+  },
+  {
+    "content": "| 开发板直连电脑，电脑WiFi上网 |  |  |\n| --- | --- | --- |\n| 符号 | 计数 | 说明 |\n|  | 3 | 无线访问点 |\n|  | 1 1 | 正点原子阿尔法开发板 路由器 |\n|  | 1 | 笔记本电脑 |\n|  | 1 | 虚拟 PC |",
+    "metadata": {
+      "page_num": 26,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 小结",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00070"
+  },
+  {
+    "content": "准备工作\n\n使用场景：路由器离电脑比较远，只有一条网线。\n设备：电脑（Windows）、正点原子Linux 开发板（出厂系统）、路由器/交换机、直通网\n线。如果是台式机没有无线网卡的话，可以使用正点原子的USB 转WIFI 模块来让电脑连接到\nWiFi。\n网络拓扑结构：\n下面网络拓扑图中的IP 地址仅为示例，请以实际自身网络信息为准。\n宽带\n符号\n计数\n说明\n无线访问点\n正点原子阿尔法开发板\n路由器\n笔记本电脑\n开发板直连电脑，电脑WiFi上网\n图例\n虚拟 PC\n192.168.10.50\n192.168.10.100\n192.168.10.200\n图 1.4.1-1 开发板直连电脑，电脑WiFi 上网",
+    "metadata": {
+      "page_num": 26,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 准备工作",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00071"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 27,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > VMware 设置",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00072"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\n设置网络适配器为桥接模式。这里不要勾选“复制物理网络连接状态”。\n图 1.4.2-2 设置桥接模式\n因为电脑是WiFi 上网，所以需要添加一个网络适配器并设置成NAT 模式，供虚拟机上网。\n具体操作如下图所示。\n图 1.4.2-3 添加网络适配器",
+    "metadata": {
+      "page_num": 27,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00073"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 28,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00074"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\n默认添加的网络适配器是NAT 模式的，如果不是NAT 模式则要手动设置成NAT 模式。\n图 1.4.2-4 设置网络适配器2 为NAT 模式\n打开菜单栏的 编辑 -> 虚拟网络编辑器。\n图 1.4.2-5 打开虚拟网络编辑器\n点击虚拟网络编辑器的 更改设置 选项。\n图 1.4.2-6 更改设置",
+    "metadata": {
+      "page_num": 28,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00075"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 29,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00076"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\n这个需要电脑管理员权限，如果有提示用户账户控制的提示框，点击 是 就可以了。\n图 1.4.2-7 赋予修改权限\n重新打开虚拟网络编辑器，可以看到如下界面。\n图 1.4.2-8 赋予权限后的虚拟网络编辑器界面\n如果此时没有VMnet0，可以手动添加下。\n图 1.4.2-9 手动添加VMnet0",
+    "metadata": {
+      "page_num": 29,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00077"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 30,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00078"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\n开发板是直连到电脑的网口的，所以需要虚拟网络编辑器里的网络适配器1（即VMnet0）\n桥接到有线网卡上，比如文档这里是Realtek PCIe，如下图所示。\n图 1.4.2-10 查看电脑网口类型\n我们需要把网络桥接到这个网卡上，以下处理的都是VMnet0，用于桥接网络。\n图 1.4.2-11 设置网络适配器1 桥接到有线网卡\n设置完成后点击确定，再点击应用即可。\n图 1.4.2-12 完成设置\n如果虚拟机之前设置过网络的相关信息，自己却搞混了，不清楚现在虚拟机网络的设置情\n况（虚拟网络情况复杂），可以点击虚拟网络编辑器左下方的还原默认设置，这步需要先关闭\n虚拟机再进行。",
+    "metadata": {
+      "page_num": 30,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00079"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 31,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00080"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\n图 1.4.2-13 还原默认设置\n这里会提示我们是否恢复到默认网络设置，点击 是 即可。\n图 1.4.2-14 确认恢复到默认网络设置\n恢复到默认网络设置后如下图所示，全部的VMnet 子网地址会重新随机分配。\n图 1.4.2-15 默认网络设置",
+    "metadata": {
+      "page_num": 31,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00081"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 32,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00082"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 33,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 启动虚拟机，打开Ubuntu 的网络设置Network。",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00083"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\n在网络设置中有两个有线网络，其中一个还没有设置IP 的，是我们的网络适配器1，用来\n桥接到开发板和Windows 的。\n图 1.4.3-2 还没设置的网络适配器\n另外一个网络其实是NAT 模式的网络适配器2，已经自动分配好IP 了。\n图 1.4.3-3 另一个已自动分配好的网络\n注意，此时这个NAT 模式的网络适配器和笔者前面设置的VMnet8 是在同一网段的\n（192.168.18.X），如果不是在同一网段，可能是之前用户有设置过Ubuntu 的IP，这里我们可\n以在这个网络的选项中将它设置为自动模式即可。",
+    "metadata": {
+      "page_num": 33,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00084"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 34,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00085"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\n图 1.4.3-4 设置NAT 网络适配器为自动获取IP 模式\n有了这个NAT 模式的网络适配器2，Ubuntu 就能上网且能和Windows 互通。\n先测下Ubuntu 上网功能，ping 下百度。\nping www.baidu.com\n图 1.4.3-5 Ubuntu 上网测试\n测试Ubuntu 和Windows 互传之前，要关闭Ubuntu 和Windows 的防火墙。\n使用Filezilla 软件验证Ubuntu 和Windows 文件互传，依次打开 文件 -> 站点管理器。\n图 1.4.3-6 打开Filezilla 软件站点管理器\n根据虚拟机的信息，设置站点，如下图所示。",
+    "metadata": {
+      "page_num": 34,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00086"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 35,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00087"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\n图 1.4.3-7 设置站点管理器\n设置完后连接站点服务器，即可加载Ubuntu 和Windows 的目录，可以实现文件互传。\n图 1.4.3-8 Ubuntu 和Windows 目录\n现在要做的就是设置桥接模式的网络适配器1 的IP 信息。网络适配器1 用于和Windows\n和开发板通信，所以我们要先看下Windows 主机的用于桥接网络的IP。\n查看Windows 主机的IP：在Windows 端按下 win + R 快捷键打开运行栏，输入cmd 指令\n后按下回车。",
+    "metadata": {
+      "page_num": 35,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00088"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 36,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00089"
+  },
+  {
+    "content": "|  | 网络适配器名 |  |  | IP地址 |  |  | 备注 |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 以太网适配器 以太网 |  |  | 169.254.105.1 |  |  | 以太网的IP信息，默认有一 个IP，需要手动修改。如果 显示已断开，请将电脑网口 接到开发板网口上 |  |  |",
+    "metadata": {
+      "page_num": 36,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00090"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\n图 1.4.3-9 执行cmd 指令\n在打开的终端中输入ipconfig 指令，查看电脑的IP。\nipconfig\n图 1.4.3-10 查看Windows 主机的IP 信息\n可以看到Windows 主机的网络比较复杂，这里我们只截取可能用到的信息。根据Windows\n的ipconfig 指令和Ubuntu 虚拟网络编辑器，可以对应到以下表格。",
+    "metadata": {
+      "page_num": 36,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00091"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 37,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 备注",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00092"
+  },
+  {
+    "content": "| 以太网适配器 VMware Network Adapter VMnet1 | 192.168.232.1 | 在host-only模式下，动态分 配虚拟系统的TCP/IP配置信 息，本文档不涉及 |\n| --- | --- | --- |\n| 以太网适配器 VMware Network Adapter VMnet8 | 192.168.18.1 | 提供DHCP服务，用于主机 和虚拟机互通，虚拟机上网 |\n| 无线局域网适配器WLAN | 192.168.3.188 | 用于Windows主机上网 |\n| 以太网适配器 VMware Network Adapter VMnet0 |  | 不提供DHCP，用于桥接网 络，要在虚拟网络编辑器设 置手动设置IP |",
+    "metadata": {
+      "page_num": 37,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 备注",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00093"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\n以太网适配器\nVMware Network Adapter VMnet1\n192.168.232.1\n在host-only 模式下，动态分\n配虚拟系统的TCP/IP 配置信\n息，本文档不涉及\n以太网适配器\nVMware Network Adapter VMnet8\n192.168.18.1\n提供DHCP 服务，用于主机\n和虚拟机互通，虚拟机上网\n无线局域网适配器WLAN\n192.168.3.188\n用于Windows 主机上网\n以太网适配器\nVMware Network Adapter VMnet0\n不提供DHCP，用于桥接网\n络，要在虚拟网络编辑器设\n置手动设置IP\n表 1.4.3-1 主机IP 表\n在Windows 终端没有看到VMnet0，在虚拟网络编辑器中可以看到。这是我们用来桥接的\n网络适配器，不会自动分配IP，需要手动设置。这里要注意，VMnet0 设置的网段不能和VMnet1、\nVMnet8 的网段一样，不然会有冲突。\n我们需要手动设置Ubuntu 中桥接网络的IP。\n回到Ubuntu 中，打开网络适配器1 的选项。\n图 1.4.3-11 网络适配器1 的选项\n参考如下设置，这里我们将连接名称改为VMnet0，方便区别。将IP 手动设置为\n192.168.10.100，子网掩码255.255.255.0。",
+    "metadata": {
+      "page_num": 37,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00094"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 38,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00095"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\n图 1.4.3-12 设置桥接网卡\n因为这个Ubuntu 中使用了桥接网卡和NAT 网卡，在Ubuntu 联网上网时会默认使用桥接\n网卡，但这个网卡我们是用于连接开发板的局域网，不能连接公网使用。因此我们需要设置双\n网卡的优先级，让Ubuntu 连接公网时使用NAT 网卡。\n继续点击网络设置界面的Routes（路由），勾选Use this connection only for resources I",
+    "metadata": {
+      "page_num": 38,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00096"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 39,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > its network 选项，点击OK 然后点击Save 保存配置。",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00097"
+  },
+  {
+    "content": "Windows 设置\n\n设置完Ubuntu 的VMnet0 后，再设置Windows 的以太网IP 的相关信息。\n在Windows 主机打开控制面板 -> 网络和 Internet -> 网络连接，找到以太网。",
+    "metadata": {
+      "page_num": 39,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > Windows 设置",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00098"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 40,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > Windows 设置",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00099"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\n图 1.4.4-1 网络连接\n选择以太网，右键打开菜单栏，选择属性。在打开的网络设置中，双击Internet 协议版本4\n（TCP/IPv4），如下图所示。\n图 1.4.4-2 打开以太网Internet 协议版本4（TCP/IPv4）\n按照下图设置以太网的IP 为192.168.10.200，要和虚拟机的VMnet0 在同一网段。",
+    "metadata": {
+      "page_num": 40,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00100"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 41,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00101"
+  },
+  {
+    "content": "| ifconfig eth0 up |\n| --- |\n| ifconfig eth0 192.168.10.50 |\n| ifconfig |",
+    "metadata": {
+      "page_num": 41,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00102"
+  },
+  {
+    "content": "开发板设置\n\n接下来设置下开发板的IP。这里我们将开发板IP 设置为192.168.10.50，和VMnet0 在同一\n网段即可。\n进入开发板文件系统，设置开发板IP。\nifconfig eth0 up\nifconfig eth0 192.168.10.50\nifconfig",
+    "metadata": {
+      "page_num": 41,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 开发板设置",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00103"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 42,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 开发板设置",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00104"
+  },
+  {
+    "content": "ping 测试\n\n开发板ping 虚拟机Ubuntu 的IP，\nping 192.168.10.100\n图 1.4.6-1 开发板ping 虚拟机\n开发板ping 主机Windows 的IP。\nping 192.168.10.200\n图 1.4.6-2 开发板ping 主机\nUbuntu 虚拟机ping 开发板的IP。\nping 192.168.10.50\n图 1.4.6-3 虚拟机ping 开发板\nWindows 主机ping 开发板。\nping 192.168.10.50",
+    "metadata": {
+      "page_num": 42,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > ping 测试",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00105"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 43,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > ping 测试",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00106"
+  },
+  {
+    "content": "| setenv ipaddr 192.168.10.50 |\n| --- |\n| setenv ethaddr 00:04:9f:04:d2:35 |\n| setenv gatewayip 192.168.10.1 |\n| setenv netmask 255.255.255.0 |\n| setenv serverip 192.168.10.100 |\n| saveenv |\n|  |\n| ping 192.168.10.100 |",
+    "metadata": {
+      "page_num": 43,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > ping 测试",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00107"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\n图 1.4.6-4 主机ping 开发板\n以上就是开发板、Ubuntu 和Windows 三者互ping 测试，在开发板uboot 命令行设置完开\n发板IP 相关的信息后，也能ping 虚拟机Ubuntu。如果不了解uboot 命令行和网络操作指令，\n请先看《【正点原子】I.MX6U 嵌入式Linux 驱动开发指南》的30.3 小节和30.4.4 小节。\nsetenv ipaddr 192.168.10.50\nsetenv ethaddr 00:04:9f:04:d2:35\nsetenv gatewayip 192.168.10.1\nsetenv netmask 255.255.255.0\nsetenv serverip 192.168.10.100\nsaveenv\nping 192.168.10.100\n图 1.4.6-5 uboot 阶段设置网络并测试ping 虚拟机\nuboot 阶段时，Ubuntu 虚拟机ping 开发板是没有反馈的，所以不用进行这一步。按照上述\n完成测试后，就可以使用TFTP 和NFS 来挂载内核、设备树和文件系统。搭建TFTP 请看第二\n章的内容，搭建NFS 请看第三章的内容。",
+    "metadata": {
+      "page_num": 43,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00108"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 44,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 小结",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00109"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\n网络连接：电脑使用无线上网，开发板网口直连电脑网口。\nVMwear 设置：设置网络适配器为桥接模式；添加一个网络适配器2 为NAT 模式。\nUbuntu 设置：设置NAT 模式的网络适配器为自动获取模式（DHCP）；手动设置桥接模式\n的网络适配器的IP 信息。\nWindows 设置：手动设置以太网TCP/IPv4 属性中的IP 信息。\n开发板设置：手动设置开发板的IP 信息。\n注意：Ubuntu 里桥接模式的网络适配器、电脑的以太网、开发板的网口，三者要在同一网\n段，且不能与NAT 模式的网络适配器、虚拟机子网在同一网段。Windows 和Ubuntu 通过NAT\n模式的网络适配器通信。",
+    "metadata": {
+      "page_num": 44,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00110"
+  },
+  {
+    "content": "准备工作\n\n使用场景：一般电脑都是有一个以太网网口的，但是一些超薄本、商务本电脑没有以太网\n网口，这样并不方便我们的开发。我们可以使用USB 转网口设备来给电脑拓展出一个以太网网\n口，因为开发板必选通过有线的方式连接到电脑上。USB 转网口设备如下图所示。\n图 1.5.1-1 USB 转网口\n这里要说明下，有些USB 转网口遇到无法免驱使用、校园网使用异常、使用后电脑无法上\n网等问题，可以向购买的店家咨询下相关问题，尽量选择有品牌、销量好的产品。比如本文档\n使用的就是绿联的USB 转网口。\n设备：电脑（Windows）、正点原子Linux 开发板（出厂系统）、直通网线、USB 转网口。\n网络拓扑结构：",
+    "metadata": {
+      "page_num": 44,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 准备工作",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00111"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 45,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 准备工作",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00112"
+  },
+  {
+    "content": "| 电脑用USB转网口接开发板，电脑WiFi上网 |  |  |\n| --- | --- | --- |\n| 符号 | 计数 | 说明 |\n|  | 3 | 无线访问点 |\n|  | 1 1 | 正点原子阿尔法开发板 路由器 |\n|  | 1 | 笔记本电脑 |\n|  | 1 | 虚拟 PC |",
+    "metadata": {
+      "page_num": 45,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 准备工作",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00113"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\n宽带\n符号\n计数\n说明\n无线访问点\n正点原子阿尔法开发板\n路由器\n笔记本电脑\n电脑用USB转网口接开发板，电脑WiFi上网\n图例\n虚拟 PC\n192.168.10.50\n192.168.10.100\n192.168.10.200\n图 1.5.1-2 电脑USB 转网口接开发板",
+    "metadata": {
+      "page_num": 45,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00114"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 46,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > VMware 设置",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00115"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\n图 1.5.2-2 设置桥接模式\n因为电脑是WIFI 上网，所以需要添加一个网络适配器并设置成NAT 模式，供虚拟机上网。\n具体操作如下图所示。\n图 1.5.2-3 添加网络适配器\n默认添加的网络适配器是NAT 模式的，如果不是NAT 模式则要手动设置成NAT 模式。",
+    "metadata": {
+      "page_num": 46,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00116"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 47,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00117"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\n图 1.5.2-4 设置网络适配器2 为NAT 模式\n打开菜单栏的 编辑 -> 虚拟网络编辑器。\n图 1.5.2-5 打开虚拟网络编辑器\n点击虚拟网络编辑器的 更改设置 选项。",
+    "metadata": {
+      "page_num": 47,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00118"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 48,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00119"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\n图 1.5.2-6 更改设置\n这个需要电脑管理员权限，如果有提示用户账户控制的提示框，点击 是 就可以了。\n图 1.5.2-7 赋予修改权限\n重新打开虚拟网络编辑器，可以看到如下界面。",
+    "metadata": {
+      "page_num": 48,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00120"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 49,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00121"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\n图 1.5.2-8 赋予权限后的虚拟网络编辑器界面\n如果之前设置乱了，可以点击虚拟网络编辑器左下角的还原默认设置，将虚拟机网络复原\n到默认设置。\n图 1.5.2-9 还原默认设置\n开发板是直连到电脑的网口的，所以需要虚拟网络编辑器里的网络适配器1（即VMnet0）\n桥接到有线网卡上。但是电脑网口已经被宽带占用了，我们要用到USB 转网口来拓展一个网\n口。这里先不接USB 转网口，打开VMnet0 的桥接模式设置，可以看到可以桥接的选项。",
+    "metadata": {
+      "page_num": 49,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00122"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 50,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00123"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\n图 1.5.2-10 没接入USB 转网口前的可桥接选项\n此时我们需要关闭虚拟网络编辑器，再接入USB 转网口，再打开虚拟网络编辑器中VMnet0\n的桥接选项，记住一定要重新打开虚拟网络编辑器，可以看到多了一个USB2.0 的桥接选项，\n这个就是我们的USB 转网口。（注：不同的USB 转网口设备名不同。以带USB 字符的为准。）\n图 1.5.2-11 接入USB 转网口后的可桥接选项",
+    "metadata": {
+      "page_num": 50,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00124"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 51,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00125"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\n以上步骤是在没开启Ubuntu 虚拟机前操作的，如果用户此时电脑在运行Ubuntu 虚拟机，\n则会弹出USB 设备连接提示，这里注意要点连接到主机（也就是连接到Windows）！\n图 1.5.2-12 将USB 转网口设备连接到Windows 主机\n如果没有USB 设备连接提示，请按如图所示检查USB 转网口设备的连接状态，不要让设\n备连接到虚拟机。\n图 1.5.2-13 查看USB 转网口设备连接状态\n如果勾选了连接，点击取消断开连接。（虚拟机可能默认将设备接入到Ubuntu 中，所以要\n检查下）\n图 1.5.2-14 将USB 转网口从虚拟机中断开",
+    "metadata": {
+      "page_num": 51,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00126"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 52,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00127"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\n我们需要将USB 转网口接在Windows 主机端。接入主机后，在Windows 主机的设备管理\n器 -> 网络适配器 里也可以看到我们这个USB 转网口的设备。\n图 1.5.2-15 Windows 设备管理器中查看USB 转网口\n如果没有识别到，可能设备驱动有问题，请咨询下商家。",
+    "metadata": {
+      "page_num": 52,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00128"
+  },
+  {
+    "content": "回到虚拟网络编辑器中，将VMnet0 桥接到USB 转网口，如下图所示。\n\n图 1.5.2-16 将VMnet0 桥接到USB 转网口\n用直通网线将开发板和USB 转网口设备的网口端连接，开发板上电。设置完成后，进入虚\n拟机Ubuntu 系统进行网络设置，方法和1.4.3 小节的一样，请参考1.4.3 小节。",
+    "metadata": {
+      "page_num": 52,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 回到虚拟网络编辑器中，将VMnet0 桥接到USB 转网口，如下图所示。",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00129"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 53,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 回到虚拟网络编辑器中，将VMnet0 桥接到USB 转网口，如下图所示。",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00130"
+  },
+  {
+    "content": "搭建TFTP 环境\n\n本章旨在快速搭建TFTP 环境，需要用户有熟练使用Shell 操作和vi 编辑器的能力，如果\n不熟悉这些的，请先学习下《【正点原子】I.MX6U 嵌入式Linux 驱动开发指南》2.3 小节和2.5.2\n小节。\n本章所使用的Ubuntu 条件：Ubuntu16.04 版本，能上网。",
+    "metadata": {
+      "page_num": 53,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 搭建TFTP 环境",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00131"
+  },
+  {
+    "content": "2.1 TFTP 简介\n\nTFTP（Trivial File Transfer Protocol,简单文件传输协议）是TCP/IP 协议族中的一个用来在\n客户机与服务器之间进行简单文件传输的协议，提供不复杂、开销不大的文件传输服务。我们\n可以使用TFTP 来加载内核zImage、设备树和其他较小的文件到开发板DDR 上，从而实现网\n络挂载。",
+    "metadata": {
+      "page_num": 53,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 2.1 TFTP 简介",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00132"
+  },
+  {
+    "content": "安装和配置xinetd\n\n执行以下指令，安装xinetd。\nsudo apt-get install xinetd\n图 2.2.1-1 安装xinetd\n查询/etc/下是否存在xinetd.conf 文件，没有的话则自己新建一个。已经有xinetd.conf 文件\n可以跳到2.2.2 小节。\nls /etc/xinetd.conf\n图 2.2.1-2 查询xinetd.conf 文件\n这里已经查到有xinetd.conf 文件，如果没有，就执行以下指令创建一个xinetd.conf 文件。",
+    "metadata": {
+      "page_num": 53,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 安装和配置xinetd",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00133"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 54,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 安装和配置xinetd",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00134"
+  },
+  {
+    "content": "| # Simple configuration file for xinetd |\n| --- |\n| # |\n| # Some defaults, and include /etc/xinetd.d/ |\n| defaults |\n| { |\n| # Please note that you need a log_type line to be able to use log_on_success |\n| # and log_on_failure. The default is the following : |\n| # log_type = SYSLOG daemon info |\n| } |\n| includedir /etc/xinetd.d |",
+    "metadata": {
+      "page_num": 54,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 安装和配置xinetd",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00135"
+  },
+  {
+    "content": "| mkdir -p /home/alientek/linux/tftp |\n| --- |\n| sudo chmod 777 /home/alientek/linux/tftp/ |\n| cd /home/alientek/linux/ |\n| ls |",
+    "metadata": {
+      "page_num": 54,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 安装和配置xinetd",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00136"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\nsudo vi /etc/xinetd.conf\n创建出来的文件是空白的，修改xinetd.conf 文件内容如下：\n# Simple configuration file for xinetd\n# Some defaults, and include /etc/xinetd.d/\ndefaults\n# Please note that you need a log_type line to be able to use log_on_success\n# and log_on_failure. The default is the following :\n# log_type = SYSLOG daemon info\nincludedir /etc/xinetd.d\n图 2.2.1-3 xinetd.conf 内容",
+    "metadata": {
+      "page_num": 54,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00137"
+  },
+  {
+    "content": "TFTP 目录\n\n新建TFTP 目录，这里建立在/home/alientek/linux 目录下，目录名为tftp。将tftp 目录赋予\n可读可写可执行权限。\nmkdir -p /home/alientek/linux/tftp\nsudo chmod 777 /home/alientek/linux/tftp/\ncd /home/alientek/linux/\nls\n图 2.2.2-1 创建tftp 目录并赋予权限",
+    "metadata": {
+      "page_num": 54,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > TFTP 目录",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00138"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 55,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > tftp-hpa 和tftpd-hpa 服务程序",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00139"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\n图 2.2.3-1 安装tftp-hpa 和tftpd-hpa\n执行以下指令打开tftpd-hpa 配置文件，修改tftp 目录为TFTP 服务器工作目录。\nsudo vi /etc/default/tftpd-hpa\n图 2.2.3-2 修改tftpd-hpa\n执行以下指令创建/etc/xinetd.d/tftp 配置文件。（如果没有xinetd.d 这个目录，可以先自己手\n动创建）\nsudo vi /etc/xinetd.d/tftp\n图 2.2.3-3 需要添加/etc/xinetd.d/tftp 内容",
+    "metadata": {
+      "page_num": 55,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00140"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 56,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00141"
+  },
+  {
+    "content": "| server tftp |\n| --- |\n| { |\n| socket_type = dgram |\n| wait = yes |\n| disable = no |\n| user = root |\n| protocol = udp |\n| server = /usr/sbin/in.tftpd |\n| server_args = -s /home/alientek/linux/tftp -c |\n| #log_on_success += PID HOST DURATION |\n| #log_on_failure += HOST |\n| per_source = 11 |\n| cps =100 2 |\n| flags =IPv4 |\n| } |",
+    "metadata": {
+      "page_num": 56,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00142"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\n添加如下内容，保存即可。\nserver tftp\nsocket_type = dgram\nwait = yes\ndisable = no\nuser = root\nprotocol = udp\nserver = /usr/sbin/in.tftpd\nserver_args = -s /home/alientek/linux/tftp -c\n#log_on_success += PID HOST DURATION\n#log_on_failure += HOST\nper_source = 11\ncps =100 2\nflags =IPv4\n注意server_args = -s 后面要添加自己的tftp 工作路径。\n修改/添加tftp 文件后，执行以下指令重启tftpd-hpa。\nsudo service tftpd-hpa restart\n重启xinetd 服务。\nsudo service xinetd restart\n图 2.2.3-4 重启tftpd-hpa 和xinetd",
+    "metadata": {
+      "page_num": 56,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00143"
+  },
+  {
+    "content": "网络环境\n\n确保网络环境正常，Ubuntu、Windows 和开发板能相互ping 通。\n这里结合1.4 小节的配置来验证，即：\n开发板IP：192.168.10.50\n虚拟机IP：192.168.10.100\n电脑网口的IP：192.168.10.200\n使用1.2 小节或者1.3 小节的搭建环境也可以，注意IP 是否对应正确。",
+    "metadata": {
+      "page_num": 56,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 网络环境",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00144"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 57,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > TFTP 测试",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00145"
+  },
+  {
+    "content": "| ifconfig eth0 192.168.10.50 |\n| --- |\n| tftp -g -r test.c 192.168.10.100 |\n| cat test.c |",
+    "metadata": {
+      "page_num": 57,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > TFTP 测试",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00146"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\n在开发板文件系统执行以下指令设置开发板IP，将虚拟机（192.168.10.100）TFTP 工作目\n录下的test.c 文件拷贝到开发板中。\nifconfig eth0 192.168.10.50\ntftp -g -r test.c 192.168.10.100\ncat test.c\n图 2.2.5-2 测试TFTP\n可以看到test.c 成功传输到开发板上，TFTP 环境搭建成功。",
+    "metadata": {
+      "page_num": 57,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00147"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 58,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00148"
+  },
+  {
+    "content": "| sudo mkdir /home/alientek/linux/nfs |\n| --- |\n| sudo chmod 777 /home/alientek/linux/nfs/ |",
+    "metadata": {
+      "page_num": 58,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00149"
+  },
+  {
+    "content": "搭建NFS 环境\n\n本章旨在快速搭建NFS 环境，需要用户有熟练使用Shell 操作和vi 编辑器的能力，如果不\n熟悉这些的，请先学习下《【正点原子】I.MX6U 嵌入式Linux 驱动开发指南》2.3 小节和2.5.2\n小节。\n本章所使用的Ubuntu 条件：Ubuntu16.04 版本，能上网。",
+    "metadata": {
+      "page_num": 58,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 搭建NFS 环境",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00150"
+  },
+  {
+    "content": "3.1 NFS 简介\n\n网络文件系统，英文Network File System(NFS)，是由SUN 公司研制的UNIX 表示层协议\n(presentation layer protocol)，能使使用者访问网络上别处的文件就像在使用自己的计算机一样。\n我们可以在Ubuntu 上制作开发板的根文件系统，然后使用NFS 来加载根文件系统到开发板的\nDDR 上。",
+    "metadata": {
+      "page_num": 58,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 3.1 NFS 简介",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00151"
+  },
+  {
+    "content": "3.3 NFS 共享目录\n\n新建NFS 共享目录，并给予NFS 目录可读可写可执行权限。\nsudo mkdir /home/alientek/linux/nfs\nsudo chmod 777 /home/alientek/linux/nfs/",
+    "metadata": {
+      "page_num": 58,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 3.3 NFS 共享目录",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00152"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 59,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 3.3 NFS 共享目录",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00153"
+  },
+  {
+    "content": "3.4 配置NFS 服务\n\n执行以下指令打开etc/exports 文件\nsudo vi /etc/exports\n进入 etc/exports 文件，在最后添加如下内容\n/home/alientek/linux/nfs *(rw,sync,no_root_squash)\n/home/alientek/linux/nfs 表示NFS 共享的目录\n*表示允许所有的网络段访问\nrw 表示访问者具有可读写权限\nsync 表示将缓存写入设备中，可以说是同步缓存的意思\nno_root_squash 表示访问者具有root 权限。\n修改完如下图所示。\n图 2.2.5-1 修改/etc/exports\n修改完以后保存退出。\n执行以下指令重启NFS 服务器。\nsudo /etc/init.d/nfs-kernel-server restart\n图 2.2.5-2 重启NFS\n执行以下指令查看NFS 共享目录。\nshowmount -e\n图 2.2.5-3 查看NFS 共享路径",
+    "metadata": {
+      "page_num": 59,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 3.4 配置NFS 服务",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00154"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 60,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 3.4 配置NFS 服务",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00155"
+  },
+  {
+    "content": "| mkdir get |\n| --- |\n| mount -t nfs -o nolock,nfsvers=3 192.168.10.100:/home/alientek/linux/nfs get/ |",
+    "metadata": {
+      "page_num": 60,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 3.4 配置NFS 服务",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00156"
+  },
+  {
+    "content": "3.5 网络环境\n\n确保网络环境正常，Ubuntu、Windows 和开发板能相互ping 通。\n这里结合1.4 小节的配置来验证，即：\n开发板IP：192.168.10.50\n虚拟机IP：192.168.10.100\n电脑网口的IP：192.168.10.200\n使用1.2 小节或者1.3 小节的搭建环境也可以，注意IP 是否对应正确。",
+    "metadata": {
+      "page_num": 60,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 3.5 网络环境",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00157"
+  },
+  {
+    "content": "3.6 NFS 测试\n\n在/home/alientek/linux/nfs 目录下创建一个mytest.c 文件，在里面写入hello world!\n图 2.2.5-1 mytest.c 文件\n执行以下指令设置开发板IP，创建一个get 目录，将虚拟机（192.168.10.100）NFS 共享目\n录挂载到到开发板的get 目录中。\nmkdir get\nmount -t nfs -o nolock,nfsvers=3 192.168.10.100:/home/alientek/linux/nfs get/\n图 2.2.5-2 测试NFS\n查看挂载的NFS 目录：\ndf\n图 2.2.5-3 查看挂载目录\n卸载NFS 目录：\numount get",
+    "metadata": {
+      "page_num": 60,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 3.6 NFS 测试",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00158"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 61,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 3.6 NFS 测试",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00159"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 62,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00160"
+  },
+  {
+    "content": "挂载教程系统\n\n此章节为了方便一些用户的快速开发，要求用户至少会编译原子修改好的内核源码且会搭\n建busybox 根文件系统，如果不会这些基本操作，请先去看《【正点原子】I.MX6U 嵌入式Linux\n驱动开发指南》中的相关章节。\n以下以emmc 版本开发板、7 寸1024*600 分辨率屏幕为例，使用网络挂载I.MX6U 的教程\n系统。",
+    "metadata": {
+      "page_num": 62,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 挂载教程系统",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00161"
+  },
+  {
+    "content": "内核文件准备\n\n将光盘里的教程系统镜像中的zImage 文件和imx6ull-alientek-emmc.dtb 设备树拷贝到\nUbuntu 的tftp 工作目录下。\n光盘路径：开发板光盘A-基础资料\\8、系统镜像\\2、教程系统镜像\\2、kernel 镜像\n赋予这两个文件可读可写可执行权限。\nsudo chmod 777 zImage imx6ull-alientek-emmc.dtb\n最终tftp 工作目录如下。\n图 4.1.2-1 将内核、设备树放入tftp 工作目录",
+    "metadata": {
+      "page_num": 62,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 内核文件准备",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00162"
+  },
+  {
+    "content": "文件系统准备\n\n在nfs 共享目录下创建一个rootfs 目录用于存放文件系统。\nmkdir rootfs\n将光盘里的教程busybox 文件系统rootfs.tar.bz2 拷贝到Ubuntu 的nfs 共享目录下的rootfs\n文件夹中。\n光盘路径：开发板光盘A-基础资料\\8、系统镜像\\2、教程系统镜像\\3、文件系统\\2、busybox-\n1.29.0 根文件系统\\rootfs.tar.bz2\n拷贝完的nfs 共享目录如下。\n图 4.1.3-1 nfs 共享目录下的文件系统包\n执行以下指令将文件系统包解压。\ntar vxjf rootfs.tar.bz2\n解压完的文件系统如下。",
+    "metadata": {
+      "page_num": 62,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 文件系统准备",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00163"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 63,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 文件系统准备",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00164"
+  },
+  {
+    "content": "| env default -a;saveenv |\n| --- |\n| setenv ipaddr 192.168.10.50 |\n| setenv ethaddr 00:04:9f:04:d2:35 |\n| setenv gatewayip 192.168.10.1 |\n| setenv netmask 255.255.255.0 |\n| setenv serverip 192.168.10.100 |\n| saveenv |",
+    "metadata": {
+      "page_num": 63,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 文件系统准备",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00165"
+  },
+  {
+    "content": "4.2 TFTP 挂载内核、设备树\n\n这里将教程的uboot 烧录到EMMC 中，如果是烧到SD 卡，拨码开关需要改到SD 卡启动。\n这里开发板拨码开关EMMC 模式启动，进入uboot 命令行，设置开发板的IP 信息。\n为防止可能之前修改过环境变量而导致无法挂载，我们可以使用env default -a 指令先清除\n环境变量。\nenv default -a;saveenv\nsetenv ipaddr 192.168.10.50\nsetenv ethaddr 00:04:9f:04:d2:35\nsetenv gatewayip 192.168.10.1\nsetenv netmask 255.255.255.0\nsetenv serverip 192.168.10.100\nsaveenv\n图 4.1.3-1 设置开发板网络信息\n测试下uboot 是否能ping 虚拟机。\nping 192.168.10.100\n图 4.1.3-2 uboot 阶段ping 虚拟机\n注意，uboot 阶段，虚拟机ping 开发板是没有反馈的，这里不用虚拟机去ping 开发板。\n设置环境变量bootcmd 来挂载tftp 目录下的内核、设备树文件到开发板内存中。",
+    "metadata": {
+      "page_num": 63,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 4.2 TFTP 挂载内核、设备树",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00166"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 64,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 4.2 TFTP 挂载内核、设备树",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00167"
+  },
+  {
+    "content": "| setenv bootcmd 'tftp 80800000 zImage;tftp 83000000 imx6ull-alientek-emmc.dtb;bootz 80800000 | - | 83000000' |\n| --- | --- | --- |\n| saveenv |  |  |",
+    "metadata": {
+      "page_num": 64,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 4.2 TFTP 挂载内核、设备树",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00168"
+  },
+  {
+    "content": "| tftp 80800000 zImage |\n| --- |\n| tftp 83000000 imx6ull-alientek-emmc.dtb |",
+    "metadata": {
+      "page_num": 64,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 4.2 TFTP 挂载内核、设备树",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00169"
+  },
+  {
+    "content": "| ip=192.168.10.50:192.168.10.100:192.168.10.1:255.255.255.0::eth0:off' |  |\n| --- | --- |\n| saveenv |  |\n|  | 注意换行符 |",
+    "metadata": {
+      "page_num": 64,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 4.2 TFTP 挂载内核、设备树",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00170"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\nsetenv bootcmd 'tftp 80800000 zImage;tftp 83000000 imx6ull-alientek-emmc.dtb;bootz 80800000 - 83000000'\nsaveenv\n图 4.1.3-3 设置bootcmd 环境变量\n注意，bootz 80800000 - 83000000 指令这里，bootz 中的-符号是英文的，两边各有一个空格，\n示例中用绿色标注空格。建议手动输入指令，直接复制可能有格式问题。\n也可以单独使用tftp 指令来挂载。\ntftp 80800000 zImage\ntftp 83000000 imx6ull-alientek-emmc.dtb\n图 4.1.3-4 开发板挂载内核和设备树\n如果使用tftp 指令单独挂载的话，执行以下bootz 指令即可启动加载好的文件。\nbootz 80800000 - 83000000\n注意，bootz 80800000 - 83000000 指令这里，- 符号是小写的英文字符，符号两边各有一个\n空格。建议手动输入指令，直接复制可能有格式问题。",
+    "metadata": {
+      "page_num": 64,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00171"
+  },
+  {
+    "content": "4.3 NFS 挂载文件系统\n\n设置环境变量bootargs 来挂载nfs 共享目录下的rootfs 文件系统到开发板内存中。\n命令较长，请参考截图，确保命令完整。\nsetenv bootargs 'console=ttymxc0,115200 root=/dev/nfs nfsroot=192.168.10.100:/home/alientek/linux/nfs/rootfs,proto=tcp rw\nip=192.168.10.50:192.168.10.100:192.168.10.1:255.255.255.0::eth0:off'\nsaveenv\n如果指令过长，可以看下这种格式，效果是一样的，只不过用\\换行符来隔开。注意换行符\n后面直接接回车键，不要有空格，到下一行再去排版。（或者不用排版，这里只是方便大家看）",
+    "metadata": {
+      "page_num": 64,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 4.3 NFS 挂载文件系统",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00172"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 65,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 4.3 NFS 挂载文件系统",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00173"
+  },
+  {
+    "content": "| setenv bootargs | 'console=ttymxc0,115200 root=/dev/nfs | \\ |  |  |\n| --- | --- | --- | --- | --- |\n| nfsroot=192.168.10.100:/home/alientek/linux/nfs/rootfs,proto=tcp |  |  | rw | \\ |\n| ip=192.168.10.50:192.168.10.100:192.168.10.1:255.255.255.0::eth0:off ' |  |  |  |  |\n| saveenv |  |  |  |  |",
+    "metadata": {
+      "page_num": 65,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 4.3 NFS 挂载文件系统",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00174"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\nsetenv bootargs 'console=ttymxc0,115200 root=/dev/nfs \\\nnfsroot=192.168.10.100:/home/alientek/linux/nfs/rootfs,proto=tcp rw \\\nip=192.168.10.50:192.168.10.100:192.168.10.1:255.255.255.0::eth0:off '\nsaveenv\n格式参考：\nsetenv bootargs 'console=开发板串口,波特率 root=挂载方式 \\\nnfsroot=虚拟机IP 地址:文件系统路径,proto=传输协议 读写权限 \\\nip=开发板IP 地址:虚拟机IP 地址:网关地址:子网掩码::开发板网口:off'\nsaveenv\n注意：格式中有空格要求，已用绿色标记空格（都是单个空格）。\n图 4.1.3-1 开发板挂载文件系统\n环境变量已经设置好了，执行boot 指令即可使用网络挂载出厂系统。\nboot\n图 4.1.3-2 开发板启动内核\n图 4.1.3-3 开发板进入文件系统",
+    "metadata": {
+      "page_num": 65,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00175"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 66,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00176"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\n这样我们成功挂载了教程系统，使用同样的方法可以挂载出厂的文件系统和其他文件系统，\n这里就不重复了。这里我们是体验挂载教程系统，学习驱动要结合教程的内核、要修改设备树，\n所以建议大家还是要学会编译内核，加载自己的zImage 和设备树。\n注意：以上挂载的是Ubuntu16 系统下的共享目录，如果是挂载Ubuntu18 系统及更高版本\n的系统下的nfs 共享目录，uboot 无法通过nfs 启动Ubuntu 系统内的共享目录。需要在\n/etc/default/nfs-kernel-server 文件进行修改，改好了保存退出，然后重启一下 nfs 就可以了，或\n者报错Loading:*ww ERROR:File lookup fail 的也是按照下面的方法来解决。\n图 4.1.3-4 修改/etc/default/nfs-kernel-server\n按照上面截图改完后保存退出，再执行以下指令重启nfs 服务。\nsudo service nfs-kernel-server restart\n然后按照3.6 小节的方法来测试NFS 挂载。\n如果TFTP 加载成功，NFS 挂载失败，可以重新仔细检查下前面的配置，特别是bootargs。\n有些NFS 软件版本可能升级了，需要按照Ubuntu18 的NFS 配置来操作。有些路由器不能使用\nNFS，建议改用开发板直连电脑、电脑wifi 上网的方式。甚至有一些公司或者学校的网络拦截\n和权限问题，这个建议换一个环境测试下NFS。",
+    "metadata": {
+      "page_num": 66,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00177"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 67,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00178"
+  },
+  {
+    "content": "不存在虚拟网卡VMnet1 和VMnet8\n\n正常来说，我们构建完虚拟机后，在“控制面板\\网络和 Internet\\网络连接”界面可以看到\nVMnet1 和VMnet8 两个虚拟网卡，如下图所示。\n图 5.1.1-1 虚拟网卡\n解决思路：\n卸载干净VMware，重新安装VMware。\n安装VMware 过程中如果提示VMCI 相关错误，如下图报错信息：\n图 5.1.1-2 报错信息\n解决方法可以参考下百度上的思路，把报错信息输入到百度中查找。可以参考下这个帖子：\nhttps://tieba.baidu.com/p/6031541992\n驱动有问题话，可以用驱动精灵更新下驱动试下。\n还有一个可能就是VMware 版本太高了，可以去VMware 官网下载VMware14 或者\nVMware12 版本的软件试下。",
+    "metadata": {
+      "page_num": 67,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 不存在虚拟网卡VMnet1 和VMnet8",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00179"
+  },
+  {
+    "content": "5.2 双网卡虚拟机无法上网\n\n在1.4 小节我们设置了虚拟机双网卡，按照前面的配置，vmnet0 是桥接网卡，vmnet8 是\nNAT 网卡。如果按照前面的配置，重启后出现虚拟机无法上网的情况，可以参考下面来检查下。",
+    "metadata": {
+      "page_num": 67,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 5.2 双网卡虚拟机无法上网",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00180"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 68,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 只保留NAT 网卡就可以上网",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00181"
+  },
+  {
+    "content": "I.MX6U 网络环境TFTP&NFS 搭建手册\n\n图 5.2.1-1 断开桥接网卡\n那么问题就可能出在ubuntu 网卡优先级上，可以尝试参考下面链接的方法来设置两个网卡\n的优先级。在修改文件前，可以先拷贝一份要修改的文件做备份，或者做系统快照，以防操作\n失误。\n参考链接：https://www.cnblogs.com/louby/p/10839187.html\n主要就是删除默认的有线网关，添加wifi IP 为默认地址，修改完成后重新打开这两个网卡。",
+    "metadata": {
+      "page_num": 68,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > I.MX6U 网络环境TFTP&NFS 搭建手册",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00182"
+  },
+  {
+    "content": "只保留NAT 网卡也无法上网\n\n参考1.4 小节的步骤，检查NAT 网卡设置、关闭电脑和虚拟机防火墙、DNS 等相关问题。\n如果电脑是直连网线上网的，虚拟机无法自动获取IP，可以尝试手动设置IP（和电脑IP 在同\n一网段，且不与其他IP 冲突），DNS 设置为114.114.114.114 或者8.8.8.8。或者尝试使用虚拟\n机网络编辑的还原默认配置。",
+    "metadata": {
+      "page_num": 68,
+      "section": "I.MX6U 网络环境TFTP&NFS 搭建手册 > I.MX6U 网络环境 > TFTP&NFS 搭建手册V1.3.2 > 只保留NAT 网卡也无法上网",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "03【正点原子】I.MX6U网络环境TFTP&NFS搭建手册V1.3.2.json"
+    },
+    "chunk_id": "__00183"
+  }
+]

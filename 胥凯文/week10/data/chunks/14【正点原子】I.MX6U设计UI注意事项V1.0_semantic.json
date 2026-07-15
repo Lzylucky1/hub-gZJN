@@ -1,0 +1,215 @@
+[
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 2,
+      "section": "",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "14【正点原子】I.MX6U设计UI注意事项V1.0.json"
+    },
+    "chunk_id": "__00000"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 3,
+      "section": "正点原子公司名称 ：广州市星翼电子科技有限公司 > 原子哥在线教学平台 ：www.yuanzige.com > 开源电子网 / 论坛 ：http://www.openedv.com/forum.php > 请下载原子哥APP，数千讲视频免费学习，更快更流畅。",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "14【正点原子】I.MX6U设计UI注意事项V1.0.json"
+    },
+    "chunk_id": "__00001"
+  },
+  {
+    "content": "| 版本 | 版本更新说明 | 负责人 | 校审 | 发布日期 |\n| --- | --- | --- | --- | --- |\n| V1.0 | 初稿： | 正点原子 linux团队 | 正点原子 linux团队 | 2024.12.13 |",
+    "metadata": {
+      "page_num": 3,
+      "section": "正点原子公司名称 ：广州市星翼电子科技有限公司 > 原子哥在线教学平台 ：www.yuanzige.com > 开源电子网 / 论坛 ：http://www.openedv.com/forum.php > 请下载原子哥APP，数千讲视频免费学习，更快更流畅。",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "14【正点原子】I.MX6U设计UI注意事项V1.0.json"
+    },
+    "chunk_id": "__00002"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 4,
+      "section": "正点原子公司名称 ：广州市星翼电子科技有限公司 > 原子哥在线教学平台 ：www.yuanzige.com > 开源电子网 / 论坛 ：http://www.openedv.com/forum.php > 文档更新说明",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "14【正点原子】I.MX6U设计UI注意事项V1.0.json"
+    },
+    "chunk_id": "__00003"
+  },
+  {
+    "content": "目录\n\n前言 ................................................................................................................................................ 5\n设计UI 注意事项 ............................................................................................................ 7\n1.1 关于屏幕.......................................................................................................................... 7\n1.2 设计UI 时注意事项 ....................................................................................................... 7\n1.3 关于UI 应用程序抢占屏幕............................................................................................ 7\n\n[扫描页，OCR 不可用（未安装 pytesseract/tesseract），内容跳过]",
+    "metadata": {
+      "page_num": 4,
+      "section": "正点原子公司名称 ：广州市星翼电子科技有限公司 > 原子哥在线教学平台 ：www.yuanzige.com > 开源电子网 / 论坛 ：http://www.openedv.com/forum.php > 目录",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": true,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "14【正点原子】I.MX6U设计UI注意事项V1.0.json"
+    },
+    "chunk_id": "__00004"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 6,
+      "section": "正点原子公司名称 ：广州市星翼电子科技有限公司 > 原子哥在线教学平台 ：www.yuanzige.com > 开源电子网 / 论坛 ：http://www.openedv.com/forum.php > 目录",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "14【正点原子】I.MX6U设计UI注意事项V1.0.json"
+    },
+    "chunk_id": "__00005"
+  },
+  {
+    "content": "免责声明\n\n本文档所提及的产品规格和使用说明仅供参考，如有内容更新，恕不另行通知；除非有特\n殊约定，本文档仅作为产品指导，所作陈述均不构成任何形式的担保。本文档版权归广州市星\n翼电子科技有限公司所有，未经公司的书面许可，任何单位和个人不得以营利为目的进行任何\n方式的传播。\n为了得到最新版本的产品信息，请用户定时访问正点原子资料下载中心或者与淘宝正点原\n子旗舰店客服联系索取。感谢您的包容与支持。",
+    "metadata": {
+      "page_num": 6,
+      "section": "正点原子公司名称 ：广州市星翼电子科技有限公司 > 原子哥在线教学平台 ：www.yuanzige.com > 开源电子网 / 论坛 ：http://www.openedv.com/forum.php > 免责声明",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "14【正点原子】I.MX6U设计UI注意事项V1.0.json"
+    },
+    "chunk_id": "__00006"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 7,
+      "section": "正点原子公司名称 ：广州市星翼电子科技有限公司 > 原子哥在线教学平台 ：www.yuanzige.com > 开源电子网 / 论坛 ：http://www.openedv.com/forum.php > 免责声明",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "14【正点原子】I.MX6U设计UI注意事项V1.0.json"
+    },
+    "chunk_id": "__00007"
+  },
+  {
+    "content": "1.1 关于屏幕\n\n区分IPS 屏幕与非IPS 屏幕，背面有个贴纸，如下图，有IPS 字样的就是IPS 屏幕。没有\nIPS 即非IPS 屏幕。\nIPS 屏幕具有色彩还原准确，宽视角，透光效率高的特点。\n在Linux 下，若IPS 配置屏幕时序错误，长期没有数据，背光亮起的情况下容易产生屏幕\n极液化，屏幕（局部）发白（烧屏现象），这种情况可以断电将屏幕放置一晚上的时间就会恢\n复。如不处理，直接启动UI 会看到白屏，影响体验。",
+    "metadata": {
+      "page_num": 7,
+      "section": "正点原子公司名称 ：广州市星翼电子科技有限公司 > 原子哥在线教学平台 ：www.yuanzige.com > 开源电子网 / 论坛 ：http://www.openedv.com/forum.php > 1.1 关于屏幕",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "14【正点原子】I.MX6U设计UI注意事项V1.0.json"
+    },
+    "chunk_id": "__00008"
+  },
+  {
+    "content": "1.2 设计UI 时注意事项\n\n使用IPS 屏幕尽量使用不透明度为1 背景，针对6ULL 少用大范围不透明度不为1 的设计，\n这样可以避免图像残留，用户体验会更好。产生图像残留的原因是6ULL 没有桌面窗口管理，\n使用Qt 或者LVGL 都是刷fb，没有图层管理，容易产生图像残留或者屏幕极液化。\n如下图，设置不透明度为0.5 的时候，可以看到图像残留。这个可能是屏幕极液化或图像\n残留，是两个图标，因为笔者设置这个不透明背景的不透明度不为1，能“看穿”背景。一段时\n间后（几分钟后）这个残留会消失！\n所以根据I.MX6ULL 性能，设置这个灰色背景的不透明度为1（默认不设置，不透明度就\n是为1 的）。在UI 设计尽量使用深色或者对比度比较明显的颜色来规避这种问题。让用户有更\n好的体验。",
+    "metadata": {
+      "page_num": 7,
+      "section": "正点原子公司名称 ：广州市星翼电子科技有限公司 > 原子哥在线教学平台 ：www.yuanzige.com > 开源电子网 / 论坛 ：http://www.openedv.com/forum.php > 1.2 设计UI 时注意事项",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "14【正点原子】I.MX6U设计UI注意事项V1.0.json"
+    },
+    "chunk_id": "__00009"
+  },
+  {
+    "content": "1.3 关于UI 应用程序抢占屏幕\n\n由于出厂系统使用的是Linuxfb（fb 设备），没有像xserver，weston 这种常用的嵌入式桌\n面显示服务器，屏幕在Qt GUI 或者LVGL GUI 面前尤如一张白纸。比如现在有两个Qt 程序，",
+    "metadata": {
+      "page_num": 7,
+      "section": "正点原子公司名称 ：广州市星翼电子科技有限公司 > 原子哥在线教学平台 ：www.yuanzige.com > 开源电子网 / 论坛 ：http://www.openedv.com/forum.php > 1.3 关于UI 应用程序抢占屏幕",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "14【正点原子】I.MX6U设计UI注意事项V1.0.json"
+    },
+    "chunk_id": "__00010"
+  },
+  {
+    "content": "|  |  |\n| --- | --- |",
+    "metadata": {
+      "page_num": 8,
+      "section": "正点原子公司名称 ：广州市星翼电子科技有限公司 > 原子哥在线教学平台 ：www.yuanzige.com > 开源电子网 / 论坛 ：http://www.openedv.com/forum.php > 1.3 关于UI 应用程序抢占屏幕",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "14【正点原子】I.MX6U设计UI注意事项V1.0.json"
+    },
+    "chunk_id": "__00011"
+  },
+  {
+    "content": "这两个Qt 程序都想在这张白纸在绘制，那么同时绘制就会出现抢占这张白纸的情况，导致只绘\n制这个程序部分，出现“打架”现象。如果有窗口管理系统（像电脑一样），一个应用程序给\n它发一张白纸（一个窗口），这样就不会“打架”了。当一个程序要显示时，另一个程序通知\n它隐藏，这样的方式来优化，这样就不会出现打架现象了。",
+    "metadata": {
+      "page_num": 8,
+      "section": "正点原子公司名称 ：广州市星翼电子科技有限公司 > 原子哥在线教学平台 ：www.yuanzige.com > 开源电子网 / 论坛 ：http://www.openedv.com/forum.php > 1.3 关于UI 应用程序抢占屏幕",
+      "block_types": [
+        "text"
+      ],
+      "is_ocr": false,
+      "stock_code": "",
+      "year": "",
+      "strategy": "semantic",
+      "source_file": "14【正点原子】I.MX6U设计UI注意事项V1.0.json"
+    },
+    "chunk_id": "__00012"
+  }
+]

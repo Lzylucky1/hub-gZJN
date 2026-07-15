@@ -1,0 +1,3470 @@
+{
+  "meta": {
+    "filename": "06【正点原子】I.MX6U开发板文件拷贝及固件更新参考手册V1.2.pdf",
+    "stock_code": "",
+    "year": ""
+  },
+  "source": "d:\\BaiduNetdiskDownload\\week10检索增强生成\\week10 检索增强生成RAG\\week10 检索增强生成RAG\\rag_annual_report\\data\\raw_pdf\\06【正点原子】I.MX6U开发板文件拷贝及固件更新参考手册V1.2.pdf",
+  "blocks": [
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 1,
+      "section_path": [],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "原子哥在线教学：https://www.yuanzige.com/       论坛：http://www.openedv.com/forum.php",
+      "page_num": 1,
+      "section_path": [],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 开发板文件拷贝&固件分步更新手册",
+      "page_num": 1,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 开发板文件拷贝&",
+      "page_num": 1,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "固件分步更新手册V1.2",
+      "page_num": 1,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 2,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "原子哥在线教学：https://www.yuanzige.com/       论坛：http://www.openedv.com/forum.php",
+      "page_num": 2,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 开发板文件拷贝&固件分步更新手册",
+      "page_num": 2,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "正点原子公司名称",
+      "page_num": 2,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "正点原子公司名称"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "：广州市星翼电子科技有限公司",
+      "page_num": 2,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "：广州市星翼电子科技有限公司"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学平台 ：www.yuanzige.com",
+      "page_num": 2,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "原子哥在线教学平台 ：www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+      "page_num": 2,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "正点原子淘宝店铺",
+      "page_num": 2,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "正点原子淘宝店铺"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "：https://openedv.taobao.com",
+      "page_num": 2,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "：https://openedv.taobao.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "正点原子官方网站",
+      "page_num": 2,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "正点原子官方网站"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "：www.alientek.com",
+      "page_num": 2,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "：www.alientek.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "正点原子B 站视频 ：https://space.bilibili.com/394620890",
+      "page_num": 2,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "正点原子B 站视频 ：https://space.bilibili.com/394620890"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "电话：020-38271790   传真：020-36773971",
+      "page_num": 2,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "电话：020-38271790   传真：020-36773971"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "请关注正点原子公众号，资料发布更新我们会通知。",
+      "page_num": 2,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "请关注正点原子公众号，资料发布更新我们会通知。"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "请下载原子哥APP，数千讲视频免费学习，更快更流畅。",
+      "page_num": 2,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "请下载原子哥APP，数千讲视频免费学习，更快更流畅。"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 3,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "请下载原子哥APP，数千讲视频免费学习，更快更流畅。"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| 版本 | 版本更新说明 | 负责人 | 校审 | 发布日期 |\n| --- | --- | --- | --- | --- |\n| V1.0 | 初稿： | 正点原子 linux团队 | 正点原子 linux团队 | 2020.1.7 |\n| V1.1 | 更正： 1.更正2.2.1小节中，uboot向 emmc的boot分区烧写的错误，由 mmcblk1boot0改为/dev/mmcblk1boot0。 | 正点原子 linux团队 | 正点原子 linux团队 | 2020.7.2 |\n| V1.2 | 重新优化了排版、添加了分区表格 | 正点原子 linux团队 | 正点原子 linux团队 | 2020.11.23 |",
+      "page_num": 3,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "请下载原子哥APP，数千讲视频免费学习，更快更流畅。"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "版本",
+          "版本更新说明",
+          "负责人",
+          "校审",
+          "发布日期"
+        ],
+        [
+          "V1.0",
+          "初稿：",
+          "正点原子\nlinux团队",
+          "正点原子\nlinux团队",
+          "2020.1.7"
+        ],
+        [
+          "V1.1",
+          "更正：\n1.更正2.2.1小节中，uboot向\nemmc的boot分区烧写的错误，由\nmmcblk1boot0改为/dev/mmcblk1boot0。",
+          "正点原子\nlinux团队",
+          "正点原子\nlinux团队",
+          "2020.7.2"
+        ],
+        [
+          "V1.2",
+          "重新优化了排版、添加了分区表格",
+          "正点原子\nlinux团队",
+          "正点原子\nlinux团队",
+          "2020.11.23"
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "原子哥在线教学：https://www.yuanzige.com/       论坛：http://www.openedv.com/forum.php",
+      "page_num": 3,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "请下载原子哥APP，数千讲视频免费学习，更快更流畅。"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 开发板文件拷贝&固件分步更新手册",
+      "page_num": 3,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "文档更新说明",
+      "page_num": 3,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "文档更新说明"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "版本\n版本更新说明\n负责人\n校审\n发布日期\nV1.0\n初稿：\n正点原子\nlinux 团队\n正点原子\nlinux 团队\n2020.1.7\nV1.1\n更正：\n1.更正2.2.1 小节中，uboot 向\nemmc 的boot 分区烧写的错误，由\nmmcblk1boot0 改为/dev/mmcblk1boot0。\n正点原子\nlinux 团队\n正点原子\nlinux 团队\n2020.7.2\nV1.2\n重新优化了排版、添加了分区表格\n正点原子\nlinux 团队\n正点原子\nlinux 团队\n2020.11.23",
+      "page_num": 3,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "文档更新说明"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 4,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "文档更新说明"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "原子哥在线教学：https://www.yuanzige.com/       论坛：http://www.openedv.com/forum.php",
+      "page_num": 4,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "文档更新说明"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 开发板文件拷贝&固件分步更新手册",
+      "page_num": 4,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "目录",
+      "page_num": 4,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "目录"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "前言 ................................................................................................................................................ 5\n开发板拷贝篇 ................................................................................................................... 6\n1.1 Linux 下通过U 盘或者SD 卡拷贝文件 ........................................................................ 6\nLinux 开发板通过U 盘或者SD 卡拷贝文件 ..................................................... 6\nUbuntu 下通过U 盘拷贝文件 .............................................................................. 8\n1.2 开发板通过scp 指令拷贝文件 .................................................................................... 10\n开发板与Ubuntu 在同一路由器/交换机拷贝文件 .......................................... 10\n开发板与Ubuntu 直连拷贝文件 ....................................................................... 12\n1.3 开发板使用MobaXterm 与Windows 互传文件 ......................................................... 16\nI.MX6U 更新固件 .......................................................................................................... 20\n2.1 Nand Flash 更新固件 ..................................................................................................... 20\n更新uboot 到Nand Flash .................................................................................. 20\n更新设备树到Nand Flash ................................................................................. 22\n更新内核到Nand Flash ..................................................................................... 24\n更新文件系统到Nand Flash ............................................................................. 24\n2.2 更新eMMC 固件 .......................................................................................................... 27\n更新uboot 到eMMC ......................................................................................... 27\n更新设备树到eMMC ........................................................................................ 28\n更新设备树到eMMC ........................................................................................ 29\n更新内核模块到eMMC .................................................................................... 30\n更新文件系统到eMMC .................................................................................... 30\n2.3 SD 卡更新固件 .............................................................................................................. 31\n更新uboot 到SD 卡 .......................................................................................... 31\n更新设备树到SD 卡 .......................................................................................... 32\n更新内核到SD 卡 .............................................................................................. 34\n更新内核模块到SD 卡 ...................................................................................... 34\n更新文件系统到SD 卡 ...................................................................................... 35",
+      "page_num": 4,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "目录"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 5,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "目录"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "原子哥在线教学：https://www.yuanzige.com/       论坛：http://www.openedv.com/forum.php",
+      "page_num": 5,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "目录"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 开发板文件拷贝&固件分步更新手册",
+      "page_num": 5,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "前言",
+      "page_num": 5,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "前言"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "正点原子Linux 用户，在开发过程中，新手不知道怎么拷贝文件，所以就出了这份文档，\n可以说拷贝是新手必备的技能吧，后面还加了如何单步去更新开发板的固件。\n这里必须注意：这里使用的是出厂的镜像，出厂的文件系统，编译的时候是使用正点原子\n修改过的源码。如果是教程的源码，请自行参考！",
+      "page_num": 5,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "前言"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 6,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "前言"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "原子哥在线教学：https://www.yuanzige.com/       论坛：http://www.openedv.com/forum.php",
+      "page_num": 6,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "前言"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 开发板文件拷贝&固件分步更新手册",
+      "page_num": 6,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "开发板拷贝篇",
+      "page_num": 6,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "开发板拷贝篇"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "大家知道，在Windows 这种图形界面的系统拷贝文件，直接用鼠标点击或者拖动文件就\n可以了。对的，在Ubuntu 这种含图形界面的Linux 系统也是可以这样做的。但是一般的Linux\n系统，除了别人去写图形界面，否它只有一个黑色的终端呈现在用户面前。“几乎”让人摸不\n着头脑！下面就介绍我们在学习或者开发时经常用到的文件拷贝方法。传文件的方法有很多\n种，下面介绍以下常用的几种。",
+      "page_num": 6,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "开发板拷贝篇"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "1.1 Linux 下通过U 盘或者SD 卡拷贝文件",
+      "page_num": 6,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "1.1 Linux 下通过U 盘或者SD 卡拷贝文件"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "Linux 开发板通过U 盘或者SD 卡拷贝文件",
+      "page_num": 6,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "Linux 开发板通过U 盘或者SD 卡拷贝文件"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "准备一个FAT32 格式的U 盘，注意这里不能用NTFS 格式的U 盘！\n开发板上电，打开串口终端，如果不知道怎么打开串口终端的用户，请看【正点原子】I.MX6U\n用户快速体验V1.x.pdf 里面第二章ALIENTEK I.MX6U 使用前准备的内容，安装串口软件。\n如下准备一个U 盘（FAT32 格式，不能用NTFS 格式的）如下图，拍个照片给大伙看看。\n(可用 Micro SD 卡（TF 卡），用读卡器插上也是可以的)。\n图 1.1.1-1 FAT32 格式的U 盘\n开发板上电启动系统后，在串口终端里输入指令df 查看当前挂载的内容。\ndf\n图 1.1.1-2 插U 盘前的挂载内容\n插上U 盘如下图所示。\n图 1.1.1-3 开发板USB 接口接入U 盘",
+      "page_num": 6,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "Linux 开发板通过U 盘或者SD 卡拷贝文件"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 7,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "Linux 开发板通过U 盘或者SD 卡拷贝文件"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| cd /run/media/sda1 |\n| --- |\n| ls |",
+      "page_num": 7,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "Linux 开发板通过U 盘或者SD 卡拷贝文件"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "cd /run/media/sda1"
+        ],
+        [
+          "ls"
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| touch test |\n| --- |\n| ls |",
+      "page_num": 7,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "Linux 开发板通过U 盘或者SD 卡拷贝文件"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "touch test"
+        ],
+        [
+          "ls"
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "原子哥在线教学：https://www.yuanzige.com/       论坛：http://www.openedv.com/forum.php",
+      "page_num": 7,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "Linux 开发板通过U 盘或者SD 卡拷贝文件"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 开发板文件拷贝&固件分步更新手册",
+      "page_num": 7,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "开发板串口终端打印信息如下，可以看到U 盘的实际大小、格式与U 盘的节点（sda）等\n一些信息。\n图 1.1.1-4 识别到U 盘的信息\n再使用df 指令查看挂载的节点，可以看到/dev/sda1 挂载的目录为/run/media/sda1。因为我\n的U 盘只有一个分区，所以只挂载了一个sda1 分区，如果你的SD 卡有两个分区，挂载的目录\n有两个分别是sda1 或者sda2。如果你还有别一个U 盘，再插到开发板，它的挂载节点会是sdb*\n了，以此类推。\ndf\n图 1.1.1-5 U 盘挂载节点和挂载目录等信息\n所以我们只要进入/run/media/sda1 下去拷贝文件就可以了，直接用cd 指令进入\n/run/media/sda1 目录下拷贝文件，使用ls 指令可查看U 盘里的内容。\n在下图中，已经进入了/run/media/sda1 目录下。可以看到我的U 盘下有很多文件，其中有\n一些有“？？？？”的文件，是因为文件系统字符终端不显示中文。\ncd /run/media/sda1\nls\n图 1.1.1-6 查看U 盘下的内容\n本次新建一个文件，然后将这个文件拷贝到家目录（/home/root）目录下。\n使用touch 指令创建一个test 文件，然后把这个test 文件拷贝到/home/root 目录下，如下图，\n已经通过touch 创建了一个test 文件。\ntouch test\nls\n图 1.1.1-7 新建test 文件",
+      "page_num": 7,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 8,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| cp test /home/root/ |\n| --- |\n| ls /home/root |",
+      "page_num": 8,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "cp test /home/root/"
+        ],
+        [
+          "ls /home/root"
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| cd - |\n| --- |\n| umount /run/media/sda1 |\n| df |",
+      "page_num": 8,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "cd -"
+        ],
+        [
+          "umount /run/media/sda1"
+        ],
+        [
+          "df"
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "原子哥在线教学：https://www.yuanzige.com/       论坛：http://www.openedv.com/forum.php",
+      "page_num": 8,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 开发板文件拷贝&固件分步更新手册",
+      "page_num": 8,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "使用cp 指令拷贝这个test 复制一份到/home/root 目录下，或者你也可以使用mv（移动/重\n命名）指令把它移动到/home/root 目录下。下面只演示cp 指令(拷贝文件夹用cp )。拷贝过去了，\n用ls 查看/home/root 目录下有test 这个文件，说明拷贝成功！\ncp test /home/root/\nls /home/root\n图 1.1.1-8 拷贝test 文件到/home/root 目录下\n问题又来了！怎么退出U 盘？暴力做法直接拔出？为了数据写入写出完整，你需要在终端\n命令下执行指令sync 来同步数据。\nsync\n图 1.1.1-9 同步数据\n退出U 盘时你需要退出这个挂载的目录，然后用umount 指令去卸载这个挂载的目录就可\n以退出了！\n使用cd - 指令返回到上一次目录，再使用umount /run/media/sda1/ 卸载这个sda1 目录。然\n后用df 指令查看sda1 这个目录已经不存在了，表明已经卸载了，U 盘可以正常拔出了！\ncd -\numount /run/media/sda1\ndf\n图 1.1.1-10 卸载U 盘",
+      "page_num": 8,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "Ubuntu 下通过U 盘拷贝文件",
+      "page_num": 8,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "Ubuntu 下通过U 盘拷贝文件"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "本文使用的Ubuntu 版本是16.04 和VMware® Workstation 15.5 Pro，其他版本的可能图标\n有点差异！使用1.1.1 小节的U 盘16GB 的，先把鼠标点击到虚拟机，再把U 盘直接插到PC 电\n脑上的USB 接口。U 盘插入的过程中可能会提示是否连接到虚拟机，选是就可以了。作者默认\n已经选是了，并且不让它再它再提示。\n如下图，已经连接到了Ubuntu 上。并且Ubuntu 会弹出一个文件管理窗口，显示的正是U\n盘的内容。用鼠标点击拖动文件的拷贝方式在这里我就不说了，和windows 的差不多。我们要\n用指令cp/mv 来拷贝/移动。",
+      "page_num": 8,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "Ubuntu 下通过U 盘拷贝文件"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 9,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "Ubuntu 下通过U 盘拷贝文件"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "原子哥在线教学：https://www.yuanzige.com/       论坛：http://www.openedv.com/forum.php",
+      "page_num": 9,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "Ubuntu 下通过U 盘拷贝文件"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 开发板文件拷贝&固件分步更新手册",
+      "page_num": 9,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "图 1.1.2-1 U 盘接入Ubuntu 上所显示的文件管理窗口\n同理，和1.1 小节一样，先用df 指令来查看U 盘挂载的目录。\ndf\n图 1.1.2-2 使用df 指令查看U 盘挂载的节点与目录等信息\n直接双击就可以选中这个目录的路径了，然后右键选择复制，就可以复制它的路径名了。\n图 1.1.2-3 双击复制路径名\n输入cd 指令，然后按ctrl+shift+v 快捷键去粘贴这个路径。再用ls 指令查看当前目录下的\n文件。其他文件打了码，可以看到test 这个文件，是1.1.1 小节从开发板文件系统里测试拷贝出\n来的。现在要把它拷贝到Ubuntu 里。",
+      "page_num": 9,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 10,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| cd + SD卡的挂载路径 |\n| --- |\n| ls |",
+      "page_num": 10,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "cd + SD卡的挂载路径"
+        ],
+        [
+          "ls"
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| ifconfig |  |\n| --- | --- |",
+      "page_num": 10,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "ifconfig",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "原子哥在线教学：https://www.yuanzige.com/       论坛：http://www.openedv.com/forum.php",
+      "page_num": 10,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 开发板文件拷贝&固件分步更新手册",
+      "page_num": 10,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "cd  + SD 卡的挂载路径\nls\n图 1.1.2-4 查看test 文件\n同样地，也是使用cp/mv 指令进行拷贝或者移动文件即可(拷贝文件夹是cp -r 文件夹名)。\n普通用户拷贝到“/home/”这样的目录需要权限，请在前面加上sudo，再输入密码，这样就可\n以拷贝文件了！\nsudo cp test /home/\n图 1.1.2-5 拷贝test 文件到/home 目录下",
+      "page_num": 10,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "1.2 开发板通过scp 指令拷贝文件",
+      "page_num": 10,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "1.2 开发板通过scp 指令拷贝文件"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "初学者很以为只能用u 盘去给开发板拷贝文件，既然有网口，那么在想是否可以通过网络\n来传输文件呢，答案是肯定的。下面介绍常用的网络传输指令scp。",
+      "page_num": 10,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "1.2 开发板通过scp 指令拷贝文件"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "开发板与Ubuntu 在同一路由器/交换机拷贝文件",
+      "page_num": 10,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "开发板与Ubuntu 在同一路由器/交换机拷贝文件"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "在路由器能联网的情况下，开发板与主机（ubuntu 或者windows）都连在同一路由器，或\n者同一网段内的网络环境下。Windows 要与开发板传文件，请安装winodws Git 软件。这里就\n不多说了，与linux 的传输指令是一样的。\n开发板上电启动，插上网线，在串口终端下输入指令ifconfig 来查看开发板自动获取的ip\n地址。开发板上电，插网线，使用ifconfig 指令查看网络的ip。如下图192.168.1.28 就是开发板\n的ip 地址，记下来。\nifconfig\n图 1.2.1-1 在串口终端查看开发板的ip\n在ubuntu 虚拟机上也同样的使用ifconfig 来查看ubuntu 的ip 地址。\nifconfig",
+      "page_num": 10,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "开发板与Ubuntu 在同一路由器/交换机拷贝文件"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 11,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "开发板与Ubuntu 在同一路由器/交换机拷贝文件"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "原子哥在线教学：https://www.yuanzige.com/       论坛：http://www.openedv.com/forum.php",
+      "page_num": 11,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "开发板与Ubuntu 在同一路由器/交换机拷贝文件"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 开发板文件拷贝&固件分步更新手册",
+      "page_num": 11,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "图 1.2.1-2 查看Ubuntu 上的ip，判断是否在同一网段\n例如，在home 目录下有个test 文件我们要把这个test 文件传到开发板的/home/root 目录\n（我们一般传文件都是传文件到家目录（/home/root）的）。指令格式如下\n拷贝文件\nscp 文件 用户名@ip 地址:路径\n拷贝文件夹\nscp -r 文件夹 用户名@ip 地址:路径\n例：scp test root@192.168.1.181:/home/root\n指令格式分析:\ntest\n要传输的文件\nroot\n为用户名，开发板默认的就是root 用户，拥有最高权限\n一个符号\n192.168.1.181  开发板ip\n这里要加一个英文字符的“:”，不要忘记了！\n/home/root\n要传输到开发板的路径\nscp test root@192.168.1.181:/home/root\n图 1.2.1-3 将test 文件使用scp 指令传到开发板\n在开发板/home/root 可以看到test.c 文件已经通过网络传输到开发板了。\nls",
+      "page_num": 11,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 12,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "原子哥在线教学：https://www.yuanzige.com/       论坛：http://www.openedv.com/forum.php",
+      "page_num": 12,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 开发板文件拷贝&固件分步更新手册",
+      "page_num": 12,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "图 1.2.1-4 在开发板/home/root 下查看test 文件",
+      "page_num": 12,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "开发板与Ubuntu 直连拷贝文件",
+      "page_num": 12,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "开发板与Ubuntu 直连拷贝文件"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "在上一小节中，用户需要在有网的情况下才能拷贝文件。假若用户没有网络，只有一根网\n线怎么办？下面作者为只有一根网线或者路由器不能上网但是又想拷贝文件的方法！\n开发板上电，电脑与开发板用一根网线直接连接，或者电脑与开发板同连一个路由器的lan\n口处。\n此时电脑上出现一个感叹号，表示无法联网，如下图。如果是一个红x，表示硬件断开。请\n检查硬件是否连接正常！\n图 1.2.2-1 开发板直连电脑\n我们需要为电脑（pc 机）设置静态ip，下面介绍静态ip 的方法，如下图。作者用的是windows7\n环境。\n图 1.2.2-2 在本地连接属性里设置属性\n设置静态ip 地址，如下图，点击使用下面的IP 地址，按如下图设置ip 地址，子网掩码，\n默认网关。",
+      "page_num": 12,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "开发板与Ubuntu 直连拷贝文件"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 13,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "开发板与Ubuntu 直连拷贝文件"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "原子哥在线教学：https://www.yuanzige.com/       论坛：http://www.openedv.com/forum.php",
+      "page_num": 13,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "开发板与Ubuntu 直连拷贝文件"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 开发板文件拷贝&固件分步更新手册",
+      "page_num": 13,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "图 1.2.2-3 设置静态IP\n再到ubuntu 虚拟机查看，此时，网络已经无法连接，所以显示无网络连接的符号或者是正\n在尝试连接的符号。\n图 1.2.2-4 虚拟机正在尝试连接网络\n请把虚拟机设置成桥接模式，按下图这样设置。",
+      "page_num": 13,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 14,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| sudo ifconfig eth0 192.168.1.3 |\n| --- |\n| ifconfig |",
+      "page_num": 14,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "sudo ifconfig eth0 192.168.1.3"
+        ],
+        [
+          "ifconfig"
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "原子哥在线教学：https://www.yuanzige.com/       论坛：http://www.openedv.com/forum.php",
+      "page_num": 14,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 开发板文件拷贝&固件分步更新手册",
+      "page_num": 14,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "图 1.2.2-5 Ubuntu 虚拟机设置成桥接模式\n在ubuntu 虚拟机右上角设置启用联网，如下图。\n图 1.2.2-6 再点击启动联网\n设置ubuntu 的静态ip，如下图，sudo ifconfig eth0 192.168.1.3，掩码ubuntu 它自己会补上。\nsudo ifconfig eth0 192.168.1.3",
+      "page_num": 14,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "ifconfig",
+      "page_num": 14,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "ifconfig"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 15,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "ifconfig"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "原子哥在线教学：https://www.yuanzige.com/       论坛：http://www.openedv.com/forum.php",
+      "page_num": 15,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "ifconfig"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 开发板文件拷贝&固件分步更新手册",
+      "page_num": 15,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "图 1.2.2-7 设置虚拟机的静态ip\n再在开发板设置开发板的静态ip。输入指令ifconfig eth1 192.168.1.4 。作者插网络到eth1\n处了。所以设置了eth1 的静态ip。如下图。\nifconfig eth1 192.168.1.4\n图 1.2.2-8 设置开发板的静态ip",
+      "page_num": 15,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 16,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "原子哥在线教学：https://www.yuanzige.com/       论坛：http://www.openedv.com/forum.php",
+      "page_num": 16,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 开发板文件拷贝&固件分步更新手册",
+      "page_num": 16,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "设置完就可以与开发板进行文件传送了。如下图，和1.2.1 小节一样，使用相同的指令传送\n相同的文件。（注：电脑设置了静态ip 后会不能上网，请设置回自动获取ip 即可。）\nscp test.c root@192.168.1.4:/home/root\n图 1.2.2-9 使用scp 指令向开发板发送文件",
+      "page_num": 16,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "1.3 开发板使用MobaXterm 与Windows 互传文件",
+      "page_num": 16,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "1.3 开发板使用MobaXterm 与Windows 互传文件"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "使用前提：开发板与PC 机用网线连接在同一路由器上，路由器能上网。\n请注意，这里使用的是出厂的文件系统，支持ssh 协议。默认开发板文件系统不支持FTP\n传输，其他文件系统请确认是否支持ssh 协议。\n【正点原子】I.MX6U 嵌入式Linux 驱动开发指南V1.x 第4.9 小节已经安装过MobaXterm，\n使用ifconfig 在MobaXterm 查看开发板的ip，如下图，记下开发板的ip 为192.168.1.222。\nifconfig",
+      "page_num": 16,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "1.3 开发板使用MobaXterm 与Windows 互传文件"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 17,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "1.3 开发板使用MobaXterm 与Windows 互传文件"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "原子哥在线教学：https://www.yuanzige.com/       论坛：http://www.openedv.com/forum.php",
+      "page_num": 17,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "1.3 开发板使用MobaXterm 与Windows 互传文件"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 开发板文件拷贝&固件分步更新手册",
+      "page_num": 17,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "图 1.2.2-1 查看开发板的ip\n然后我们在MobaXterm 选择SSH。\n图 1.2.2-2 选择SSH",
+      "page_num": 17,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 18,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "原子哥在线教学：https://www.yuanzige.com/       论坛：http://www.openedv.com/forum.php",
+      "page_num": 18,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 开发板文件拷贝&固件分步更新手册",
+      "page_num": 18,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "按如下步骤使用ssh 去连接开发板。\n图 1.2.2-3 输入用户名、ip 连接开发板\n按如下说明进行windows 与开发板进行文件传输就可以了，左边的是开发板默认访问的目\n录，我们可以看到开发板上/home/root 目录下的文件。要想进行文件传输，直接拖拽文件即可。\n图 1.2.2-4 在串口终端查看开发板的目录",
+      "page_num": 18,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 19,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "原子哥在线教学：https://www.yuanzige.com/       论坛：http://www.openedv.com/forum.php",
+      "page_num": 19,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 开发板文件拷贝&固件分步更新手册",
+      "page_num": 19,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "终端界面简析：\n① 访问的目录。\n② 开发板上的文件，可以把Windows 的文件拖进来，实现与开发板文件的传输。\n③ 开发板SSH 信息。\n④ 命令终端，可以直接在此处输入命令。",
+      "page_num": 19,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 20,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "原子哥在线教学：https://www.yuanzige.com/       论坛：http://www.openedv.com/forum.php",
+      "page_num": 20,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 开发板文件拷贝&固件分步更新手册",
+      "page_num": 20,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 更新固件",
+      "page_num": 20,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 更新固件"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "在【正点原子】I.MX6U 用户快速体验V1.x.pdf 的第二章2.2 小节我们已经成功固化了Linux\n文件系统，系统也已经成功启动了。但有时候我们开发过程中，尝试自己编译uboot、内核与文\n件系统，编译后我们只需要更新uboot、设备树和文件系统中的某一个，特别是在开发过程中可\n能要频繁更新，为了节省开发时间，我们可以采用单步更新的方法来更新我们需要更新的部分，\n而不必花更长的时间去重新制作一张SD 系统启动卡或者使用脚本固化系统到eMMC 或者\nNAND FLASH 中。\n这里说明一下，有些用户会使用tftp 去更新uboot、内核等。对于新手来说，这种方式难度\n还是有点大，不直观。所以这里我们考虑到新手的程度，就不说网络更新了！另外使用 nfs 从\n网络加载zImage 和设备树，挂载文件系统的方法，请自行替换相应的文件进行更新就好了。\nWindows 和开发板文件互传的方法可以参考本文档上一章的SSH，Windows 和Ubuntu 文\n件互传可以参考 《【正点原子】I.MX6U 嵌入式Linux 驱动开发指南V1.5.pdf》里的4.1 节Ubuntu\n和Windows 文件互传。\n关于光盘路径的说明：正点原子阿尔法开发板和MINI 开发板资料盘都是通用的，可以在\n正点原子论坛上下载。地址：http://www.openedv.com/docs/boards/arm-linux/zdyz-i.mx6ull.html。\n本文档在编写时，所使用的的文件都在开发板光盘A-基础资料\\8、开发板系统镜像目录下，\nuboot 文件夹为uboot-imx-2016.03-2.1.0-gd3f0479-v1.4，linux 内核文件夹为linux-imx-4.1.15-\n2.1.0-g45a21e3-v1.4。后续可能会更新这些文件、修改文件夹名，基本路径不变，用户在操作时\n以具体路径、文件名为准。",
+      "page_num": 20,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 更新固件"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "2.1 Nand Flash 更新固件",
+      "page_num": 20,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "2.1 Nand Flash 更新固件"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "如果用户使用的是NandFlash 的核心板，正点原子出厂都有把固件固化到NandFlash 中。\n可以直接从Nand Flash 启动或者SD 卡启动进入系统去更新这固化在Nand Flash 的系统固件。",
+      "page_num": 20,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "2.1 Nand Flash 更新固件"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "更新uboot 到Nand Flash",
+      "page_num": 20,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新uboot 到Nand Flash"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "我们将正点原子网盘路径下的u-boot-imx6ull-14x14-ddr256-nand.imx 更新到Nand Flash。\n光盘路径：开发板光盘A-基础资料\\8、系统镜像\\1、出厂系统镜像\\1、u-boot 镜像\\uboot-imx-\n2016.03-2.1.0-gd3f0479-v1.4\\u-boot-imx6ull-14x14-ddr256-nand.imx\n把u-boot-imx6ull-14x14-ddr256-nand.imx 拷贝到开发板文件系统的/home/root 目录中（这个\n其实是个u-boot.imx 文件，大家可以根据自己的习惯拷贝到其他目录，为后面更新uboot 做准\n备）。可以参考【正点原子】I.MX6U 用户快速体验V1.x.pdf 第2.2.1.1 小节查看u-boot-imx6ull-\n14x14-ddr256-nand.imx 命名的含义\n图 2.1.1-1 将Nand Flash 用的uboot 文件拷贝到开发板",
+      "page_num": 20,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新uboot 到Nand Flash"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 21,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新uboot 到Nand Flash"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "|  | 分区名 |  |  | 分区类型 |  |\n| --- | --- | --- | --- | --- | --- |\n| 设备mtd0 |  |  | u-boot分区 |  |  |\n| mtd1 |  |  | env（环境变量）分区 |  |  |\n| mtd2 |  |  | logo分区 |  |  |\n| mtd3 |  |  | dtb（设备树文件）分区 |  |  |\n| mtd4 |  |  | kernel（内核文件）分区 |  |  |\n| mtd5 |  |  | rootfs（文件系统）分区 |  |  |",
+      "page_num": 21,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新uboot 到Nand Flash"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          "分区名",
+          "",
+          "",
+          "分区类型",
+          ""
+        ],
+        [
+          "设备mtd0",
+          null,
+          null,
+          "u-boot分区",
+          null,
+          null
+        ],
+        [
+          "mtd1",
+          null,
+          null,
+          "env（环境变量）分区",
+          null,
+          null
+        ],
+        [
+          "mtd2",
+          null,
+          null,
+          "logo分区",
+          null,
+          null
+        ],
+        [
+          "mtd3",
+          null,
+          null,
+          "dtb（设备树文件）分区",
+          null,
+          null
+        ],
+        [
+          "mtd4",
+          null,
+          null,
+          "kernel（内核文件）分区",
+          null,
+          null
+        ],
+        [
+          "mtd5",
+          null,
+          null,
+          "rootfs（文件系统）分区",
+          null,
+          null
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| flash_erase --help |\n| --- |\n| flash_erase /dev/mtd0 0 0 |",
+      "page_num": 21,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新uboot 到Nand Flash"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "flash_erase --help"
+        ],
+        [
+          "flash_erase /dev/mtd0 0 0"
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "原子哥在线教学：https://www.yuanzige.com/       论坛：http://www.openedv.com/forum.php",
+      "page_num": 21,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新uboot 到Nand Flash"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 开发板文件拷贝&固件分步更新手册",
+      "page_num": 21,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "查看Nand Flash 分区情况：\ncat /proc/mtd\n图 2.1.1-2 查看Nand Flash 的分区情况\n使用指令cat /proc/mtd 可以查看mtd 中保存的系统磁盘分区信息。由以上的输出信息可知：",
+      "page_num": 21,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "分区名",
+      "page_num": 21,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "分区名"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "分区类型",
+      "page_num": 21,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "分区类型"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "设备mtd0\nu-boot 分区\nmtd1\nenv（环境变量）分区\nmtd2\nlogo 分区\nmtd3\ndtb（设备树文件）分区\nmtd4\nkernel（内核文件）分区\nmtd5\nrootfs（文件系统）分区\n表 2.1-1 Nand 磁盘分区表\nsize 是对应mtd 分区的最大字节数空间，erasesize 是对应分区的最小擦除字节数空间（以\n块为单位），例如：u-boot 分区，size=00400000(表示16 进制0x400000，单位为Byte)=4MB，\nerasesize=00020000=128KB。\n烧写前使用flash_erase 指令先擦除u-boot 对应的分区mtd0，可以输入 flash_erase --help 指\n令来查看其用法，如果不在MTD_DEVICE 后面加上 <start offset> 和<block count>，直接执行\nflash_erase /dev/mtd0 的话将会报错。\nflash_erase --help\nflash_erase /dev/mtd0 0 0\n图 2.1.1-3 擦除mtd0 分区",
+      "page_num": 21,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "分区类型"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 22,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "分区类型"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| kobs-ng init -x -v --chip_0_device_path=/dev/mtd0 u-boot-imx6ull-14x14-ddr256-nand.imx |\n| --- |\n| sync |",
+      "page_num": 22,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "分区类型"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "kobs-ng init -x -v --chip_0_device_path=/dev/mtd0 u-boot-imx6ull-14x14-ddr256-nand.imx"
+        ],
+        [
+          "sync"
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "原子哥在线教学：https://www.yuanzige.com/       论坛：http://www.openedv.com/forum.php",
+      "page_num": 22,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "分区类型"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 开发板文件拷贝&固件分步更新手册",
+      "page_num": 22,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "kobs-ng init -x -v --chip_0_device_path=/dev/mtd0 u-boot-imx6ull-14x14-ddr256-nand.imx\nsync\n图 2.1.1-4 烧写uboot 到mtd0 分区\n以上使用kobs-ng 烧录命令来更新uboot，在此次操作中已经将uboot 文件放在了文件系统\n的/home/root 下（即当前执行指令的目录），所以指令的后面省去了当前的路径/home/root，写\n成了u-boot-imx6ull-14x14-ddr256-nand.imx。在执行以上的烧写uboot 的指令的时候，根据自己\nuboot 文件放置的路径情况来修改，如以上的指令将路径补全以后为：\nkobs-ng init -x -v --chip_0_device_path=/dev/mtd0  /home/root/u-boot-imx6ull-14x14-ddr256-nand.imx\n更新完uboot 文件以后，最好执行一遍sync 命令来将缓存内容同步到NAND FLASH 中再\n重启系统，千万不要直接关机或者按RESET 键来重启，否则有可能缓存还未同步导致文件的丢\n失，烧写失败。\nsync\n图 2.1.1-5 sync 同步",
+      "page_num": 22,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "更新设备树到Nand Flash",
+      "page_num": 22,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新设备树到Nand Flash"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "首先将光盘里的与Nand Flash 相关设备树拷贝到开发板中。\n光盘路径：开发板光盘A-基础资料\\8、系统镜像\\1、出厂系统镜像\\2、kernel 镜像\\linux-imx-\n4.1.15-2.1.0-gb78e551-v1.4\\",
+      "page_num": 22,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新设备树到Nand Flash"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 23,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新设备树到Nand Flash"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| nandwrite -p /dev/mtd3 /home/root/imx6ull-14x14-nand-4.3-480x272-c.dtb |\n| --- |\n| nandwrite -s 0x20000 -p /dev/mtd3 /home/root/imx6ull-14x14-nand-4.3-800x480-c.dtb |\n| nandwrite -s 0x40000 -p /dev/mtd3 /home/root/imx6ull-14x14-nand-7-800x480-c.dtb |\n| nandwrite -s 0x60000 -p /dev/mtd3 /home/root/imx6ull-14x14-nand-7-1024x600-c.dtb |\n| nandwrite -s 0x80000 -p /dev/mtd3 /home/root/imx6ull-14x14-nand-10.1-1280x800-c.dtb |\n| nandwrite -s 0xa0000 -p /dev/mtd3 /home/root/imx6ull-14x14-nand-hdmi.dtb |",
+      "page_num": 23,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新设备树到Nand Flash"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "nandwrite -p /dev/mtd3 /home/root/imx6ull-14x14-nand-4.3-480x272-c.dtb"
+        ],
+        [
+          "nandwrite -s 0x20000 -p /dev/mtd3 /home/root/imx6ull-14x14-nand-4.3-800x480-c.dtb"
+        ],
+        [
+          "nandwrite -s 0x40000 -p /dev/mtd3 /home/root/imx6ull-14x14-nand-7-800x480-c.dtb"
+        ],
+        [
+          "nandwrite -s 0x60000 -p /dev/mtd3 /home/root/imx6ull-14x14-nand-7-1024x600-c.dtb"
+        ],
+        [
+          "nandwrite -s 0x80000 -p /dev/mtd3 /home/root/imx6ull-14x14-nand-10.1-1280x800-c.dtb"
+        ],
+        [
+          "nandwrite -s 0xa0000 -p /dev/mtd3 /home/root/imx6ull-14x14-nand-hdmi.dtb"
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "原子哥在线教学：https://www.yuanzige.com/       论坛：http://www.openedv.com/forum.php",
+      "page_num": 23,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新设备树到Nand Flash"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 开发板文件拷贝&固件分步更新手册",
+      "page_num": 23,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "图 2.1.2-1 Nand Flash 相关的设备树\n由前面的查看分区指令可知mtd1 是env（环境变量）分区，mtd2 是logo 分区，mtd3 是dtb\n（设备树文件）分区，按照前面更新uboot 的步骤，如果我们要更新设备树的话，先将对应的\n设备树文件拷贝到文件系统的/home/root 分区，然后擦除对应的分区再进行烧写。\n图 2.1.2-2 已拷贝相关设备树到/home/root 目录下\n如上图，为了文档的完整，本文中是将对应各个分辨率的设备树文件拷贝到了文件系统的\n/home/root 中。\n擦除设备树对应的分区：\nflash_erase /dev/mtd3 0 0\n根据自己显示屏的尺寸和分辨率的情况，使用nandwrite 指令将对应的设备树文件烧写到\nmtd3 对应的地址中。\n如imx6ull-14x14-nand-4.3-480x272-c.dtb 对应的是显示屏为4.3 寸、分辨率为480*272 的设\n备树文件，在mtd3 的偏移地址0x0 处将此设备树的数据写入到了mtd3 中。同理，imx6ull-14x14-\nnand-7-800x480-c.dtb 对应的是显示屏为7 寸、分辨率为800*480 的设备树文件，在mtd3 的偏\n移地址0x40000 处将该设备树的数据写入到了mtd3 中。\n同理，更新完设备树文件以后，最好执行一遍sync 命令以后再重启系统。\nnandwrite -p /dev/mtd3 /home/root/imx6ull-14x14-nand-4.3-480x272-c.dtb\nnandwrite -s 0x20000 -p /dev/mtd3 /home/root/imx6ull-14x14-nand-4.3-800x480-c.dtb\nnandwrite -s 0x40000 -p /dev/mtd3 /home/root/imx6ull-14x14-nand-7-800x480-c.dtb\nnandwrite -s 0x60000 -p /dev/mtd3 /home/root/imx6ull-14x14-nand-7-1024x600-c.dtb\nnandwrite -s 0x80000 -p /dev/mtd3 /home/root/imx6ull-14x14-nand-10.1-1280x800-c.dtb\nnandwrite -s 0xa0000 -p /dev/mtd3 /home/root/imx6ull-14x14-nand-hdmi.dtb",
+      "page_num": 23,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 24,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| nandwrite -s 0xc0000 -p /dev/mtd3 /home/root/imx6ull-14x14-nand-vga.dtb |\n| --- |\n| sync |",
+      "page_num": 24,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "nandwrite -s 0xc0000 -p /dev/mtd3 /home/root/imx6ull-14x14-nand-vga.dtb"
+        ],
+        [
+          "sync"
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| flash_erase /dev/mtd4 0 0 |\n| --- |\n| nandwrite -p /dev/mtd4 /home/root/zImage |\n| sync |",
+      "page_num": 24,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "flash_erase /dev/mtd4 0 0"
+        ],
+        [
+          "nandwrite -p /dev/mtd4 /home/root/zImage"
+        ],
+        [
+          "sync"
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "原子哥在线教学：https://www.yuanzige.com/       论坛：http://www.openedv.com/forum.php",
+      "page_num": 24,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 开发板文件拷贝&固件分步更新手册",
+      "page_num": 24,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "nandwrite -s 0xc0000 -p /dev/mtd3 /home/root/imx6ull-14x14-nand-vga.dtb\nsync\n图 2.1.2-3 烧写各个设备树，注意设备树要对应相应的偏移地址",
+      "page_num": 24,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "更新内核到Nand Flash",
+      "page_num": 24,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新内核到Nand Flash"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "首先将光盘里的zImage 文件拷贝到开发板中。\n光盘路径：开发板光盘A-基础资料\\8、系统镜像\\1、出厂系统镜像\\2、kernel 镜像\\linux-imx-\n4.1.15-2.1.0-gb78e551-v1.4\\zImage\n执行如下指令，擦除对应的内核文件分区再进行内核文件的烧写，再重启系统。\nflash_erase /dev/mtd4 0 0\nnandwrite -p /dev/mtd4 /home/root/zImage\nsync\n图 2.1.3-1 先擦除内核分区再烧写内核",
+      "page_num": 24,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新内核到Nand Flash"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "更新文件系统到Nand Flash",
+      "page_num": 24,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新文件系统到Nand Flash"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "需要从SD 卡系统卡启动才能更新文件系统到Nand Flash 中，请参照【正点原子】I.MX6U\n用户快速体验V1.x.pdf 的第二章2.2.1.1 小节固化系统到SD 卡，从SD 卡启动！注意Nand Flash",
+      "page_num": 24,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新文件系统到Nand Flash"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 25,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新文件系统到Nand Flash"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| flash_erase /dev/mtd5 0 0 |\n| --- |\n| ubiformat /dev/mtd5 |\n| ubiattach /dev/ubi_ctrl -m 5 |\n| ubimkvol /dev/ubi0 -Nrootfs -m |\n| mkdir -p /mnt/mtd5 |\n| mount -t ubifs ubi0:rootfs /mnt/mtd5 |",
+      "page_num": 25,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新文件系统到Nand Flash"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "flash_erase /dev/mtd5 0 0"
+        ],
+        [
+          "ubiformat /dev/mtd5"
+        ],
+        [
+          "ubiattach /dev/ubi_ctrl -m 5"
+        ],
+        [
+          "ubimkvol /dev/ubi0 -Nrootfs -m"
+        ],
+        [
+          "mkdir -p /mnt/mtd5"
+        ],
+        [
+          "mount -t ubifs ubi0:rootfs /mnt/mtd5"
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "原子哥在线教学：https://www.yuanzige.com/       论坛：http://www.openedv.com/forum.php",
+      "page_num": 25,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新文件系统到Nand Flash"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 开发板文件拷贝&固件分步更新手册",
+      "page_num": 25,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "只有512MB，不能从Nand Flash 去启动文件系统，正在运行的系统不能把自己文件系统分区给\n格式化！。\n将光盘中的文件系统压缩包和模块压缩包拷贝到文件系统的/home/root 目录下。\n文件系统包路径：开发板光盘A-基础资料\\8、系统镜像\\1、出厂系统镜像\\3、文件系统\\\nrootfs.tar.bz2\n内核模块包路径：开发板光盘A-基础资料\\8、系统镜像\\1、出厂系统镜像\\2、kernel 镜像\n\\linux-imx-4.1.15-2.1.0-gb78e551-v1.4\\ modules.tar.bz2\n将上述两个文件拷贝到开发板后，如下图所示，rootfs.tar.bz2 是文件系统压缩包，\nmodules.tar.bz2 是模块压缩包。\n图 2.1.4-1 拷贝文件系统和内核模块到开发板\n执行以下指令格式化文件系统分区、挂载文件系统分区。\nflash_erase /dev/mtd5 0 0\nubiformat /dev/mtd5\nubiattach /dev/ubi_ctrl -m 5\nubimkvol /dev/ubi0 -Nrootfs -m\nmkdir -p /mnt/mtd5\nmount -t ubifs ubi0:rootfs /mnt/mtd5\n以上使用了UBI 相关的一些指令来烧写UBIFS 格式的文件系统， FLASH 常用的文件系\n统有JFFS2、YAFFS2、LOGFS 和UBIFS，而UBIFS 专门为了解决MTD 设备所遇到的瓶颈而\n设计的，其在设计与性能上均较YAFFS2、JFFS2 更适合NAND Flash。关于更详细的UBIFS 格\n式文件系统和UBI 工具的介绍可自行查找相关资料，这里只是做简单的描述。\nubiformat /dev/mtd5 作用是格式mtd5 分区；ubiattach /dev/ubi_ctrl -m 5 指将/dev/mtd5 分区\n关联到UBI 上。\nubimkvol /dev/ubi0 -Nrootfs -m 的作用是为新创建的分区，设置大小以及标识名。\nmkdir -p /mnt/mtd5 用于创建一个旧时目录/mnt/mtd5，即创建用户挂载文件系统的地方。\nmount -t ubifs ubi0:rootfs /mnt/mtd5 是指按照UBI 的分区名进行挂载UBI 分区到新建的目\n录/mnt/mtd5 中。\n图 2.1.4-2 格式化文件系统分区，然后挂载文件系统分区",
+      "page_num": 25,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 26,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "|  | 设备驱动开发中会将某些驱动程 |\n| --- | --- |\n| 序以模块的形式来编译，所以我们还需要将这些编译好的模块解压到对应的分区中以支持相应 |  |\n| 的功能。 |  |\n| tar jxvfm modules.tar.bz2 -C /mnt/mtd5/lib/modules |  |\n| sync |  |",
+      "page_num": 26,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          null,
+          "设备驱动开发中会将某些驱动程"
+        ],
+        [
+          "序以模块的形式来编译，所以我们还需要将这些编译好的模块解压到对应的分区中以支持相应",
+          null
+        ],
+        [
+          "的功能。",
+          null
+        ],
+        [
+          "tar jxvfm modules.tar.bz2 -C /mnt/mtd5/lib/modules",
+          null
+        ],
+        [
+          "sync",
+          null
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| umount /mnt/mtd5 |\n| --- |\n| rm -rf /mnt/mtd5 |\n| ubidetach -p /dev/mtd5 |",
+      "page_num": 26,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "umount /mnt/mtd5"
+        ],
+        [
+          "rm -rf /mnt/mtd5"
+        ],
+        [
+          "ubidetach -p /dev/mtd5"
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "原子哥在线教学：https://www.yuanzige.com/       论坛：http://www.openedv.com/forum.php",
+      "page_num": 26,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 开发板文件拷贝&固件分步更新手册",
+      "page_num": 26,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "将文件系统解压到/mnt/mtd5/中，如下图是解压过程的部分截图：\ntar jxvfm rootfs.tar.bz2 -C /mnt/mtd5/\n图 2.1.4-3 解压文件系统到Nand Flash 文件系统分区\n以上指令是将rootfs.tar.bz2 解压到/mnt/mtd5/中，jxvfm 中j 指有bz2 属性的解压，x 指解压\n缩，v 指将解压缩的过程展示出来，如果不想展示解压缩的过程可以将v 去掉，f 指指定要操作\n的文件名，m 指保留文件不被覆盖，-C 指变更解压的目标目录，默认是当前目录，后面紧跟的\n是要解压缩到/mnt/mtd5/这个目录中。\n解压完文件系统以后，如果有改动过内核模块选项，编译好内核以后还需要编译内核模块，\n所以更新了内核以后，我们还需要更新一下内核模块（如果没有更改过内核模块选项的，此步\n可以跳过）。 还需要解压模块到/mnt/mtd5/lib/modules 中。在设备驱动开发中会将某些驱动程\n序以模块的形式来编译，所以我们还需要将这些编译好的模块解压到对应的分区中以支持相应\n的功能。\ntar jxvfm modules.tar.bz2 -C /mnt/mtd5/lib/modules\nsync\n图 2.1.4-4 解压内核模块到Nand Flash 文件系统的lib/modules 目录\n更新完内核模块以后，我们需要卸载这个目录，然后再删除这个目录，注意，顺序不能变。\numount /mnt/mtd5\nrm -rf /mnt/mtd5\nubidetach -p /dev/mtd5",
+      "page_num": 26,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 27,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "|  | 分区名 |  |  | 作用 |  |\n| --- | --- | --- | --- | --- | --- |\n| mmcblk1boot0 |  |  | uboot分区 |  |  |\n| mmcblk1p1 |  |  | 内核分区（bootfs分区） |  |  |\n| mmcblk1p2 |  |  | 文件系统分区（rootfs分区） |  |  |",
+      "page_num": 27,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          "分区名",
+          "",
+          "",
+          "作用",
+          ""
+        ],
+        [
+          "mmcblk1boot0",
+          null,
+          null,
+          "uboot分区",
+          null,
+          null
+        ],
+        [
+          "mmcblk1p1",
+          null,
+          null,
+          "内核分区（bootfs分区）",
+          null,
+          null
+        ],
+        [
+          "mmcblk1p2",
+          null,
+          null,
+          "文件系统分区（rootfs分区）",
+          null,
+          null
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "原子哥在线教学：https://www.yuanzige.com/       论坛：http://www.openedv.com/forum.php",
+      "page_num": 27,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 开发板文件拷贝&固件分步更新手册",
+      "page_num": 27,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "sync\nubidetach 是ubiattach 相反的操作，即将/dev/mtd5 设备从UBI 设备上去掉关联，在使用此\n命令之前先将/mnt/mtd5 卸载掉。执行以上指令以后再进行一次sync 同步。\n图 2.1.4-5 卸载目录再删除文件系统目录的临时目录\n至此，我们已经将文件系统更新到了Nand Flash 中了，开发板拨码开关选择从Nand Flash\n启动，查看系统是可以成功启动了的。",
+      "page_num": 27,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "2.2 更新eMMC 固件",
+      "page_num": 27,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "2.2 更新eMMC 固件"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "如果用户使用的是eMMC 的核心板，正点原子出厂都有把固件固化到eMMC 中。我们需\n要从eMMC 启动或者从SD 卡启动替换自己固件。这里简要总结下eMMC 分区表。",
+      "page_num": 27,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "2.2 更新eMMC 固件"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "分区名",
+      "page_num": 27,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "分区名"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "作用",
+      "page_num": 27,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "作用"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "mmcblk1boot0\nuboot 分区\nmmcblk1p1\n内核分区（bootfs 分区）\nmmcblk1p2\n文件系统分区（rootfs 分区）\n表 2.2-1 eMMC 分区",
+      "page_num": 27,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "作用"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "更新uboot 到eMMC",
+      "page_num": 27,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新uboot 到eMMC"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "从eMMC 启动系统，或者从SD 卡启动系统来更新uboot 到eMMC 中。\n光盘路径：开发板光盘A-基础资料\\8、系统镜像\\1、出厂系统镜像\\1、u-boot 镜像\\uboot-imx-\n2016.03-2.1.0-gd3f0479-v1.4\\u-boot-imx6ull-14x14-ddr512-emmc.imx\n将该路径下的u-boot-imx6ull-14x14-ddr512-emmc.imx 文件拷贝到文件系统的/home/root 中。\n（本文作者是拷贝到了/home/root，如下图，下图的u-boot-imx6ull-14x14-ddr512-emmc.imx 实\n际上是一个u-boot.imx 文件，也可以根据自己的习惯拷贝到其它目录），为后面更新uboot 做\n准备。\n注：可以参考【正点原子】I.MX6U 用户快速体验V1.x.pdf 第2.2.1.1 小节查看u-boot-imx6\null-14x14-ddr512-emmc.imx 命名的含义。\n图 2.2.1-1 拷贝eMMC 所用的uboot 到文件系统/home/root 目录下\n执行下面的指令，先使能emmc 启动分区，才能进行烧写。\necho 0 > /sys/block/mmcblk1boot0/force_ro",
+      "page_num": 27,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新uboot 到eMMC"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 28,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新uboot 到eMMC"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "原子哥在线教学：https://www.yuanzige.com/       论坛：http://www.openedv.com/forum.php",
+      "page_num": 28,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新uboot 到eMMC"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 开发板文件拷贝&固件分步更新手册",
+      "page_num": 28,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "开始把当前目录下的烧写至eMMC 的启动分区\ndd if=u-boot-imx6ull-14x14-ddr512-emmc.imx of=/dev/mmcblk1boot0 bs=1024 seek=1 conv=fsync\n烧写完成后，关闭要烧写的启动分区\necho 1 >/sys/block/mmcblk1boot0/force_ro\n图 2.2.1-2 烧写uboot 到eMMC 的启动分区\n最后执行以下指令使能启动分区。\nmmc bootpart enable 1 1 /dev/mmcblk1\n图 2.2.1-3 使能启动分区\n这个指令的原型为：\nmmc bootpart enable <boot_partition> <send_ack> <device>\n分析：\nboot_partition 表示emmc boot 分区，指令里的第一个字符1 表示boot_partition 为1，即\nemmc boot 分区1。\nsend_ack 表示是否确认应答，0 代表不发送确认应答，1 为在引导操作中发送确认应答。也\n就是指令中的第二个字符1。\ndevice 表示设备，指令中为/dev/mmcblk1，即emmc 设备。",
+      "page_num": 28,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "更新设备树到eMMC",
+      "page_num": 28,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新设备树到eMMC"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "使用ls 指令查看eMMC 的boot 分区设备树所在的目录，如下图，有各种屏对应的设备树，\n根据个人的屏的使用对应的设备树即可，如果没有屏，默认使用的是imx6ull-14x14-emmc-4.3-\n480x272-c.dtb 这个设备树，更新这个设备树即可。\nls /run/media/mmcblk1p1\n图 2.2.2-1 查看eMMC 出厂的设备树所在的目录\n我们可以先拷贝光盘下的设备树文件到开发板中，再拷贝到开发板对应的分区。\n光盘路径：开发板光盘A-基础资料\\8、系统镜像\\1、出厂系统镜像\\2、kernel 镜像\\linux-imx-\n4.1.15-2.1.0-gb78e551-v1.4\n把全部的eMMC 所有的设备树全部拷贝到/run/media/mmcblk1p1 目录下，把下图所有的\neMMC 所使用的设备树拷贝到eMMC 的boot 分区（挂载目录为/run/media/mmcblk1p1）。",
+      "page_num": 28,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新设备树到eMMC"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 29,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新设备树到eMMC"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| cp imx6ull-14x14-emmc-4.3-480x272-c.dtb /run/media/mmcblk1p1 |\n| --- |\n| ls |",
+      "page_num": 29,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新设备树到eMMC"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "cp imx6ull-14x14-emmc-4.3-480x272-c.dtb /run/media/mmcblk1p1"
+        ],
+        [
+          "ls"
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "原子哥在线教学：https://www.yuanzige.com/       论坛：http://www.openedv.com/forum.php",
+      "page_num": 29,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新设备树到eMMC"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 开发板文件拷贝&固件分步更新手册",
+      "page_num": 29,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "图 2.2.2-2 eMMC 所用的各种分辨率的设备树\n把这些设备树文件拷贝到开发板的/home/root 目录下，如下图所示。\n图 2.2.2-3 拷贝设备树到开发板\n把需要更新的设备树拷贝到开发板/run/media/mmcblk1p1 目录下替换掉，执行ls -l 指令可\n以查看设备树更新时间来检查是否更新成功，以更新imx6ull-14x14-emmc-4.3-480x272-c.dtb 为\n例，如下所示。\ncp imx6ull-14x14-emmc-4.3-480x272-c.dtb /run/media/mmcblk1p1\nls\n图 2.2.2-4 更新设备树",
+      "page_num": 29,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "更新内核到eMMC",
+      "page_num": 29,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新内核到eMMC"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "我们可以先拷贝光盘下的zImage 文件拷贝到开发板中，再拷贝到开发板对应的分区。\n光盘路径：开发板光盘A-基础资料\\8、系统镜像\\1、出厂系统镜像\\2、kernel 镜像\\linux-imx-\n4.1.15-2.1.0-gb78e551-v1.4\\zImage\n将该路径下的zImage 文件拷贝到开发板/home/root 中，再替换掉开发板的\n/run/media/mmcblk1p1 中的zImage 文件即可。\n执行以下命令的前提是文件系统/home/root 目录下有zImage 文件。",
+      "page_num": 29,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新内核到eMMC"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 30,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新内核到eMMC"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| cp zImage /run/media/mmcblk1p1/ |\n| --- |\n| ls /run/media/mmcblk1p1/zImage -l |",
+      "page_num": 30,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新内核到eMMC"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "cp zImage /run/media/mmcblk1p1/"
+        ],
+        [
+          "ls /run/media/mmcblk1p1/zImage -l"
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "原子哥在线教学：https://www.yuanzige.com/       论坛：http://www.openedv.com/forum.php",
+      "page_num": 30,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新内核到eMMC"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 开发板文件拷贝&固件分步更新手册",
+      "page_num": 30,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "cp zImage /run/media/mmcblk1p1/\nls /run/media/mmcblk1p1/zImage -l\n图 2.2.3-1 更新内核到eMMC",
+      "page_num": 30,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "更新内核模块到eMMC",
+      "page_num": 30,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新内核模块到eMMC"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "我们可以先拷贝光盘下的内核模块包拷贝到开发板中，再解压到开发板对应的目录。\n光盘路径：开发板光盘A-基础资料\\8、系统镜像\\1、出厂系统镜像\\2、kernel 镜像\\linux-imx-\n4.1.15-2.1.0-gb78e551-v1.4\\ modules.tar.bz2\n将该路径下的内核模块包modules.tar.bz2 拷贝到开发板/home/root 中，再用tar 指令解压内\n核模块到开发板/lib/modules 目录。\n图 2.2.4-1 将内核模块包传到开发板\n执行以下命令的前提是文件系统/home/root 目录下modules 压缩包。\ntar xf modules.tar.bz2 -C /lib/modules/\n图 2.2.4-2 解压内核模块到/lib/modules 目录",
+      "page_num": 30,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新内核模块到eMMC"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "更新文件系统到eMMC",
+      "page_num": 30,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新文件系统到eMMC"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "注意：不能用eMMC 启动来更新eMMC 分区里的文件系统。\n要使用SD 卡启动来更新eMMC 的文件系统！正在运行的一个系统不能把自己给格式化。\n还需要注意的是在2.2.3 小节里，因为内核模块是在eMMC 的第二个分区（rootfs 分区）里的，\n更新文件系统时会把这个分区里的东西全部删除，请更新文件系统后，自行按照2.2.4 小节按照\n步骤来更新内核模块即可。\n我们可以先拷贝光盘下的文件系统压缩包拷贝到开发板中（SD 卡启动），再拷贝到开发板\n对应的分区。\n光盘路径：开发板光盘A-基础资料\\8、系统镜像\\1、出厂系统镜像\\3、文件系统\\ rootfs.tar.bz2\n将该路径下的rootfs.tar.bz2 拷贝到开发板/home/root 中，然后执行以下指令清空eMMC 的\n第二个分区（rootfs 分区）文件系统分区。\nrm -rf /run/media/mmcblk1p2/*\n图 2.2.5-1 删除eMMC 的文件系统分区所挂载的目录下所有内容",
+      "page_num": 30,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新文件系统到eMMC"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 31,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新文件系统到eMMC"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "原子哥在线教学：https://www.yuanzige.com/       论坛：http://www.openedv.com/forum.php",
+      "page_num": 31,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新文件系统到eMMC"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 开发板文件拷贝&固件分步更新手册",
+      "page_num": 31,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "然后就可以直接将rootfs.tar.bz2 文件系统解压至eMMC 的文件系统分区目录就可以了。执\n行下面的指令。（注:解压文件系统时间比较长，请耐心等待）\ntar rootfs.tar.bz2 -C /run/media/mmcblk1p2/\n图 2.2.5-2 解压文件系统到eMMC\n解压完成后，执行一次sync 指令，同步一下数据，可防止数据未完全写入。\nsync",
+      "page_num": 31,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "2.3 SD 卡更新固件",
+      "page_num": 31,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "2.3 SD 卡更新固件"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "SD 卡启动卡，更新固件比较简单，我们可以直接在ubuntu 上操作。首先确保你已经制作\n了一张SD 卡系统启动卡，可以按【正点原子】I.MX6U 用户快速体验.pdf 制作SD 卡启动卡。",
+      "page_num": 31,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "2.3 SD 卡更新固件"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "更新uboot 到SD 卡",
+      "page_num": 31,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新uboot 到SD 卡"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "如果核心板所带的存储类型是eMMC。\n将SD 启动卡连接到ubuntu 虚拟机，把光盘里的u-boot-imx6ull-14x14-ddr512-emmc.imx 拷\n贝到Ubuntu 中，为后面更新uboot 做准备。\n光盘路径：开发板光盘A-基础资料\\8、系统镜像\\1、出厂系统镜像\\1、u-boot 镜像\\uboot-imx-\n2016.03-2.1.0-gd3f0479-v1.4\\\n（备注：可以参考【正点原子】I.MX6U 用户快速体验V1.x.pdf 第2.2.1.1 小节查看u-boot-\nimx6ull-14x14-ddr512-emmc.imx 命名的含义）\n如果核心板所带的存储类型是Nand Flash。\n将SD 启动卡连接到ubuntu 虚拟机，把光盘里的u-boot-imx6ull-14x14-ddr256-nand-sd.imx\n拷贝到Ubuntu 中，为后面更新uboot 做准备。（注意是带有sd 关键词的uboot！！！）\n光盘路径：开发板光盘A-基础资料\\8、系统镜像\\1、出厂系统镜像\\1、u-boot 镜像\\uboot-imx-\n2016.03-2.1.0-gd3f0479-v1.4\n（备注：可以参考【正点原子】I.MX6U 用户快速体验V1.x.pdf 第2.2.1.1 小节查看u-boot-\nimx6ull-14x14-ddr256-nand-sd.imx 命名的含义）\n本次示范的核心板所带的存储类型为eMMC。如下图，本文已经复制u-boot-imx6ull-14x14\n-ddr512-emmc.imx 到虚拟机目录了。（sd_update 是作者自行创建的）\n图 2.3.1-1 将uboot 拷贝到Ubuntu",
+      "page_num": 31,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新uboot 到SD 卡"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 32,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新uboot 到SD 卡"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "原子哥在线教学：https://www.yuanzige.com/       论坛：http://www.openedv.com/forum.php",
+      "page_num": 32,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新uboot 到SD 卡"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 开发板文件拷贝&固件分步更新手册",
+      "page_num": 32,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "在ubuntu 上插上连接SD 卡，使用fdisk 指令查看SD 卡挂载的节点。如下图，可以看到S\nD 卡所挂载的节点为/dev/sdb。\nsudo fdisk -l\n图 2.3.1-2 查看SD 卡挂载节点\n在当前目录下使用dd 指令将u-boot-imx6ull-14x14-ddr512-emmc.imx 烧写到SD 卡中，执\n行下面的指令。\nsudo dd if=u-boot-imx6ull-14x14-ddr512-emmc.imx of=/dev/sdb bs=1024 seek=1 conv=fsync\n图 2.3.1-3 使用dd 指令烧写uboot 到SD 卡1K 地址处\n至此更新uboot 成功，需要注意的是：如果你的SD 卡曾经保存过其他uboot 环境变量，你\n需要在SD 卡时恢复一次环境变量再保存，才能使用新的环境变量启动！",
+      "page_num": 32,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "更新设备树到SD 卡",
+      "page_num": 32,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新设备树到SD 卡"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "将SD 启动卡连接到ubuntu 虚拟机，把光盘里的设备树拷贝到Ubuntu 中，为后面更新设\n备树做准备。（可以根据自己需要的来更新设备树，不一定全部都更新）\n光盘路径：开发板光盘A-基础资料\\8、系统镜像\\1、出厂系统镜像\\2、kernel 镜像\\linux-imx-\n4.1.15-2.1.0-gb78e551-v1.4",
+      "page_num": 32,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新设备树到SD 卡"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 33,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新设备树到SD 卡"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "原子哥在线教学：https://www.yuanzige.com/       论坛：http://www.openedv.com/forum.php",
+      "page_num": 33,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新设备树到SD 卡"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 开发板文件拷贝&固件分步更新手册",
+      "page_num": 33,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "图 2.3.2-1 拷贝设备树到Ubuntu\nSD 卡启动卡接入Ubuntu 后，会弹出文件管理器，如下图所示，在boot 分区可看到SD 卡\n中的设备树文件，我们可以直接像在Windows 一样直接把Ubuntu 中的设备树拖过去更新，也\n可以执行sudo cp 命令来更新。\n图 2.3.2-2 SD 卡的boot 分区下的设备树文件\n执行df 指令来查看SD 卡启动卡的各个分区，这里SD 卡中设备树所在的分区路径是\n/media/alientek/boot，使用sudo cp 指令即可拷贝设备树进行更新。\n图 2.3.2-3 更新设备树",
+      "page_num": 33,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 34,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "原子哥在线教学：https://www.yuanzige.com/       论坛：http://www.openedv.com/forum.php",
+      "page_num": 34,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 开发板文件拷贝&固件分步更新手册",
+      "page_num": 34,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "更新内核到SD 卡",
+      "page_num": 34,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新内核到SD 卡"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "将SD 启动卡连接到ubuntu 虚拟机，把光盘里的zImage 文件拷贝到Ubuntu 中，为后面更\n新内核做准备。\n光盘路径：开发板光盘A-基础资料\\8、系统镜像\\1、出厂系统镜像\\2、kernel 镜像\\linux-imx-\n4.1.15-2.1.0-gb78e551-v1.4\\zImage\nSD 卡启动卡接入Ubuntu 后，会弹出文件管理器，如下图所示，在boot 分区可看到SD 卡\n中的zImage 文件，我们可以直接像在Windows 一样直接把Ubuntu 中的zImage 文件拖过去更\n新，也可以执行sudo cp 命令来更新。\n图 2.3.3-1 SD 卡的boot 分区下的内核zImage",
+      "page_num": 34,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新内核到SD 卡"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "更新内核模块到SD 卡",
+      "page_num": 34,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新内核模块到SD 卡"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "同理，只需要将光盘的modules.tar.bz2 拷贝到Ubuntu，解压更新到SD 卡的rootfs 分区下\n的/lib/modules 目录即可。\n光盘路径：开发板光盘A-基础资料\\8、系统镜像\\1、出厂系统镜像\\2、kernel 镜像\\linux-imx-\n4.1.15-2.1.0-gb78e551-v1.4\\ modules.tar.bz2\nsudo tar vxjf modules.tar.bz2 -C /media/alientek/roofs/lib/modules/\n图 2.3.4-1 更新内核模块",
+      "page_num": 34,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新内核模块到SD 卡"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 35,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新内核模块到SD 卡"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| sudo rm -rf /media/alientek/rootfs/* |\n| --- |\n| ls /media/alientek/rootfs/ |",
+      "page_num": 35,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新内核模块到SD 卡"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "sudo rm -rf /media/alientek/rootfs/*"
+        ],
+        [
+          "ls /media/alientek/rootfs/"
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| sudo tar xf rootfs.tar.bz2 -C /media/alientek/rootfs/ |\n| --- |\n| ls /media/alientek/rootfs/ |\n| sync |",
+      "page_num": 35,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新内核模块到SD 卡"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "sudo tar xf rootfs.tar.bz2 -C /media/alientek/rootfs/"
+        ],
+        [
+          "ls /media/alientek/rootfs/"
+        ],
+        [
+          "sync"
+        ]
+      ]
+    },
+    {
+      "block_type": "text",
+      "content": "原子哥在线教学：https://www.yuanzige.com/       论坛：http://www.openedv.com/forum.php",
+      "page_num": 35,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新内核模块到SD 卡"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 开发板文件拷贝&固件分步更新手册",
+      "page_num": 35,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "I.MX6U 开发板文件拷贝&固件分步更新手册"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "更新文件系统到SD 卡",
+      "page_num": 35,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新文件系统到SD 卡"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "把光盘里的rootfs.tar.bz2 文件拷贝到Ubuntu 中，为后面更新文件系统做准备。\n光盘路径：开发板光盘A-基础资料\\8、系统镜像\\1、出厂系统镜像\\3、文件系统\\ rootfs.tar.bz2\n图 2.3.5-1 拷贝文件系统包到Ubuntu\n使用df 指令查看SD 卡的挂载路径，如下图，本文的挂载路径为/media/alientek/rootfs ，请\n根据个人SD 卡挂载的目录具体填写\n图 2.3.5-2 查看SD 卡文件系统挂载的目录\n首先先删除rootfs 分区下的根文件系统，执行如下指令。\nsudo rm -rf /media/alientek/rootfs/*\nls /media/alientek/rootfs/\n图 2.3.5-3 删除SD 卡的rootfs 分区下的文件系统\n然后将rootfs.tar.bz2 解压至SD 卡根文件系统分区即可，执行下面的指令。\nsudo tar xf rootfs.tar.bz2 -C /media/alientek/rootfs/\nls /media/alientek/rootfs/\nsync",
+      "page_num": 35,
+      "section_path": [
+        "I.MX6U 开发板文件拷贝&固件分步更新手册",
+        "I.MX6U 开发板文件拷贝&",
+        "固件分步更新手册V1.2",
+        "更新文件系统到SD 卡"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    }
+  ]
+}

@@ -1,0 +1,4479 @@
+{
+  "meta": {
+    "filename": "09【正点原子】I.MX6U移植Qt4.8.4_V1.1.pdf",
+    "stock_code": "",
+    "year": ""
+  },
+  "source": "d:\\BaiduNetdiskDownload\\week10检索增强生成\\week10 检索增强生成RAG\\week10 检索增强生成RAG\\rag_annual_report\\data\\raw_pdf\\09【正点原子】I.MX6U移植Qt4.8.4_V1.1.pdf",
+  "blocks": [
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 1,
+      "section_path": [],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 1,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 1,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 1,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "【正点原子】I.MX6U",
+      "page_num": 1,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4",
+        "【正点原子】I.MX6U"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "移植Qt4.8.4 V1.1",
+      "page_num": 1,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4",
+        "移植Qt4.8.4 V1.1"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4",
+        "移植Qt4.8.4 V1.1"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "正点原子公司名称",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4",
+        "正点原子公司名称"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "：广州市星翼电子科技有限公司",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4",
+        "：广州市星翼电子科技有限公司"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学平台 ：www.yuanzige.com",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4",
+        "原子哥在线教学平台 ：www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "开源电子网 / 论坛 ：http://www.openedv.com/forum.php",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4",
+        "开源电子网 / 论坛 ：http://www.openedv.com/forum.php"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "正点原子淘宝店铺",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4",
+        "正点原子淘宝店铺"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "：https://openedv.taobao.com",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4",
+        "：https://openedv.taobao.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "正点原子官方网站",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4",
+        "正点原子官方网站"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "：www.alientek.com",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4",
+        "：www.alientek.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "正点原子B 站视频 ：https://space.bilibili.com/394620890",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4",
+        "正点原子B 站视频 ：https://space.bilibili.com/394620890"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "电话：020-38271790   传真：020-36773971",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4",
+        "电话：020-38271790   传真：020-36773971"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "请关注正点原子公众号，资料发布更新我们会通知。",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4",
+        "请关注正点原子公众号，资料发布更新我们会通知。"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "请下载原子哥APP，数千讲视频免费学习，更快更流畅。",
+      "page_num": 2,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4",
+        "请下载原子哥APP，数千讲视频免费学习，更快更流畅。"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 3,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4",
+        "请下载原子哥APP，数千讲视频免费学习，更快更流畅。"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| 版本 | 版本更新说明 | 负责人 | 校审 | 发布日期 |\n| --- | --- | --- | --- | --- |\n| V1.0 | 初稿： | 正点原 子Linux 团队 | 正点原 子Linux 团队 | 2020.11.21 |\n| V1.1 | 1.修改文档的格式 | 正点原 子Linux 团队 | 正点原 子Linux 团队 | 2021.06.19 |",
+      "page_num": 3,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4",
+        "请下载原子哥APP，数千讲视频免费学习，更快更流畅。"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "版本",
+          "版本更新说明",
+          "负责人",
+          "校审",
+          "发布日期"
+        ],
+        [
+          "V1.0",
+          "初稿：",
+          "正点原\n子Linux\n团队",
+          "正点原\n子Linux\n团队",
+          "2020.11.21"
+        ],
+        [
+          "V1.1",
+          "1.修改文档的格式",
+          "正点原\n子Linux\n团队",
+          "正点原\n子Linux\n团队",
+          "2021.06.19"
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 3,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 3,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 3,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "文档更新说明",
+      "page_num": 3,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4",
+        "文档更新说明"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "版本\n版本更新说明\n负责人\n校审\n发布日期\nV1.0\n初稿：\n正点原\n子Linux\n团队\n正点原\n子Linux\n团队\n2020.11.21\nV1.1\n1.修改文档的格式\n正点原\n子Linux\n团队\n正点原\n子Linux\n团队\n2021.06.19",
+      "page_num": 3,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4",
+        "文档更新说明"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 4,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4",
+        "文档更新说明"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 4,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 4,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 4,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "目录",
+      "page_num": 4,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4",
+        "目录"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "前言 ............................................................................................................................................................ 5",
+      "page_num": 4,
+      "section_path": [
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4",
+        "目录"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "第一章",
+      "page_num": 4,
+      "section_path": [
+        "第一章"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "下载安装通用交叉编译器 ....................................................................................................... 6\n1.1 下载通用交叉编译器 ......................................................................................................................... 7\n1.2 安装通用交叉编译器 ......................................................................................................................... 7\n1.3 验证通用交叉编译器 ......................................................................................................................... 8",
+      "page_num": 4,
+      "section_path": [
+        "第一章"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "第二章 获取和编译TSLIB ..................................................................................................................... 10",
+      "page_num": 4,
+      "section_path": [
+        "第二章 获取和编译TSLIB ..................................................................................................................... 10"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "2.1 获取TSLIB ........................................................................................................................................... 11\n2.2 编译TSLIB ........................................................................................................................................... 11",
+      "page_num": 4,
+      "section_path": [
+        "第二章 获取和编译TSLIB ..................................................................................................................... 10"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "第三章 编译ARM 平台QT4.8.4 源码 .................................................................................................. 13",
+      "page_num": 4,
+      "section_path": [
+        "第三章 编译ARM 平台QT4.8.4 源码 .................................................................................................. 13"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "3.1 下载QT4.8.4 源码 ............................................................................................................................. 14\n3.2 修改QMAKE.CONF ................................................................................................................................ 14\n3.3 配置编译选项 ................................................................................................................................... 15\n3.4 开始编译QT4.8.4 源码 ..................................................................................................................... 17",
+      "page_num": 4,
+      "section_path": [
+        "第三章 编译ARM 平台QT4.8.4 源码 .................................................................................................. 13"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "第四章 移植QT 到文件系统 ................................................................................................................ 19",
+      "page_num": 4,
+      "section_path": [
+        "第四章 移植QT 到文件系统 ................................................................................................................ 19"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "4.1 烧写文件系统 ................................................................................................................................... 20\n4.2 移植TSLIB 到文件系统....................................................................................................................... 20\n4.3 移植QT 到文件系统 ......................................................................................................................... 21",
+      "page_num": 4,
+      "section_path": [
+        "第四章 移植QT 到文件系统 ................................................................................................................ 19"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "第五章 编译X86 平台的QT4.8.4 源码 ................................................................................................ 24",
+      "page_num": 4,
+      "section_path": [
+        "第五章 编译X86 平台的QT4.8.4 源码 ................................................................................................ 24"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "5.1 编译X86 平台的QT4.8.4 .................................................................................................................. 25",
+      "page_num": 4,
+      "section_path": [
+        "第五章 编译X86 平台的QT4.8.4 源码 ................................................................................................ 24"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "第六章 搭建X86 LINUX 平台 QT CREATOR 环境 ............................................................................... 28",
+      "page_num": 4,
+      "section_path": [
+        "第六章 搭建X86 LINUX 平台 QT CREATOR 环境 ............................................................................... 28"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "6.1 LINUX 安装QT CREATOR ...................................................................................................................... 29\n6.2 配置X86 平台的QT CREATOR KITS ..................................................................................................... 32\n6.3 验证X86 平台的QT 运行 ................................................................................................................. 34",
+      "page_num": 4,
+      "section_path": [
+        "第六章 搭建X86 LINUX 平台 QT CREATOR 环境 ............................................................................... 28"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "第七章 搭建ARM 平台的QT CREATOR 环境 ..................................................................................... 39",
+      "page_num": 4,
+      "section_path": [
+        "第七章 搭建ARM 平台的QT CREATOR 环境 ..................................................................................... 39"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "7.1 配置ARM 平台的QT CREATOR KITS ................................................................................................... 40\n7.2 验证ARM 平台的QT 编译 ............................................................................................................... 41\n附录-A ................................................................................................................................................... 46",
+      "page_num": 4,
+      "section_path": [
+        "第七章 搭建ARM 平台的QT CREATOR 环境 ..................................................................................... 39"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 5,
+      "section_path": [
+        "第七章 搭建ARM 平台的QT CREATOR 环境 ..................................................................................... 39"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 5,
+      "section_path": [
+        "第七章 搭建ARM 平台的QT CREATOR 环境 ..................................................................................... 39",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 5,
+      "section_path": [
+        "第七章 搭建ARM 平台的QT CREATOR 环境 ..................................................................................... 39",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 5,
+      "section_path": [
+        "第七章 搭建ARM 平台的QT CREATOR 环境 ..................................................................................... 39",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "前言",
+      "page_num": 5,
+      "section_path": [
+        "第七章 搭建ARM 平台的QT CREATOR 环境 ..................................................................................... 39",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "前言"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "Qt5 已经在战场上驰骋快10 年了，在迎接Qt6 时代的到来时，Qt4 玩家却忘不了以前的美\n好时光。早些年有些软件是Qt4 开发的，在某些Qt4 版本上稳定运行。Qt4 写的软件要在Qt5\n运行可能需要修改比较多内容。对于一个偌大的软件来说，改起来实在是令人头痛！由于正点\n原子出厂I.MX6U 出厂系统的Qt 版本是5.6.2 版本的（2020.11.21 日后升级到Qt5.12.9 LTS\n版本），所以我们为正点原子I.MX6U 移植Qt4.8.4 给Qt4 的忠实用户，如有错漏，请到正点原\n子论坛指正，或者联系本文档编写作者QQ1252699831 指正错误。\n本文档所使用的环境：\nWindows 7 64bits，也适用于Windows 8-10。不建议用Windows 32 位来开发，Windows 3\n2 位支持的内存大小有限，系统性能有限。\nUbuntu12.04，Ubuntu 建议使用12.04 下载地址为（https://releases.ubuntu.com/preci\nse/ubuntu-12.04.5-desktop-amd64.iso），因为Qt4.8.4 是2012 年发布的，所以那时Ubu\nntu 版本只有Ubuntu12。否则安装及编译环境不一样导致出错，请自行解决！\n要求读者会使用FileZilla、WinSCP 及Windows Git 进行Ubuntu 与Windows 间互传文件的\n方法。",
+      "page_num": 5,
+      "section_path": [
+        "第七章 搭建ARM 平台的QT CREATOR 环境 ..................................................................................... 39",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "前言"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 6,
+      "section_path": [
+        "第七章 搭建ARM 平台的QT CREATOR 环境 ..................................................................................... 39",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "前言"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 6,
+      "section_path": [
+        "第七章 搭建ARM 平台的QT CREATOR 环境 ..................................................................................... 39",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 6,
+      "section_path": [
+        "第七章 搭建ARM 平台的QT CREATOR 环境 ..................................................................................... 39",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 6,
+      "section_path": [
+        "第七章 搭建ARM 平台的QT CREATOR 环境 ..................................................................................... 39",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "第一章 下载安装通用交叉编译器",
+      "page_num": 6,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "编译ARM 平台的Qt 源码，那么我们需要使用ARM 类型的的交叉编译器。",
+      "page_num": 6,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 7,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 7,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 7,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 7,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "1.1 下载通用交叉编译器",
+      "page_num": 7,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "1.1 下载通用交叉编译器"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "我们要编译Qt 源码，需要使用通用的交叉编译器，这里下载Linaro 出品的交叉编译器，\n也就是正点原子I.MX6U 嵌入式Linux 驱动开发指南第4.3 小节里推荐的4.9 版本的编译器，\n这里重复写下载的方法。如果已经知道怎么安装或者已经安装可跳过第一章。下面是下载地址。\nhttps://releases.linaro.org/components/toolchain/binaries/4.9-2017.01/arm-linux-gn\nueabihf/。\n图1.1 1 选择对应系统版本的交叉编译器下载\n请根据个人Ubuntu 系统的位数，选择对应版本下载即可。也可以在我们正点原子I.MX6U\n开发板光盘A-基础资料->5、开发工具->1、交叉编译器下找到下载好的交叉编译器。如下图。\n图1.1 2 资料盘处的交叉编译器",
+      "page_num": 7,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "1.1 下载通用交叉编译器"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "1.2 安装通用交叉编译器",
+      "page_num": 7,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "1.2 安装通用交叉编译器"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "将上面1.1 小节下载好的通用交叉编译器压缩包拷贝到Ubuntu 虚拟机，解压进行安装。编\n者是64 位的Ubuntu。所以通用FileZilla 或者WinSCP 拷贝gcc-linaro-4.9.4-2017.01-x86_64_ar\nm-linux-gnueabihf.tar.xz 到Ubuntu 虚拟机。如下图，编者已经拷贝到“家”目录下。\n图1.2 1 拷贝交叉编译器到家目录\n在Ubuntu 目录下创建/usr/local/arm 文件夹，为下面安装到/usr/local/arm 这个文件夹做准备。\nsudo mkdir /usr/local/arm\n解压交叉编译器压缩包至/usr/local/arm 目录下，稍等片刻，解压完成如下。",
+      "page_num": 7,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "1.2 安装通用交叉编译器"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 8,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "1.2 安装通用交叉编译器"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 8,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 8,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 8,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "sudo tar xf gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf.tar.xz -C /usr/local/arm/\n图1.2 2 解压交叉编译器\n使用vi 指令编辑/etc/profile 这个文件。\nsudo vi /etc/profile\n打开/etc/profile 以后，在末尾添加如下所示内容。\nexport PATH=$PATH:/usr/local/arm/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/bin\n添加完成如下图，保存退出，重启系统。\n图1.2 3 在/etc/profile 下添加全局环境变量",
+      "page_num": 8,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "1.3 验证通用交叉编译器",
+      "page_num": 8,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "1.3 验证通用交叉编译器"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "要使用此编译器，还要在Ubuntu 上安装一些库。\nsudo apt-get install lsb-core lib32stdc++6\n在1.2 小节修改环境变量重启系统后，在终端输入arm-linux-gnueabihf-gcc -v 来查看安装\n的交叉编译器版本号。看到如下结果，表明成功！\narm-linux-gnueabihf-gcc -v",
+      "page_num": 8,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "1.3 验证通用交叉编译器"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 9,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "1.3 验证通用交叉编译器"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 9,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 9,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 9,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "图1.3 1 验证交叉编译器",
+      "page_num": 9,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 10,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 10,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 10,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 10,
+      "section_path": [
+        "第一章 下载安装通用交叉编译器",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "第二章 获取和编译tslib",
+      "page_num": 10,
+      "section_path": [
+        "第二章 获取和编译tslib"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "要想Qt 支持触摸还需要编译tslib，以生成触摸相关插件。",
+      "page_num": 10,
+      "section_path": [
+        "第二章 获取和编译tslib"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 11,
+      "section_path": [
+        "第二章 获取和编译tslib"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| sudo apt-get update |\n| --- |\n| sudo apt-get install autoconf automake libtool |",
+      "page_num": 11,
+      "section_path": [
+        "第二章 获取和编译tslib"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "sudo apt-get update"
+        ],
+        [
+          "sudo apt-get install autoconf automake libtool"
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| ./configure --host=arm-linux-gnueabihf ac_cv_func_malloc_0_nonnull=yes --cache-file=arm-linux. |\n| --- |\n| cache -prefix=/home/alientek/tslib-1.21/arm-tslib |",
+      "page_num": 11,
+      "section_path": [
+        "第二章 获取和编译tslib"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "./configure --host=arm-linux-gnueabihf ac_cv_func_malloc_0_nonnull=yes --cache-file=arm-linux."
+        ],
+        [
+          "cache -prefix=/home/alientek/tslib-1.21/arm-tslib"
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 11,
+      "section_path": [
+        "第二章 获取和编译tslib",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 11,
+      "section_path": [
+        "第二章 获取和编译tslib",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 11,
+      "section_path": [
+        "第二章 获取和编译tslib",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "2.1 获取tslib",
+      "page_num": 11,
+      "section_path": [
+        "第二章 获取和编译tslib",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.1 获取tslib"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "获取 tslib 的源码，git 地址为 https://github.com/kergoth/tslib。tslib 源码已经放到开发板光\n盘中路径为：开发板光盘A-基础资料->1、例程源码->7、第三方库源码->tslib-1.21.tar.bz2。将\n压缩包发送到 Ubuntu 中并解压，得到名为“tslib-1.21”的目录，此目录下就是 tslib 源码。\n注意github 有可能被更新源码导致出现bug。请使用资料盘里的tslib-1.21 源码。\n拷贝至Ubuntu 虚拟机目录下，将其解压，得到tslib-1.21 文件夹。\ntar xf tslib-1.21.tar.bz2\n进入tslib-1.21 文件夹下。\ncd tslib-1.21\n图2.1 1 进入解压后的tslib 源码目录下",
+      "page_num": 11,
+      "section_path": [
+        "第二章 获取和编译tslib",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.1 获取tslib"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "2.2 编译tslib",
+      "page_num": 11,
+      "section_path": [
+        "第二章 获取和编译tslib",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.2 编译tslib"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "生成Makefile，还需要安装以下软件。\nsudo apt-get update\nsudo apt-get install autoconf automake libtool\n执行autogen.sh 生成Makefile，以编译源码。\n图2.2 1 生成Makefile\n执行下面的指令指定我们上面第一章安装交叉编译工具与tslib 编译输出路径/home/alientek\n/tslib-1.21/arm-tslib。复制时请注意，下面是一条指令不分行，建议分段复制。注意不要多写空\n格。指令会检查编译器等是否会工作，如下图。\n./configure --host=arm-linux-gnueabihf ac_cv_func_malloc_0_nonnull=yes --cache-file=arm-linux.\ncache -prefix=/home/alientek/tslib-1.21/arm-tslib",
+      "page_num": 11,
+      "section_path": [
+        "第二章 获取和编译tslib",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.2 编译tslib"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 12,
+      "section_path": [
+        "第二章 获取和编译tslib",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.2 编译tslib"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| make |\n| --- |\n| make install |",
+      "page_num": 12,
+      "section_path": [
+        "第二章 获取和编译tslib",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "2.2 编译tslib"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "make"
+        ],
+        [
+          "make install"
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 12,
+      "section_path": [
+        "第二章 获取和编译tslib",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 12,
+      "section_path": [
+        "第二章 获取和编译tslib",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 12,
+      "section_path": [
+        "第二章 获取和编译tslib",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "图2.2 2 配置tslib\n直接执行make 编译及make install 安装。\nmake\nmake install\n编译出现警告不用理会以，安装完成后在当前目录下生成一个arm-tslib 目录。也是我们上\n面指令的编译输出目录路径。可以查看生成目录下有以下内容。\n图2.2 3 编译完成，arm-tslib 目录下的产物",
+      "page_num": 12,
+      "section_path": [
+        "第二章 获取和编译tslib",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 13,
+      "section_path": [
+        "第二章 获取和编译tslib",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 13,
+      "section_path": [
+        "第二章 获取和编译tslib",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 13,
+      "section_path": [
+        "第二章 获取和编译tslib",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 13,
+      "section_path": [
+        "第二章 获取和编译tslib",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "第三章 编译ARM 平台Qt4.8.4 源码",
+      "page_num": 13,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "本章介绍如何编译ARM 平台的Qt4.8.4 源码。",
+      "page_num": 13,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 14,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| wget https://download.qt.io/archive/qt/4.8/4.8.4/qt-everywhere-opensource-src-4.8.4.tar.gz // >=ubuntu1404 |\n| --- |\n| wget http://download.qt.io/archive/qt/4.8/4.8.4/qt-everywhere-opensource-src-4.8.4.tar.gz // ubuntu12.04 |",
+      "page_num": 14,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "wget https://download.qt.io/archive/qt/4.8/4.8.4/qt-everywhere-opensource-src-4.8.4.tar.gz // >=ubuntu1404"
+        ],
+        [
+          "wget http://download.qt.io/archive/qt/4.8/4.8.4/qt-everywhere-opensource-src-4.8.4.tar.gz // ubuntu12.04"
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 14,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 14,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 14,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "3.1 下载Qt4.8.4 源码",
+      "page_num": 14,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "3.1 下载Qt4.8.4 源码"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "我们可以在Qt 下载地址https://download.qt.io/找到https://download.qt.io/archive/qt/4.8/4.8.4/，\n进入下载页面如下。\n图3.1 1 下载Qt4.8.4 源码\n在Windows 上下载好上面qt-everywhere-opensource-src-4.8.4.tar.gz 源码拷贝到Ubuntu 虚拟\n机下，或者直接右键上面的下载项，出现复制下载地址链接，在Ubuntu 下直接使用wget 指令\n下载。\n在Ubuntu 使用wget 指令下载qt-everywhere-opensource-src-4.8.4.tar.gz 源码如下。如果觉得\n慢，就在Windows 下复制下载链接地址使用迅雷下载再拷贝到Ubuntu 虚拟机吧！\nwget https://download.qt.io/archive/qt/4.8/4.8.4/qt-everywhere-opensource-src-4.8.4.tar.gz // >=ubuntu1404\nwget http://download.qt.io/archive/qt/4.8/4.8.4/qt-everywhere-opensource-src-4.8.4.tar.gz // ubuntu12.04\n解压下载好的qt-everywhere-opensource-src-4.8.4.tar.gz 源码压缩包。\ntar xf qt-everywhere-opensource-src-4.8.4.tar.gz\n在当前目录出现qt-everywhere-opensource-src-4.8.4 目录夹，此文件夹就是我们解压后的目\n录。进入此目录。\ncd qt-everywhere-opensource-src-4.8.4/",
+      "page_num": 14,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "3.1 下载Qt4.8.4 源码"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "3.2 修改qmake.conf",
+      "page_num": 14,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "3.2 修改qmake.conf"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "编辑mkspecs/qws/linux-arm-gnueabi-g++/qmake.conf，配置相关编译器及路径。\nvi mkspecs/qws/linux-arm-gnueabi-g++/qmake.conf",
+      "page_num": 14,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "3.2 修改qmake.conf"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 15,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "3.2 修改qmake.conf"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| # |\n| --- |\n| # qmake configuration for building with arm-none-linux-gnueabi-g++ |\n| # |\n|  |\n| include(../../common/linux.conf) |\n| include(../../common/gcc-base-unix.conf) |\n| include(../../common/g++-unix.conf) |\n| include(../../common/qws.conf) |\n|  |\n| # modifications to g++.conf |\n| QMAKE_CC = arm-linux-gnueabihf-gcc -lts |\n| QMAKE_CXX = arm-linux-gnueabihf-g++ -lts |\n| QMAKE_LINK = arm-linux-gnueabihf-g++ -lts |\n| QMAKE_LINK_SHLIB = arm-linux-gnueabihf-g++ -lts |\n|  |\n| # modifications to linux.conf |\n| QMAKE_AR = arm-linux-gnueabihf-ar cqs |\n| QMAKE_OBJCOPY = arm-linux-gnueabihf-objcopy |\n| QMAKE_STRIP = arm-linux-gnueabihf-strip |\n|  |\n| load(qt_config) |",
+      "page_num": 15,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "3.2 修改qmake.conf"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "#"
+        ],
+        [
+          "# qmake configuration for building with arm-none-linux-gnueabi-g++"
+        ],
+        [
+          "#"
+        ],
+        [
+          ""
+        ],
+        [
+          "include(../../common/linux.conf)"
+        ],
+        [
+          "include(../../common/gcc-base-unix.conf)"
+        ],
+        [
+          "include(../../common/g++-unix.conf)"
+        ],
+        [
+          "include(../../common/qws.conf)"
+        ],
+        [
+          ""
+        ],
+        [
+          "# modifications to g++.conf"
+        ],
+        [
+          "QMAKE_CC = arm-linux-gnueabihf-gcc -lts"
+        ],
+        [
+          "QMAKE_CXX = arm-linux-gnueabihf-g++ -lts"
+        ],
+        [
+          "QMAKE_LINK = arm-linux-gnueabihf-g++ -lts"
+        ],
+        [
+          "QMAKE_LINK_SHLIB = arm-linux-gnueabihf-g++ -lts"
+        ],
+        [
+          ""
+        ],
+        [
+          "# modifications to linux.conf"
+        ],
+        [
+          "QMAKE_AR = arm-linux-gnueabihf-ar cqs"
+        ],
+        [
+          "QMAKE_OBJCOPY = arm-linux-gnueabihf-objcopy"
+        ],
+        [
+          "QMAKE_STRIP = arm-linux-gnueabihf-strip"
+        ],
+        [
+          ""
+        ],
+        [
+          "load(qt_config)"
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| ./configure -prefix /home/alientek/qt-everywhere-opensource-src-4.8.4/arm-qt \\ |\n| --- |\n| -opensource \\ |\n| -confirm-license \\ |\n| -release -shared \\ |\n| -embedded arm \\ |\n| -xplatform qws/linux-arm-gnueabi-g++ \\ |\n| -fast \\ |\n| -optimized-qmake \\ |\n| -no-pch \\ |\n| -qt-libjpeg \\ |",
+      "page_num": 15,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "3.2 修改qmake.conf"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "./configure -prefix /home/alientek/qt-everywhere-opensource-src-4.8.4/arm-qt \\"
+        ],
+        [
+          "-opensource \\"
+        ],
+        [
+          "-confirm-license \\"
+        ],
+        [
+          "-release -shared \\"
+        ],
+        [
+          "-embedded arm \\"
+        ],
+        [
+          "-xplatform qws/linux-arm-gnueabi-g++ \\"
+        ],
+        [
+          "-fast \\"
+        ],
+        [
+          "-optimized-qmake \\"
+        ],
+        [
+          "-no-pch \\"
+        ],
+        [
+          "-qt-libjpeg \\"
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 15,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 15,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 15,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "图3.2 1 配置qmake.conf\n修改成如下，红色部分就是要修改的地方。\n# qmake configuration for building with arm-none-linux-gnueabi-g++\ninclude(../../common/linux.conf)\ninclude(../../common/gcc-base-unix.conf)\ninclude(../../common/g++-unix.conf)\ninclude(../../common/qws.conf)\n# modifications to g++.conf\nQMAKE_CC                = arm-linux-gnueabihf-gcc -lts\nQMAKE_CXX               = arm-linux-gnueabihf-g++ -lts\nQMAKE_LINK              = arm-linux-gnueabihf-g++ -lts\nQMAKE_LINK_SHLIB        = arm-linux-gnueabihf-g++ -lts\n# modifications to linux.conf\nQMAKE_AR                = arm-linux-gnueabihf-ar cqs\nQMAKE_OBJCOPY           = arm-linux-gnueabihf-objcopy\nQMAKE_STRIP             = arm-linux-gnueabihf-strip\nload(qt_config)",
+      "page_num": 15,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "3.3 配置编译选项",
+      "page_num": 15,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "3.3 配置编译选项"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "查看编译选项，输入./configure -help 指令，再输入o，查看自由版本选项。\n./configure -help\n由于配置较长，编译总结了配置项，写了一个脚本。\nvi autoconfigure.sh\n在这个autoconfigure.sh 添加以下内容\n./configure  -prefix /home/alientek/qt-everywhere-opensource-src-4.8.4/arm-qt \\\n-opensource \\\n-confirm-license \\\n-release -shared \\\n-embedded arm \\\n-xplatform qws/linux-arm-gnueabi-g++ \\\n-fast \\\n-optimized-qmake \\\n-no-pch \\\n-qt-libjpeg \\",
+      "page_num": 15,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "3.3 配置编译选项"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 16,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "3.3 配置编译选项"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| -qt-zlib \\ |\n| --- |\n| -qt-libpng \\ |\n| -qt-freetype \\ |\n| -little-endian \\ |\n| -host-little-endian \\ |\n| -no-qt3support \\ |\n| -no-libtiff \\ |\n| -no-libmng \\ |\n| -no-opengl \\ |\n| -no-mmx \\ |\n| -no-sse \\ |\n| -no-sse2 \\ |\n| -no-3dnow \\ |\n| -no-openssl \\ |\n| -no-webkit \\ |\n| -no-qvfb \\ |\n| -no-phonon \\ |\n| -no-nis \\ |\n| -no-cups \\ |\n| -no-glib \\ |\n| -qt-mouse-tslib \\ |\n| -nomake tools \\ |\n| -nomake docs \\ |\n| -qt-sql-sqlite \\ |\n| -plugin-sql-sqlite \\ |\n| -I/home/alientek/tslib-1.21/arm-tslib/include \\ |\n| -L/home/alientek/tslib-1.21/arm-tslib/lib |",
+      "page_num": 16,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "3.3 配置编译选项"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "-qt-zlib \\"
+        ],
+        [
+          "-qt-libpng \\"
+        ],
+        [
+          "-qt-freetype \\"
+        ],
+        [
+          "-little-endian \\"
+        ],
+        [
+          "-host-little-endian \\"
+        ],
+        [
+          "-no-qt3support \\"
+        ],
+        [
+          "-no-libtiff \\"
+        ],
+        [
+          "-no-libmng \\"
+        ],
+        [
+          "-no-opengl \\"
+        ],
+        [
+          "-no-mmx \\"
+        ],
+        [
+          "-no-sse \\"
+        ],
+        [
+          "-no-sse2 \\"
+        ],
+        [
+          "-no-3dnow \\"
+        ],
+        [
+          "-no-openssl \\"
+        ],
+        [
+          "-no-webkit \\"
+        ],
+        [
+          "-no-qvfb \\"
+        ],
+        [
+          "-no-phonon \\"
+        ],
+        [
+          "-no-nis \\"
+        ],
+        [
+          "-no-cups \\"
+        ],
+        [
+          "-no-glib \\"
+        ],
+        [
+          "-qt-mouse-tslib \\"
+        ],
+        [
+          "-nomake tools \\"
+        ],
+        [
+          "-nomake docs \\"
+        ],
+        [
+          "-qt-sql-sqlite \\"
+        ],
+        [
+          "-plugin-sql-sqlite \\"
+        ],
+        [
+          "-I/home/alientek/tslib-1.21/arm-tslib/include \\"
+        ],
+        [
+          "-L/home/alientek/tslib-1.21/arm-tslib/lib"
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 16,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 16,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 16,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "-qt-zlib \\\n-qt-libpng \\\n-qt-freetype \\\n-little-endian \\\n-host-little-endian \\\n-no-qt3support \\\n-no-libtiff \\\n-no-libmng \\\n-no-opengl \\\n-no-mmx \\\n-no-sse \\\n-no-sse2 \\\n-no-3dnow \\\n-no-openssl \\\n-no-webkit \\\n-no-qvfb \\\n-no-phonon \\\n-no-nis \\\n-no-cups \\\n-no-glib \\\n-qt-mouse-tslib \\\n-nomake tools \\\n-nomake docs \\\n-qt-sql-sqlite \\\n-plugin-sql-sqlite \\\n-I/home/alientek/tslib-1.21/arm-tslib/include \\\n-L/home/alientek/tslib-1.21/arm-tslib/lib\n其中红色部分为编者个人的路径，请修改成个人路径。\n（1）\n/home/alientek/qt-everywhere-opensource-src-4.8.4/arm-qt 为编译输出路径。\n（2）\n/home/alientek/tslib-1.21/arm-tslib/include 为第二章tslib 头文件路径。\n（3）\n/home/alientek/tslib-1.21/arm-tslib/lib 为第二章tslib 相关库文件路径。\n赋予脚本可执行权限。\nchmod +x autoconfigure.sh\n直接执行autoconfigure.sh，配置完成如下。若未见此信息，请检查个人配置。\n./autoconfigure.sh",
+      "page_num": 16,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 17,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| make -j 16 // -j 16 代表最多允许 16 条编译指令同时运行，参数 16，一般为个人分配 |\n| --- |\n| 给虚拟机的核心数的2倍 |",
+      "page_num": 17,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "make -j 16 // -j 16 代表最多允许 16 条编译指令同时运行，参数 16，一般为个人分配"
+        ],
+        [
+          "给虚拟机的核心数的2倍"
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 17,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 17,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 17,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "图3.3 1 配置成功",
+      "page_num": 17,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "3.4 开始编译Qt4.8.4 源码",
+      "page_num": 17,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "3.4 开始编译Qt4.8.4 源码"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "直接执行make 开始编译。\nmake -j 16\n// -j 16 代表最多允许 16 条编译指令同时运行，参数16，一般为个人分配\n给虚拟机的核心数的2 倍\n编译完成如下图，编译时长由个人计算机速度及分配给虚拟机核心数决定（编者编译了7\n分钟）。如按上面操作，遇到编译Qt 源码出现错误，请重新配置！有可能是个人计算机分配给\n虚拟机内存太低所导致的，既然Qt 源码能发布，除了配置错误，几乎Qt 源码是不会有编译错\n误的！\n编译完成如下图。\n图3.4 1 Qt4.8.4 源码编译完成",
+      "page_num": 17,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "3.4 开始编译Qt4.8.4 源码"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 18,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "3.4 开始编译Qt4.8.4 源码"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| make install |\n| --- |\n| ls arm-qt |",
+      "page_num": 18,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "3.4 开始编译Qt4.8.4 源码"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "make install"
+        ],
+        [
+          "ls arm-qt"
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 18,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 18,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 18,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "执行安装指令后，查看安装后的内容。\nmake install\nls arm-qt\n图3.4 2 安装完成",
+      "page_num": 18,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 19,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 19,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 19,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 19,
+      "section_path": [
+        "第三章 编译ARM 平台Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "第四章 移植Qt 到文件系统",
+      "page_num": 19,
+      "section_path": [
+        "第四章 移植Qt 到文件系统"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "编译完成后，我们需要将编译的库移植到文件系统里。",
+      "page_num": 19,
+      "section_path": [
+        "第四章 移植Qt 到文件系统"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 20,
+      "section_path": [
+        "第四章 移植Qt 到文件系统"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| export TSLIB_ROOT=/usr/lib/arm-tslib |\n| --- |\n| export TSLIB_CONSOLEDEVICE=none |\n| export TSLIB_FBDEVICE=/dev/fb0 |\n| export TSLIB_TSDEVICE=/dev/input/event1 |\n| export TSLIB_CONFFILE=$TSLIB_ROOT/etc/ts.conf |\n| export TSLIB_PLUGINDIR=$TSLIB_ROOT/lib/ts |\n| export TSLIB_CALIBFILE=/etc/pointercal |",
+      "page_num": 20,
+      "section_path": [
+        "第四章 移植Qt 到文件系统"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "export TSLIB_ROOT=/usr/lib/arm-tslib"
+        ],
+        [
+          "export TSLIB_CONSOLEDEVICE=none"
+        ],
+        [
+          "export TSLIB_FBDEVICE=/dev/fb0"
+        ],
+        [
+          "export TSLIB_TSDEVICE=/dev/input/event1"
+        ],
+        [
+          "export TSLIB_CONFFILE=$TSLIB_ROOT/etc/ts.conf"
+        ],
+        [
+          "export TSLIB_PLUGINDIR=$TSLIB_ROOT/lib/ts"
+        ],
+        [
+          "export TSLIB_CALIBFILE=/etc/pointercal"
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 20,
+      "section_path": [
+        "第四章 移植Qt 到文件系统",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 20,
+      "section_path": [
+        "第四章 移植Qt 到文件系统",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 20,
+      "section_path": [
+        "第四章 移植Qt 到文件系统",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "4.1 烧写文件系统",
+      "page_num": 20,
+      "section_path": [
+        "第四章 移植Qt 到文件系统",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "4.1 烧写文件系统"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "这里使用【正点原子】I.MX6U 嵌入式Linux 驱动开发指南V1.x.pdf 所构建好的busybox\n文件系统（不含Qt 的文件系统），文件系统路径为开发板光盘A-基础资料->8、系统镜像->2、\n教程系统镜像->3、文件系统->2、busybox-1.29.0 根文件系统下的rootfs.tar.bz2。将此文件系统\n替换到开发板光盘A-基础资料->5、开发工具->4、正点原子MFG_TOOL 出厂固件烧录工具->\nmfgtool->Profiles->Linux->OS Firmware->files->filesystem 下的rootfs.tar.bz2 (替换前请备份好\n原来的文件系统！)。\n然后烧写文件系统到eMMC 核心板或者NandFlash 核心板。烧写方法请看【正点原子】I.\nMX6U 用户快速体验V1.x.pdf 第2.2 小节固化系统。不建议用NFS 挂载来测试Qt 的性能！",
+      "page_num": 20,
+      "section_path": [
+        "第四章 移植Qt 到文件系统",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "4.1 烧写文件系统"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "4.2 移植tslib 到文件系统",
+      "page_num": 20,
+      "section_path": [
+        "第四章 移植Qt 到文件系统",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "4.2 移植tslib 到文件系统"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "使用下面的指令打包2.2 小节编译安装好的arm-tslib 文件夹打包成tar.bz2 格式，打包以防\n止文件丢失。\ntar -jcf ./arm-tslib.tar.bz2 arm-tslib\n然后使用U 盘拷贝arm-tslib.tar.bz2，在USB 接口插上U 盘，手动挂载后，在开发板根文\n件系统上解压到/usr/lib/目录下。如下图，编者已经解压到/usr/lib 目录下。\n图4.2 1 解压打包的arm-tslib 到/usr/lib 目录下\n配置tslib 的环境变量\n由于上面烧写的文件系统已经移植过tslib，已经在/etc/profile 文件配置过Qt5 的环境变量。\n所以我们的要重新写成Qt4 的环境变量，及指定我们编译的tslib 所在文件夹。避免和文件系统\n已经存在的tslib 冲突。（那究竟能不能直接用文件系统已经存在的tslib 呢？这个自行测试，怕\n用户在第二章移植tslib 用了不同版本，所以我们还是自己指定我们移植的tslib 吧）。\n编辑/etc/profile 文件，修改成以下内容。如下图红色框部分。“export TSLIB_CALIBFILE=/etc/\npointercal”这项是电阻屏专用，如果是电容屏，可不用加这项。电容加了这项，如果使用ts_c\nalibrate 校准后会生成/etc/pointercal 文件，请把它删除！否则可以触摸不准确，因为电容屏不需\n要校准。\nexport TSLIB_ROOT=/usr/lib/arm-tslib\nexport TSLIB_CONSOLEDEVICE=none\nexport TSLIB_FBDEVICE=/dev/fb0\nexport TSLIB_TSDEVICE=/dev/input/event1\nexport TSLIB_CONFFILE=$TSLIB_ROOT/etc/ts.conf\nexport TSLIB_PLUGINDIR=$TSLIB_ROOT/lib/ts\nexport TSLIB_CALIBFILE=/etc/pointercal",
+      "page_num": 20,
+      "section_path": [
+        "第四章 移植Qt 到文件系统",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "4.2 移植tslib 到文件系统"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 21,
+      "section_path": [
+        "第四章 移植Qt 到文件系统",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "4.2 移植tslib 到文件系统"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| source /etc/profile // 使能环境变量 |\n| --- |\n| /usr/lib/arm-tslib/bin/ts_test // 运行ts_test测试触摸是否正常，点击界面的Draw测试 |",
+      "page_num": 21,
+      "section_path": [
+        "第四章 移植Qt 到文件系统",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "4.2 移植tslib 到文件系统"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "source /etc/profile // 使能环境变量"
+        ],
+        [
+          "/usr/lib/arm-tslib/bin/ts_test // 运行ts_test测试触摸是否正常，点击界面的Draw测试"
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 21,
+      "section_path": [
+        "第四章 移植Qt 到文件系统",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 21,
+      "section_path": [
+        "第四章 移植Qt 到文件系统",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 21,
+      "section_path": [
+        "第四章 移植Qt 到文件系统",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "图4.2 2 配置tslib 全局环境变量\n测试tslib\n使能tslib 的配置在/etc/profile 的环境变量，下次开机不用使能，开机会自动使能这个环境变量。\nsource /etc/profile\n// 使能环境变量\n/usr/lib/arm-tslib/bin/ts_test\n// 运行ts_test 测试触摸是否正常，点击界面的Draw 测试\n触摸屏上点击Draw 测试能够画出线条，且位置准确，说明tslib 配置正常。按Ctrl + c 结\n束ts_test 指令。下图为7 寸800x480 分辨率的电容屏，使用tslib 测试效果。\n图4.2 3 7 寸屏800x480 的触摸效果",
+      "page_num": 21,
+      "section_path": [
+        "第四章 移植Qt 到文件系统",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "4.3 移植Qt 到文件系统",
+      "page_num": 21,
+      "section_path": [
+        "第四章 移植Qt 到文件系统",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "4.3 移植Qt 到文件系统"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "使用下面的指令打包3.4 小节编译安装好的arm-qt 文件夹打包成tar.bz2 格式，打包以防止\n文件丢失。\ntar -jcf ./arm-qt.tar.bz2 arm-qt\n然后使用U 盘拷贝arm-qt.tar.bz2，在USB 接口插上U 盘，手动挂载后，在开发板根文件\n系统上解压到/usr/lib/目录下。如下图，编者已经解压到/usr/lib 目录下。",
+      "page_num": 21,
+      "section_path": [
+        "第四章 移植Qt 到文件系统",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "4.3 移植Qt 到文件系统"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 22,
+      "section_path": [
+        "第四章 移植Qt 到文件系统",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "4.3 移植Qt 到文件系统"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| QT_DIR=/usr/lib/arm-qt |\n| --- |\n| export QT_QWS_FONTDIR=$QT_DIR/lib/fonts |\n| export QWS_MOUSE_PROTO=\"tslib:/dev/input/event1 mouseman:/dev/input/mice\" |\n| export QT_QWS_DISPLAY=\"linuxFB:/dev/fb0\" |\n| export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$QT_DIR/lib |",
+      "page_num": 22,
+      "section_path": [
+        "第四章 移植Qt 到文件系统",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "4.3 移植Qt 到文件系统"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "QT_DIR=/usr/lib/arm-qt"
+        ],
+        [
+          "export QT_QWS_FONTDIR=$QT_DIR/lib/fonts"
+        ],
+        [
+          "export QWS_MOUSE_PROTO=\"tslib:/dev/input/event1 mouseman:/dev/input/mice\""
+        ],
+        [
+          "export QT_QWS_DISPLAY=\"linuxFB:/dev/fb0\""
+        ],
+        [
+          "export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$QT_DIR/lib"
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| cd /usr/lib/arm-qt/demos/embedded/fluidlauncher // 进入Demo所在目录 |\n| --- |\n| ./fluidlauncher -qws // 运行Demo |",
+      "page_num": 22,
+      "section_path": [
+        "第四章 移植Qt 到文件系统",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "4.3 移植Qt 到文件系统"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "cd /usr/lib/arm-qt/demos/embedded/fluidlauncher // 进入Demo所在目录"
+        ],
+        [
+          "./fluidlauncher -qws // 运行Demo"
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 22,
+      "section_path": [
+        "第四章 移植Qt 到文件系统",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 22,
+      "section_path": [
+        "第四章 移植Qt 到文件系统",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 22,
+      "section_path": [
+        "第四章 移植Qt 到文件系统",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "图4.3 1 解压打包arm-qt 到/usr/lib 下\n配置Qt4 的环境变量\nQt4 的环境变量与Qt5 的配置不一样。编辑/etc/profile，在末尾添加以下内容。如下图红色\n框内。\nQT_DIR=/usr/lib/arm-qt\nexport QT_QWS_FONTDIR=$QT_DIR/lib/fonts\nexport QWS_MOUSE_PROTO=\"tslib:/dev/input/event1 mouseman:/dev/input/mice\"\nexport QT_QWS_DISPLAY=\"linuxFB:/dev/fb0\"\nexport LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$QT_DIR/lib\n图4.3 2 配置Qt4 的全局环境变量\n测试Qt 运行\n使能Qt 的配置在/etc/profile 的环境变量，下次开机不用使能，开机会自动使能这个环境变\n量。\ncd /usr/lib/arm-qt/demos/embedded/fluidlauncher // 进入Demo 所在目录\n./fluidlauncher -qws\n// 运行Demo\n7 寸屏800x480 显示效果如下，同时点击图中的项，确认触摸正常。",
+      "page_num": 22,
+      "section_path": [
+        "第四章 移植Qt 到文件系统",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 23,
+      "section_path": [
+        "第四章 移植Qt 到文件系统",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 23,
+      "section_path": [
+        "第四章 移植Qt 到文件系统",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 23,
+      "section_path": [
+        "第四章 移植Qt 到文件系统",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 23,
+      "section_path": [
+        "第四章 移植Qt 到文件系统",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "图4.3 3 7 寸屏800x480 Qt4 例程运行效果\n串口打印如下，报了一个警告，因为我们用的是电容屏，可忽略这个警告。电阻屏才需要\n使用ts_calibrate 校准。\n图4.3 4 运行例子时串口打印的信息\n报QWSLock::down(): Invalid argument 警告打印，请自行参考https://blog.csdn.net/xikangs\noon/article/details/101319384 博客，重新编译解决。",
+      "page_num": 23,
+      "section_path": [
+        "第四章 移植Qt 到文件系统",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 24,
+      "section_path": [
+        "第四章 移植Qt 到文件系统",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 24,
+      "section_path": [
+        "第四章 移植Qt 到文件系统",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 24,
+      "section_path": [
+        "第四章 移植Qt 到文件系统",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 24,
+      "section_path": [
+        "第四章 移植Qt 到文件系统",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "第五章 编译X86 平台的Qt4.8.4 源码",
+      "page_num": 24,
+      "section_path": [
+        "第五章 编译X86 平台的Qt4.8.4 源码"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "X86 平台的Qt4.8.4 源码需要编译才能在Ubuntu 上使用。编译X86 平台的Qt 源码方便我\n们在Ubuntu 上仿真测试。",
+      "page_num": 24,
+      "section_path": [
+        "第五章 编译X86 平台的Qt4.8.4 源码"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 25,
+      "section_path": [
+        "第五章 编译X86 平台的Qt4.8.4 源码"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| sudo apt-get install libfontconfig1-dev libfreetype6-dev libx11-dev libxcursor-dev libxext-dev |\n| --- |\n| libxfixes-dev libxft-dev libxi-dev libxrandr-dev libxrender-dev |",
+      "page_num": 25,
+      "section_path": [
+        "第五章 编译X86 平台的Qt4.8.4 源码"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "sudo apt-get install libfontconfig1-dev libfreetype6-dev libx11-dev libxcursor-dev libxext-dev"
+        ],
+        [
+          "libxfixes-dev libxft-dev libxi-dev libxrandr-dev libxrender-dev"
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| ./configure |\n| --- |\n|  |",
+      "page_num": 25,
+      "section_path": [
+        "第五章 编译X86 平台的Qt4.8.4 源码"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "./configure"
+        ],
+        [
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 25,
+      "section_path": [
+        "第五章 编译X86 平台的Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 25,
+      "section_path": [
+        "第五章 编译X86 平台的Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 25,
+      "section_path": [
+        "第五章 编译X86 平台的Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "5.1 编译X86 平台的Qt4.8.4",
+      "page_num": 25,
+      "section_path": [
+        "第五章 编译X86 平台的Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "5.1 编译X86 平台的Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "此小节必须使用Ubuntu12.04，因为Qt4.8.4 是2012 年发布的，所以那时Ubuntu 版本只有\nUbuntu12。我们上面只是安装了Qt Creator，因Qt4 版本在Linux 下还没有Ubuntu 版本编译套\n件。我们需要自己编译，然后再安装在Ubuntu，方便写程序及在Ubuntu 上调试。\n要在Ubuntu 上编译X86 平台上的Qt4.8.4，需要安装g++等库。\nsudo apt-get install lsb-core lib32stdc++6\n进入第三章的Qt 源码目录，执行下面的指令清理工程。因为第三章是编译ARM 平台的Q\nt4.8.4，现在我们要编译X86 平台的Qt4.8.4。\nmake distclean\n在执行configure 前，需要安装以下库。因为配置时会出现缺少Xlib 相关错误。建议分行\n复制，下面为一行指令。\nsudo apt-get install libfontconfig1-dev libfreetype6-dev libx11-dev libxcursor-dev libxext-dev\nlibxfixes-dev libxft-dev libxi-dev libxrandr-dev libxrender-dev\n直接执行configure，configure 会自动根据宿主机平台设置。之后输入“o”，再输入“yes”。\n配置需要一段时间。\n./configure\n图5.1 1 执行configure",
+      "page_num": 25,
+      "section_path": [
+        "第五章 编译X86 平台的Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "5.1 编译X86 平台的Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 26,
+      "section_path": [
+        "第五章 编译X86 平台的Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "5.1 编译X86 平台的Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| make -j 16 // -j 16 代表最多允许 16 条编译指令同时运行，参数 16，一般为个人分配 |\n| --- |\n| 给虚拟机的核心数的2倍 |",
+      "page_num": 26,
+      "section_path": [
+        "第五章 编译X86 平台的Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "5.1 编译X86 平台的Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "make -j 16 // -j 16 代表最多允许 16 条编译指令同时运行，参数 16，一般为个人分配"
+        ],
+        [
+          "给虚拟机的核心数的2倍"
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 26,
+      "section_path": [
+        "第五章 编译X86 平台的Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 26,
+      "section_path": [
+        "第五章 编译X86 平台的Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 26,
+      "section_path": [
+        "第五章 编译X86 平台的Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "图5.1 2 执行configure 成功\n看到上图的结果，说明配置成功。可以看到安装目录是/usr/local/Trolltech/Qt-4.8.4。可以执\n行make 编译了。\n直接执行make 开始编译。\nmake -j 16\n// -j 16 代表最多允许 16 条编译指令同时运行，参数16，一般为个人分配\n给虚拟机的核心数的2 倍\n编译完成如下图，编译时长由个人计算机速度及分配给虚拟机核心数决定（编者编译了12\n分钟）。如按上面操作，遇到编译Qt 源码出现错误，请重新配置！有可能是个人计算机分配给\n虚拟机内存太低所导致的，既然Qt 源码能发布，说明Qt 源码是几乎不可能有编译错误的！\n编译完成如下图\n图5.1 3 编译成功如上\n安装，执行安装指令\nsudo make install",
+      "page_num": 26,
+      "section_path": [
+        "第五章 编译X86 平台的Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 27,
+      "section_path": [
+        "第五章 编译X86 平台的Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 27,
+      "section_path": [
+        "第五章 编译X86 平台的Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 27,
+      "section_path": [
+        "第五章 编译X86 平台的Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 27,
+      "section_path": [
+        "第五章 编译X86 平台的Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "图5.1 4 安装成功",
+      "page_num": 27,
+      "section_path": [
+        "第五章 编译X86 平台的Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 28,
+      "section_path": [
+        "第五章 编译X86 平台的Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 28,
+      "section_path": [
+        "第五章 编译X86 平台的Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 28,
+      "section_path": [
+        "第五章 编译X86 平台的Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 28,
+      "section_path": [
+        "第五章 编译X86 平台的Qt4.8.4 源码",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+      "page_num": 28,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "本章将介绍如何搭建X86 Linux 平台上的Qt Creator 环境。",
+      "page_num": 28,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 29,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "table",
+      "content": "| wget https://download.qt.io/archive/qtcreator/2.6/2.6.1/qt-creator-linux-x86_64-opensource-2.6.1.bin // >=ubuntu14.04 |\n| --- |\n| wget http://download.qt.io/archive/qtcreator/2.6/2.6.1/qt-creator-linux-x86_64-opensource-2.6.1.bin // ubuntu12.04 |",
+      "page_num": 29,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "wget https://download.qt.io/archive/qtcreator/2.6/2.6.1/qt-creator-linux-x86_64-opensource-2.6.1.bin // >=ubuntu14.04"
+        ],
+        [
+          "wget http://download.qt.io/archive/qtcreator/2.6/2.6.1/qt-creator-linux-x86_64-opensource-2.6.1.bin // ubuntu12.04"
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 29,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 29,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 29,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "6.1 Linux 安装Qt Creator",
+      "page_num": 29,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "6.1 Linux 安装Qt Creator"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "此小节必须和第五章一样使用Ubuntu12.04，否则配置不了Qt Creator Kits。Qt Creator 是\nQt 的原生编程IDE，并集成了很多开源的软件功能。我们使用Qt 编程时所用工具就是Qt Cre\nator，Qt4 在Linux 下需要另外安装Qt Creator。根据Windows 的Qt 4.8.4 版本所配套的Qt Cr\neator 版本为Qt Creator 2.6.1。所以我们在官网下载Qt Creator 2.6.1。\n打开https://download.qt.io/archive/qtcreator/2.6/2.6.1/网址，编者的是64 位的Ubuntu 所以下\n载qt-creator-linux-x86_64-opensource-2.6.1.bin，如下图。请根据个人的Ubuntu 版本选择相应位\n数的Qt Creator 位数版本。\n图6.1 1 下载Qt Creator\n或者右键该项，选择复制链接下载地址，直接在Ubuntu 上使用wget 指令下载。\nwget https://download.qt.io/archive/qtcreator/2.6/2.6.1/qt-creator-linux-x86_64-opensource-2.6.1.bin  // >=ubuntu14.04\nwget http://download.qt.io/archive/qtcreator/2.6/2.6.1/qt-creator-linux-x86_64-opensource-2.6.1.bin  // ubuntu12.04\n如下，编者已经下载好qt-creator-linux-x86_64-opensource-2.6.1.bin 并上传至Ubuntu。\n图6.1 2 拷贝下载好的Qt Creator 到Ubuntu",
+      "page_num": 29,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "6.1 Linux 安装Qt Creator"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 30,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "6.1 Linux 安装Qt Creator"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 30,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 30,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 30,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "赋予可执行权限，然后使用sudo 权限进行安装，用户最好也使用sudo 权限进行安装，默\n认会安装到系统指定目录。\n图6.1 3 执行安装Qt Creator\n若无意外，将弹出安装界面。\n图6.1 4 开始安装Qt Creator\n选择安装目录，默认即可，点击Next。\n图6.1 5 默认安装目录\n选择同意License，点击Next",
+      "page_num": 30,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 31,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 31,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 31,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 31,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "图6.1 6 同意License，点击Next\n点击install，开始安装。\n图6.1 7 开始安装\n安装过程较快，点击Finish。完成安装。\n图6.1 8 点击Finish，完成安装\n安装完成后，可以在左上角软件中心搜索栏，输入“qt”，搜索打开Qt Creator。单击打开\nQt Creator。",
+      "page_num": 31,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 32,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 32,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 32,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 32,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "图6.1 9 搜索软件栏，打开Qt Creator\n打开Qt Creator 界面如下。\n图6.1 10 打开Qt Creator 后的界面",
+      "page_num": 32,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "6.2 配置X86 平台的Qt Creator Kits",
+      "page_num": 32,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "6.2 配置X86 平台的Qt Creator Kits"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "Kits 这里指Qt Creator 里的编译套件。我们要为Qt Creator 配置X86 平台的编译套件，这\n样我们在使用Qt Creator 编写程序时可以方便在Ubuntu（X86）平台上调试及运行。\n打开Qt Creator 界面，找到Tools》Options。",
+      "page_num": 32,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "6.2 配置X86 平台的Qt Creator Kits"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 33,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "6.2 配置X86 平台的Qt Creator Kits"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 33,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 33,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 33,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "图6.2 1 打开选项\n添加qmake 的路径，按如下步骤，选择qmake 的路径，将第5.1 小节编译好的X86 平台的\nqmake 添加进来。（qmkae 的作用是生成Makefile，用于编译）\n图6.2 2 配置qmake\n配置Kits（套件），选择上一步配置好的Qt Versions。如下图步骤操作。",
+      "page_num": 33,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 34,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 34,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 34,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 34,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "图6.2 3 配置Kits",
+      "page_num": 34,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "6.3 验证X86 平台的Qt 运行",
+      "page_num": 34,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "6.3 验证X86 平台的Qt 运行"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "我们新建一个工程，验证Qt 在Ubuntu 平台的运行情况。按如下步骤新建工程，这些步骤\n和其他IDE 新建工程的步骤基本都一样。",
+      "page_num": 34,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "6.3 验证X86 平台的Qt 运行"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 35,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "6.3 验证X86 平台的Qt 运行"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 35,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 35,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 35,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "图6.3 1 新建工程\n选择Qt Gui 工程\n图6.3 2 选择Qt Cui 工程模板",
+      "page_num": 35,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 36,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 36,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 36,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 36,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "工程命名为test，选择工程的位置，这里位置不要随便选择，建议放在家目录下（/home/\n用户名）。\n图6.3 3 命名工程为test\n可以看到我们在第6.2 小节配置的名为Desktop 的Kits 已经生效，点击Next。\n图6.3 4 选择Destop 套件",
+      "page_num": 36,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 37,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 37,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 37,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 37,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "类的设置，默认让它继承QMainWindow 类，点击Next。\n图6.3 5 默认类的模板\n询问是否添加版本控制，我们不用版本管理，直接点击下一步。\n图6.3 6 完成工程的创建",
+      "page_num": 37,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 38,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 38,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 38,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 38,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "按如下图步骤编译工程，可以看到我们新建的工程能够运行在Ubuntu 平台上了。编译程序\n的运行的结果是一个空白窗口。\n图6.3 7 运行工程",
+      "page_num": 38,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 39,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 39,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 39,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 39,
+      "section_path": [
+        "第六章 搭建X86 Linux 平台 Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "第七章 搭建ARM 平台的Qt Creator 环境",
+      "page_num": 39,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "本章将手把手搭建ARM 平台的Qt Creator 环境。",
+      "page_num": 39,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 40,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 40,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 40,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 40,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "7.1 配置ARM 平台的Qt Creator Kits",
+      "page_num": 40,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "7.1 配置ARM 平台的Qt Creator Kits"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "和6.2 小节一样，我们只需要选择ARM 的qmake 及ARM 平台的编译器即可！\n打开Qt Creator 界面，找到Tools》Options。\n图7.1 1 打开选项（Options）\n配置qmake\n按下图步骤，找到我们第3.4 小节编译出来的ARM 平台的Qt 库安装文件夹arm-qt 下的q\nmake。\n图7.1 2 配置Arm 平台的qmake\n配置C++编译器\n我们在1.3 小节安装的C++编译器为arm-linux-gnueabihf-g++。按如下步骤配置，选择Co\nmpiler path 的路径为我们1.2 小节安装的交叉编译器路径/usr/local/arm/gcc-linaro-4.9.4-2017.01-\nx86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-g++。并在第13 步修改Name 为ARM-GCC。",
+      "page_num": 40,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "7.1 配置ARM 平台的Qt Creator Kits"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 41,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "7.1 配置ARM 平台的Qt Creator Kits"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 41,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 41,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 41,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "图7.1 3 配置C++编译器\n配置Kits\n按如下图步骤操作，在Name 处改名为Arm-Qt4.8.4。选择我们配置好的Compiler 和Qt V\nersion 即可。\n图7.1 4 配置Kits",
+      "page_num": 41,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "7.2 验证ARM 平台的Qt 编译",
+      "page_num": 41,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "7.2 验证ARM 平台的Qt 编译"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "注意，这里只能编译，不能点击运行，这里是编译出ARM 平台的Qt 应用程序，所以是不\n能在Ubuntu 这样的X86 平台上跑的。",
+      "page_num": 41,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "7.2 验证ARM 平台的Qt 编译"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 42,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "7.2 验证ARM 平台的Qt 编译"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 42,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 42,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 42,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "和6.3 小节一样，新建一个工程为test2，如下图，按步骤操作。\n图7.2 1 新建工程\n选择Qt Gui 工程。\n图7.2 2 选择Gui 模板",
+      "page_num": 42,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 43,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 43,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 43,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 43,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "工程命名为test2，选择工程的位置，这里位置不要随便选择，建议放在家目录下（/home/\n用户名）。\n图7.2 3 命名工程为test2\n选择套件，这里可以两个套件一起选，为了演示，我们只选择ARM 平台的套件，如下。\n图7.2 4 选择Arm 平台的套件\n默认，继续点击Next",
+      "page_num": 43,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 44,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 44,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 44,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 44,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "图7.2 5 默认工程模板，点击Next\n默认，点击Finish，完成。",
+      "page_num": 44,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 45,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 45,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 45,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 45,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "图7.2 6 创建工程完成\n按如下步骤点击Build（构建），不要点击运行！也不要点击左下角的绿色三角符号。编译完成\n如下图，编译输出窗口。\n图7.2 7 编译完成，注意不要点运行！\n我们可以在工程目录所在的同一级目录下，找到test2-build-Arm_Qt4_8_4-Debug 文件夹，\n找到编译可执行文件，拷贝test2 文件到4.1 小节开发板文件系统上执行即可！执行命令为./test\n-qws。",
+      "page_num": 45,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "table",
+      "content": "|  |  |\n| --- | --- |",
+      "page_num": 46,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "block_type": "title",
+      "content": "原子哥在线教学:www.yuanzige.com",
+      "page_num": 46,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "原子哥在线教学:www.yuanzige.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "论坛:www.openedv.com",
+      "page_num": 46,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "论坛:www.openedv.com"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "I.MX6U 移植Qt4.8.4",
+      "page_num": 46,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "text",
+      "content": "图7.2 8 Arm 平台下的可执行文件test2\n至此，已经完成关于Qt4.8.4 的移植及Qt Creator 环境搭建。",
+      "page_num": 46,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "I.MX6U 移植Qt4.8.4"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    },
+    {
+      "block_type": "title",
+      "content": "附录-A",
+      "page_num": 46,
+      "section_path": [
+        "第七章 搭建ARM 平台的Qt Creator 环境",
+        "原子哥在线教学:www.yuanzige.com",
+        "论坛:www.openedv.com",
+        "附录-A"
+      ],
+      "is_ocr": false,
+      "raw_table": null
+    }
+  ]
+}
