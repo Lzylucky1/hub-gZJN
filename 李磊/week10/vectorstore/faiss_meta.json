@@ -1,0 +1,520 @@
+[
+  {
+    "chunk_id": "DAY1_00000",
+    "content": "|  |\n| --- |\n| MML_DAY1\u0001 关键组件\u0001 1.\u0001数据\u0001 • 定义：机器学习的“原料”，由⼀个个样本组成。每个样本包含描述属性的特征（必须），以及模 型需要预测的标签（可选，视学习类型⽽定）。\u0001 • 深度学习：相⽐传统⽅法需要固定⻓度的特征向量，深度学习的⼀⼤优势是能够处理变⻓数据（如 不同⻓度的⽂本、不同尺⼨的图像），且通常需要海量数据才能发挥效能。\u0001 • 关键点：数据的质量⾄关重要。若数据包含错误、不均衡或社会偏⻅，会导致模型⽆效或产⽣偏 ⻅。\u0001 2.\u0001模型\u0001 • 定义：负责将输⼊数据转换为输出结果的计算机制或数学函数。\u0001 • 深度学习：特指由多层神经⽹络错综复杂地交织在⼀起的模型。它通过层层数据转换，能够捕捉传 统⽅法⽆法处理的复杂特征。\u0001 • 关键点：模型是机器学习的核⼼主体，其复杂程度决定了能解决问题的难度上限。\u0001 3.\u0001⽬标函数\u0001 • 定义：⽤于量化模型优劣的指标，通常被称为损失函数，⽬标是通过算法将其优化到最⼩值。\u0001 • 深度学习：在深度学习训练中，这是指导神经⽹络参数调整的唯⼀“指挥棒”。\u0001 • 关键点：\u0001 |",
+    "day": "DAY1",
+    "page_num": 1,
+    "section": "",
+    "block_types": [
+      "table"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "MML_DAY1.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "DAY1_00001",
+    "content": "1. 数据​\n\n定义：机器学习的“原料”，由一个个样本组成。每个样本包含描述属性的特征（必须），以及模\n型需要预测的标签（可选，视学习类型而定）。​\n深度学习：相比传统方法需要固定长度的特征向量，深度学习的一大优势是能够处理变长数据（如\n不同长度的文本、不同尺寸的图像），且通常需要海量数据才能发挥效能。​\n关键点：数据的质量至关重要。若数据包含错误、不均衡或社会偏见，会导致模型无效或产生偏\n见。​",
+    "day": "DAY1",
+    "page_num": 1,
+    "section": "MML_DAY1​ > 关键组件​ > 1. 数据​",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "MML_DAY1.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "DAY1_00002",
+    "content": "2. 模型​\n\n定义：负责将输入数据转换为输出结果的计算机制或数学函数。​\n深度学习：特指由多层神经网络错综复杂地交织在一起的模型。它通过层层数据转换，能够捕捉传\n统方法无法处理的复杂特征。​\n关键点：模型是机器学习的核心主体，其复杂程度决定了能解决问题的难度上限。​",
+    "day": "DAY1",
+    "page_num": 1,
+    "section": "MML_DAY1​ > 关键组件​ > 1. 数据​ > 2. 模型​",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "MML_DAY1.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "DAY1_00003",
+    "content": "4. 优化算法​\n\n定义：用于搜索最佳模型参数，以最小化目标函数的具体计算方法。​\n深度学习：绝大多数深度学习模型都基于梯度下降 (Gradient Descent) 及其变体算法。​\n关键点：它是一个迭代过程，通过不断计算损失函数下降的方向，一步步微调参数，直到找到最优\n解。​",
+    "day": "DAY1",
+    "page_num": 2,
+    "section": "MML_DAY1​ > 关键组件​ > 1. 数据​ > 4. 优化算法​",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "MML_DAY1.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "DAY1_00004",
+    "content": "分类​\n\n监督学习​\n核心：利用“特征-标签”对进行训练，学习从输入到输出的映射。​\n回归：预测连续的数值（如：房价、降雨量）。​\n分类 ：预测离散的类别（如：猫/狗、手写数字）。​\n标记问题 ：多标签分类，类别不互斥（如：文章的多个标签）。​\n搜索与推荐：预测排序或偏好分数（如：网页排名、商品推荐）。​\n序列学习：输入或输出是变长的序列（如：机器翻译、语音识别）。​\n无监督学习​\n核心：只有特征没有标签，旨在发现数据内在的结构或模式。​\n聚类：自动分组相似数据（如：用户分群）。​\n主成分分析 (PCA)：数据降维与压缩，捕捉核心属性。​\n因果关系与图模型：发现变量间的逻辑或概率关系。​\n生成对抗网络 (GANs)：学习数据分布以生成新的合成数据。​\n自监督学习​\n核心：介于监督与无监督之间。利用海量无标签数据，通过破坏数据 →→ 预测还原（如掩码、加\n噪）的方式构造伪标签进行训练。​\n作用：学习数据的底层表征和规律（语法、结构）。​\n应用：作为大模型（如ChatGPT、BERT）的预训练阶段，或用于生成式模型（如Diffusion）。​\n强化学习​\n核心：智能体（Agent）在与环境的交互中学习。​\n\n机制：观察状态 →→ 执行动作 →→ 获得奖励/惩罚。​\n目标：学习一个策略（Policy），以最大化长期的累积奖励（如：下围棋、机器人控制）。​",
+    "day": "DAY1",
+    "page_num": 2,
+    "section": "MML_DAY1​ > 关键组件​ > 1. 数据​ > 分类​",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "MML_DAY1.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "DAY1_00005",
+    "content": "梯度向量​\n\n求导：对于每个参数， 如果我们把这个参数增加或减少一个无穷小的量，可以知道损失会以多快的速\n度增加或减少。如果​\n在一个区间内的每个数上都是可微的，则此函数在此区间中是可微(可导)的。​\nf (x) =\nh→0\nlim\nf(x + h) −f(x)\n偏导数：在深度学习中，函数通常依赖于许多变量。 因此，我们需要将微分的思想推广到多元函数\n上。设​\n是一个具有n个变量的函数。 ​\n关于第​\n个参数​\n的偏导数为，此时\n将其他变量视为常量。​\ny = f(x\n​, x\n​, … , x\n​)\n​i\n​ =\n∂x\n​i\n∂y\nh→0\nlim\nf(x , … , x\n​, x\n​ + h, x\n​, … , x\n​) −f(x\n​, … , x\n​, … , x\n​)\ni−1\ni+1\n梯度：对一个多元函数的每一个变量求偏导数，可得到一个向量(梯度)：​",
+    "day": "DAY1",
+    "page_num": 3,
+    "section": "MML_DAY1​ > 关键组件​ > 1. 数据​ > 梯度向量​",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "MML_DAY1.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "DAY1_00006",
+    "content": "链式法则​\n\n用于计算复合函数（即函数套函数）的导数。核心是将复杂的求导分解为多个简单求导的乘积\n（就像传话游戏，一层层传导）。​\n假设 ​\n且​\n，则：​\ny = f(u)\nu = g(x)\n​ =\ndx\ndy\n​ ⋅\ndu\ndy\ndx\ndu\n举例：​\n求 ​\n的导数。​\ny = (3x)2",
+    "day": "DAY1",
+    "page_num": 3,
+    "section": "MML_DAY1​ > 关键组件​ > 1. 数据​ > 链式法则​",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "MML_DAY1.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "DAY1_00007",
+    "content": "| 反向传播\u0001 如下图所⽰，这个是⼀个两层的⽹络，其中保证\u0001h ,h 的激活函数和\u0001y 损失函数都是可微的，并 1 2 且损失函数有极⼩值。反向传播过程：\u0001 • 使⽤链式法则求得梯度，最终输出(损失函数y)和权重的导数，其中\u0001b 是偏置\u0001 ∂y ∂y ∂y ∂y ∂y ∂y ∂y \u0001 , , , , , , ,\u0001 ∂w ∂w ∂w ∂w ∂w ∂w ∂b 1 2 3 4 5 6 • 确定学习率\u0001R\u0001 • 更新每个参数，使得损失函数往变得更⼩。假设y对w的导数为正，那么w变⼩y变⼩，所以应该减 去正值。反之应该减去⼀个负值，所以求导的结果的正负号，指明了权重变化⽅向。调整的步⻓由 学习率和优化器决定。\u0001 ∂y w = w − ∗R 1,new 1,old ∂w 1 ∂y w = w − ∗R 2,new 2,old \u0001 ∂w \u0001 2 ∂y w = w − ∗R 3,new 3,old ∂w 3 ... |\n| --- |\n|  |",
+    "day": "DAY1",
+    "page_num": 4,
+    "section": "MML_DAY1​ > 关键组件​ > 1. 数据​ > 4. 还原：将 ​",
+    "block_types": [
+      "table"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "MML_DAY1.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "DAY1_00008",
+    "content": "反向传播​\n\n如下图所示，这个是一个两层的网络，其中保证​\n的激活函数和​\n损失函数都是可微的，并\n且损失函数有极小值。反向传播过程：​\n​, h\n使用链式法则求得梯度，最终输出(损失函数y)和权重的导数，其中​\n是偏置​\n​,\n​,\n​,\n​,\n​,\n​,\n∂w1\n∂y\n∂w\n​2\n∂y\n∂w\n​3\n∂y\n∂w\n​4\n∂y\n∂w\n​5\n∂y\n∂w\n​6\n∂y\n∂b\n∂y\n确定学习率​\n更新每个参数，使得损失函数往变得更小。假设y对w的导数为正，那么w变小y变小，所以应该减\n去正值。反之应该减去一个负值，所以求导的结果的正负号，指明了权重变化方向。调整的步长由\n学习率和优化器决定。​\n​ =\n1,new\n​ −\n1,old\n​ ∗\n∂w\n​1\n∂y\n​ =\n2,new\n​ −\n2,old\n​ ∗\n∂w\n​2\n∂y\n​ =\n3,new\n​ −\n3,old\n​ ∗\n∂w\n​3\n∂y\n...",
+    "day": "DAY1",
+    "page_num": 4,
+    "section": "MML_DAY1​ > 关键组件​ > 1. 数据​ > 反向传播​",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "MML_DAY1.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "DAY2_00000",
+    "content": "线性代数基础概念​\n\n标量：一个单独的值​\n向量：一列数，可以在多维空间中表示一个点，带方向，从零点指向该点​\n向量基本运算：​\nA + B = B + A\nA ∗B = B ∗A\ncos θ =\n∣A∣⋅∣B∣\nA ∗B\n矩阵：一组二维数据，通常使用​\n表示n行m列​\nn ∗m\n矩阵常用计算：​\nA ∗(B + C) = A ∗B + A ∗C\nA ∗(B ∗C) = (A ∗B) ∗C\nA (转置，行列互换)\n张量：多维矩阵，通常使用​\n表示张量的维度，深度学习中数据基本都是以张量的形式\n存在，本质计算还是矩阵运算。​\n​ ∗\n​ ∗\n​ ∗\n...",
+    "day": "DAY2",
+    "page_num": 1,
+    "section": "MML_DAY2​ > 深度学习基本原理​ > 线性代数基础概念​",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "MML_DAY2.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "DAY2_00001",
+    "content": "深度学习训练框架​\n\n模型结构：相当于确定公式，根据合适的问题合适的公式，例如：线性公式永远不可能完美拟合非线\n性数据​\n模型初始化：初始化参数有助于加速模型迭代，避免陷入局部最优解​\n前向推理：输入训练样本X推导得到y​\n损失函数：衡量​\n和​\n的差距的公式，必须具有：可微，存在最小值等属性。​\n梯度下降：通过链式法则计算损失函数和各个参数的导数，在通过学习率和优化器计算迭代步长，更\n新模型权重，使得损失函数值变小的过程。​\npred\n梯度爆炸：通常指训练过程中，权重更新步长过大，导致损失函数不减反增。进一步导致更新步长变\n的更大，模型参数不断恶化的过程。​\n\n梯度消失：通常指训练过程中，梯度步长几乎为0的情况，但是损失函数和模型准召率不足的情况，可\n能陷入局部最优解的情况。​\n注意：Epoch，Batch，Step的关系。​\nEpoch：整个训练集完整过一遍，完成训练需要训练Epoch次​\nBatch：描述样本，一次送入模型的一批样本​\nStep：描述动作，处理一个 batch 并进行一次参数更新​",
+    "day": "DAY2",
+    "page_num": 1,
+    "section": "MML_DAY2​ > 深度学习基本原理​ > 线性代数基础概念​ > 深度学习训练框架​",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "MML_DAY2.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "DAY2_00002",
+    "content": "激活函数​\n\n激活函数：全连接层单元输入和输出的变化，目的是为整个网络引入非线性变化，更好的拟合数\n据。只用线性变换，无论叠加多少层，最终的数学表达式都可以化简为 ​\n相当于多层网络失去了意义。激活层一般没有学习参数。​\ny = Wx + by = Wx + b",
+    "day": "DAY2",
+    "page_num": 3,
+    "section": "MML_DAY2​ > 深度学习基本原理​ > 线性代数基础概念​ > 激活函数​",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "MML_DAY2.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "DAY2_00003",
+    "content": "Gelu​\n\n公式：​\nGELU(x) = 0.5 ⋅x ⋅\n1 + tanh\n​ ⋅(x + 0.044715 ⋅x )\n3 ))\n特点： 在负值区域有非零的平滑过渡，而非直接置零。在 Transformer 架构（如 BERT、GPT 等）中\n广泛使用。​",
+    "day": "DAY2",
+    "page_num": 4,
+    "section": "MML_DAY2​ > 深度学习基本原理​ > 线性代数基础概念​ > Gelu​",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "MML_DAY2.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "DAY2_00004",
+    "content": "均方差​\n\n公式：有两种，求平均和求和。​\nℓ(x, y) =\n​(x\n​ −\nn=1\n​) , reduction =\nn 2\nmean时\nℓ(x, y) =\n​(x\n​ −\nn=1\n​) , reduction =\nn 2\nsum时\n特点：常用于归回任务(最终结果是概率)​",
+    "day": "DAY2",
+    "page_num": 5,
+    "section": "MML_DAY2​ > 深度学习基本原理​ > 线性代数基础概念​ > 均方差​",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "MML_DAY2.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "DAY2_00005",
+    "content": "交叉熵​\n\n公式：​\nH(p, q) = −\n​p(x) log q(x)\n特点：适用在多分类任务中，通常x需要通过softmax归一化到[0,1]之间。​\n例子：​\n，则有​\nx = [0.5, 0.4, 0.1], p(x) = [1, 0, 0]\nH(p = [1, 0, 0], q = [0.5, 0.4, 0.1])\n= −(1 ⋅log(0.5) + 0 ⋅log(0.4) + 0 ⋅log(0.1))\n= −log(0.5)\nH(p, q) = −log(x\n​), 其中p\n​ =\n1时\n如下图所示蓝线，当​\n时​\n，意味着目标类型的概率越低，损失函数指数级增\n大，​\n。​\nx ∈(0, 1]\nH ∈(+∞，0]\nx = 1时，H = 0",
+    "day": "DAY2",
+    "page_num": 5,
+    "section": "MML_DAY2​ > 深度学习基本原理​ > 线性代数基础概念​ > 交叉熵​",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "MML_DAY2.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "DAY2_00006",
+    "content": "CrossEntropyLoss​\n\n公式：​\n\nH(p, q) = −\n​[p(x) log q(x) +\n(1 −p(x)) log(1 −q(x))]\n特点：用于多标签分类任务中，就是在交叉熵的基础上增加了对0概率目标的乘法。​",
+    "day": "DAY2",
+    "page_num": 5,
+    "section": "MML_DAY2​ > 深度学习基本原理​ > 线性代数基础概念​ > CrossEntropyLoss​",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "MML_DAY2.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "DAY2_00007",
+    "content": "神经网络架构​\n\n如下所示，一般由输入+若干层隐藏层+输出层组成。​\n输入:张量​\n隐藏层：线性/仿射变换 + 非线性激活函数​\n输出：：线性/仿射变换 +（可选）输出激活函数，之后接损失函数​\n网络层数更深(更重要)：通过多层逐级组合低级特征，能表示更抽象、更复杂的层次化特征。​\n网络更宽：神经元数量更多空间更大，可容纳更多不同特征/模式，能同时学习更多种特征。​",
+    "day": "DAY2",
+    "page_num": 6,
+    "section": "MML_DAY2​ > 深度学习基本原理​ > 线性代数基础概念​ > 神经网络架构​",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "MML_DAY2.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "DAY2_00008",
+    "content": "|  |\n| --- |\n| 学习率选择策略\u0001 • 阶梯衰减：按固定周期把学习率突然降⼀档，例如：每epoch，将学习率乘以0.1。\u0001 ◦ 优点：是简单稳定、易调参\u0001 ◦ 缺点：是不够平滑，降得太早或太晚都可能影响效果。\u0001 • 余弦退⽕：让学习率按余弦曲线从\u0001n 平滑下降到\u0001\u0001n ，若采⽤重启机制则会周期性回升到较 max min ⼤学习率。\u0001 ◦ 优点：下降平滑，后期收敛通常更稳定。\u0001 ◦ 缺点：周期等参数需要设置，不合适会影响训练节奏。\u0001\u0001\u0001 • 热⾝(可以结合其它策略)：在训练开始时先⽤较⼩学习率，再逐步增⼤到⽬标学习率。\u0001 ◦ 优点：能缓解训练初期不稳定，减少梯度爆炸⻛险。\u0001 ◦ 缺点：会增加前期训练时间\u0001 Dim维度判断技巧\u0001 针对⼀个(B,H,W)的张量，分别对dim={0,1,2}进⾏softmax：\u0001 • dim=0,对应B，那么固定H和W,例如(n,0,0)\u0001 • 在(n,0,0)维度中，n取0~B，⼀共B个数，对这B个数进⾏softmax\u0001 • 依次变化H和W维度，重复上述，计算完成。\u0001 |\n| 代码块\u0001 1 x.shape = (2, 3, 2) 2 x = torch.tensor([ 3 [[1.0, 8.0], 4 [3.0, 4.0], 5 [5.0, 6.0]], 6 7 [[2.0, 1.0], 8 [4.0, 3.0], 9 [6.0, 5.0]] 10 ]) 11 |\n| 1 1 |",
+    "day": "DAY2",
+    "page_num": 7,
+    "section": "MML_DAY2​ > 深度学习基本原理​ > 线性代数基础概念​ > ◦特点：居中​",
+    "block_types": [
+      "table"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "MML_DAY2.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "DAY2_00009",
+    "content": "Dim维度判断技巧​\n\n针对一个(B,H,W)的张量，分别对dim={0,1,2}进行softmax：​\ndim=0,对应B，那么固定H和W,例如(n,0,0)​\n在(n,0,0)维度中，n取0~B，一共B个数，对这B个数进行softmax​\n依次变化H和W维度，重复上述，计算完成。​\n代码块​\nx.shape = (2, 3, 2)​\nx = torch.tensor([​\n[[1.0, 8.0],​\n[3.0, 4.0],​\n[5.0, 6.0]],​\n[[2.0, 1.0],​\n[4.0, 3.0],​\n[6.0, 5.0]]​\n])​",
+    "day": "DAY2",
+    "page_num": 7,
+    "section": "MML_DAY2​ > 深度学习基本原理​ > 线性代数基础概念​ > Dim维度判断技巧​",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "MML_DAY2.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "DAY2_00010",
+    "content": "| 1 1 1 1 1 1 1 1 2 2 2 2 | 2 1.针对dim=0,固定 (h, w)，例如:位置 (h=0, w=0),两个batch的值是：[1,2] 3 2.softmax([1,2])=[0.269,0.731] 4 3.重复以上，可得： 5 tensor([ 6 [[0.2689, 0.9991], 7 [0.2689, 0.7311], 8 [0.2689, 0.7311]], 9 0 [[0.7311, 0.0009], 1 [0.7311, 0.2689], 2 [0.7311, 0.2689]] 3 ]) |\n| --- | --- |\n|  |  |\n|  |  |",
+    "day": "DAY2",
+    "page_num": 8,
+    "section": "MML_DAY2​ > 深度学习基本原理​ > 线性代数基础概念​ > Dim维度判断技巧​",
+    "block_types": [
+      "table"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "MML_DAY2.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "DAY2_00011",
+    "content": "1.针对dim=0,固定 (h, w)，例如:位置 (h=0, w=0),两个batch的值是：[1,2]​\n2.softmax([1,2])=[0.269,0.731]​\n3.重复以上，可得：​\ntensor([​\n[[0.2689, 0.9991],​\n[0.2689, 0.7311],​\n[0.2689, 0.7311]],​\n[[0.7311, 0.0009],​\n[0.7311, 0.2689],​\n[0.7311, 0.2689]]​\n])​",
+    "day": "DAY2",
+    "page_num": 8,
+    "section": "MML_DAY2​ > 深度学习基本原理​ > 线性代数基础概念​ > Dim维度判断技巧​",
+    "block_types": [
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "MML_DAY2.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "DAY3_00000",
+    "content": "Embedding​\n\n概念：一种将文字映射为向量的组件，一般是固定映射的维度(列数)，根据字数确定行数。优点：\n有无限组合，解决维度灾难；可以表达字之间的距离关系。​\nEmbedding关键参数：​",
+    "day": "DAY3",
+    "page_num": 1,
+    "section": "MML_DAY3​ > 深度学习常用组件​ > ADAM优化器​ > Embedding​",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "MML_DAY3.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "DAY3_00001",
+    "content": "◦输出：(batch, seq_len, hidden_size），(1, batch, hidden_size）​\n\n双向传播：训练两个RNN/LSTM，分别以不同的顺序输入，得到双分的输出：(batch, seq_len,\nhidden_size*2），(2, batch, hidden_size）​",
+    "day": "DAY3",
+    "page_num": 5,
+    "section": "MML_DAY3​ > 深度学习常用组件​ > ADAM优化器​ > ◦输出：(batch, seq_len, hidden_size），(1, batch, hidden_size）​",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "MML_DAY3.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "DAY3_00002",
+    "content": "|  |\n| --- |\n|  |",
+    "day": "DAY3",
+    "page_num": 7,
+    "section": "MML_DAY3​ > 深度学习常用组件​ > ADAM优化器​ > Dropout​",
+    "block_types": [
+      "table"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "MML_DAY3.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "DAY4_00000",
+    "content": "▪因为有时候会出现没有见过的组合，这个时候预测结果为0，为避免这种情况，会使用拉普\n\n拉斯平滑：计算概率时，为每个词计数+1，\nP (w\n​∣ctx) =\n(C(ctx, w\n​) +\n1)/(C(ctx) + V )\n：该情况出现的次数​\n：语料库词数量​\n模型特点​",
+    "day": "DAY4",
+    "page_num": 1,
+    "section": "MML_DAY4​ > 语言模型发展史​ > N-gram模型​ > ▪因为有时候会出现没有见过的组合，这个时候预测结果为0，为避免这种情况，会使用拉普",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "MML_DAY4.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "DAY4_00001",
+    "content": "▪计算困惑度：​\n\n，因为多次相乘概率过\n低不利于比较​\nPPL = exp\n​log P w\n​ ∣w\n​, … , w\ni=1\ni−1))\n困惑度越低，表示成句概率越高​\n困惑度只有在：同一模型，同一长度比较时才有意义​\n模型特点​",
+    "day": "DAY4",
+    "page_num": 2,
+    "section": "MML_DAY4​ > 语言模型发展史​ > N-gram模型​ > ▪计算困惑度：​",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "MML_DAY4.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "DAY4_00002",
+    "content": "| 我 |\n| --- |\n|  |",
+    "day": "DAY4",
+    "page_num": 5,
+    "section": "MML_DAY4​ > 语言模型发展史​ > N-gram模型​ > ▪全连接层，{L,d_model}*{d_model,d_model}={L,d_model}={128,768}​",
+    "block_types": [
+      "table"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "MML_DAY4.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "DAY4_00003",
+    "content": "| 我 |\n| --- |\n|  |",
+    "day": "DAY4",
+    "page_num": 5,
+    "section": "MML_DAY4​ > 语言模型发展史​ > N-gram模型​ > ▪全连接层，{L,d_model}*{d_model,d_model}={L,d_model}={128,768}​",
+    "block_types": [
+      "table"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "MML_DAY4.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "DAY4_00004",
+    "content": "▪多头的含义：表示提取不同的词关系特征，比如：主谓宾，指代关系等。头相当于\n\nchannel。​\n:计算\"当前词应该关注哪些词\"的权重，如下所示。​\nQ ∗KT\n:V 表示每个词携带的内容信息；用这些权重对 V 加权求和后，得到的就是当前\n词在这个注意力头下聚合到的内容特征​\nQ ∗K",
+    "day": "DAY4",
+    "page_num": 5,
+    "section": "MML_DAY4​ > 语言模型发展史​ > N-gram模型​ > ▪多头的含义：表示提取不同的词关系特征，比如：主谓宾，指代关系等。头相当于",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "MML_DAY4.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "DAY4_00005",
+    "content": "▪例如：​\n\n假设当前头关注的是主谓关系​\n：计算我和其它词的关联度A={0.08,0.25,0.52,0.1,0.05}，我和\n爱是主谓关系所以权重最高​\nsoftmax(\n​)\n​k\nQ ∗KT\n\n：{1,5}*{5,d_model}->N={1,d_model}，V表示词内容，因为爱权重最高所以N\n从爱中获取的内容占比会最多。​\nA ∗V\nN表示当前句子中，主谓关系中，我这个词的上下文表示。​",
+    "day": "DAY4",
+    "page_num": 5,
+    "section": "MML_DAY4​ > 语言模型发展史​ > N-gram模型​ > ▪例如：​",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "MML_DAY4.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "DAY4_00006",
+    "content": "|  |\n| --- |\n|  |",
+    "day": "DAY4",
+    "page_num": 7,
+    "section": "MML_DAY4​ > 语言模型发展史​ > N-gram模型​ > ◦前馈网络：增加可训练参数​",
+    "block_types": [
+      "table"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "MML_DAY4.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "DAY5_00000",
+    "content": "LLM特点​\n\nIn-Context Learning(ICL)：​\n概念：模型无需更新任何权重，仅凭 Prompt 中提供的若干示例，就能学会完成全新任务。​\n案例：如下所示，通过在prompt中添加案例，即可优化输出结果。​\n对比传统npl优势：传统nlp是专用模型，泛化能力差，一个模型针对一个任务，不同任务需要重新\n训练模型。LLM通过修改prompt就能完成不同任务，具有决定性优势。​\n\n思维链 Chain-of-Thought(COT):​\n概念：在 Prompt 中提供带有中间推理步骤的示例，引导模型展示完整的推理过程，而不是直接跳\n到最终答案，有助于提升模型效果。​\n案例：如下所示​\nScaling Law​\n概念：语言模型的性能与参数量、训练数据量、计算量之间存在稳定的幂律关系——三者增加，性\n能可预测地提升。​\n特点：随着模型参数，训练数据，训练时使用的算力(训练轮次)越大，模型能力越强。当然有边\n界，同时也取决于模型结构是否合理。​\n特点：同时例如ICL和COT等能力，也是在模型参数达到一定规模后才能出现，在小模型上几乎不\n存在。​",
+    "day": "DAY5",
+    "page_num": 4,
+    "section": "MML_DAY5​ > Attention Mask​ > ◦encoder：没有mask，token可以和任意位置的词计算注意力​ > LLM特点​",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "MML_DAY5.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "DAY5_00001",
+    "content": "|  |\n| --- |\n|  |",
+    "day": "DAY5",
+    "page_num": 6,
+    "section": "MML_DAY5​ > Attention Mask​ > ◦encoder：没有mask，token可以和任意位置的词计算注意力​ > LLM特点​",
+    "block_types": [
+      "table"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "MML_DAY5.json",
+    "parent_content": "",
+    "parent_id": ""
+  }
+]

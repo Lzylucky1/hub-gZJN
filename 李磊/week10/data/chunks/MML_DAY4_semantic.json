@@ -1,0 +1,111 @@
+[
+  {
+    "content": "▪因为有时候会出现没有见过的组合，这个时候预测结果为0，为避免这种情况，会使用拉普\n\n拉斯平滑：计算概率时，为每个词计数+1，\nP (w\n​∣ctx) =\n(C(ctx, w\n​) +\n1)/(C(ctx) + V )\n：该情况出现的次数​\n：语料库词数量​\n模型特点​",
+    "metadata": {
+      "page_num": 1,
+      "section": "MML_DAY4​ > 语言模型发展史​ > N-gram模型​ > ▪因为有时候会出现没有见过的组合，这个时候预测结果为0，为避免这种情况，会使用拉普",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "day": "DAY4",
+      "strategy": "semantic",
+      "source_file": "MML_DAY4.json"
+    },
+    "chunk_id": "DAY4_00000"
+  },
+  {
+    "content": "▪计算困惑度：​\n\n，因为多次相乘概率过\n低不利于比较​\nPPL = exp\n​log P w\n​ ∣w\n​, … , w\ni=1\ni−1))\n困惑度越低，表示成句概率越高​\n困惑度只有在：同一模型，同一长度比较时才有意义​\n模型特点​",
+    "metadata": {
+      "page_num": 2,
+      "section": "MML_DAY4​ > 语言模型发展史​ > N-gram模型​ > ▪计算困惑度：​",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "day": "DAY4",
+      "strategy": "semantic",
+      "source_file": "MML_DAY4.json"
+    },
+    "chunk_id": "DAY4_00001"
+  },
+  {
+    "content": "| 我 |\n| --- |\n|  |",
+    "metadata": {
+      "page_num": 5,
+      "section": "MML_DAY4​ > 语言模型发展史​ > N-gram模型​ > ▪全连接层，{L,d_model}*{d_model,d_model}={L,d_model}={128,768}​",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "day": "DAY4",
+      "strategy": "semantic",
+      "source_file": "MML_DAY4.json"
+    },
+    "chunk_id": "DAY4_00002"
+  },
+  {
+    "content": "| 我 |\n| --- |\n|  |",
+    "metadata": {
+      "page_num": 5,
+      "section": "MML_DAY4​ > 语言模型发展史​ > N-gram模型​ > ▪全连接层，{L,d_model}*{d_model,d_model}={L,d_model}={128,768}​",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "day": "DAY4",
+      "strategy": "semantic",
+      "source_file": "MML_DAY4.json"
+    },
+    "chunk_id": "DAY4_00003"
+  },
+  {
+    "content": "▪多头的含义：表示提取不同的词关系特征，比如：主谓宾，指代关系等。头相当于\n\nchannel。​\n:计算\"当前词应该关注哪些词\"的权重，如下所示。​\nQ ∗KT\n:V 表示每个词携带的内容信息；用这些权重对 V 加权求和后，得到的就是当前\n词在这个注意力头下聚合到的内容特征​\nQ ∗K",
+    "metadata": {
+      "page_num": 5,
+      "section": "MML_DAY4​ > 语言模型发展史​ > N-gram模型​ > ▪多头的含义：表示提取不同的词关系特征，比如：主谓宾，指代关系等。头相当于",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "day": "DAY4",
+      "strategy": "semantic",
+      "source_file": "MML_DAY4.json"
+    },
+    "chunk_id": "DAY4_00004"
+  },
+  {
+    "content": "▪例如：​\n\n假设当前头关注的是主谓关系​\n：计算我和其它词的关联度A={0.08,0.25,0.52,0.1,0.05}，我和\n爱是主谓关系所以权重最高​\nsoftmax(\n​)\n​k\nQ ∗KT\n\n：{1,5}*{5,d_model}->N={1,d_model}，V表示词内容，因为爱权重最高所以N\n从爱中获取的内容占比会最多。​\nA ∗V\nN表示当前句子中，主谓关系中，我这个词的上下文表示。​",
+    "metadata": {
+      "page_num": 5,
+      "section": "MML_DAY4​ > 语言模型发展史​ > N-gram模型​ > ▪例如：​",
+      "block_types": [
+        "title",
+        "text"
+      ],
+      "is_ocr": false,
+      "day": "DAY4",
+      "strategy": "semantic",
+      "source_file": "MML_DAY4.json"
+    },
+    "chunk_id": "DAY4_00005"
+  },
+  {
+    "content": "|  |\n| --- |\n|  |",
+    "metadata": {
+      "page_num": 7,
+      "section": "MML_DAY4​ > 语言模型发展史​ > N-gram模型​ > ◦前馈网络：增加可训练参数​",
+      "block_types": [
+        "table"
+      ],
+      "is_ocr": false,
+      "day": "DAY4",
+      "strategy": "semantic",
+      "source_file": "MML_DAY4.json"
+    },
+    "chunk_id": "DAY4_00006"
+  }
+]
