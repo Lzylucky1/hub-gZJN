@@ -1,3 +1,20 @@
+"""
+weather_backend.py — 天气查询后端（三种方式共享的业务逻辑）
+
+教学重点：
+  1. 同样是"纯业务逻辑"，与 rag_backend 平级，被三种方式复用
+  2. 内部两次 HTTP 请求：Geocoding（城市名→经纬度）+ 天气查询
+  3. 错误处理返回可读字符串而非抛异常，方便 LLM 直接消费
+
+使用方式（作为模块）：
+  from src.weather_backend import get_weather
+  print(get_weather("宁德"))
+
+依赖：
+  pip install httpx
+  Open-Meteo API 完全免费，无需注册
+"""
+
 import httpx
 
 GEOCODING_URL = "https://geocoding-api.open-meteo.com/v1/search"
@@ -82,6 +99,24 @@ def get_positioning(city: str) -> str:
         admin1 = loc.get("admin1", "")  # 省/州级行政区
 
         return lat, lon, city_name, country, admin1
+
+
+def get_positioning_str(city: str) -> str:
+    """
+    查询指定城市的位置信息（经纬度、行政区）。
+    
+    Args:
+        city: 城市名称，支持中文，例如 "宁德"、"北京"、"上海"
+    
+    Returns:
+        包含城市位置信息的格式化字符串
+    """
+    result = get_positioning(city)
+    if isinstance(result, str):  # 错误信息
+        return result
+    lat, lon, city_name, country, admin1 = result
+    location_str = f"{country} {admin1} {city_name}".strip()
+    return f"【{location_str}】位置信息\n坐标：{lat:.2f}°N, {lon:.2f}°E"
 
 
 # 天气查询 （Geocoding -> 天气API -> 格式化）
