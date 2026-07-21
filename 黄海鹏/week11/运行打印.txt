@@ -1,0 +1,302 @@
+/opt/miniconda3/envs/py312/bin/python mode_function_call/run_function_call.py -q "宁德的天气如何？"
+[rag_backend] 就绪：10353 个向量，10353 条元数据
+[Function Call] provider=deepseek model=deepseek-chat
+
+============================================================
+Q1：宁德的天气如何？
+============================================================
+  → [tool] get_city_weather({'city': '宁德'})
+    ↩ 【中国 福建省 宁德市】天气报告 坐标：26.66°N, 119.52°E  当前天气：晴天   温度：36.3°C   相对湿度：51%   风速：7.2 km/h  未来3天预报：   2026-07-16：中毛毛雨，36.7°C / ...
+
+  → [llm] 最终回答（5.1s）
+
+最终回答：
+以下是宁德市当前的天气情况：
+
+📍 **宁德市（福建省）**
+- **坐标**：26.66°N, 119.52°E
+
+**☀️ 当前天气：晴天**
+- 温度：**36.3°C**
+- 相对湿度：51%
+- 风速：7.2 km/h
+
+**📅 未来3天预报：**
+
+| 日期 | 天气 | 温度范围 | 降水量 |
+|:---:|:---:|:---:|:---:|
+| 7月16日 | 🌦 中毛毛雨 | 26.7°C ~ 36.7°C | 1.1 mm |
+| 7月17日 | 🌦 小毛毛雨 | 26.7°C ~ 37.2°C | 0.4 mm |
+| 7月18日 | ⛈ 雷暴伴小冰雹 | 26.9°C ~ 33.7°C | 8.9 mm |
+
+目前宁德天气晴朗炎热，不过未来几天将有降雨，出行请注意携带雨具哦！
+
+(py312) imac@bogon function_call_mcp_cli % /opt/miniconda3/envs/py312/bin/python mode_function_call/run_function_call.py -q "宁德在哪个城市？经纬度是多少？"
+[rag_backend] 就绪：10353 个向量，10353 条元数据
+[Function Call] provider=deepseek model=deepseek-chat
+
+============================================================
+Q1：宁德在哪个城市？经纬度是多少？
+============================================================
+  → [tool] get_city_position({'city': '宁德'})
+    ↩ 【中国 福建省 宁德市】位置信息 坐标：26.66°N, 119.52°E
+
+  → [llm] 最终回答（4.2s）
+
+最终回答：
+宁德是中国 **福建省** 下辖的一个地级市，其具体位置信息如下：
+
+- **所在省份**：福建省
+- **城市**：宁德市
+- **经纬度**：**北纬 26.66°**，**东经 119.52°**
+
+宁德市位于福建省东北部，东临东海，是一座沿海城市，同时宁德也是知名上市公司 **宁德时代（CATL）** 的总部所在地。
+
+(py312) imac@bogon function_call_mcp_cli % /opt/miniconda3/envs/py312/bin/python mode_function_call/run_function_call.py -q "帮我查一下北京、上海、宁德的位置和天气"
+[rag_backend] 就绪：10353 个向量，10353 条元数据
+[Function Call] provider=deepseek model=deepseek-chat
+
+============================================================
+Q1：帮我查一下北京、上海、宁德的位置和天气
+============================================================
+  → [tool] get_city_weather({'city': '北京'})
+    ↩ 【中国 北京市 北京】天气报告 坐标：39.91°N, 116.40°E  当前天气：阴天   温度：32.2°C   相对湿度：46%   风速：4.3 km/h  未来3天预报：   2026-07-16：小毛毛雨，33.2°C / 2...
+
+  → [tool] get_city_weather({'city': '上海'})
+    ↩ 【中国 上海市 上海】天气报告 坐标：31.22°N, 121.46°E  当前天气：局部多云   温度：39.0°C   相对湿度：38%   风速：10.6 km/h  未来3天预报：   2026-07-16：雷暴，39.0°C / ...
+
+  → [tool] get_city_weather({'city': '宁德'})
+    ↩ 【中国 福建省 宁德市】天气报告 坐标：26.66°N, 119.52°E  当前天气：晴天   温度：36.5°C   相对湿度：50%   风速：6.7 km/h  未来3天预报：   2026-07-16：中毛毛雨，36.7°C / ...
+
+  → [llm] 最终回答（15.1s）
+
+最终回答：
+以下是三个城市的详细位置与天气信息：
+
+---
+
+### 1️⃣ 北京 🇨🇳
+- **位置**：39.91°N, 116.40°E（北京市）
+- **当前天气**：🌥️ **阴天**，**32.2°C**，湿度 46%，风速 4.3 km/h
+- **未来3天预报**：
+  | 日期 | 天气 | 温度范围 |
+  |------|------|----------|
+  | 7月16日 | 🌦️ 小毛毛雨 | 25.8°C ~ 33.2°C |
+  | 7月17日 | ☁️ 阴天 | 25.5°C ~ 32.9°C |
+  | 7月18日 | 🌦️ 大毛毛雨 | 23.9°C ~ 30.7°C |
+
+---
+
+### 2️⃣ 上海 🇨🇳
+- **位置**：31.22°N, 121.46°E（上海市）
+- **当前天气**：⛅ **局部多云**，**39.0°C** 🔥，湿度 38%，风速 10.6 km/h
+- **未来3天预报**：
+  | 日期 | 天气 | 温度范围 |
+  |------|------|----------|
+  | 7月16日 | ⛈️ 雷暴 | 31.1°C ~ 39.0°C |
+  | 7月17日 | ⛈️ 雷暴 | 28.5°C ~ 39.4°C |
+  | 7月18日 | 🌧️ 雷暴伴小冰雹 | 29.0°C ~ 36.1°C |
+
+---
+
+### 3️⃣ 宁德 🇨🇳
+- **位置**：26.66°N, 119.52°E（福建省宁德市）
+- **当前天气**：☀️ **晴天**，**36.5°C** 🔥，湿度 50%，风速 6.7 km/h
+- **未来3天预报**：
+  | 日期 | 天气 | 温度范围 |
+  |------|------|----------|
+  | 7月16日 | 🌦️ 中毛毛雨 | 26.7°C ~ 36.7°C |
+  | 7月17日 | 🌦️ 小毛毛雨 | 26.7°C ~ 37.2°C |
+  | 7月18日 | 🌧️ 雷暴伴小冰雹 | 26.9°C ~ 33.7°C |
+
+---
+
+**小结**：今天三个城市都挺热的🔥，其中上海和宁德温度最高（39°C / 36.5°C），上海近期还有雷暴，出门请注意安全！
+
+(py312) imac@bogon function_call_mcp_cli % /opt/miniconda3/envs/py312/bin/python mode_mcp/run_mcp.py -q "帮我 查一下北京、上海、宁德的位置和天气"
+[MCP] provider=deepseek model=deepseek-chat
+
+正在连接 MCP Servers...
+
+[rag_backend] 就绪：10353 个向量，10353 条元数据
+RAG MCP Server 启动中（stdio 模式）...
+[07/16/26 13:31:46] INFO     Processing request of type ListToolsRequest                         server.py:733
+  ✓ [rag]  search_annual_report, list_companies
+Weather MCP Server 启动中（stdio 模式）...
+[07/16/26 13:31:47] INFO     Processing request of type ListToolsRequest                         server.py:733
+  ✓ [weather]  get_city_position, get_city_weather
+
+共 4 个工具就绪
+
+============================================================
+Q1：帮我查一下北京、上海、宁德的位置和天气
+============================================================
+  → [mcp] get_city_weather({'city': '北京'})
+[07/16/26 13:31:49] INFO     Processing request of type CallToolRequest                          server.py:733
+                    INFO     HTTP Request: GET                                                 _client.py:1025
+                             https://geocoding-api.open-meteo.com/v1/search?name=%E5%8C%97%E4%                
+                             BA%AC&count=10&language=zh&format=json "HTTP/1.1 200 OK"                         
+[07/16/26 13:31:50] INFO     HTTP Request: GET                                                 _client.py:1025
+                             https://geocoding-api.open-meteo.com/v1/search?name=%E5%8C%97%E4%                
+                             BA%AC%E5%B8%82&count=10&language=zh&format=json "HTTP/1.1 200 OK"                
+                    INFO     HTTP Request: GET                                                 _client.py:1025
+                             https://api.open-meteo.com/v1/forecast?latitude=39.9075&longitude                
+                             =116.39723&current=temperature_2m%2Crelative_humidity_2m%2Cwind_s                
+                             peed_10m%2Cweather_code&daily=temperature_2m_max%2Ctemperature_2m                
+                             _min%2Cprecipitation_sum%2Cweather_code&timezone=Asia%2FShanghai&                
+                             forecast_days=3 "HTTP/1.1 200 OK"                                                
+    ↩ [weather] 【中国 北京市 北京】天气报告 坐标：39.91°N, 116.40°E  当前天气：阴天   温度：32.2°C   相对湿度：46%   风速：4.3 km/h  未来3天预报：   2026-07-16：小毛毛雨，33.2°C / 2...
+
+  → [mcp] get_city_weather({'city': '上海'})
+                    INFO     Processing request of type CallToolRequest                          server.py:733
+[07/16/26 13:31:51] INFO     HTTP Request: GET                                                 _client.py:1025
+                             https://geocoding-api.open-meteo.com/v1/search?name=%E4%B8%8A%E6%                
+                             B5%B7&count=10&language=zh&format=json "HTTP/1.1 200 OK"                         
+[07/16/26 13:31:58] INFO     HTTP Request: GET                                                 _client.py:1025
+                             https://api.open-meteo.com/v1/forecast?latitude=31.22222&longitud                
+                             e=121.45806&current=temperature_2m%2Crelative_humidity_2m%2Cwind_                
+                             speed_10m%2Cweather_code&daily=temperature_2m_max%2Ctemperature_2                
+                             m_min%2Cprecipitation_sum%2Cweather_code&timezone=Asia%2FShanghai                
+                             &forecast_days=3 "HTTP/1.1 200 OK"                                               
+    ↩ [weather] 【中国 上海市 上海】天气报告 坐标：31.22°N, 121.46°E  当前天气：局部多云   温度：39.0°C   相对湿度：38%   风速：10.6 km/h  未来3天预报：   2026-07-16：雷暴，39.0°C / ...
+
+  → [mcp] get_city_weather({'city': '宁德'})
+                    INFO     Processing request of type CallToolRequest                          server.py:733
+[07/16/26 13:31:59] INFO     HTTP Request: GET                                                 _client.py:1025
+                             https://geocoding-api.open-meteo.com/v1/search?name=%E5%AE%81%E5%                
+                             BE%B7&count=10&language=zh&format=json "HTTP/1.1 200 OK"                         
+                    INFO     HTTP Request: GET                                                 _client.py:1025
+                             https://geocoding-api.open-meteo.com/v1/search?name=%E5%AE%81%E5%                
+                             BE%B7%E5%B8%82&count=10&language=zh&format=json "HTTP/1.1 200 OK"                
+[07/16/26 13:32:00] INFO     HTTP Request: GET                                                 _client.py:1025
+                             https://api.open-meteo.com/v1/forecast?latitude=26.66167&longitud                
+                             e=119.52278&current=temperature_2m%2Crelative_humidity_2m%2Cwind_                
+                             speed_10m%2Cweather_code&daily=temperature_2m_max%2Ctemperature_2                
+                             m_min%2Cprecipitation_sum%2Cweather_code&timezone=Asia%2FShanghai                
+                             &forecast_days=3 "HTTP/1.1 200 OK"                                               
+    ↩ [weather] 【中国 福建省 宁德市】天气报告 坐标：26.66°N, 119.52°E  当前天气：晴天   温度：36.5°C   相对湿度：50%   风速：6.7 km/h  未来3天预报：   2026-07-16：中毛毛雨，36.7°C / ...
+
+  → [llm] 最终回答（18.8s）
+
+最终回答：
+好的，以下是 **北京、上海、宁德** 三地的位置与天气信息汇总：
+
+---
+
+## 📍 位置信息
+
+| 城市 | 所属省份/直辖市 | 经纬度 |
+|:----:|:--------------:|:------:|
+| 🏙️ **北京** | 北京市（直辖市） | 39.91°N, 116.40°E |
+| 🏙️ **上海** | 上海市（直辖市） | 31.22°N, 121.46°E |
+| 🏙️ **宁德** | 福建省 | 26.66°N, 119.52°E |
+
+---
+
+## 🌤️ 当前天气
+
+| 城市 | 天气状况 | 温度 | 湿度 | 风速 |
+|:---:|:--------:|:---:|:---:|:---:|
+| 🟤 **北京** | ☁️ 阴天 | **32.2°C** | 46% | 4.3 km/h |
+| 🔴 **上海** | ⛅ 局部多云 | **39.0°C** | 38% | 10.6 km/h |
+| 🟢 **宁德** | ☀️ 晴天 | **36.5°C** | 50% | 6.7 km/h |
+
+---
+
+## 📅 未来3天预报
+
+### 北京
+| 日期 | 天气 | 温度范围 | 降水量 |
+|:---:|:----:|:--------:|:-----:|
+| 7/16 | 🌦️ 小毛毛雨 | 25.8~33.2°C | 0.1 mm |
+| 7/17 | ☁️ 阴天 | 25.5~32.9°C | 0.0 mm |
+| 7/18 | 🌧️ 大毛毛雨 | 23.9~30.7°C | 3.8 mm |
+
+### 上海
+| 日期 | 天气 | 温度范围 | 降水量 |
+|:---:|:----:|:--------:|:-----:|
+| 7/16 | ⛈️ 雷暴 | 31.1~39.0°C | 3.7 mm |
+| 7/17 | ⛈️ 雷暴 | 28.5~39.4°C | 5.9 mm |
+| 7/18 | 🧊 雷暴伴小冰雹 | 29.0~36.1°C | 3.4 mm |
+
+### 宁德
+| 日期 | 天气 | 温度范围 | 降水量 |
+|:---:|:----:|:--------:|:-----:|
+| 7/16 | 🌦️ 中毛毛雨 | 26.7~36.7°C | 1.1 mm |
+| 7/17 | 🌦️ 小毛毛雨 | 26.7~37.2°C | 0.4 mm |
+| 7/18 | 🧊 雷暴伴小冰雹 | 26.9~33.7°C | 8.9 mm |
+
+---
+
+**小结：** 🔥 上海最热（39°C）且有雷暴，出行注意防暑防雷；北京相对凉快些但周末有小雨；宁德晴天炎热，周末也有雷暴趋势。
+
+(py312) imac@bogon function_call_mcp_cli % /opt/miniconda3/envs/py312/bin/python mode_cli/run_cli.py --mode named -q "帮我查一下北京、上海、宁德的位置和天气"
+
+[CLI/named] provider=deepseek model=deepseek-chat
+
+============================================================
+Q1：帮我查一下北京、上海、宁德的位置和天气
+============================================================
+  → [named] run_cli({'command': 'get_city_position', 'args': {'city': '北京'}})
+    ↩ 【中国 北京市 北京】位置信息 坐标：39.91°N, 116.40°E 
+
+  → [named] run_cli({'command': 'get_city_weather', 'args': {'city': '北京'}})
+    ↩ 【中国 北京市 北京】天气报告 坐标：39.91°N, 116.40°E  当前天气：阴天   温度：32.2°C   相对湿度：46%   风速：4.3 km/h  未来3天预报：   2026-07-16：小毛毛雨，33.2°C / 2...
+
+  → [named] run_cli({'command': 'get_city_position', 'args': {'city': '上海'}})
+    ↩ [run_cli] 命令失败（code=1）：12/site-packages/httpx/_transports/default.py", line 249, in handle_request     with map_httpcore...
+
+  → [named] run_cli({'command': 'get_city_weather', 'args': {'city': '上海'}})
+    ↩ 【中国 上海市 上海】天气报告 坐标：31.22°N, 121.46°E  当前天气：局部多云   温度：39.0°C   相对湿度：38%   风速：10.6 km/h  未来3天预报：   2026-07-16：雷暴，39.0°C / ...
+
+  → [named] run_cli({'command': 'get_city_position', 'args': {'city': '宁德'}})
+    ↩ 【中国 福建省 宁德市】位置信息 坐标：26.66°N, 119.52°E 
+
+  → [named] run_cli({'command': 'get_city_weather', 'args': {'city': '宁德'}})
+    ↩ 【中国 福建省 宁德市】天气报告 坐标：26.66°N, 119.52°E  当前天气：晴天   温度：36.5°C   相对湿度：50%   风速：6.7 km/h  未来3天预报：   2026-07-16：中毛毛雨，36.7°C / ...
+
+  → [llm] 最终回答（39.4s）
+
+最终回答：
+上海的位置查询出现了超时，以下是已获取到的信息汇总：
+
+---
+
+## 📍 位置信息
+
+| 城市 | 位置 | 坐标 |
+|:---:|:---:|:---:|
+| **北京** | 中国 北京市 | 39.91°N, 116.40°E |
+| **上海** | *位置查询超时，未能获取* | — |
+| **宁德** | 中国 福建省 宁德市 | 26.66°N, 119.52°E |
+
+---
+
+## 🌤️ 天气信息
+
+### 北京
+- **当前天气**：阴天，**32.2°C**，相对湿度 46%，风速 4.3 km/h
+- **未来3天预报**：
+  - 7/16：小毛毛雨，25.8~33.2°C
+  - 7/17：阴天，25.5~32.9°C
+  - 7/18：大毛毛雨，23.9~30.7°C
+
+### 上海
+- **当前天气**：局部多云，**39.0°C**，相对湿度 38%，风速 10.6 km/h
+- **未来3天预报**（都有雷暴）：
+  - 7/16：雷暴，31.1~39.0°C
+  - 7/17：雷暴，28.5~39.4°C
+  - 7/18：雷暴伴小冰雹，29.0~36.1°C
+
+### 宁德
+- **当前天气**：晴天，**36.5°C**，相对湿度 50%，风速 6.7 km/h
+- **未来3天预报**：
+  - 7/16：中毛毛雨，26.7~36.7°C
+  - 7/17：小毛毛雨，26.7~37.2°C
+  - 7/18：雷暴伴小冰雹，26.9~33.7°C
+
+---
+
+**总结**：今天北京相对凉爽（32°C阴天），上海最热达39°C且有雷暴，宁德晴天36.5°C但后续也有雨。出门记得带伞哦！☔
+
+(py312) imac@bogon function_call_mcp_cli % 
