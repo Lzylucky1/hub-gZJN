@@ -42,7 +42,7 @@ DASHSCOPE_URL = "https://dashscope.aliyuncs.com/compatible-mode/v1"
 
 
 def get_client() -> OpenAI:
-    DASHSCOPE_API_KEY = "sk-ws-H.EMLXPMM.NIZr.MEQCIFosoikAzswVhCjpaSIAyWmtjvBk1Fu7aJc9-1ssG3EcAiBrD73U5Ia0exajMlN7422spDyZWCDG4jZxw2g1j5pyMg"
+    DASHSCOPE_API_KEY = "DASHSCOPE_API_KEY"
     return OpenAI(api_key=DASHSCOPE_API_KEY, base_url=DASHSCOPE_URL)
 
 
