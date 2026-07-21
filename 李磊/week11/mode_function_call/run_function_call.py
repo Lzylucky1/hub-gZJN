@@ -26,12 +26,12 @@ from src.weather_backend import geocode,get_weather_by_coords
 
 PROVIDERS = {
     "deepseek": {
-        "api_key": "sk-73b6954f480441a3a3abfd0098f10bb2",
+        "api_key": "sk-xxx",
         "base_url": "https://api.deepseek.com",
         "model": "deepseek-chat",
     },
     "dashscope": {
-        "api_key": "sk-ws-H.EMYMDII.Cfkh.MEUCIQCtc7HjVbmIbwBXIyHBY-SVhKw0qnLiL5GH7PXtAlB44wIgX4sLOM0wc7AnfYhxZx10yrh053Uzy-vIt5GcHDgTmYE",
+        "api_key": "sk-xxx",
         "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
         "model": "qwen-plus",
     },
