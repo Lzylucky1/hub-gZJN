@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ReAct Financial Agent - 多轮对话</title>
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; margin: 0; padding: 20px; background: #f5f5f5; }
+    .container { max-width: 800px; margin: 0 auto; background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+    h1 { margin-top: 0; font-size: 22px; }
+    .mode-select { margin-bottom: 15px; }
+    #sessionId { font-family: monospace; background: #f0f0f0; padding: 4px 8px; border-radius: 4px; }
+    #chat { border: 1px solid #ddd; border-radius: 6px; height: 400px; overflow-y: auto; padding: 10px; margin-bottom: 15px; background: #fafafa; }
+    .msg { margin: 8px 0; padding: 8px 12px; border-radius: 6px; max-width: 80%; word-wrap: break-word; }
+    .user { background: #d1e7ff; margin-left: auto; text-align: right; }
+    .agent { background: #e8f5e9; }
+    .step { font-size: 12px; color: #666; margin-left: 20px; }
+    .input-group { display: flex; gap: 10px; }
+    #question { flex: 1; padding: 10px; border: 1px solid #ccc; border-radius: 6px; }
+    button { padding: 10px 20px; border: none; border-radius: 6px; background: #007bff; color: #fff; cursor: pointer; }
+    button:disabled { background: #aaa; }
+    #status { margin-top: 10px; color: #666; font-size: 14px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>ReAct Financial Agent · 多轮对话演示</h1>
+    <div class="mode-select">
+      模式：
+      <select id="mode">
+        <option value="manual">手写 Prompt 解析</option>
+        <option value="fc">Function Calling</option>
+      </select>
+      会话 ID：<span id="sessionId"></span>
+      <button onclick="newSession()">新会话</button>
+    </div>
+    <div id="chat"></div>
+    <div class="input-group">
+      <input id="question" type="text" placeholder="输入问题，例如：茅台2023年毛利率是多少？" onkeydown="if(event.key==='Enter') send()">
+      <button id="sendBtn" onclick="send()">发送</button>
+    </div>
+    <div id="status"></div>
+  </div>
+
+  <script>
+    function genSessionId() {
+      return 'sess_' + Math.random().toString(36).substr(2, 8);
+    }
+    let sessionId = genSessionId();
+    document.getElementById('sessionId').textContent = sessionId;
+
+    function newSession() {
+      sessionId = genSessionId();
+      document.getElementById('sessionId').textContent = sessionId;
+      document.getElementById('chat').innerHTML = '';
+      setStatus('已开启新会话');
+    }
+
+    function appendMsg(role, text, steps) {
+      const chat = document.getElementById('chat');
+      const div = document.createElement('div');
+      div.className = 'msg ' + role;
+      div.textContent = (role === 'user' ? '你：' : 'Agent：') + text;
+      chat.appendChild(div);
+      if (steps && steps.length) {
+        steps.forEach(s => {
+          const stepDiv = document.createElement('div');
+          stepDiv.className = 'step';
+          stepDiv.textContent = `[Step ${s.step}] ${s.action}(${JSON.stringify(s.action_input)})`;
+          chat.appendChild(stepDiv);
+        });
+      }
+      chat.scrollTop = chat.scrollHeight;
+    }
+
+    function setStatus(text) {
+      document.getElementById('status').textContent = text;
+    }
+
+    async function send() {
+      const input = document.getElementById('question');
+      const question = input.value.trim();
+      if (!question) return;
+      input.value = '';
+      appendMsg('user', question);
+
+      const mode = document.getElementById('mode').value;
+      const sendBtn = document.getElementById('sendBtn');
+      sendBtn.disabled = true;
+      setStatus('正在思考...');
+
+      const response = await fetch(`/chat/${mode}/${sessionId}`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ question: question, max_steps: 10 })
+      });
+
+      const reader = response.body.getReader();
+      const decoder = new TextDecoder();
+      let buffer = '';
+      let currentSteps = [];
+
+      while (true) {
+        const { done, value } = await reader.read();
+        if (done) break;
+        buffer += decoder.decode(value, { stream: true });
+        const lines = buffer.split('\n');
+        buffer = lines.pop();
+        for (const line of lines) {
+          if (!line.startsWith('data: ')) continue;
+          const data = line.slice(6);
+          if (!data) continue;
+          try {
+            const obj = JSON.parse(data);
+            if (obj.type === 'start') {
+              currentSteps = [];
+            } else if (obj.type === 'action') {
+              currentSteps.push(obj);
+            } else if (obj.type === 'final') {
+              appendMsg('agent', obj.answer, currentSteps);
+              currentSteps = [];
+            } else if (obj.type === 'done') {
+              setStatus('完成');
+              sendBtn.disabled = false;
+            }
+          } catch (e) {
+            console.error('parse error', e, data);
+          }
+        }
+      }
+    }
+  </script>
+</body>
+</html>
