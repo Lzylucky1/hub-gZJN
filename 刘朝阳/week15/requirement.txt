@@ -1,0 +1,7 @@
+# ── 并行 Subagent 调研系统运行时依赖 ──────────────────────────────
+# LLM 走 OpenAI 兼容接口（Bailian/DashScope GLM-5.2）
+openai>=1.40.0
+
+# 联网搜索：默认用 DuckDuckGo Instant Answer API + Wikipedia API（标准库 urllib，零额外依赖）
+# 如果有 TAVILY_API_KEY，自动升级到 Tavily（更丰富的实时搜索结果）
+# 无其他依赖：ReAct 引擎 + 并行编排均为手写
